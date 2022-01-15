@@ -1,6 +1,7 @@
 {
     "1001": {
         "machineCount": 4,
+        "id": "1001",
         "province": "广东",
         "arcadeName": "环游嘉年华天河店",
         "mall": "天河城",
@@ -8,6 +9,7 @@
     },
     "1002": {
         "machineCount": 3,
+        "id": "1002",
         "province": "广东",
         "arcadeName": "环游嘉年华番禺易发店",
         "mall": "环游嘉年华番禺易发店",
@@ -15,6 +17,7 @@
     },
     "1005": {
         "machineCount": 1,
+        "id": "1005",
         "province": "陕西",
         "arcadeName": "哆啦星球",
         "mall": "哆啦星球",
@@ -22,6 +25,7 @@
     },
     "1006": {
         "machineCount": 3,
+        "id": "1006",
         "province": "上海",
         "arcadeName": "风云再起上海店",
         "mall": "风云再起上海店",
@@ -29,6 +33,7 @@
     },
     "1008": {
         "machineCount": 2,
+        "id": "1008",
         "province": "广东",
         "arcadeName": "城市英雄东莞长安店",
         "mall": "城市英雄东莞长安店",
@@ -36,6 +41,7 @@
     },
     "1009": {
         "machineCount": 1,
+        "id": "1009",
         "province": "江苏",
         "arcadeName": "风云再起南京新街口天丰大厦店",
         "mall": "风云再起南京新街口天丰大厦店",
@@ -43,6 +49,7 @@
     },
     "1010": {
         "machineCount": 1,
+        "id": "1010",
         "province": "湖南",
         "arcadeName": "城市英雄衡阳解放路店",
         "mall": "城市英雄衡阳解放路店",
@@ -50,6 +57,7 @@
     },
     "1011": {
         "machineCount": 2,
+        "id": "1011",
         "province": "北京",
         "arcadeName": "北京乐酷电玩",
         "mall": "北京乐酷电玩",
@@ -57,6 +65,7 @@
     },
     "1012": {
         "machineCount": 1,
+        "id": "1012",
         "province": "广东",
         "arcadeName": "深圳KKMALL星际传奇",
         "mall": "KKMALL星际传奇",
@@ -64,6 +73,7 @@
     },
     "1013": {
         "machineCount": 1,
+        "id": "1013",
         "province": "广东",
         "arcadeName": "深圳反斗乐园中心城店",
         "mall": "反斗乐园中心城店",
@@ -71,6 +81,7 @@
     },
     "1014": {
         "machineCount": 1,
+        "id": "1014",
         "province": "河南",
         "arcadeName": "胖东来动漫乐园",
         "mall": "胖东来动漫乐园",
@@ -78,6 +89,7 @@
     },
     "1017": {
         "machineCount": 1,
+        "id": "1017",
         "province": "广东",
         "arcadeName": "大玩家广州白云万达店",
         "mall": "大玩家白云万达店",
@@ -85,6 +97,7 @@
     },
     "1018": {
         "machineCount": 3,
+        "id": "1018",
         "province": "北京",
         "arcadeName": "风云再起北京西单店",
         "mall": "风云再起北京店",
@@ -92,6 +105,7 @@
     },
     "1019": {
         "machineCount": 3,
+        "id": "1019",
         "province": "天津",
         "arcadeName": "风云再起天津和平路店",
         "mall": "风云再起天津和平路店",
@@ -99,6 +113,7 @@
     },
     "1022": {
         "machineCount": 1,
+        "id": "1022",
         "province": "北京",
         "arcadeName": "大玩家北京通州万达店",
         "mall": "大玩家北京通州万达店",
@@ -106,6 +121,7 @@
     },
     "1023": {
         "machineCount": 1,
+        "id": "1023",
         "province": "福建",
         "arcadeName": "大玩家泉州浦西万达店",
         "mall": "大玩家泉州浦西万达店",
@@ -113,6 +129,7 @@
     },
     "1024": {
         "machineCount": 1,
+        "id": "1024",
         "province": "辽宁",
         "arcadeName": "大玩家沈阳太原街万达店",
         "mall": "大玩家沈阳太原街万达店",
@@ -120,6 +137,7 @@
     },
     "1025": {
         "machineCount": 1,
+        "id": "1025",
         "province": "上海",
         "arcadeName": "大玩家上海宝山万达店",
         "mall": "大玩家上海宝山万达店",
@@ -127,6 +145,7 @@
     },
     "1027": {
         "machineCount": 2,
+        "id": "1027",
         "province": "安徽",
         "arcadeName": "风云再起淮河路店",
         "mall": "风云再起电玩城",
@@ -134,6 +153,7 @@
     },
     "1028": {
         "machineCount": 1,
+        "id": "1028",
         "province": "黑龙江",
         "arcadeName": "大玩家哈尔滨哈西万达店",
         "mall": "大玩家哈尔滨哈西万达店",
@@ -141,6 +161,7 @@
     },
     "1029": {
         "machineCount": 1,
+        "id": "1029",
         "province": "江苏",
         "arcadeName": "大玩家南京江宁万达店",
         "mall": "大玩家南京江宁万达店",
@@ -148,6 +169,7 @@
     },
     "1030": {
         "machineCount": 1,
+        "id": "1030",
         "province": "安徽",
         "arcadeName": "大玩家合肥包河万达店",
         "mall": "大玩家合肥包河万达店",
@@ -155,6 +177,7 @@
     },
     "1031": {
         "machineCount": 1,
+        "id": "1031",
         "province": "湖北",
         "arcadeName": "playone武汉菱角湖万达店",
         "mall": "playone武汉菱角湖万达店",
@@ -162,6 +185,7 @@
     },
     "1032": {
         "machineCount": 1,
+        "id": "1032",
         "province": "江西",
         "arcadeName": "大玩家南昌红谷滩万达店",
         "mall": "大玩家南昌红谷滩万达店",
@@ -169,6 +193,7 @@
     },
     "1034": {
         "machineCount": 1,
+        "id": "1034",
         "province": "山东",
         "arcadeName": "大玩家青岛城阳万达店",
         "mall": "大玩家青岛城阳万达店",
@@ -176,6 +201,7 @@
     },
     "1040": {
         "machineCount": 1,
+        "id": "1040",
         "province": "江苏",
         "arcadeName": "天空之城南通圆融店",
         "mall": "天空之城南通圆融店",
@@ -183,6 +209,7 @@
     },
     "1052": {
         "machineCount": 1,
+        "id": "1052",
         "province": "辽宁",
         "arcadeName": "金色年华电玩沙龙中街店",
         "mall": "金通娱乐沈阳新玛特店",
@@ -190,6 +217,7 @@
     },
     "1055": {
         "machineCount": 1,
+        "id": "1055",
         "province": "陕西",
         "arcadeName": "风云再起西安骡马市民生百货店",
         "mall": "风云再起西安骡马市民生百货店",
@@ -197,6 +225,7 @@
     },
     "1059": {
         "machineCount": 1,
+        "id": "1059",
         "province": "辽宁",
         "arcadeName": "汤姆熊大连罗斯福店",
         "mall": "汤姆熊大连罗斯福店",
@@ -204,6 +233,7 @@
     },
     "1063": {
         "machineCount": 1,
+        "id": "1063",
         "province": "广东",
         "arcadeName": "环游嘉年华金沙洲永旺店",
         "mall": "环游嘉年华金沙洲永旺店",
@@ -211,6 +241,7 @@
     },
     "1065": {
         "machineCount": 1,
+        "id": "1065",
         "province": "福建",
         "arcadeName": "大玩家福州仓山万达店",
         "mall": "大玩家福州仓山万达店",
@@ -218,6 +249,7 @@
     },
     "1070": {
         "machineCount": 1,
+        "id": "1070",
         "province": "湖北",
         "arcadeName": "大玩家荆门万达店",
         "mall": "大玩家荆门万达店",
@@ -225,6 +257,7 @@
     },
     "1071": {
         "machineCount": 3,
+        "id": "1071",
         "province": "广东",
         "arcadeName": "环游嘉年华江门店",
         "mall": "环游嘉年华江门店",
@@ -232,6 +265,7 @@
     },
     "1072": {
         "machineCount": 1,
+        "id": "1072",
         "province": "海南",
         "arcadeName": "三亚金润阳光南梦园",
         "mall": "三亚金润阳光南梦园",
@@ -239,6 +273,7 @@
     },
     "1073": {
         "machineCount": 5,
+        "id": "1073",
         "province": "广东",
         "arcadeName": "环游嘉年华东莞民盈国贸店",
         "mall": "环游嘉年华东莞民盈国贸店",
@@ -246,6 +281,7 @@
     },
     "1074": {
         "machineCount": 1,
+        "id": "1074",
         "province": "山西",
         "arcadeName": "风云再起太原老鼠街店",
         "mall": "风云再起太原老鼠街店",
@@ -253,6 +289,7 @@
     },
     "1075": {
         "machineCount": 1,
+        "id": "1075",
         "province": "湖南",
         "arcadeName": "城市英雄星沙吾悦店",
         "mall": "城市英雄星沙吾悦店",
@@ -260,6 +297,7 @@
     },
     "1076": {
         "machineCount": 2,
+        "id": "1076",
         "province": "广东",
         "arcadeName": "星河奇迹肇庆星湖店",
         "mall": "星河奇迹肇庆星湖店",
@@ -267,6 +305,7 @@
     },
     "1077": {
         "machineCount": 1,
+        "id": "1077",
         "province": "湖南",
         "arcadeName": "城市英雄长沙梅溪湖步步高店",
         "mall": "城市英雄长沙梅溪湖步步高店",
@@ -274,6 +313,7 @@
     },
     "1079": {
         "machineCount": 3,
+        "id": "1079",
         "province": "河南",
         "arcadeName": "风云再起郑州大上海城店",
         "mall": "风云再起郑州大上海城店",
@@ -281,6 +321,7 @@
     },
     "1080": {
         "machineCount": 2,
+        "id": "1080",
         "province": "江苏",
         "arcadeName": "风云再起正洪大厦店",
         "mall": "风云再起正洪大夏店",
@@ -288,6 +329,7 @@
     },
     "1081": {
         "machineCount": 1,
+        "id": "1081",
         "province": "湖南",
         "arcadeName": "城市英雄步步高店",
         "mall": "城市英雄步步高店",
@@ -295,6 +337,7 @@
     },
     "1085": {
         "machineCount": 1,
+        "id": "1085",
         "province": "江苏",
         "arcadeName": "风云再起无锡苏宁广场店",
         "mall": "风云再起无锡苏宁广场店",
@@ -302,6 +345,7 @@
     },
     "1086": {
         "machineCount": 1,
+        "id": "1086",
         "province": "陕西",
         "arcadeName": "哆啦星球小寨店",
         "mall": "哆啦星球小寨店",
@@ -309,6 +353,7 @@
     },
     "1087": {
         "machineCount": 1,
+        "id": "1087",
         "province": "广东",
         "arcadeName": "星舰梦航荔湾广百店",
         "mall": "星舰梦航荔湾广百店",
@@ -316,6 +361,7 @@
     },
     "1088": {
         "machineCount": 2,
+        "id": "1088",
         "province": "湖南",
         "arcadeName": "城市英雄长沙五一广场店",
         "mall": "城市英雄长沙五一广场店",
@@ -323,6 +369,7 @@
     },
     "1089": {
         "machineCount": 2,
+        "id": "1089",
         "province": "浙江",
         "arcadeName": "神采飞扬杭州湖滨银泰店",
         "mall": "神采飞扬杭州湖滨银泰店",
@@ -330,6 +377,7 @@
     },
     "1093": {
         "machineCount": 1,
+        "id": "1093",
         "province": "山东",
         "arcadeName": "威龙传奇济南世茂广场店",
         "mall": "威龙传奇济南世茂广场店",
@@ -337,6 +385,7 @@
     },
     "1095": {
         "machineCount": 1,
+        "id": "1095",
         "province": "青海",
         "arcadeName": "风云再起西宁店",
         "mall": "风云再起西宁店",
@@ -344,6 +393,7 @@
     },
     "1098": {
         "machineCount": 4,
+        "id": "1098",
         "province": "上海",
         "arcadeName": "上海JOYPOLIS世嘉都市乐园",
         "mall": "上海JOYPOLIS世嘉都市乐园",
@@ -351,6 +401,7 @@
     },
     "1107": {
         "machineCount": 2,
+        "id": "1107",
         "province": "江苏",
         "arcadeName": "南京风云再起常发广场店",
         "mall": "南京风云再起常发广场店",
@@ -358,6 +409,7 @@
     },
     "1110": {
         "machineCount": 2,
+        "id": "1110",
         "province": "北京",
         "arcadeName": "玩家会",
         "mall": "玩家会",
@@ -365,6 +417,7 @@
     },
     "1112": {
         "machineCount": 1,
+        "id": "1112",
         "province": "广东",
         "arcadeName": "环游嘉年华奥园店",
         "mall": "环游嘉年华奥园店",
@@ -372,6 +425,7 @@
     },
     "1113": {
         "machineCount": 1,
+        "id": "1113",
         "province": "广东",
         "arcadeName": "珠海富华里反斗乐园",
         "mall": "珠海富华里反斗乐园",
@@ -379,6 +433,7 @@
     },
     "1115": {
         "machineCount": 1,
+        "id": "1115",
         "province": "江苏",
         "arcadeName": "风云再起淮安店",
         "mall": "风云再起淮安店",
@@ -386,6 +441,7 @@
     },
     "1124": {
         "machineCount": 1,
+        "id": "1124",
         "province": "黑龙江",
         "arcadeName": "哈尔滨大玩家香坊万达店",
         "mall": "哈尔滨大玩家香坊万达店",
@@ -393,6 +449,7 @@
     },
     "1125": {
         "machineCount": 1,
+        "id": "1125",
         "province": "广西",
         "arcadeName": "风云再起钦州店",
         "mall": "风云再起钦州店",
@@ -400,6 +457,7 @@
     },
     "1128": {
         "machineCount": 2,
+        "id": "1128",
         "province": "浙江",
         "arcadeName": "风云再起杭州店",
         "mall": "风云再起杭州店",
@@ -407,6 +465,7 @@
     },
     "1131": {
         "machineCount": 1,
+        "id": "1131",
         "province": "广东",
         "arcadeName": "环游嘉年华佛山南海永旺店",
         "mall": "环游嘉年华佛山南海永旺店",
@@ -414,6 +473,7 @@
     },
     "1132": {
         "machineCount": 1,
+        "id": "1132",
         "province": "湖北",
         "arcadeName": "大玩家武汉经开万达店",
         "mall": "大玩家武汉经开万达店",
@@ -421,6 +481,7 @@
     },
     "1135": {
         "machineCount": 2,
+        "id": "1135",
         "province": "云南",
         "arcadeName": "风云再起昆明金鹰店",
         "mall": "风云再起昆明金鹰店",
@@ -428,6 +489,7 @@
     },
     "1146": {
         "machineCount": 2,
+        "id": "1146",
         "province": "湖南",
         "arcadeName": "城市英雄司门口店",
         "mall": "城市英雄司门口店",
@@ -435,6 +497,7 @@
     },
     "1150": {
         "machineCount": 2,
+        "id": "1150",
         "province": "江苏",
         "arcadeName": "风云再起镇江苏宁广场店",
         "mall": "风云再起镇江苏宁广场店",
@@ -442,6 +505,7 @@
     },
     "1151": {
         "machineCount": 2,
+        "id": "1151",
         "province": "天津",
         "arcadeName": "风云再起天津爱琴海店",
         "mall": "风云再起天津爱琴海店",
@@ -449,6 +513,7 @@
     },
     "1152": {
         "machineCount": 1,
+        "id": "1152",
         "province": "河南",
         "arcadeName": "大玩家郑州二七万达店",
         "mall": "大玩家郑州二七万达店",
@@ -456,6 +521,7 @@
     },
     "1155": {
         "machineCount": 1,
+        "id": "1155",
         "province": "江苏",
         "arcadeName": "城市英雄常州天宁吾悦广场店",
         "mall": "城市英雄常州天宁吾悦广场店",
@@ -463,6 +529,7 @@
     },
     "1157": {
         "machineCount": 1,
+        "id": "1157",
         "province": "辽宁",
         "arcadeName": "大玩家沈阳北一路万达店",
         "mall": "大玩家沈阳北一路万达店",
@@ -470,6 +537,7 @@
     },
     "1163": {
         "machineCount": 1,
+        "id": "1163",
         "province": "宁夏",
         "arcadeName": "银川金凤万达大玩家",
         "mall": "银川金凤万达大玩家",
@@ -477,6 +545,7 @@
     },
     "1164": {
         "machineCount": 2,
+        "id": "1164",
         "province": "江苏",
         "arcadeName": "风云再起苏州观前街店",
         "mall": "风云再起苏州美京广场店",
@@ -484,6 +553,7 @@
     },
     "1165": {
         "machineCount": 2,
+        "id": "1165",
         "province": "江苏",
         "arcadeName": "风云再起南京湖南路店",
         "mall": "风云再起南京湖南路店",
@@ -491,6 +561,7 @@
     },
     "1167": {
         "machineCount": 1,
+        "id": "1167",
         "province": "天津",
         "arcadeName": "城市英雄天津津南吾悦广场店",
         "mall": "城市英雄天津津南吾悦广场店",
@@ -498,6 +569,7 @@
     },
     "1168": {
         "machineCount": 1,
+        "id": "1168",
         "province": "河北",
         "arcadeName": "大玩家秦皇岛万达店",
         "mall": "大玩家秦皇岛万达店",
@@ -505,6 +577,7 @@
     },
     "1169": {
         "machineCount": 1,
+        "id": "1169",
         "province": "北京",
         "arcadeName": "大玩家石景山万达店",
         "mall": "大玩家石景山万达店",
@@ -512,6 +585,7 @@
     },
     "1173": {
         "machineCount": 1,
+        "id": "1173",
         "province": "广东",
         "arcadeName": "星际传奇珠海海韵城店",
         "mall": "星际传奇珠海海韵城店",
@@ -519,6 +593,7 @@
     },
     "1174": {
         "machineCount": 1,
+        "id": "1174",
         "province": "广东",
         "arcadeName": "反斗乐园华强北九方分店",
         "mall": "反斗乐园华强北九方分店",
@@ -526,6 +601,7 @@
     },
     "1177": {
         "machineCount": 1,
+        "id": "1177",
         "province": "江苏",
         "arcadeName": "南京茂业天空之城",
         "mall": "南京茂业天空之城",
@@ -533,6 +609,7 @@
     },
     "1179": {
         "machineCount": 1,
+        "id": "1179",
         "province": "广东",
         "arcadeName": "深圳星际传奇上梅林卓悦汇店",
         "mall": "深圳星际传奇上梅林卓悦汇店",
@@ -540,6 +617,7 @@
     },
     "1180": {
         "machineCount": 1,
+        "id": "1180",
         "province": "广东",
         "arcadeName": "玩家英雄珠海家和城广场店",
         "mall": "玩家英雄珠海家和城广场店",
@@ -547,6 +625,7 @@
     },
     "1181": {
         "machineCount": 1,
+        "id": "1181",
         "province": "浙江",
         "arcadeName": "第一回合动漫游戏乐园",
         "mall": "第一回合动漫游戏乐园",
@@ -554,6 +633,7 @@
     },
     "1182": {
         "machineCount": 1,
+        "id": "1182",
         "province": "江西",
         "arcadeName": "城市英雄赣州店",
         "mall": "城市英雄赣州店",
@@ -561,6 +641,7 @@
     },
     "1183": {
         "machineCount": 1,
+        "id": "1183",
         "province": "贵州",
         "arcadeName": "欢乐工坊电玩城",
         "mall": "欢乐工坊电玩城",
@@ -568,6 +649,7 @@
     },
     "1184": {
         "machineCount": 2,
+        "id": "1184",
         "province": "四川",
         "arcadeName": "成都汤姆熊财富中心店",
         "mall": "成都汤姆熊财富中心店",
@@ -575,6 +657,7 @@
     },
     "1185": {
         "machineCount": 1,
+        "id": "1185",
         "province": "广东",
         "arcadeName": "51区动漫游乐广州白云店",
         "mall": "51区动漫游乐广州白云店",
@@ -582,6 +665,7 @@
     },
     "1186": {
         "machineCount": 1,
+        "id": "1186",
         "province": "湖南",
         "arcadeName": "长沙市芙蓉区偶予电子游艺厅",
         "mall": "长沙市芙蓉区偶予电子游艺厅",
@@ -589,6 +673,7 @@
     },
     "1187": {
         "machineCount": 6,
+        "id": "1187",
         "province": "上海",
         "arcadeName": "上海烈火游戏机娱乐有限公司",
         "mall": "上海烈火游戏机娱乐有限公司",
@@ -596,6 +681,7 @@
     },
     "1188": {
         "machineCount": 1,
+        "id": "1188",
         "province": "福建",
         "arcadeName": "福州东二环星际传奇",
         "mall": "福州东二环星际传奇",
@@ -603,6 +689,7 @@
     },
     "1189": {
         "machineCount": 1,
+        "id": "1189",
         "province": "陕西",
         "arcadeName": "汤姆熊欢乐世界西安骡马市店",
         "mall": "汤姆熊欢乐世界西安骡马市店",
@@ -610,6 +697,7 @@
     },
     "1192": {
         "machineCount": 1,
+        "id": "1192",
         "province": "天津",
         "arcadeName": "51区动漫游乐天津西青店",
         "mall": "51区动漫游乐天津西青店",
@@ -617,6 +705,7 @@
     },
     "1193": {
         "machineCount": 2,
+        "id": "1193",
         "province": "湖南",
         "arcadeName": "风云再起长沙黄兴南路店",
         "mall": "风云再起长沙黄兴南路店",
@@ -624,6 +713,7 @@
     },
     "1195": {
         "machineCount": 2,
+        "id": "1195",
         "province": "上海",
         "arcadeName": "风云再起上海长风大悦城店",
         "mall": "风云再起上海长风大悦城店",
@@ -631,6 +721,7 @@
     },
     "1196": {
         "machineCount": 1,
+        "id": "1196",
         "province": "山东",
         "arcadeName": "神采飞扬青岛伟东乐客城店",
         "mall": "神采飞扬青岛伟东乐客城店",
@@ -638,6 +729,7 @@
     },
     "1197": {
         "machineCount": 2,
+        "id": "1197",
         "province": "辽宁",
         "arcadeName": "风云再起辽宁沈阳恒隆广场店",
         "mall": "风云再起辽宁沈阳恒隆广场店",
@@ -645,6 +737,7 @@
     },
     "1198": {
         "machineCount": 1,
+        "id": "1198",
         "province": "河北",
         "arcadeName": "GOOGOOISLAND咕咕岛河北涿州君悦广场店",
         "mall": "GOOGOOISLAND咕咕岛河北涿州君悦广场店",
@@ -652,6 +745,7 @@
     },
     "1199": {
         "machineCount": 1,
+        "id": "1199",
         "province": "广东",
         "arcadeName": "星际传奇龙华天虹店",
         "mall": "星际传奇龙华天虹店",
@@ -659,6 +753,7 @@
     },
     "1200": {
         "machineCount": 1,
+        "id": "1200",
         "province": "广东",
         "arcadeName": "广州GOGO新天地店",
         "mall": "广州GOGO新天地店",
@@ -666,6 +761,7 @@
     },
     "1202": {
         "machineCount": 1,
+        "id": "1202",
         "province": "江苏",
         "arcadeName": "乐的文化江苏昆山万象汇店",
         "mall": "乐的文化江苏昆山万象汇店",
@@ -673,6 +769,7 @@
     },
     "1203": {
         "machineCount": 2,
+        "id": "1203",
         "province": "江西",
         "arcadeName": "风云再起江西南昌店",
         "mall": "风云再起江西南昌店",
@@ -680,6 +777,7 @@
     },
     "1204": {
         "machineCount": 1,
+        "id": "1204",
         "province": "天津",
         "arcadeName": "汤姆熊天津恒隆广场店",
         "mall": "汤姆熊天津恒隆广场店",
@@ -687,6 +785,7 @@
     },
     "1205": {
         "machineCount": 1,
+        "id": "1205",
         "province": "山西",
         "arcadeName": "阿凡达电玩山西太原柳巷店",
         "mall": "阿凡达电玩山西太原柳巷店",
@@ -694,6 +793,7 @@
     },
     "1206": {
         "machineCount": 1,
+        "id": "1206",
         "province": "河南",
         "arcadeName": "世纪华联弘哲动漫城",
         "mall": "世纪华联弘哲动漫城",
@@ -701,6 +801,7 @@
     },
     "1207": {
         "machineCount": 1,
+        "id": "1207",
         "province": "江苏",
         "arcadeName": "乐满堂电玩常州武进吾悅广场店",
         "mall": "乐满堂电玩常州武进吾悅广场店",
@@ -708,6 +809,7 @@
     },
     "1208": {
         "machineCount": 1,
+        "id": "1208",
         "province": "江西",
         "arcadeName": "城市英雄江西南昌店",
         "mall": "城市英雄江西南昌店",
@@ -715,6 +817,7 @@
     },
     "1209": {
         "machineCount": 1,
+        "id": "1209",
         "province": "安徽",
         "arcadeName": "风云再起安徽滁州苏宁广场店",
         "mall": "风云再起安徽滁州苏宁广场店",
@@ -722,6 +825,7 @@
     },
     "1210": {
         "machineCount": 1,
+        "id": "1210",
         "province": "上海",
         "arcadeName": "星乐荟上海浦东金汇广场店",
         "mall": "星乐荟上海浦东金汇广场店",
@@ -729,6 +833,7 @@
     },
     "1211": {
         "machineCount": 2,
+        "id": "1211",
         "province": "四川",
         "arcadeName": "风云再起四川成都天府广场店",
         "mall": "风云再起四川成都天府广场店",
@@ -736,6 +841,7 @@
     },
     "1212": {
         "machineCount": 1,
+        "id": "1212",
         "province": "广东",
         "arcadeName": "环游嘉年华番禺永旺店",
         "mall": "环游嘉年华番禺永旺店",
@@ -743,6 +849,7 @@
     },
     "1214": {
         "machineCount": 1,
+        "id": "1214",
         "province": "河南",
         "arcadeName": "风云再起郑州大卫城店",
         "mall": "风云再起郑州大卫城店",
@@ -750,6 +857,7 @@
     },
     "1215": {
         "machineCount": 1,
+        "id": "1215",
         "province": "海南",
         "arcadeName": "三亚时光机动漫城",
         "mall": "三亚时光机动漫城",
@@ -757,6 +865,7 @@
     },
     "1217": {
         "machineCount": 2,
+        "id": "1217",
         "province": "广东",
         "arcadeName": "环游嘉年华广州黄埔绿地店",
         "mall": "环游嘉年华广州黄埔绿地店",
@@ -764,6 +873,7 @@
     },
     "1219": {
         "machineCount": 1,
+        "id": "1219",
         "province": "广东",
         "arcadeName": "星际传奇大千里店",
         "mall": "星际传奇大千里店",
@@ -771,6 +881,7 @@
     },
     "1220": {
         "machineCount": 2,
+        "id": "1220",
         "province": "上海",
         "arcadeName": "天天玩上海徐汇汇银广场店",
         "mall": "天天玩上海徐汇汇银广场店",
@@ -778,6 +889,7 @@
     },
     "1221": {
         "machineCount": 1,
+        "id": "1221",
         "province": "广东",
         "arcadeName": "疯狂牛仔城广州荔湾上下九店",
         "mall": "疯狂牛仔城广州荔湾上下九店",
@@ -785,6 +897,7 @@
     },
     "1222": {
         "machineCount": 2,
+        "id": "1222",
         "province": "广东",
         "arcadeName": "赛乐联盟广州新塘合生店",
         "mall": "赛乐联盟广州新塘合生店",
@@ -792,6 +905,7 @@
     },
     "1224": {
         "machineCount": 1,
+        "id": "1224",
         "province": "广东",
         "arcadeName": "大玩家广州海珠万达店",
         "mall": "大玩家广州海珠万达店",
@@ -799,6 +913,7 @@
     },
     "1227": {
         "machineCount": 2,
+        "id": "1227",
         "province": "山东",
         "arcadeName": "风云再起青岛金狮广场店",
         "mall": "风云再起青岛金狮广场店",
@@ -806,6 +921,7 @@
     },
     "1228": {
         "machineCount": 1,
+        "id": "1228",
         "province": "湖南",
         "arcadeName": "城市英雄郴州店",
         "mall": "城市英雄郴州店",
@@ -813,6 +929,7 @@
     },
     "1229": {
         "machineCount": 1,
+        "id": "1229",
         "province": "湖北",
         "arcadeName": "真快活武汉江汉国际广场店",
         "mall": "真快活武汉江汉国际广场店",
@@ -820,6 +937,7 @@
     },
     "1230": {
         "machineCount": 1,
+        "id": "1230",
         "province": "湖北",
         "arcadeName": "真快活武汉洪山鲁巷广场店",
         "mall": "真快活武汉洪山鲁巷广场店",
@@ -827,6 +945,7 @@
     },
     "1231": {
         "machineCount": 1,
+        "id": "1231",
         "province": "吉林",
         "arcadeName": "吉林市丰满区世宇乐园",
         "mall": "吉林市丰满区世宇乐园",
@@ -834,6 +953,7 @@
     },
     "1232": {
         "machineCount": 1,
+        "id": "1232",
         "province": "辽宁",
         "arcadeName": "银河系辽宁大连中古店",
         "mall": "银河系辽宁大连中古店",
@@ -841,6 +961,7 @@
     },
     "1233": {
         "machineCount": 1,
+        "id": "1233",
         "province": "湖北",
         "arcadeName": "真快活武汉汉阳摩尔城店",
         "mall": "真快活武汉汉阳摩尔城店",
@@ -848,6 +969,7 @@
     },
     "1234": {
         "machineCount": 1,
+        "id": "1234",
         "province": "湖北",
         "arcadeName": "真快活武汉洪山银泰店",
         "mall": "真快活武汉洪山银泰店",
@@ -855,6 +977,7 @@
     },
     "1237": {
         "machineCount": 1,
+        "id": "1237",
         "province": "江西",
         "arcadeName": "真快活江西南昌王府井店",
         "mall": "真快活江西南昌王府井店",
@@ -862,6 +985,7 @@
     },
     "1239": {
         "machineCount": 1,
+        "id": "1239",
         "province": "浙江",
         "arcadeName": "城市英雄浙江义乌吾悦广场店",
         "mall": "城市英雄浙江义乌吾悦广场店",
@@ -869,6 +993,7 @@
     },
     "1241": {
         "machineCount": 2,
+        "id": "1241",
         "province": "广东",
         "arcadeName": "星球小镇儿童乐园汕头龙湖店",
         "mall": "星球小镇儿童乐园汕头龙湖店",
@@ -876,6 +1001,7 @@
     },
     "1242": {
         "machineCount": 3,
+        "id": "1242",
         "province": "湖北",
         "arcadeName": "都市玩家武汉青山店",
         "mall": "都市玩家武汉青山店",
@@ -883,6 +1009,7 @@
     },
     "1243": {
         "machineCount": 2,
+        "id": "1243",
         "province": "福建",
         "arcadeName": "乐炫风福州鼓楼东百中心店",
         "mall": "乐炫风福州鼓楼东百中心店",
@@ -890,6 +1017,7 @@
     },
     "1244": {
         "machineCount": 1,
+        "id": "1244",
         "province": "广东",
         "arcadeName": "梦幻谷游艺佛山禅城东方店",
         "mall": "梦幻谷游艺佛山禅城东方店",
@@ -897,6 +1025,7 @@
     },
     "1246": {
         "machineCount": 1,
+        "id": "1246",
         "province": "广东",
         "arcadeName": "冒险岛深圳南山方大城店",
         "mall": "冒险岛深圳南山方大城店",
@@ -904,6 +1033,7 @@
     },
     "1247": {
         "machineCount": 1,
+        "id": "1247",
         "province": "广东",
         "arcadeName": "星河奇迹韶关浈江U购城店",
         "mall": "星河奇迹韶关浈江U购城店",
@@ -911,6 +1041,7 @@
     },
     "1248": {
         "machineCount": 1,
+        "id": "1248",
         "province": "贵州",
         "arcadeName": "风云再起贵阳大十字店",
         "mall": "风云再起贵阳大十字店",
@@ -918,6 +1049,7 @@
     },
     "1249": {
         "machineCount": 4,
+        "id": "1249",
         "province": "上海",
         "arcadeName": "风云再起上海长泰广场店",
         "mall": "风云再起上海长泰广场店",
@@ -925,6 +1057,7 @@
     },
     "1251": {
         "machineCount": 1,
+        "id": "1251",
         "province": "安徽",
         "arcadeName": "酷卡贝滁州琅琊乐彩城店",
         "mall": "酷卡贝滁州琅琊乐彩城店",
@@ -932,6 +1065,7 @@
     },
     "1252": {
         "machineCount": 1,
+        "id": "1252",
         "province": "浙江",
         "arcadeName": "量子空间杭州东站西广场C座店",
         "mall": "量子空间杭州江干火车东站店",
@@ -939,6 +1073,7 @@
     },
     "1253": {
         "machineCount": 1,
+        "id": "1253",
         "province": "广东",
         "arcadeName": "好宜多电玩城惠州惠阳店",
         "mall": "好宜多电玩城惠州惠阳店",
@@ -946,6 +1081,7 @@
     },
     "1254": {
         "machineCount": 1,
+        "id": "1254",
         "province": "广东",
         "arcadeName": "晴空乐园汕头F16购物中心店",
         "mall": "晴空乐园汕头F16购物中心店",
@@ -953,6 +1089,7 @@
     },
     "1255": {
         "machineCount": 2,
+        "id": "1255",
         "province": "湖北",
         "arcadeName": "真快活十堰茅箭人民商城店",
         "mall": "真快活十堰茅箭人民商城店",
@@ -960,6 +1097,7 @@
     },
     "1256": {
         "machineCount": 1,
+        "id": "1256",
         "province": "湖北",
         "arcadeName": "真快活武汉循礼门M＋店",
         "mall": "真快活武汉循礼门M＋店",
@@ -967,6 +1105,7 @@
     },
     "1258": {
         "machineCount": 2,
+        "id": "1258",
         "province": "北京",
         "arcadeName": "北京海淀嗨翻竞技体育乐园",
         "mall": "北京海淀嗨翻竞技体育乐园",
@@ -974,6 +1113,7 @@
     },
     "1261": {
         "machineCount": 1,
+        "id": "1261",
         "province": "重庆",
         "arcadeName": "星际传奇重庆北城天街店",
         "mall": "星际传奇重庆北城天街店",
@@ -981,6 +1121,7 @@
     },
     "1262": {
         "machineCount": 1,
+        "id": "1262",
         "province": "江苏",
         "arcadeName": "风云再起南京水平方店",
         "mall": "风云再起南京水平方店",
@@ -988,6 +1129,7 @@
     },
     "1263": {
         "machineCount": 1,
+        "id": "1263",
         "province": "河南",
         "arcadeName": "风云再起郑州二七广场店",
         "mall": "风云再起郑州二七广场店",
@@ -995,6 +1137,7 @@
     },
     "1265": {
         "machineCount": 1,
+        "id": "1265",
         "province": "河北",
         "arcadeName": "风云再起石家庄华强广场店",
         "mall": "风云再起石家庄华强广场店",
@@ -1002,6 +1145,7 @@
     },
     "1266": {
         "machineCount": 2,
+        "id": "1266",
         "province": "天津",
         "arcadeName": "风云再起天津南京路店",
         "mall": "风云再起天津南京路店",
@@ -1009,6 +1153,7 @@
     },
     "1267": {
         "machineCount": 1,
+        "id": "1267",
         "province": "上海",
         "arcadeName": "汤姆熊上海正大广场店",
         "mall": "汤姆熊上海正大广场店",
@@ -1016,6 +1161,7 @@
     },
     "1268": {
         "machineCount": 1,
+        "id": "1268",
         "province": "上海",
         "arcadeName": "汤姆熊上海大悦城店",
         "mall": "汤姆熊上海大悦城店",
@@ -1023,6 +1169,7 @@
     },
     "1269": {
         "machineCount": 1,
+        "id": "1269",
         "province": "上海",
         "arcadeName": "汤姆熊欢乐世界上海日月光店",
         "mall": "汤姆熊欢乐世界上海日月光店",
@@ -1030,6 +1177,7 @@
     },
     "1270": {
         "machineCount": 2,
+        "id": "1270",
         "province": "浙江",
         "arcadeName": "汤姆熊宁波天一广场店",
         "mall": "汤姆熊宁波天一广场店",
@@ -1037,6 +1185,7 @@
     },
     "1271": {
         "machineCount": 1,
+        "id": "1271",
         "province": "陕西",
         "arcadeName": "闪电部落西安新城益田假日店",
         "mall": "闪电部落西安新城益田假日店",
@@ -1044,6 +1193,7 @@
     },
     "1272": {
         "machineCount": 2,
+        "id": "1272",
         "province": "上海",
         "arcadeName": "风云再起上海维璟广场店",
         "mall": "风云再起上海维璟广场店",
@@ -1051,6 +1201,7 @@
     },
     "1273": {
         "machineCount": 1,
+        "id": "1273",
         "province": "浙江",
         "arcadeName": "佐佐佑佑电玩城",
         "mall": "佐佐佑佑电玩城",
@@ -1058,6 +1209,7 @@
     },
     "1274": {
         "machineCount": 1,
+        "id": "1274",
         "province": "江苏",
         "arcadeName": "极速时代淮安新亚广场店",
         "mall": "极速时代淮安新亚广场店",
@@ -1065,6 +1217,7 @@
     },
     "1275": {
         "machineCount": 1,
+        "id": "1275",
         "province": "福建",
         "arcadeName": "世佳乐园石狮德辉广场店",
         "mall": "世佳乐园石狮德辉广场店",
@@ -1072,6 +1225,7 @@
     },
     "1276": {
         "machineCount": 1,
+        "id": "1276",
         "province": "浙江",
         "arcadeName": "星际传奇宁波万象汇店",
         "mall": "星际传奇宁波万象汇店",
@@ -1079,6 +1233,7 @@
     },
     "1277": {
         "machineCount": 1,
+        "id": "1277",
         "province": "湖南",
         "arcadeName": "城市英雄湘潭车站路店",
         "mall": "城市英雄湘潭车站路店",
@@ -1086,6 +1241,7 @@
     },
     "1278": {
         "machineCount": 1,
+        "id": "1278",
         "province": "甘肃",
         "arcadeName": "兰州城关奥德乐家庭游乐中心",
         "mall": "兰州城关奥德乐家庭游乐中心",
@@ -1093,6 +1249,7 @@
     },
     "1279": {
         "machineCount": 1,
+        "id": "1279",
         "province": "北京",
         "arcadeName": "反斗乐园北京朝阳星际传奇店",
         "mall": "反斗乐园北京朝阳星际传奇店",
@@ -1100,6 +1257,7 @@
     },
     "1280": {
         "machineCount": 1,
+        "id": "1280",
         "province": "广东",
         "arcadeName": "星际传奇深圳万象天地店",
         "mall": "星际传奇深圳万象天地店",
@@ -1107,6 +1265,7 @@
     },
     "1281": {
         "machineCount": 1,
+        "id": "1281",
         "province": "广东",
         "arcadeName": "汕尾信利广场城市英雄",
         "mall": "汕尾信利广场城市英雄",
@@ -1114,6 +1273,7 @@
     },
     "1282": {
         "machineCount": 1,
+        "id": "1282",
         "province": "山东",
         "arcadeName": "菲利斯星球乐园临沂首联旺角店",
         "mall": "菲利斯星球乐园临沂首联旺角店",
@@ -1121,6 +1281,7 @@
     },
     "1284": {
         "machineCount": 1,
+        "id": "1284",
         "province": "浙江",
         "arcadeName": "奇特冰雪乐园温州鹿城店",
         "mall": "奇特冰雪乐园温州鹿城店",
@@ -1128,6 +1289,7 @@
     },
     "1285": {
         "machineCount": 1,
+        "id": "1285",
         "province": "四川",
         "arcadeName": "童年搭档广安邻水店",
         "mall": "童年搭档广安邻水店",
@@ -1135,6 +1297,7 @@
     },
     "1286": {
         "machineCount": 2,
+        "id": "1286",
         "province": "广东",
         "arcadeName": "反斗乐园深圳宝安壹方城星际传奇店",
         "mall": "反斗乐园深圳宝安壹方城星际传奇店",
@@ -1142,6 +1305,7 @@
     },
     "1288": {
         "machineCount": 2,
+        "id": "1288",
         "province": "上海",
         "arcadeName": "汤姆熊上海长宁龙之梦店",
         "mall": "汤姆熊上海长宁龙之梦店",
@@ -1149,6 +1313,7 @@
     },
     "1289": {
         "machineCount": 1,
+        "id": "1289",
         "province": "北京",
         "arcadeName": "量子攻略北京新奥店",
         "mall": "量子攻略北京新奥店",
@@ -1156,6 +1321,7 @@
     },
     "1290": {
         "machineCount": 1,
+        "id": "1290",
         "province": "湖南",
         "arcadeName": "城市英雄长沙岳麓奥克斯店",
         "mall": "城市英雄长沙岳麓奥克斯店",
@@ -1163,6 +1329,7 @@
     },
     "1291": {
         "machineCount": 3,
+        "id": "1291",
         "province": "湖北",
         "arcadeName": "嗨森汇乐园武汉东湖光谷店",
         "mall": "嗨森汇乐园武汉东湖光谷店",
@@ -1170,6 +1337,7 @@
     },
     "1292": {
         "machineCount": 1,
+        "id": "1292",
         "province": "湖北",
         "arcadeName": "真快活荆门东宝银泰城店",
         "mall": "真快活荆门东宝银泰城店",
@@ -1177,6 +1345,7 @@
     },
     "1293": {
         "machineCount": 2,
+        "id": "1293",
         "province": "上海",
         "arcadeName": "风云再起上海中环百联店",
         "mall": "风云再起上海中环百联店",
@@ -1184,6 +1353,7 @@
     },
     "1294": {
         "machineCount": 1,
+        "id": "1294",
         "province": "山西",
         "arcadeName": "欢乐梦工场长治潞州店",
         "mall": "欢乐梦工场长治潞州店",
@@ -1191,6 +1361,7 @@
     },
     "1295": {
         "machineCount": 1,
+        "id": "1295",
         "province": "浙江",
         "arcadeName": "乐满堂欢乐王国嘉兴店",
         "mall": "乐满堂欢乐王国嘉兴店",
@@ -1198,6 +1369,7 @@
     },
     "1296": {
         "machineCount": 1,
+        "id": "1296",
         "province": "四川",
         "arcadeName": "环游嘉年华成都都江堰店",
         "mall": "环游嘉年华成都都江堰店",
@@ -1205,6 +1377,7 @@
     },
     "1297": {
         "machineCount": 1,
+        "id": "1297",
         "province": "浙江",
         "arcadeName": "壹家庭游乐园宁波店",
         "mall": "壹家庭游乐园宁波店",
@@ -1212,6 +1385,7 @@
     },
     "1298": {
         "machineCount": 1,
+        "id": "1298",
         "province": "辽宁",
         "arcadeName": "风云再起沈阳大悦城店",
         "mall": "风云再起沈阳大悦城店",
@@ -1219,6 +1393,7 @@
     },
     "1299": {
         "machineCount": 1,
+        "id": "1299",
         "province": "广东",
         "arcadeName": "猿计划游艺MALL佛山店",
         "mall": "猿计划游艺MALL佛山店",
@@ -1226,6 +1401,7 @@
     },
     "1300": {
         "machineCount": 3,
+        "id": "1300",
         "province": "广东",
         "arcadeName": "极客森超乐场深圳宝能城店",
         "mall": "极客森超乐场深圳宝能城店",
@@ -1233,6 +1409,7 @@
     },
     "1301": {
         "machineCount": 1,
+        "id": "1301",
         "province": "辽宁",
         "arcadeName": "风云再起沈阳佳兆业广场店",
         "mall": "风云再起沈阳佳兆业广场店",
@@ -1240,6 +1417,7 @@
     },
     "1303": {
         "machineCount": 1,
+        "id": "1303",
         "province": "湖南",
         "arcadeName": "星世纪动漫台球体验中心七星店",
         "mall": "星世纪动漫台球体验中心七星店",
@@ -1247,6 +1425,7 @@
     },
     "1304": {
         "machineCount": 2,
+        "id": "1304",
         "province": "辽宁",
         "arcadeName": "风云再起沈阳沈北华强广场店",
         "mall": "风云再起沈阳沈北华强广场店",
@@ -1254,6 +1433,7 @@
     },
     "1305": {
         "machineCount": 1,
+        "id": "1305",
         "province": "湖南",
         "arcadeName": "新动力电玩长沙万家丽广场店",
         "mall": "新动力电玩长沙万家丽广场店",
@@ -1261,6 +1441,7 @@
     },
     "1306": {
         "machineCount": 1,
+        "id": "1306",
         "province": "山东",
         "arcadeName": "壹家庭游乐园临沂店",
         "mall": "壹家庭游乐园临沂店",
@@ -1268,6 +1449,7 @@
     },
     "1309": {
         "machineCount": 2,
+        "id": "1309",
         "province": "江苏",
         "arcadeName": "风云再起南京金鹰店",
         "mall": "风云再起南京金鹰店",
@@ -1275,6 +1457,7 @@
     },
     "1310": {
         "machineCount": 1,
+        "id": "1310",
         "province": "海南",
         "arcadeName": "海口日不落动漫网咖",
         "mall": "海口日不落动漫网咖",
@@ -1282,6 +1465,7 @@
     },
     "1312": {
         "machineCount": 1,
+        "id": "1312",
         "province": "吉林",
         "arcadeName": "城市英雄电玩长春欧亚新生活店",
         "mall": "城市英雄电玩长春欧亚新生活店",
@@ -1289,6 +1473,7 @@
     },
     "1313": {
         "machineCount": 2,
+        "id": "1313",
         "province": "广东",
         "arcadeName": "晴空进击社广州荔湾店",
         "mall": "晴空进击社广州荔湾店",
@@ -1296,6 +1481,7 @@
     },
     "1314": {
         "machineCount": 1,
+        "id": "1314",
         "province": "山东",
         "arcadeName": "一起玩家年华泰安爱琴海店",
         "mall": "一起玩家年华泰安爱琴海店",
@@ -1303,6 +1489,7 @@
     },
     "1315": {
         "machineCount": 2,
+        "id": "1315",
         "province": "山西",
         "arcadeName": "风云再起太原茂业店",
         "mall": "风云再起太原茂业店",
@@ -1310,6 +1497,7 @@
     },
     "1316": {
         "machineCount": 1,
+        "id": "1316",
         "province": "广东",
         "arcadeName": "赛乐联盟广州海珠合生广场店",
         "mall": "赛乐联盟广州海珠合生广场店",
@@ -1317,6 +1505,7 @@
     },
     "1317": {
         "machineCount": 1,
+        "id": "1317",
         "province": "广东",
         "arcadeName": "大玩家广州黄埔南岗万达店",
         "mall": "大玩家广州黄埔南岗万达店",
@@ -1324,6 +1513,7 @@
     },
     "1318": {
         "machineCount": 1,
+        "id": "1318",
         "province": "安徽",
         "arcadeName": "风云再起安徽芜湖店",
         "mall": "风云再起安徽芜湖店",
@@ -1331,6 +1521,7 @@
     },
     "1319": {
         "machineCount": 1,
+        "id": "1319",
         "province": "湖南",
         "arcadeName": "子洋联盟长沙阳光一百店",
         "mall": "子洋联盟长沙阳光一百店",
@@ -1338,6 +1529,7 @@
     },
     "1320": {
         "machineCount": 2,
+        "id": "1320",
         "province": "四川",
         "arcadeName": "嗨森汇乐园成都金牛凯德店",
         "mall": "嗨森汇乐园成都金牛凯德店",
@@ -1345,6 +1537,7 @@
     },
     "1321": {
         "machineCount": 1,
+        "id": "1321",
         "province": "吉林",
         "arcadeName": "现代嘉年华珲春店",
         "mall": "现代嘉年华珲春店",
@@ -1352,6 +1545,7 @@
     },
     "1323": {
         "machineCount": 1,
+        "id": "1323",
         "province": "安徽",
         "arcadeName": "真快活合肥银泰城店",
         "mall": "真快活合肥银泰城店",
@@ -1359,6 +1553,7 @@
     },
     "1324": {
         "machineCount": 1,
+        "id": "1324",
         "province": "江苏",
         "arcadeName": "风云再起宿迁宝龙广场店",
         "mall": "风云再起宿迁宝龙广场店",
@@ -1366,6 +1561,7 @@
     },
     "1325": {
         "machineCount": 1,
+        "id": "1325",
         "province": "广东",
         "arcadeName": "玩趣时代江门星汇广场店",
         "mall": "玩趣时代江门星汇广场店",
@@ -1373,6 +1569,7 @@
     },
     "1327": {
         "machineCount": 1,
+        "id": "1327",
         "province": "湖南",
         "arcadeName": "嘻品堂电玩娱乐",
         "mall": "嘻品堂电玩娱乐",
@@ -1380,6 +1577,7 @@
     },
     "1328": {
         "machineCount": 1,
+        "id": "1328",
         "province": "内蒙古",
         "arcadeName": "酷乐大玩家鄂尔多斯店",
         "mall": "酷乐大玩家鄂尔多斯店",
@@ -1387,6 +1585,7 @@
     },
     "1329": {
         "machineCount": 1,
+        "id": "1329",
         "province": "广东",
         "arcadeName": "大玩家广州番禺万达店",
         "mall": "大玩家广州番禺万达店",
@@ -1394,6 +1593,7 @@
     },
     "1330": {
         "machineCount": 1,
+        "id": "1330",
         "province": "上海",
         "arcadeName": "大玩家上海江桥万达店",
         "mall": "大玩家上海江桥万达店",
@@ -1401,6 +1601,7 @@
     },
     "1331": {
         "machineCount": 1,
+        "id": "1331",
         "province": "上海",
         "arcadeName": "大玩家上海周浦万达店",
         "mall": "大玩家上海周浦万达店",
@@ -1408,6 +1609,7 @@
     },
     "1332": {
         "machineCount": 1,
+        "id": "1332",
         "province": "吉林",
         "arcadeName": "大玩家长春红旗街万达店",
         "mall": "大玩家长春红旗街万达店",
@@ -1415,6 +1617,7 @@
     },
     "1333": {
         "machineCount": 1,
+        "id": "1333",
         "province": "广东",
         "arcadeName": "轩轩窝桌游电玩屋深圳店",
         "mall": "轩轩窝桌游电玩屋深圳店",
@@ -1422,6 +1625,7 @@
     },
     "1334": {
         "machineCount": 1,
+        "id": "1334",
         "province": "广东",
         "arcadeName": "彩虹王国深圳众冠店",
         "mall": "彩虹王国深圳众冠店",
@@ -1429,6 +1633,7 @@
     },
     "1335": {
         "machineCount": 1,
+        "id": "1335",
         "province": "黑龙江",
         "arcadeName": "哈尔滨道里欢乐集合地店",
         "mall": "哈尔滨道里欢乐集合地店",
@@ -1436,6 +1641,7 @@
     },
     "1337": {
         "machineCount": 1,
+        "id": "1337",
         "province": "广东",
         "arcadeName": "城市动力珠海香洲弘桥商城店",
         "mall": "城市动力珠海香洲弘桥商城店",
@@ -1443,6 +1649,7 @@
     },
     "1338": {
         "machineCount": 1,
+        "id": "1338",
         "province": "广东",
         "arcadeName": "深圳铃屋店",
         "mall": "深圳铃屋店",
@@ -1450,6 +1657,7 @@
     },
     "1340": {
         "machineCount": 1,
+        "id": "1340",
         "province": "湖北",
         "arcadeName": "真快活武汉武昌光谷广场店",
         "mall": "真快活武汉武昌光谷广场店",
@@ -1457,6 +1665,7 @@
     },
     "1341": {
         "machineCount": 2,
+        "id": "1341",
         "province": "海南",
         "arcadeName": "环游嘉年华海口龙华上邦百汇城店",
         "mall": "环游嘉年华海口龙华上邦百汇城店",
@@ -1464,6 +1673,7 @@
     },
     "1342": {
         "machineCount": 1,
+        "id": "1342",
         "province": "广西",
         "arcadeName": "好特电玩柳州五星店",
         "mall": "好特电玩柳州五星店",
@@ -1471,6 +1681,7 @@
     },
     "1343": {
         "machineCount": 1,
+        "id": "1343",
         "province": "青海",
         "arcadeName": "极客森西宁吾悦广场店",
         "mall": "极客森西宁吾悦广场店",
@@ -1478,6 +1689,7 @@
     },
     "1344": {
         "machineCount": 1,
+        "id": "1344",
         "province": "辽宁",
         "arcadeName": "鞍山四隆广场主题公园",
         "mall": "鞍山四隆广场主题公园",
@@ -1485,6 +1697,7 @@
     },
     "1345": {
         "machineCount": 1,
+        "id": "1345",
         "province": "吉林",
         "arcadeName": "巷战英雄电玩长春欧亚万豪店",
         "mall": "巷战英雄电玩长春欧亚万豪店",
@@ -1492,6 +1705,7 @@
     },
     "1347": {
         "machineCount": 1,
+        "id": "1347",
         "province": "云南",
         "arcadeName": "疯狂动物城大理泰业国际店",
         "mall": "疯狂动物城大理泰业国际店",
@@ -1499,6 +1713,7 @@
     },
     "1348": {
         "machineCount": 1,
+        "id": "1348",
         "province": "河北",
         "arcadeName": "大玩家邯郸万达店",
         "mall": "大玩家邯郸万达店",
@@ -1506,6 +1721,7 @@
     },
     "1349": {
         "machineCount": 1,
+        "id": "1349",
         "province": "陕西",
         "arcadeName": "西安市酷玩码头电玩城",
         "mall": "西安市酷玩码头电玩城",
@@ -1513,6 +1729,7 @@
     },
     "1350": {
         "machineCount": 1,
+        "id": "1350",
         "province": "广西",
         "arcadeName": "桂林玛丽奥电玩俱乐部",
         "mall": "桂林玛丽奥电玩俱乐部",
@@ -1520,6 +1737,7 @@
     },
     "1351": {
         "machineCount": 1,
+        "id": "1351",
         "province": "广东",
         "arcadeName": "星月方舟肇庆敏捷广场店",
         "mall": "星月方舟肇庆敏捷广场店",
@@ -1527,6 +1745,7 @@
     },
     "1352": {
         "machineCount": 1,
+        "id": "1352",
         "province": "江苏",
         "arcadeName": "星悦潮玩无锡店",
         "mall": "星悦潮玩无锡店",
@@ -1534,6 +1753,7 @@
     },
     "1353": {
         "machineCount": 1,
+        "id": "1353",
         "province": "上海",
         "arcadeName": "大玩家马桥万达店",
         "mall": "大玩家马桥万达店",
@@ -1541,6 +1761,7 @@
     },
     "1354": {
         "machineCount": 1,
+        "id": "1354",
         "province": "湖北",
         "arcadeName": "城市英雄武汉k11店",
         "mall": "城市英雄武汉k11店",
@@ -1548,6 +1769,7 @@
     },
     "1355": {
         "machineCount": 1,
+        "id": "1355",
         "province": "浙江",
         "arcadeName": "潮人电玩温州店",
         "mall": "潮人电玩温州店",
@@ -1555,6 +1777,7 @@
     },
     "1356": {
         "machineCount": 1,
+        "id": "1356",
         "province": "天津",
         "arcadeName": "汤姆熊天津熙悦汇店",
         "mall": "汤姆熊天津熙悦汇店",
@@ -1562,6 +1785,7 @@
     },
     "1357": {
         "machineCount": 1,
+        "id": "1357",
         "province": "贵州",
         "arcadeName": "梦时代电玩城贵阳玖福城店",
         "mall": "梦时代电玩城贵阳玖福城店",
@@ -1569,6 +1793,7 @@
     },
     "1358": {
         "machineCount": 1,
+        "id": "1358",
         "province": "天津",
         "arcadeName": "天津麦趣熊泉汇店",
         "mall": "麦趣熊欢乐世界",
@@ -1576,6 +1801,7 @@
     },
     "1359": {
         "machineCount": 1,
+        "id": "1359",
         "province": "新疆",
         "arcadeName": "环游嘉年华超乐场德港万达店",
         "mall": "环游嘉年华超乐场德港万达店",
@@ -1583,6 +1809,7 @@
     },
     "1360": {
         "machineCount": 1,
+        "id": "1360",
         "province": "广东",
         "arcadeName": "江门梦幻之城",
         "mall": "江门梦幻之城",
@@ -1590,6 +1817,7 @@
     },
     "1361": {
         "machineCount": 1,
+        "id": "1361",
         "province": "广东",
         "arcadeName": "疯狂牛仔城清远清城世纪荟店",
         "mall": "疯狂牛仔城清远清城世纪荟店",
@@ -1597,6 +1825,7 @@
     },
     "1362": {
         "machineCount": 1,
+        "id": "1362",
         "province": "江西",
         "arcadeName": "阿尔法南昌西湖商夏店",
         "mall": "阿尔法南昌西湖商夏店",
@@ -1604,6 +1833,7 @@
     },
     "1363": {
         "machineCount": 1,
+        "id": "1363",
         "province": "四川",
         "arcadeName": "娱乐至上成都都江堰店",
         "mall": "娱乐至上成都都江堰店",
@@ -1611,6 +1841,7 @@
     },
     "1364": {
         "machineCount": 2,
+        "id": "1364",
         "province": "湖北",
         "arcadeName": "奇奇乐园宜昌兴发店",
         "mall": "奇奇乐园宜昌兴发店",
@@ -1618,6 +1849,7 @@
     },
     "1365": {
         "machineCount": 1,
+        "id": "1365",
         "province": "河南",
         "arcadeName": "裕隆动漫城鹤壁店",
         "mall": "裕隆动漫城鹤壁店",
@@ -1625,6 +1857,7 @@
     },
     "1366": {
         "machineCount": 1,
+        "id": "1366",
         "province": "北京",
         "arcadeName": "北京上地华联嘉贝乐",
         "mall": "北京上地华联嘉贝乐",
@@ -1632,6 +1865,7 @@
     },
     "1367": {
         "machineCount": 1,
+        "id": "1367",
         "province": "湖南",
         "arcadeName": "星世纪动漫游戏体验中心邵阳店",
         "mall": "星世纪动漫游戏体验中心邵阳店",
@@ -1639,6 +1873,7 @@
     },
     "1368": {
         "machineCount": 1,
+        "id": "1368",
         "province": "江苏",
         "arcadeName": "嗨倍堂超级乐园南通店",
         "mall": "嗨倍堂超级乐园南通店",
@@ -1646,6 +1881,7 @@
     },
     "1369": {
         "machineCount": 1,
+        "id": "1369",
         "province": "湖南",
         "arcadeName": "星世纪长沙五一广场万代店",
         "mall": "星世纪长沙五一广场万代店",
@@ -1653,6 +1889,7 @@
     },
     "1371": {
         "machineCount": 1,
+        "id": "1371",
         "province": "安徽",
         "arcadeName": "星世纪合肥唯品会店",
         "mall": "星世纪合肥唯品会店",
@@ -1660,6 +1897,7 @@
     },
     "1372": {
         "machineCount": 1,
+        "id": "1372",
         "province": "江苏",
         "arcadeName": "爱宝游乐园南通崇川店",
         "mall": "爱宝游乐园南通崇川店",
@@ -1667,6 +1905,7 @@
     },
     "1373": {
         "machineCount": 2,
+        "id": "1373",
         "province": "上海",
         "arcadeName": "汤姆熊上海百联又一城店",
         "mall": "汤姆熊上海百联又一城店",
@@ -1674,6 +1913,7 @@
     },
     "1374": {
         "machineCount": 2,
+        "id": "1374",
         "province": "上海",
         "arcadeName": "奇奇乐园上海店",
         "mall": "奇奇乐园上海店",
@@ -1681,6 +1921,7 @@
     },
     "1375": {
         "machineCount": 1,
+        "id": "1375",
         "province": "广东",
         "arcadeName": "星际传奇佛山南海南宇广场店",
         "mall": "星际传奇佛山南海南宇广场店",
@@ -1688,6 +1929,7 @@
     },
     "1376": {
         "machineCount": 1,
+        "id": "1376",
         "province": "上海",
         "arcadeName": "汤姆熊上海旭辉广场店",
         "mall": "汤姆熊上海旭辉广场店",
@@ -1695,6 +1937,7 @@
     },
     "1377": {
         "machineCount": 1,
+        "id": "1377",
         "province": "广东",
         "arcadeName": "猿计划游艺MALL顺德大良店",
         "mall": "猿计划游艺MALL顺德大良店",
@@ -1702,6 +1945,7 @@
     },
     "1378": {
         "machineCount": 2,
+        "id": "1378",
         "province": "辽宁",
         "arcadeName": "风云再起大连胜利广场店",
         "mall": "风云再起大连胜利广场店",
@@ -1709,6 +1953,7 @@
     },
     "1379": {
         "machineCount": 1,
+        "id": "1379",
         "province": "湖北",
         "arcadeName": "漫无止境动漫城武汉汉阳店",
         "mall": "漫无止境动漫城武汉汉阳店",
@@ -1716,6 +1961,7 @@
     },
     "1380": {
         "machineCount": 3,
+        "id": "1380",
         "province": "广东",
         "arcadeName": "环游嘉年华番禺天河城店",
         "mall": "环游嘉年华番禺天河城店",
@@ -1723,6 +1969,7 @@
     },
     "1381": {
         "machineCount": 2,
+        "id": "1381",
         "province": "天津",
         "arcadeName": "可可猩球南开大悦城店",
         "mall": "可可猩球南开大悦城店",
@@ -1730,6 +1977,7 @@
     },
     "1383": {
         "machineCount": 1,
+        "id": "1383",
         "province": "重庆",
         "arcadeName": "龙小湖探索乐园重庆沙坪坝店",
         "mall": "龙小湖探索乐园重庆沙坪坝店",
@@ -1737,6 +1985,7 @@
     },
     "1384": {
         "machineCount": 1,
+        "id": "1384",
         "province": "浙江",
         "arcadeName": "环游嘉年华瑞安新湖广场店",
         "mall": "环游嘉年华瑞安新湖广场店",
@@ -1744,6 +1993,7 @@
     },
     "1385": {
         "machineCount": 1,
+        "id": "1385",
         "province": "天津",
         "arcadeName": "51区超级乐园天津津南店",
         "mall": "51区超级乐园天津津南店",
@@ -1751,6 +2001,7 @@
     },
     "1386": {
         "machineCount": 1,
+        "id": "1386",
         "province": "安徽",
         "arcadeName": "打上花火铜陵吾悦广场店",
         "mall": "打上花火铜陵吾悦广场店",
@@ -1758,6 +2009,7 @@
     },
     "1387": {
         "machineCount": 1,
+        "id": "1387",
         "province": "湖南",
         "arcadeName": "超级英雄衡阳蒸湘店",
         "mall": "超级英雄衡阳蒸湘店",
@@ -1765,6 +2017,7 @@
     },
     "1389": {
         "machineCount": 1,
+        "id": "1389",
         "province": "天津",
         "arcadeName": "51区超级乐园天津西青友谊南路店",
         "mall": "51区超级乐园天津西青友谊南路店",
@@ -1772,6 +2025,7 @@
     },
     "1390": {
         "machineCount": 1,
+        "id": "1390",
         "province": "广东",
         "arcadeName": "大玩家汕头金平万达店",
         "mall": "大玩家汕头金平万达店",
@@ -1779,6 +2033,7 @@
     },
     "1391": {
         "machineCount": 1,
+        "id": "1391",
         "province": "吉林",
         "arcadeName": "城市英雄长春亚太新动力店",
         "mall": "城市英雄长春亚太新动力店",
@@ -1786,6 +2041,7 @@
     },
     "1393": {
         "machineCount": 2,
+        "id": "1393",
         "province": "广东",
         "arcadeName": "核客电玩城深圳罗湖店",
         "mall": "核客电玩城深圳罗湖店",
@@ -1793,6 +2049,7 @@
     },
     "1394": {
         "machineCount": 1,
+        "id": "1394",
         "province": "天津",
         "arcadeName": "天津宝坻区金满家购物广场店",
         "mall": "天津宝坻区金满家购物广场店",
@@ -1800,6 +2057,7 @@
     },
     "1395": {
         "machineCount": 1,
+        "id": "1395",
         "province": "江苏",
         "arcadeName": "风云再起苏州莱迪店",
         "mall": "风云再起苏州莱迪店",
@@ -1807,6 +2065,7 @@
     },
     "1396": {
         "machineCount": 1,
+        "id": "1396",
         "province": "山西",
         "arcadeName": "奥飞欢乐世界太原来福店",
         "mall": "奥飞欢乐世界太原来福店",
@@ -1814,6 +2073,7 @@
     },
     "1397": {
         "machineCount": 3,
+        "id": "1397",
         "province": "江苏",
         "arcadeName": "风云再起无锡清扬茂业天地店",
         "mall": "风云再起无锡清扬茂业天地店",
@@ -1821,6 +2081,7 @@
     },
     "1398": {
         "machineCount": 1,
+        "id": "1398",
         "province": "上海",
         "arcadeName": "大玩家上海闵行浦江万达店",
         "mall": "大玩家上海闵行浦江万达店",
@@ -1828,6 +2089,7 @@
     },
     "1399": {
         "machineCount": 1,
+        "id": "1399",
         "province": "福建",
         "arcadeName": "大玩家厦门湖里区万达店",
         "mall": "大玩家厦门湖里区万达店",
@@ -1835,6 +2097,7 @@
     },
     "1400": {
         "machineCount": 1,
+        "id": "1400",
         "province": "上海",
         "arcadeName": "大玩家上海崇明万达店",
         "mall": "大玩家上海崇明万达店",
@@ -1842,6 +2105,7 @@
     },
     "1401": {
         "machineCount": 1,
+        "id": "1401",
         "province": "福建",
         "arcadeName": "大玩家漳州碧湖万达店",
         "mall": "大玩家漳州碧湖万达店",
@@ -1849,6 +2113,7 @@
     },
     "1402": {
         "machineCount": 1,
+        "id": "1402",
         "province": "山东",
         "arcadeName": "益家攻略东营王府井店",
         "mall": "益家攻略东营王府井店",
@@ -1856,6 +2121,7 @@
     },
     "1403": {
         "machineCount": 3,
+        "id": "1403",
         "province": "北京",
         "arcadeName": "插电师电玩北京西单大悦城店",
         "mall": "插电师电玩北京西单大悦城店",
@@ -1863,6 +2129,7 @@
     },
     "1405": {
         "machineCount": 1,
+        "id": "1405",
         "province": "广东",
         "arcadeName": "大玩家广州萝岗万达店",
         "mall": "大玩家广州萝岗万达店",
@@ -1870,6 +2137,7 @@
     },
     "1406": {
         "machineCount": 1,
+        "id": "1406",
         "province": "广西",
         "arcadeName": "大玩家南宁江南万达店",
         "mall": "大玩家南宁江南万达店",
@@ -1877,6 +2145,7 @@
     },
     "1407": {
         "machineCount": 1,
+        "id": "1407",
         "province": "陕西",
         "arcadeName": "大玩家西安大明宫万达店",
         "mall": "大玩家西安大明宫万达店",
@@ -1884,6 +2153,7 @@
     },
     "1408": {
         "machineCount": 1,
+        "id": "1408",
         "province": "湖南",
         "arcadeName": "大玩家益阳赫山万达店",
         "mall": "大玩家益阳赫山万达店",
@@ -1891,6 +2161,7 @@
     },
     "1409": {
         "machineCount": 1,
+        "id": "1409",
         "province": "福建",
         "arcadeName": "大玩家福州福清万达店",
         "mall": "大玩家福州福清万达店",
@@ -1898,6 +2169,7 @@
     },
     "1410": {
         "machineCount": 1,
+        "id": "1410",
         "province": "江苏",
         "arcadeName": "大玩家南京建邺万达店",
         "mall": "大玩家南京建邺万达店",
@@ -1905,6 +2177,7 @@
     },
     "1411": {
         "machineCount": 1,
+        "id": "1411",
         "province": "甘肃",
         "arcadeName": "大玩家兰州城关万达店",
         "mall": "大玩家兰州城关万达店",
@@ -1912,6 +2185,7 @@
     },
     "1412": {
         "machineCount": 1,
+        "id": "1412",
         "province": "上海",
         "arcadeName": "大玩家上海松江万达店",
         "mall": "大玩家上海松江万达店",
@@ -1919,6 +2193,7 @@
     },
     "1413": {
         "machineCount": 1,
+        "id": "1413",
         "province": "福建",
         "arcadeName": "大玩家福州金融街万达店",
         "mall": "大玩家福州金融街万达店",
@@ -1926,6 +2201,7 @@
     },
     "1414": {
         "machineCount": 1,
+        "id": "1414",
         "province": "上海",
         "arcadeName": "大玩家上海金山万达店",
         "mall": "大玩家上海金山万达店",
@@ -1933,6 +2209,7 @@
     },
     "1415": {
         "machineCount": 1,
+        "id": "1415",
         "province": "山东",
         "arcadeName": "威龙传奇潍坊奎文店",
         "mall": "威龙传奇潍坊奎文店",
@@ -1940,6 +2217,7 @@
     },
     "1417": {
         "machineCount": 2,
+        "id": "1417",
         "province": "广东",
         "arcadeName": "哇哇哇游乐城广州天河正佳店",
         "mall": "哇哇哇游乐城广州天河正佳店",
@@ -1947,6 +2225,7 @@
     },
     "1418": {
         "machineCount": 1,
+        "id": "1418",
         "province": "江苏",
         "arcadeName": "大玩家常州新北万达店",
         "mall": "大玩家常州新北万达店",
@@ -1954,6 +2233,7 @@
     },
     "1419": {
         "machineCount": 1,
+        "id": "1419",
         "province": "四川",
         "arcadeName": "大玩家成都金牛二店",
         "mall": "大玩家成都金牛二店",
@@ -1961,6 +2241,7 @@
     },
     "1420": {
         "machineCount": 1,
+        "id": "1420",
         "province": "湖北",
         "arcadeName": "奇奇乐园随州曾都店",
         "mall": "奇奇乐园随州曾都店",
@@ -1968,6 +2249,7 @@
     },
     "1421": {
         "machineCount": 1,
+        "id": "1421",
         "province": "陕西",
         "arcadeName": "大玩家西安民乐园万达店",
         "mall": "大玩家西安民乐园万达店",
@@ -1975,6 +2257,7 @@
     },
     "1422": {
         "machineCount": 1,
+        "id": "1422",
         "province": "福建",
         "arcadeName": "大玩家厦门集美万达店",
         "mall": "大玩家厦门集美万达店",
@@ -1982,6 +2265,7 @@
     },
     "1423": {
         "machineCount": 1,
+        "id": "1423",
         "province": "四川",
         "arcadeName": "大玩家成都锦江万达店",
         "mall": "大玩家成都锦江万达店",
@@ -1989,6 +2273,7 @@
     },
     "1424": {
         "machineCount": 1,
+        "id": "1424",
         "province": "辽宁",
         "arcadeName": "乐贪玩沈阳和平印象城店",
         "mall": "乐贪玩沈阳和平印象城店",
@@ -1996,6 +2281,7 @@
     },
     "1425": {
         "machineCount": 1,
+        "id": "1425",
         "province": "江苏",
         "arcadeName": "城市英雄扬州邗江吾悦广场店",
         "mall": "城市英雄扬州邗江吾悦广场店",
@@ -2003,6 +2289,7 @@
     },
     "1426": {
         "machineCount": 1,
+        "id": "1426",
         "province": "河北",
         "arcadeName": "大玩家唐山南区万达店",
         "mall": "大玩家唐山南区万达店",
@@ -2010,6 +2297,7 @@
     },
     "1427": {
         "machineCount": 1,
+        "id": "1427",
         "province": "湖南",
         "arcadeName": "积木熊衡阳南岳店",
         "mall": "积木熊衡阳南岳店",
@@ -2017,6 +2305,7 @@
     },
     "1428": {
         "machineCount": 1,
+        "id": "1428",
         "province": "江苏",
         "arcadeName": "大玩家无锡滨湖万达店",
         "mall": "大玩家无锡滨湖万达店",
@@ -2024,6 +2313,7 @@
     },
     "1429": {
         "machineCount": 1,
+        "id": "1429",
         "province": "广东",
         "arcadeName": "晴空超乐场揭阳揭东店",
         "mall": "晴空超乐场揭阳揭东店",
@@ -2031,6 +2321,7 @@
     },
     "1430": {
         "machineCount": 2,
+        "id": "1430",
         "province": "浙江",
         "arcadeName": "杭州神采飞扬城西银泰第一回合店",
         "mall": "杭州神采飞扬城西银泰第一回合店",
@@ -2038,6 +2329,7 @@
     },
     "1431": {
         "machineCount": 1,
+        "id": "1431",
         "province": "湖南",
         "arcadeName": "101电玩长沙芙蓉万家丽店",
         "mall": "101电玩长沙芙蓉万家丽店",
@@ -2045,6 +2337,7 @@
     },
     "1432": {
         "machineCount": 1,
+        "id": "1432",
         "province": "河南",
         "arcadeName": "驻马店爱玩星球",
         "mall": "驻马店爱玩星球",
@@ -2052,6 +2345,7 @@
     },
     "1434": {
         "machineCount": 2,
+        "id": "1434",
         "province": "湖北",
         "arcadeName": "奇奇乐园襄阳高新店",
         "mall": "奇奇乐园襄阳高新店",
@@ -2059,6 +2353,7 @@
     },
     "1435": {
         "machineCount": 2,
+        "id": "1435",
         "province": "湖北",
         "arcadeName": "奇奇乐园襄阳樊城天元店",
         "mall": "奇奇乐园襄阳樊城天元店",
@@ -2066,6 +2361,7 @@
     },
     "1436": {
         "machineCount": 2,
+        "id": "1436",
         "province": "湖北",
         "arcadeName": "都市玩家襄阳樊城店",
         "mall": "都市玩家襄阳樊城店",
@@ -2073,6 +2369,7 @@
     },
     "1437": {
         "machineCount": 1,
+        "id": "1437",
         "province": "湖北",
         "arcadeName": "奇奇乐园随州水西门店",
         "mall": "奇奇乐园随州水西门店",
@@ -2080,6 +2377,7 @@
     },
     "1438": {
         "machineCount": 1,
+        "id": "1438",
         "province": "湖北",
         "arcadeName": "真快活仙桃武商店",
         "mall": "真快活仙桃武商店",
@@ -2087,6 +2385,7 @@
     },
     "1439": {
         "machineCount": 1,
+        "id": "1439",
         "province": "广东",
         "arcadeName": "拿酷科幻城湛江赤坎店",
         "mall": "拿酷科幻城湛江赤坎店",
@@ -2094,6 +2393,7 @@
     },
     "1440": {
         "machineCount": 1,
+        "id": "1440",
         "province": "北京",
         "arcadeName": "北京丰台莱蜜欢乐城",
         "mall": "北京丰台莱蜜欢乐城",
@@ -2101,6 +2401,7 @@
     },
     "1441": {
         "machineCount": 2,
+        "id": "1441",
         "province": "湖北",
         "arcadeName": "都市玩家荆门掇刀万达店",
         "mall": "都市玩家荆门掇刀万达店",
@@ -2108,6 +2409,7 @@
     },
     "1442": {
         "machineCount": 2,
+        "id": "1442",
         "province": "安徽",
         "arcadeName": "风云再起宿州苏宁广场店",
         "mall": "风云再起宿州苏宁广场店",
@@ -2115,6 +2417,7 @@
     },
     "1443": {
         "machineCount": 1,
+        "id": "1443",
         "province": "云南",
         "arcadeName": "克罗米星VR电玩1903店",
         "mall": "克罗米星VR电玩1903店",
@@ -2122,6 +2425,7 @@
     },
     "1445": {
         "machineCount": 1,
+        "id": "1445",
         "province": "江苏",
         "arcadeName": "风云再起南京浦口弘扬广场店",
         "mall": "风云再起南京浦口弘扬广场店",
@@ -2129,6 +2433,7 @@
     },
     "1446": {
         "machineCount": 1,
+        "id": "1446",
         "province": "重庆",
         "arcadeName": "爱玩嘉年华江北观音桥店",
         "mall": "爱玩嘉年华江北观音桥店",
@@ -2136,6 +2441,7 @@
     },
     "1447": {
         "machineCount": 1,
+        "id": "1447",
         "province": "天津",
         "arcadeName": "PPG潮玩汇天津店",
         "mall": "PPG潮玩汇",
@@ -2143,6 +2449,7 @@
     },
     "1448": {
         "machineCount": 2,
+        "id": "1448",
         "province": "浙江",
         "arcadeName": "神采飞扬宁波万达店",
         "mall": "神采飞扬宁波万达店",
@@ -2150,6 +2457,7 @@
     },
     "1449": {
         "machineCount": 2,
+        "id": "1449",
         "province": "江苏",
         "arcadeName": "第一回合南通中南城店",
         "mall": "第一回合南通中南城店",
@@ -2157,6 +2465,7 @@
     },
     "1450": {
         "machineCount": 1,
+        "id": "1450",
         "province": "浙江",
         "arcadeName": "木马王国杭州江干店",
         "mall": "木马王国杭州江干店",
@@ -2164,6 +2473,7 @@
     },
     "1451": {
         "machineCount": 1,
+        "id": "1451",
         "province": "辽宁",
         "arcadeName": "环游时代电玩盘锦兴隆店",
         "mall": "环游时代电玩盘锦兴隆店",
@@ -2171,6 +2481,7 @@
     },
     "1452": {
         "machineCount": 1,
+        "id": "1452",
         "province": "广东",
         "arcadeName": "极客森深圳万科里店",
         "mall": "极客森深圳万科里店",
@@ -2178,6 +2489,7 @@
     },
     "1454": {
         "machineCount": 1,
+        "id": "1454",
         "province": "四川",
         "arcadeName": "成都银泰城第一回合",
         "mall": "成都银泰城第一回合",
@@ -2185,6 +2497,7 @@
     },
     "1455": {
         "machineCount": 1,
+        "id": "1455",
         "province": "江苏",
         "arcadeName": "第一回合苏州中心店",
         "mall": "第一回合苏州中心店",
@@ -2192,6 +2505,7 @@
     },
     "1456": {
         "machineCount": 2,
+        "id": "1456",
         "province": "江苏",
         "arcadeName": "第一回合宜兴八佰伴店",
         "mall": "第一回合宜兴八佰伴店",
@@ -2199,6 +2513,7 @@
     },
     "1457": {
         "machineCount": 2,
+        "id": "1457",
         "province": "广东",
         "arcadeName": "星河奇迹佛山王府井紫薇港店",
         "mall": "星河奇迹佛山王府井紫薇港店",
@@ -2206,6 +2521,7 @@
     },
     "1458": {
         "machineCount": 1,
+        "id": "1458",
         "province": "北京",
         "arcadeName": "北京莱利嘉年华",
         "mall": "北京莱利嘉年华",
@@ -2213,6 +2529,7 @@
     },
     "1459": {
         "machineCount": 1,
+        "id": "1459",
         "province": "重庆",
         "arcadeName": "爱玩嘉年华金沙店娱乐厅",
         "mall": "爱玩嘉年华金沙店娱乐厅",
@@ -2220,6 +2537,7 @@
     },
     "1460": {
         "machineCount": 1,
+        "id": "1460",
         "province": "河北",
         "arcadeName": "大玩家石家庄裕华万达店",
         "mall": "大玩家石家庄裕华万达店",
@@ -2227,6 +2545,7 @@
     },
     "1461": {
         "machineCount": 1,
+        "id": "1461",
         "province": "广东",
         "arcadeName": "奥纪电玩城汕尾明珠店",
         "mall": "奥纪电玩城汕尾明珠店",
@@ -2234,6 +2553,7 @@
     },
     "1462": {
         "machineCount": 1,
+        "id": "1462",
         "province": "湖南",
         "arcadeName": "星月方舟动漫湖南宁乡翡翠广场店",
         "mall": "星月方舟动漫湖南宁乡翡翠广场店",
@@ -2241,6 +2561,7 @@
     },
     "1463": {
         "machineCount": 1,
+        "id": "1463",
         "province": "广西",
         "arcadeName": "风云再起南宁朝阳路店",
         "mall": "风云再起南宁朝阳路店",
@@ -2248,6 +2569,7 @@
     },
     "1464": {
         "machineCount": 1,
+        "id": "1464",
         "province": "湖北",
         "arcadeName": "星际传奇武汉恒隆广场店",
         "mall": "星际传奇武汉恒隆广场店",
@@ -2255,6 +2577,7 @@
     },
     "1465": {
         "machineCount": 1,
+        "id": "1465",
         "province": "河南",
         "arcadeName": "玩美世界e动城郑州店",
         "mall": "玩美世界e动城郑州店",
@@ -2262,6 +2585,7 @@
     },
     "1466": {
         "machineCount": 1,
+        "id": "1466",
         "province": "广东",
         "arcadeName": "好玩谷动漫游戏主题乐园东莞店",
         "mall": "好玩谷动漫游戏主题乐园东莞店",
@@ -2269,6 +2593,7 @@
     },
     "1467": {
         "machineCount": 2,
+        "id": "1467",
         "province": "辽宁",
         "arcadeName": "欢乐城市嘉年华沈阳沈河店",
         "mall": "欢乐城市嘉年华沈阳沈河店",
@@ -2276,6 +2601,7 @@
     },
     "1468": {
         "machineCount": 1,
+        "id": "1468",
         "province": "北京",
         "arcadeName": "星际传奇北京丰台丽泽天街店",
         "mall": "星际传奇北京丰台丽泽天街店",
@@ -2283,6 +2609,7 @@
     },
     "1469": {
         "machineCount": 1,
+        "id": "1469",
         "province": "四川",
         "arcadeName": "酷漫总动员成都郫都店",
         "mall": "酷漫总动员成都郫都店",
@@ -2290,6 +2617,7 @@
     },
     "1470": {
         "machineCount": 2,
+        "id": "1470",
         "province": "广东",
         "arcadeName": "游戏童年PLAYGROW佛山顺德店",
         "mall": "游戏童年PLAYGROW佛山顺德店",
@@ -2297,6 +2625,7 @@
     },
     "1471": {
         "machineCount": 1,
+        "id": "1471",
         "province": "湖北",
         "arcadeName": "小酋长武汉江汉店",
         "mall": "小酋长武汉江汉店",
@@ -2304,6 +2633,7 @@
     },
     "1472": {
         "machineCount": 1,
+        "id": "1472",
         "province": "四川",
         "arcadeName": "星际传奇成都龙泉驿世茂店",
         "mall": "星际传奇成都龙泉驿世茂店",
@@ -2311,6 +2641,7 @@
     },
     "1473": {
         "machineCount": 1,
+        "id": "1473",
         "province": "辽宁",
         "arcadeName": "金色年华电玩沙龙于洪店",
         "mall": "金色年华电玩沈阳于洪新玛特店",
@@ -2318,6 +2649,7 @@
     },
     "1474": {
         "machineCount": 1,
+        "id": "1474",
         "province": "重庆",
         "arcadeName": "星际传奇渝北光环商场店",
         "mall": "星际传奇渝北光环商场店",
@@ -2325,6 +2657,7 @@
     },
     "1475": {
         "machineCount": 1,
+        "id": "1475",
         "province": "江苏",
         "arcadeName": "纷纷乐园扬州邗江文昌店",
         "mall": "纷纷乐园扬州邗江文昌店",
@@ -2332,6 +2665,7 @@
     },
     "1476": {
         "machineCount": 1,
+        "id": "1476",
         "province": "北京",
         "arcadeName": "嘉贝乐电玩北京丰台永旺店",
         "mall": "嘉贝乐电玩北京丰台永旺店",
@@ -2339,6 +2673,7 @@
     },
     "1477": {
         "machineCount": 1,
+        "id": "1477",
         "province": "天津",
         "arcadeName": "王者之风电玩天津金都店",
         "mall": "王者之风电玩天津金都店",
@@ -2346,6 +2681,7 @@
     },
     "1479": {
         "machineCount": 2,
+        "id": "1479",
         "province": "上海",
         "arcadeName": "汤姆熊上海浦东lalaport店",
         "mall": "汤姆熊上海浦东lalaport店",
@@ -2353,6 +2689,7 @@
     },
     "1480": {
         "machineCount": 2,
+        "id": "1480",
         "province": "山东",
         "arcadeName": "小勇士家庭娱乐中心济南店",
         "mall": "小勇士家庭娱乐中心济南店",
@@ -2360,6 +2697,7 @@
     },
     "1481": {
         "machineCount": 1,
+        "id": "1481",
         "province": "河南",
         "arcadeName": "头号玩家洛阳泉舜店",
         "mall": "头号玩家洛阳泉舜店",
@@ -2367,6 +2705,7 @@
     },
     "1482": {
         "machineCount": 1,
+        "id": "1482",
         "province": "湖南",
         "arcadeName": "头号玩家长沙雨花凯德广场店",
         "mall": "头号玩家长沙雨花凯德广场店",
@@ -2374,6 +2713,7 @@
     },
     "1483": {
         "machineCount": 1,
+        "id": "1483",
         "province": "四川",
         "arcadeName": "汤姆熊成都温江珠江广场店",
         "mall": "汤姆熊成都温江珠江广场店",
@@ -2381,6 +2721,7 @@
     },
     "1484": {
         "machineCount": 1,
+        "id": "1484",
         "province": "山东",
         "arcadeName": "大风车威海嘉禾天地店",
         "mall": "大风车威海嘉禾天地店",
@@ -2388,6 +2729,7 @@
     },
     "1486": {
         "machineCount": 2,
+        "id": "1486",
         "province": "河南",
         "arcadeName": "玩美世界e动城太康路店",
         "mall": "玩美世界e动城太康路店",
@@ -2395,6 +2737,7 @@
     },
     "1487": {
         "machineCount": 1,
+        "id": "1487",
         "province": "广东",
         "arcadeName": "惠州美多儿童游乐城",
         "mall": "惠州美多儿童游乐城",
@@ -2402,6 +2745,7 @@
     },
     "1488": {
         "machineCount": 1,
+        "id": "1488",
         "province": "山西",
         "arcadeName": "io派对工坊朔州店",
         "mall": "io派对工坊朔州店",
@@ -2409,6 +2753,7 @@
     },
     "1489": {
         "machineCount": 1,
+        "id": "1489",
         "province": "福建",
         "arcadeName": "星际传奇厦门集美世贸店",
         "mall": "星际传奇厦门集美世贸店",
@@ -2416,6 +2761,7 @@
     },
     "1491": {
         "machineCount": 1,
+        "id": "1491",
         "province": "福建",
         "arcadeName": "太空球乐园福州晋安店",
         "mall": "太空球乐园福州晋安店",
@@ -2423,6 +2769,7 @@
     },
     "1493": {
         "machineCount": 1,
+        "id": "1493",
         "province": "江苏",
         "arcadeName": "天空之城扬州三盛店",
         "mall": "天空之城扬州三盛店",
@@ -2430,6 +2777,7 @@
     },
     "1494": {
         "machineCount": 1,
+        "id": "1494",
         "province": "山东",
         "arcadeName": "偶予电玩青岛宝龙店",
         "mall": "偶予电玩青岛宝龙店",
@@ -2437,6 +2785,7 @@
     },
     "1496": {
         "machineCount": 2,
+        "id": "1496",
         "province": "江西",
         "arcadeName": "幸运星南昌万象汇店",
         "mall": "幸运星南昌万象汇店",
@@ -2444,6 +2793,7 @@
     },
     "1497": {
         "machineCount": 1,
+        "id": "1497",
         "province": "贵州",
         "arcadeName": "欢乐嘉时光六盘水钟山店",
         "mall": "欢乐嘉时光六盘水钟山店",
@@ -2451,6 +2801,7 @@
     },
     "1498": {
         "machineCount": 1,
+        "id": "1498",
         "province": "山东",
         "arcadeName": "慢车道欢聚中心泰安吾悦店",
         "mall": "慢车道欢聚中心泰安吾悦店",
@@ -2458,6 +2809,7 @@
     },
     "1499": {
         "machineCount": 1,
+        "id": "1499",
         "province": "浙江",
         "arcadeName": "摩兜欢乐岛黄岩吾悦店",
         "mall": "摩兜欢乐岛黄岩吾悦店",
@@ -2465,6 +2817,7 @@
     },
     "1500": {
         "machineCount": 1,
+        "id": "1500",
         "province": "湖南",
         "arcadeName": "星城战记长沙开福万达店",
         "mall": "星城战记长沙开福万达店",
@@ -2472,6 +2825,7 @@
     },
     "1501": {
         "machineCount": 2,
+        "id": "1501",
         "province": "安徽",
         "arcadeName": "super101合肥店",
         "mall": "super101合肥店",
@@ -2479,6 +2833,7 @@
     },
     "1502": {
         "machineCount": 1,
+        "id": "1502",
         "province": "广东",
         "arcadeName": "星际传奇光明大仟里店",
         "mall": "星际传奇光明大仟里店",
@@ -2486,6 +2841,7 @@
     },
     "1503": {
         "machineCount": 1,
+        "id": "1503",
         "province": "广东",
         "arcadeName": "晴空超乐场汕头峡山店",
         "mall": "晴空超乐场汕头峡山店",
@@ -2493,6 +2849,7 @@
     },
     "1504": {
         "machineCount": 1,
+        "id": "1504",
         "province": "北京",
         "arcadeName": "treasure dream北京店",
         "mall": "treasure dream北京店",
@@ -2500,6 +2857,7 @@
     },
     "1505": {
         "machineCount": 1,
+        "id": "1505",
         "province": "湖南",
         "arcadeName": "反斗星长沙岳麓店",
         "mall": "反斗星长沙岳麓店",
@@ -2507,6 +2865,7 @@
     },
     "1507": {
         "machineCount": 1,
+        "id": "1507",
         "province": "上海",
         "arcadeName": "星乐荟上海闵行华侨城店",
         "mall": "星乐荟上海闵行华侨城店",
@@ -2514,6 +2873,7 @@
     },
     "1508": {
         "machineCount": 4,
+        "id": "1508",
         "province": "广东",
         "arcadeName": "朗玩广州新塘永旺店",
         "mall": "朗玩广州新塘永旺店",
@@ -2521,6 +2881,7 @@
     },
     "1509": {
         "machineCount": 1,
+        "id": "1509",
         "province": "天津",
         "arcadeName": "11Lab天津店",
         "mall": "11Lab天津店",
@@ -2528,6 +2889,7 @@
     },
     "1510": {
         "machineCount": 3,
+        "id": "1510",
         "province": "山东",
         "arcadeName": "星际传奇济南融创茂店",
         "mall": "反斗星济南融创茂店",
@@ -2535,6 +2897,7 @@
     },
     "1511": {
         "machineCount": 1,
+        "id": "1511",
         "province": "安徽",
         "arcadeName": "天空之城合肥蜀山之心店",
         "mall": "天空之城合肥蜀山之心店",
@@ -2542,6 +2905,7 @@
     },
     "1512": {
         "machineCount": 1,
+        "id": "1512",
         "province": "河北",
         "arcadeName": "真快活三河燕郊永旺店",
         "mall": "真快活三河燕郊永旺店",
@@ -2549,6 +2913,7 @@
     },
     "1513": {
         "machineCount": 1,
+        "id": "1513",
         "province": "河南",
         "arcadeName": "玩美世界e动城南阳店",
         "mall": "玩美世界e动城南阳店",
@@ -2556,6 +2921,7 @@
     },
     "1514": {
         "machineCount": 1,
+        "id": "1514",
         "province": "吉林",
         "arcadeName": "汤姆熊延吉店",
         "mall": "汤姆熊延吉店",
@@ -2563,6 +2929,7 @@
     },
     "1516": {
         "machineCount": 1,
+        "id": "1516",
         "province": "广西",
         "arcadeName": "乐趣时代贵港港北店",
         "mall": "乐趣时代贵港港北店",
@@ -2570,6 +2937,7 @@
     },
     "1517": {
         "machineCount": 1,
+        "id": "1517",
         "province": "青海",
         "arcadeName": "大玩家西宁万达店",
         "mall": "大玩家西宁万达店",
@@ -2577,6 +2945,7 @@
     },
     "1518": {
         "machineCount": 1,
+        "id": "1518",
         "province": "甘肃",
         "arcadeName": "PPG潮玩汇兰州店",
         "mall": "PPG潮玩汇兰州店",
@@ -2584,6 +2953,7 @@
     },
     "1519": {
         "machineCount": 1,
+        "id": "1519",
         "province": "浙江",
         "arcadeName": "大玩家杭州富阳万达店",
         "mall": "大玩家杭州富阳万达店",
@@ -2591,6 +2961,7 @@
     },
     "1520": {
         "machineCount": 1,
+        "id": "1520",
         "province": "湖南",
         "arcadeName": "嗨倍堂长沙宁乡吾悦广场店",
         "mall": "嗨倍堂长沙宁乡吾悦广场店",
@@ -2598,6 +2969,7 @@
     },
     "1521": {
         "machineCount": 1,
+        "id": "1521",
         "province": "湖南",
         "arcadeName": "星城战记衡阳万达店",
         "mall": "星城战记衡阳万达店",
@@ -2605,6 +2977,7 @@
     },
     "1522": {
         "machineCount": 1,
+        "id": "1522",
         "province": "湖南",
         "arcadeName": "子洋联盟长沙望城奥莱店",
         "mall": "子洋联盟长沙望城奥莱店",
@@ -2612,6 +2985,7 @@
     },
     "1523": {
         "machineCount": 1,
+        "id": "1523",
         "province": "辽宁",
         "arcadeName": "东方英雄鞍山奥莱店",
         "mall": "东方英雄鞍山奥莱店",
@@ -2619,6 +2993,7 @@
     },
     "1524": {
         "machineCount": 1,
+        "id": "1524",
         "province": "湖北",
         "arcadeName": "龙小湖世界武汉江宸天街店",
         "mall": "龙小湖世界武汉江宸天街店",
@@ -2626,6 +3001,7 @@
     },
     "1525": {
         "machineCount": 3,
+        "id": "1525",
         "province": "北京",
         "arcadeName": "风云再起北京北投爱琴海店",
         "mall": "风云再起北京北投爱琴海店",
@@ -2633,6 +3009,7 @@
     },
     "1526": {
         "machineCount": 2,
+        "id": "1526",
         "province": "湖北",
         "arcadeName": "星际传奇武汉龙湖江宸天街店",
         "mall": "星际传奇武汉龙湖江宸天街店",
@@ -2640,6 +3017,7 @@
     },
     "1527": {
         "machineCount": 1,
+        "id": "1527",
         "province": "上海",
         "arcadeName": "汤姆熊上海环球港店",
         "mall": "汤姆熊上海环球港店",
@@ -2647,6 +3025,7 @@
     },
     "1528": {
         "machineCount": 1,
+        "id": "1528",
         "province": "江苏",
         "arcadeName": "星际传奇泰州万象城店",
         "mall": "星际传奇泰州万象城店",
@@ -2654,6 +3033,7 @@
     },
     "1529": {
         "machineCount": 2,
+        "id": "1529",
         "province": "湖北",
         "arcadeName": "乐传动漫襄阳樊城店",
         "mall": "乐传动漫襄阳樊城店",
@@ -2661,6 +3041,7 @@
     },
     "1530": {
         "machineCount": 1,
+        "id": "1530",
         "province": "湖南",
         "arcadeName": "城市英雄长沙荟聚店",
         "mall": "城市英雄长沙荟聚店",
@@ -2668,6 +3049,7 @@
     },
     "1531": {
         "machineCount": 1,
+        "id": "1531",
         "province": "山东",
         "arcadeName": "迪卡丘菏泽牡丹店",
         "mall": "迪卡丘菏泽牡丹店",
@@ -2675,6 +3057,7 @@
     },
     "1532": {
         "machineCount": 1,
+        "id": "1532",
         "province": "江苏",
         "arcadeName": "反斗乐园南京浦口万象汇店",
         "mall": "反斗乐园南京浦口万象汇店",
@@ -2682,6 +3065,7 @@
     },
     "1533": {
         "machineCount": 1,
+        "id": "1533",
         "province": "北京",
         "arcadeName": "阿凡达北京海淀店",
         "mall": "阿凡达北京海淀店",
@@ -2689,6 +3073,7 @@
     },
     "1534": {
         "machineCount": 2,
+        "id": "1534",
         "province": "湖南",
         "arcadeName": "子洋联盟长沙雨花店",
         "mall": "子洋联盟长沙雨花店",
@@ -2696,6 +3081,7 @@
     },
     "1535": {
         "machineCount": 1,
+        "id": "1535",
         "province": "新疆",
         "arcadeName": "环游嘉年华乌鲁木齐汇嘉店",
         "mall": "环游嘉年华乌鲁木齐汇嘉店",
@@ -2703,6 +3089,7 @@
     },
     "1536": {
         "machineCount": 1,
+        "id": "1536",
         "province": "广东",
         "arcadeName": "星际传奇深圳前海欢乐港湾店",
         "mall": "星际传奇深圳前海欢乐港湾店",
@@ -2710,6 +3097,7 @@
     },
     "1537": {
         "machineCount": 1,
+        "id": "1537",
         "province": "河北",
         "arcadeName": "米乐多邯郸丛台店",
         "mall": "米乐多邯郸丛台店",
@@ -2717,6 +3105,7 @@
     },
     "1538": {
         "machineCount": 1,
+        "id": "1538",
         "province": "天津",
         "arcadeName": "大玩家天津东丽万达店",
         "mall": "大玩家天津东丽万达店",
@@ -2724,6 +3113,7 @@
     },
     "1539": {
         "machineCount": 1,
+        "id": "1539",
         "province": "陕西",
         "arcadeName": "环游嘉年华西安环球港店",
         "mall": "环游嘉年华西安环球港店",
@@ -2731,6 +3121,7 @@
     },
     "1540": {
         "machineCount": 1,
+        "id": "1540",
         "province": "湖南",
         "arcadeName": "萌漫公社衡阳蒸湘店",
         "mall": "萌漫公社衡阳蒸湘店",
@@ -2738,6 +3129,7 @@
     },
     "1541": {
         "machineCount": 1,
+        "id": "1541",
         "province": "广东",
         "arcadeName": "米其动漫茂名店",
         "mall": "米其动漫茂名店",
@@ -2745,6 +3137,7 @@
     },
     "1542": {
         "machineCount": 1,
+        "id": "1542",
         "province": "山东",
         "arcadeName": "韩多多梦幻城威海店",
         "mall": "韩多多梦幻城威海店",
@@ -2752,6 +3145,7 @@
     },
     "1543": {
         "machineCount": 2,
+        "id": "1543",
         "province": "陕西",
         "arcadeName": "极客森超乐场西安店",
         "mall": "极客森超乐场西安店",
@@ -2759,6 +3153,7 @@
     },
     "1544": {
         "machineCount": 1,
+        "id": "1544",
         "province": "河南",
         "arcadeName": "淘乐幻享许昌魏都店",
         "mall": "淘乐幻享许昌魏都店",
@@ -2766,6 +3161,7 @@
     },
     "1545": {
         "machineCount": 2,
+        "id": "1545",
         "province": "四川",
         "arcadeName": "风云再起成都凯德店",
         "mall": "风云再起成都凯德店",
@@ -2773,6 +3169,7 @@
     },
     "1546": {
         "machineCount": 1,
+        "id": "1546",
         "province": "辽宁",
         "arcadeName": "大玩家大连周水子万达店",
         "mall": "大玩家大连周水子万达店",
@@ -2780,6 +3177,7 @@
     },
     "1547": {
         "machineCount": 1,
+        "id": "1547",
         "province": "广东",
         "arcadeName": "晴空超乐场揭阳普宁店",
         "mall": "晴空超乐场揭阳普宁店",
@@ -2787,6 +3185,7 @@
     },
     "1548": {
         "machineCount": 1,
+        "id": "1548",
         "province": "上海",
         "arcadeName": "聚玩堂上海龙之梦店",
         "mall": "聚玩堂上海龙之梦店",
@@ -2794,6 +3193,7 @@
     },
     "1549": {
         "machineCount": 1,
+        "id": "1549",
         "province": "山东",
         "arcadeName": "嘻游玩家德州店",
         "mall": "嘻游玩家德州店",
@@ -2801,6 +3201,7 @@
     },
     "1550": {
         "machineCount": 1,
+        "id": "1550",
         "province": "江苏",
         "arcadeName": "沭阳宝乐城宿迁沐阳店",
         "mall": "沭阳宝乐城宿迁沐阳店",
@@ -2808,6 +3209,7 @@
     },
     "1553": {
         "machineCount": 2,
+        "id": "1553",
         "province": "湖北",
         "arcadeName": "真快活武汉硚口荟聚店",
         "mall": "真快活武汉硚口荟聚店",
@@ -2815,6 +3217,7 @@
     },
     "1554": {
         "machineCount": 1,
+        "id": "1554",
         "province": "云南",
         "arcadeName": "骇客码头昆明五华百大店",
         "mall": "骇客码头昆明五华百大店",
@@ -2822,6 +3225,7 @@
     },
     "1555": {
         "machineCount": 2,
+        "id": "1555",
         "province": "广西",
         "arcadeName": "游壹番柳州兴隆店",
         "mall": "游壹番柳州兴隆店",
@@ -2829,6 +3233,7 @@
     },
     "1556": {
         "machineCount": 3,
+        "id": "1556",
         "province": "湖北",
         "arcadeName": "嗨玩队长武汉光谷店",
         "mall": "嗨玩队长武汉光谷店",
@@ -2836,6 +3241,7 @@
     },
     "1557": {
         "machineCount": 1,
+        "id": "1557",
         "province": "内蒙古",
         "arcadeName": "大玩家赤峰松山万达店",
         "mall": "大玩家赤峰松山万达店",
@@ -2843,6 +3249,7 @@
     },
     "1558": {
         "machineCount": 1,
+        "id": "1558",
         "province": "贵州",
         "arcadeName": "梦幻雨林铜仁大十字店",
         "mall": "梦幻雨林贵阳大十字店",
@@ -2850,6 +3257,7 @@
     },
     "1559": {
         "machineCount": 1,
+        "id": "1559",
         "province": "黑龙江",
         "arcadeName": "大玩家齐齐哈尔万达店",
         "mall": "大玩家齐齐哈尔万达店",
@@ -2857,6 +3265,7 @@
     },
     "1560": {
         "machineCount": 1,
+        "id": "1560",
         "province": "广东",
         "arcadeName": "星际传奇深圳海雅缤纷城店",
         "mall": "星际传奇深圳海雅缤纷城店",
@@ -2864,6 +3273,7 @@
     },
     "1561": {
         "machineCount": 1,
+        "id": "1561",
         "province": "广东",
         "arcadeName": "疯狂牛仔城佛山南海店",
         "mall": "疯狂牛仔城佛山南海店",
@@ -2871,6 +3281,7 @@
     },
     "1562": {
         "machineCount": 1,
+        "id": "1562",
         "province": "江苏",
         "arcadeName": "星悦蓝海欢乐园苏州店",
         "mall": "星悦蓝海欢乐园苏州店",
@@ -2878,6 +3289,7 @@
     },
     "1563": {
         "machineCount": 1,
+        "id": "1563",
         "province": "内蒙古",
         "arcadeName": "贝乐迪动漫城乌兰察布集宁店",
         "mall": "贝乐迪动漫城乌兰察布集宁店",
@@ -2885,6 +3297,7 @@
     },
     "1564": {
         "machineCount": 1,
+        "id": "1564",
         "province": "青海",
         "arcadeName": "大玩家西宁城北万达店",
         "mall": "大玩家西宁城北万达店",
@@ -2892,6 +3305,7 @@
     },
     "1565": {
         "machineCount": 1,
+        "id": "1565",
         "province": "上海",
         "arcadeName": "企萌电玩上海浦东店",
         "mall": "企萌电玩上海浦东店",
@@ -2899,6 +3313,7 @@
     },
     "1566": {
         "machineCount": 1,
+        "id": "1566",
         "province": "黑龙江",
         "arcadeName": "超级星座哈尔滨香坊店",
         "mall": "超级星座哈尔滨香坊店",
@@ -2906,6 +3321,7 @@
     },
     "1567": {
         "machineCount": 1,
+        "id": "1567",
         "province": "天津",
         "arcadeName": "宠娃星球天津武清店",
         "mall": "宠娃星球天津武清店",
@@ -2913,6 +3329,7 @@
     },
     "1568": {
         "machineCount": 1,
+        "id": "1568",
         "province": "山东",
         "arcadeName": "AREA-51区超级乐园青岛永旺店",
         "mall": "AREA-51区超级乐园青岛永旺店",
@@ -2920,6 +3337,7 @@
     },
     "1569": {
         "machineCount": 1,
+        "id": "1569",
         "province": "西藏",
         "arcadeName": "大玩家拉萨堆龙德庆万达店",
         "mall": "大玩家拉萨堆龙德庆万达店",
@@ -2927,6 +3345,7 @@
     },
     "1570": {
         "machineCount": 1,
+        "id": "1570",
         "province": "黑龙江",
         "arcadeName": "大玩家哈尔滨太平桥百盛店",
         "mall": "大玩家哈尔滨太平桥百盛店",
@@ -2934,6 +3353,7 @@
     },
     "1571": {
         "machineCount": 2,
+        "id": "1571",
         "province": "河北",
         "arcadeName": "热带雨林邯郸丛台店",
         "mall": "热带雨林邯郸丛台店",
@@ -2941,6 +3361,7 @@
     },
     "1573": {
         "machineCount": 1,
+        "id": "1573",
         "province": "河北",
         "arcadeName": "天一动漫邢台襄都店",
         "mall": "天一动漫邢台襄都店",
@@ -2948,6 +3369,7 @@
     },
     "1575": {
         "machineCount": 1,
+        "id": "1575",
         "province": "浙江",
         "arcadeName": "部落酷玩金华永康店",
         "mall": "部落酷玩金华永康店",
@@ -2955,6 +3377,7 @@
     },
     "1576": {
         "machineCount": 1,
+        "id": "1576",
         "province": "浙江",
         "arcadeName": "部落酷玩温州瓯海店",
         "mall": "部落酷玩温州瓯海店",
@@ -2962,6 +3385,7 @@
     },
     "1577": {
         "machineCount": 1,
+        "id": "1577",
         "province": "福建",
         "arcadeName": "天空之城龙岩新罗万宝店",
         "mall": "天空之城龙岩新罗万宝店",
@@ -2969,6 +3393,7 @@
     },
     "1578": {
         "machineCount": 1,
+        "id": "1578",
         "province": "上海",
         "arcadeName": "汤姆熊上海闵行南方店",
         "mall": "汤姆熊上海闵行南方店",
@@ -2976,6 +3401,7 @@
     },
     "1579": {
         "machineCount": 1,
+        "id": "1579",
         "province": "河北",
         "arcadeName": "邢台信都知止商城",
         "mall": "邢台信都知止商城",
@@ -2983,6 +3409,7 @@
     },
     "1580": {
         "machineCount": 1,
+        "id": "1580",
         "province": "山西",
         "arcadeName": "潮玩世界太原万柏林店",
         "mall": "潮玩世界太原万柏林店",
@@ -2990,6 +3417,7 @@
     },
     "1581": {
         "machineCount": 1,
+        "id": "1581",
         "province": "浙江",
         "arcadeName": "秀斗城邦绍兴越城店",
         "mall": "秀斗城邦绍兴越城店",
@@ -2997,6 +3425,7 @@
     },
     "1582": {
         "machineCount": 1,
+        "id": "1582",
         "province": "广东",
         "arcadeName": "汤姆熊惠州惠东大润发店",
         "mall": "汤姆熊惠州惠东大润发店",
@@ -3004,6 +3433,7 @@
     },
     "1583": {
         "machineCount": 1,
+        "id": "1583",
         "province": "湖北",
         "arcadeName": "汤姆熊武汉销品茂店",
         "mall": "汤姆熊武汉销品茂店",
@@ -3011,6 +3441,7 @@
     },
     "1584": {
         "machineCount": 1,
+        "id": "1584",
         "province": "黑龙江",
         "arcadeName": "大玩家牡丹江西安万达店",
         "mall": "大玩家牡丹江西安万达店",
@@ -3018,6 +3449,7 @@
     },
     "1585": {
         "machineCount": 2,
+        "id": "1585",
         "province": "广东",
         "arcadeName": "广州华夏世嘉都市乐园",
         "mall": "广州华夏世嘉都市乐园",
@@ -3025,6 +3457,7 @@
     },
     "1586": {
         "machineCount": 1,
+        "id": "1586",
         "province": "广东",
         "arcadeName": "第四元素深圳罗湖IBC店",
         "mall": "第四元素深圳罗湖IBC店",
@@ -3032,6 +3465,7 @@
     },
     "1587": {
         "machineCount": 1,
+        "id": "1587",
         "province": "江西",
         "arcadeName": "梦想嘉年华抚州临川店",
         "mall": "梦想嘉年华抚州临川店",
@@ -3039,6 +3473,7 @@
     },
     "1588": {
         "machineCount": 1,
+        "id": "1588",
         "province": "广东",
         "arcadeName": "晴空超乐场潮州枫溪店",
         "mall": "晴空超乐场潮州枫溪店",
@@ -3046,6 +3481,7 @@
     },
     "1589": {
         "machineCount": 1,
+        "id": "1589",
         "province": "广东",
         "arcadeName": "一同潮玩AcePlay东莞店",
         "mall": "一同潮玩AcePlay东莞店",
@@ -3053,6 +3489,7 @@
     },
     "1591": {
         "machineCount": 1,
+        "id": "1591",
         "province": "山东",
         "arcadeName": "哈雷慧淄博张店银泰城店",
         "mall": "哈雷慧淄博张店银泰城店",
@@ -3060,6 +3497,7 @@
     },
     "1592": {
         "machineCount": 1,
+        "id": "1592",
         "province": "重庆",
         "arcadeName": "爱玩嘉年华重庆江北二店",
         "mall": "爱玩嘉年华重庆江北二店",
@@ -3067,6 +3505,7 @@
     },
     "1593": {
         "machineCount": 1,
+        "id": "1593",
         "province": "山东",
         "arcadeName": "潮玩社潍坊坊子泰华城店",
         "mall": "潮玩社潍坊坊子泰华城店",
@@ -3074,6 +3513,7 @@
     },
     "1594": {
         "machineCount": 1,
+        "id": "1594",
         "province": "山东",
         "arcadeName": "酷动乐园德州澳德乐店",
         "mall": "酷动乐园德州澳德乐店",
@@ -3081,6 +3521,7 @@
     },
     "1595": {
         "machineCount": 1,
+        "id": "1595",
         "province": "湖北",
         "arcadeName": "卡通尼武汉硚口荟聚店",
         "mall": "卡通尼武汉硚口荟聚店",
@@ -3088,6 +3529,7 @@
     },
     "1596": {
         "machineCount": 1,
+        "id": "1596",
         "province": "广东",
         "arcadeName": "大玩家揭阳榕城万达店",
         "mall": "大玩家揭阳榕城万达店",
@@ -3095,6 +3537,7 @@
     },
     "1597": {
         "machineCount": 1,
+        "id": "1597",
         "province": "安徽",
         "arcadeName": "星际传奇合肥高新店",
         "mall": "星际传奇合肥高新店",
@@ -3102,6 +3545,7 @@
     },
     "1598": {
         "machineCount": 1,
+        "id": "1598",
         "province": "广东",
         "arcadeName": "猩派玩家汕头潮阳店",
         "mall": "猩派玩家汕头潮阳店",
@@ -3109,6 +3553,7 @@
     },
     "1599": {
         "machineCount": 2,
+        "id": "1599",
         "province": "广西",
         "arcadeName": "玛丽奥电玩南宁兴宁店",
         "mall": "玛丽奥电玩南宁兴宁店",
@@ -3116,6 +3561,7 @@
     },
     "1600": {
         "machineCount": 2,
+        "id": "1600",
         "province": "江苏",
         "arcadeName": "卡通尼南京虹悦城店",
         "mall": "卡通尼南京虹悦城店",
@@ -3123,6 +3569,7 @@
     },
     "1601": {
         "machineCount": 1,
+        "id": "1601",
         "province": "北京",
         "arcadeName": "大玩家北京华联万柳店",
         "mall": "大玩家北京华联万柳店",
@@ -3130,6 +3577,7 @@
     },
     "1602": {
         "machineCount": 2,
+        "id": "1602",
         "province": "浙江",
         "arcadeName": "都市玩家杭州萧山宝龙店",
         "mall": "都市玩家杭州萧山宝龙店",
@@ -3137,6 +3585,7 @@
     },
     "1603": {
         "machineCount": 1,
+        "id": "1603",
         "province": "江苏",
         "arcadeName": "卡通尼苏州常熟永旺店",
         "mall": "卡通尼苏州常熟永旺店",
@@ -3144,6 +3593,7 @@
     },
     "1605": {
         "machineCount": 2,
+        "id": "1605",
         "province": "广东",
         "arcadeName": "热带雨林深圳宝安店",
         "mall": "热带雨林深圳宝安店",
@@ -3151,6 +3601,7 @@
     },
     "1606": {
         "machineCount": 1,
+        "id": "1606",
         "province": "湖北",
         "arcadeName": "卡通尼武汉金银潭店",
         "mall": "卡通尼武汉金银潭店",
@@ -3158,6 +3609,7 @@
     },
     "1607": {
         "machineCount": 1,
+        "id": "1607",
         "province": "云南",
         "arcadeName": "骇客码头昆明五华吾悦店",
         "mall": "骇客码头昆明五华吾悦店",
@@ -3165,6 +3617,7 @@
     },
     "1608": {
         "machineCount": 1,
+        "id": "1608",
         "province": "陕西",
         "arcadeName": "星空间动漫宝鸡高新店",
         "mall": "星空间动漫宝鸡高新店",
@@ -3172,6 +3625,7 @@
     },
     "1609": {
         "machineCount": 1,
+        "id": "1609",
         "province": "四川",
         "arcadeName": "娱乐至上成都成华店",
         "mall": "娱乐至上成都成华店",
@@ -3179,6 +3633,7 @@
     },
     "1610": {
         "machineCount": 2,
+        "id": "1610",
         "province": "广东",
         "arcadeName": "玩家英雄珠海金湾华发商都店",
         "mall": "玩家英雄珠海金湾华发商都店",
@@ -3186,6 +3641,7 @@
     },
     "1611": {
         "machineCount": 2,
+        "id": "1611",
         "province": "辽宁",
         "arcadeName": "央哥之城沈阳沈河店",
         "mall": "央哥之城沈阳沈河店",
@@ -3193,6 +3649,7 @@
     },
     "1612": {
         "machineCount": 1,
+        "id": "1612",
         "province": "山东",
         "arcadeName": "乐游悦动青岛黄岛吾悦店",
         "mall": "乐游悦动青岛黄岛吾悦店",
@@ -3200,6 +3657,7 @@
     },
     "1613": {
         "machineCount": 1,
+        "id": "1613",
         "province": "浙江",
         "arcadeName": "沃克公园温州乐清正大店",
         "mall": "沃克公园温州乐清正大店",
@@ -3207,6 +3665,7 @@
     },
     "1614": {
         "machineCount": 1,
+        "id": "1614",
         "province": "上海",
         "arcadeName": "星际传奇瑞虹天地太阳宫店",
         "mall": "星际传奇瑞虹天地太阳宫店",
@@ -3214,6 +3673,7 @@
     },
     "1615": {
         "machineCount": 1,
+        "id": "1615",
         "province": "北京",
         "arcadeName": "跨特世界北京长阳龙湖店",
         "mall": "跨特世界北京长阳龙湖店",
@@ -3221,6 +3681,7 @@
     },
     "1616": {
         "machineCount": 1,
+        "id": "1616",
         "province": "河北",
         "arcadeName": "动感无限沧州店",
         "mall": "动感无限沧州店",
@@ -3228,6 +3689,7 @@
     },
     "1617": {
         "machineCount": 1,
+        "id": "1617",
         "province": "陕西",
         "arcadeName": "都市玩家西安太白印象城店",
         "mall": "都市玩家西安太白印象城店",
@@ -3235,6 +3697,7 @@
     },
     "1618": {
         "machineCount": 1,
+        "id": "1618",
         "province": "河南",
         "arcadeName": "梦想之城内黄信诚店",
         "mall": "梦想之城内黄信诚店",
@@ -3242,6 +3705,7 @@
     },
     "1619": {
         "machineCount": 1,
+        "id": "1619",
         "province": "浙江",
         "arcadeName": "菲游乐杭州丁桥龙湖天街店",
         "mall": "菲游乐杭州丁桥龙湖天街店",
@@ -3249,6 +3713,7 @@
     },
     "1620": {
         "machineCount": 1,
+        "id": "1620",
         "province": "陕西",
         "arcadeName": "城市英雄西安熙地港店",
         "mall": "城市英雄西安熙地港店",
@@ -3256,6 +3721,7 @@
     },
     "1621": {
         "machineCount": 1,
+        "id": "1621",
         "province": "广东",
         "arcadeName": "晴空进击社汕头万象城店",
         "mall": "晴空进击社汕头万象城店",
@@ -3263,6 +3729,7 @@
     },
     "1623": {
         "machineCount": 2,
+        "id": "1623",
         "province": "上海",
         "arcadeName": "星河部落川沙百联店",
         "mall": "星河部落川沙百联店",
@@ -3270,6 +3737,7 @@
     },
     "1625": {
         "machineCount": 1,
+        "id": "1625",
         "province": "湖北",
         "arcadeName": "大玩家天门万达店",
         "mall": "大玩家天门万达店",
@@ -3277,6 +3745,7 @@
     },
     "1627": {
         "machineCount": 2,
+        "id": "1627",
         "province": "广东",
         "arcadeName": "环游嘉年华东莞运动汇一城店",
         "mall": "环游嘉年华东莞运动汇一城店",
@@ -3284,6 +3753,7 @@
     },
     "1628": {
         "machineCount": 1,
+        "id": "1628",
         "province": "湖南",
         "arcadeName": "星际玩家耒阳店",
         "mall": "星际玩家耒阳店",
@@ -3291,6 +3761,7 @@
     },
     "1629": {
         "machineCount": 1,
+        "id": "1629",
         "province": "广东",
         "arcadeName": "漫奈斯广州白云金铂店",
         "mall": "漫奈斯广州白云金铂店",
@@ -3298,6 +3769,7 @@
     },
     "1630": {
         "machineCount": 1,
+        "id": "1630",
         "province": "湖南",
         "arcadeName": "天天向上永州冷水滩店",
         "mall": "天天向上永州冷水滩店",
@@ -3305,6 +3777,7 @@
     },
     "1631": {
         "machineCount": 2,
+        "id": "1631",
         "province": "广西",
         "arcadeName": "欢乐哆贺州彰泰新旺角店",
         "mall": "欢乐哆贺州彰泰新旺角店",
@@ -3312,6 +3785,7 @@
     },
     "1632": {
         "machineCount": 1,
+        "id": "1632",
         "province": "天津",
         "arcadeName": "51区天津南开熙悦汇店",
         "mall": "51区天津南开熙悦汇店",
@@ -3319,6 +3793,7 @@
     },
     "1633": {
         "machineCount": 1,
+        "id": "1633",
         "province": "河北",
         "arcadeName": "酷客领域沧州吾悦店",
         "mall": "酷客领域沧州吾悦店",
@@ -3326,6 +3801,7 @@
     },
     "1634": {
         "machineCount": 1,
+        "id": "1634",
         "province": "广东",
         "arcadeName": "星际传奇汕头万象城店",
         "mall": "星际传奇汕头万象城店",
@@ -3333,6 +3809,7 @@
     },
     "1635": {
         "machineCount": 1,
+        "id": "1635",
         "province": "宁夏",
         "arcadeName": "梦幻之城石嘴山店",
         "mall": "梦幻之城石嘴山店",
@@ -3340,6 +3817,7 @@
     },
     "1637": {
         "machineCount": 1,
+        "id": "1637",
         "province": "安徽",
         "arcadeName": "星际传奇合肥庐阳万科店",
         "mall": "星际传奇合肥庐阳万科店",
@@ -3347,6 +3825,7 @@
     },
     "1638": {
         "machineCount": 2,
+        "id": "1638",
         "province": "上海",
         "arcadeName": "风云再起上海嘉定百联店",
         "mall": "风云再起上海嘉定百联店",
@@ -3354,6 +3833,7 @@
     },
     "1639": {
         "machineCount": 1,
+        "id": "1639",
         "province": "湖南",
         "arcadeName": "城市英雄长沙大悦城店",
         "mall": "城市英雄长沙大悦城店",
@@ -3361,6 +3841,7 @@
     },
     "1640": {
         "machineCount": 1,
+        "id": "1640",
         "province": "广东",
         "arcadeName": "幸运星惠州惠城金山湖店",
         "mall": "幸运星惠州惠城金山湖店",
@@ -3368,6 +3849,7 @@
     },
     "1642": {
         "machineCount": 1,
+        "id": "1642",
         "province": "湖南",
         "arcadeName": "加菲队长衡阳店",
         "mall": "加菲队长衡阳店",
@@ -3375,6 +3857,7 @@
     },
     "1643": {
         "machineCount": 1,
+        "id": "1643",
         "province": "山东",
         "arcadeName": "乐游悦动临沂齐鲁吾悦店",
         "mall": "乐游悦动临沂齐鲁吾悦店",
@@ -3382,6 +3865,7 @@
     },
     "1644": {
         "machineCount": 1,
+        "id": "1644",
         "province": "安徽",
         "arcadeName": "星际传奇合肥蜀山万象城店",
         "mall": "星际传奇合肥蜀山万象城店",
@@ -3389,6 +3873,7 @@
     },
     "1645": {
         "machineCount": 1,
+        "id": "1645",
         "province": "江苏",
         "arcadeName": "美乐彼徐州云龙万科店",
         "mall": "美乐彼徐州云龙万科店",
@@ -3396,6 +3881,7 @@
     },
     "1646": {
         "machineCount": 2,
+        "id": "1646",
         "province": "浙江",
         "arcadeName": "星际传奇杭州萧山奥体店",
         "mall": "星际传奇杭州萧山奥体店",
@@ -3403,6 +3889,7 @@
     },
     "1648": {
         "machineCount": 1,
+        "id": "1648",
         "province": "湖南",
         "arcadeName": "1号机长常德武陵店",
         "mall": "1号机长常德武陵店",
@@ -3410,6 +3897,7 @@
     },
     "1649": {
         "machineCount": 1,
+        "id": "1649",
         "province": "云南",
         "arcadeName": "明日世界昆明和谐店",
         "mall": "明日世界昆明和谐店",
@@ -3417,6 +3905,7 @@
     },
     "1650": {
         "machineCount": 1,
+        "id": "1650",
         "province": "浙江",
         "arcadeName": "部落酷玩温州店",
         "mall": "部落酷玩温州店",
@@ -3424,6 +3913,7 @@
     },
     "1651": {
         "machineCount": 1,
+        "id": "1651",
         "province": "浙江",
         "arcadeName": "部落酷玩宁波奉化宝龙店",
         "mall": "部落酷玩宁波奉化宝龙店",
@@ -3431,6 +3921,7 @@
     },
     "1652": {
         "machineCount": 1,
+        "id": "1652",
         "province": "江西",
         "arcadeName": "极客森赣州章贡环球汇店",
         "mall": "极客森赣州章贡环球汇店",
@@ -3438,6 +3929,7 @@
     },
     "1653": {
         "machineCount": 1,
+        "id": "1653",
         "province": "山东",
         "arcadeName": "汤姆熊济南槐荫店",
         "mall": "汤姆熊济南槐荫店",
@@ -3445,6 +3937,7 @@
     },
     "1654": {
         "machineCount": 1,
+        "id": "1654",
         "province": "云南",
         "arcadeName": "明日世界昆明新西南店",
         "mall": "明日世界昆明新西南店",
@@ -3452,6 +3945,7 @@
     },
     "1655": {
         "machineCount": 1,
+        "id": "1655",
         "province": "安徽",
         "arcadeName": "极客森芜湖镜湖店",
         "mall": "极客森芜湖镜湖店",
@@ -3459,6 +3953,7 @@
     },
     "1656": {
         "machineCount": 1,
+        "id": "1656",
         "province": "云南",
         "arcadeName": "明日世界昆明呈贡店",
         "mall": "明日世界昆明呈贡店",
@@ -3466,6 +3961,7 @@
     },
     "1657": {
         "machineCount": 1,
+        "id": "1657",
         "province": "安徽",
         "arcadeName": "星世纪蚌埠蚌山吾悦店",
         "mall": "星世纪蚌埠蚌山吾悦店",
@@ -3473,6 +3969,7 @@
     },
     "1658": {
         "machineCount": 1,
+        "id": "1658",
         "province": "辽宁",
         "arcadeName": "超级玩咖沈阳沈北万达店",
         "mall": "超级玩咖沈阳沈北万达店",
@@ -3480,6 +3977,7 @@
     },
     "1659": {
         "machineCount": 1,
+        "id": "1659",
         "province": "黑龙江",
         "arcadeName": "快乐电堂齐齐哈尔百大店",
         "mall": "快乐电堂齐齐哈尔百大店",
@@ -3487,6 +3985,7 @@
     },
     "1660": {
         "machineCount": 1,
+        "id": "1660",
         "province": "辽宁",
         "arcadeName": "风云再起沈阳苏宁广场店",
         "mall": "风云再起沈阳苏宁广场店",
@@ -3494,6 +3993,7 @@
     },
     "1661": {
         "machineCount": 4,
+        "id": "1661",
         "province": "广东",
         "arcadeName": "朗玩深圳壹方天地店",
         "mall": "朗玩深圳壹方天地店",
@@ -3501,6 +4001,7 @@
     },
     "1662": {
         "machineCount": 1,
+        "id": "1662",
         "province": "山东",
         "arcadeName": "AREA-51区烟台福山永旺店",
         "mall": "AREA-51区烟台福山永旺店",
@@ -3508,6 +4009,7 @@
     },
     "1663": {
         "machineCount": 1,
+        "id": "1663",
         "province": "广西",
         "arcadeName": "天空之城南宁良庆宜家店",
         "mall": "天空之城南宁良庆宜家店",
@@ -3515,6 +4017,7 @@
     },
     "1664": {
         "machineCount": 1,
+        "id": "1664",
         "province": "江苏",
         "arcadeName": "纷纷乐园泰州泰兴新天地店",
         "mall": "纷纷乐园泰州泰兴新天地店",
@@ -3522,6 +4025,7 @@
     },
     "1665": {
         "machineCount": 1,
+        "id": "1665",
         "province": "湖南",
         "arcadeName": "星世纪岳阳步行街店",
         "mall": "星世纪岳阳步行街店",
@@ -3529,6 +4033,7 @@
     },
     "1666": {
         "machineCount": 3,
+        "id": "1666",
         "province": "浙江",
         "arcadeName": "第一回合杭州金沙印象城",
         "mall": "第一回合杭州金沙印象城",
@@ -3536,6 +4041,7 @@
     },
     "1667": {
         "machineCount": 2,
+        "id": "1667",
         "province": "广东",
         "arcadeName": "极客森深圳罗湖宝能店",
         "mall": "极客森深圳罗湖宝能店",
@@ -3543,6 +4049,7 @@
     },
     "1668": {
         "machineCount": 1,
+        "id": "1668",
         "province": "辽宁",
         "arcadeName": "万有引力沈阳欧亚长青城店",
         "mall": "万有引力沈阳欧亚长青城店",
@@ -3550,6 +4057,7 @@
     },
     "1669": {
         "machineCount": 1,
+        "id": "1669",
         "province": "内蒙古",
         "arcadeName": "极客森包头吾悦店",
         "mall": "极客森包头吾悦店",
@@ -3557,6 +4065,7 @@
     },
     "1671": {
         "machineCount": 1,
+        "id": "1671",
         "province": "江苏",
         "arcadeName": "汤姆熊苏州大悦城店",
         "mall": "汤姆熊苏州大悦城店",
@@ -3564,6 +4073,7 @@
     },
     "1672": {
         "machineCount": 2,
+        "id": "1672",
         "province": "四川",
         "arcadeName": "星际传奇成都高新环球中心店",
         "mall": "星际传奇成都高新环球中心店",
@@ -3571,6 +4081,7 @@
     },
     "1673": {
         "machineCount": 1,
+        "id": "1673",
         "province": "广东",
         "arcadeName": "超时空河源东源万达店",
         "mall": "超时空河源东源万达店",
@@ -3578,6 +4089,7 @@
     },
     "1674": {
         "machineCount": 1,
+        "id": "1674",
         "province": "广西",
         "arcadeName": "大玩家梧州万秀万达店",
         "mall": "大玩家梧州万秀万达店",
@@ -3585,6 +4097,7 @@
     },
     "1675": {
         "machineCount": 1,
+        "id": "1675",
         "province": "安徽",
         "arcadeName": "风云再起马鞍山花山店",
         "mall": "风云再起马鞍山花山店",
@@ -3592,6 +4105,7 @@
     },
     "1676": {
         "machineCount": 1,
+        "id": "1676",
         "province": "西藏",
         "arcadeName": "酷乐电玩城拉萨经开店",
         "mall": "酷乐电玩城拉萨经开店",
@@ -3599,6 +4113,7 @@
     },
     "1677": {
         "machineCount": 1,
+        "id": "1677",
         "province": "辽宁",
         "arcadeName": "V动地带兴城兴隆大家庭店",
         "mall": "V动地带兴城兴隆大家庭店",
@@ -3606,6 +4121,7 @@
     },
     "1678": {
         "machineCount": 2,
+        "id": "1678",
         "province": "浙江",
         "arcadeName": "第一回合温州印象城店",
         "mall": "第一回合温州印象城店",
@@ -3613,6 +4129,7 @@
     },
     "1679": {
         "machineCount": 1,
+        "id": "1679",
         "province": "上海",
         "arcadeName": "星际传奇上海松江印象城店",
         "mall": "星际传奇上海松江印象城店",
@@ -3620,6 +4137,7 @@
     },
     "1680": {
         "machineCount": 1,
+        "id": "1680",
         "province": "宁夏",
         "arcadeName": "NATAKIDS银川兴庆吾悦店",
         "mall": "NATAKIDS银川兴庆吾悦店",
@@ -3627,6 +4145,7 @@
     },
     "1681": {
         "machineCount": 1,
+        "id": "1681",
         "province": "浙江",
         "arcadeName": "星际传奇宁波环宇城店",
         "mall": "星际传奇宁波环宇城店",
@@ -3634,6 +4153,7 @@
     },
     "1682": {
         "machineCount": 1,
+        "id": "1682",
         "province": "云南",
         "arcadeName": "超级星座昆明官渡海乐店",
         "mall": "超级星座昆明官渡海乐店",
@@ -3641,6 +4161,7 @@
     },
     "1683": {
         "machineCount": 1,
+        "id": "1683",
         "province": "江苏",
         "arcadeName": "凤梨潮玩社南京鼓楼店",
         "mall": "凤梨潮玩社南京鼓楼店",
@@ -3648,6 +4169,7 @@
     },
     "1684": {
         "machineCount": 1,
+        "id": "1684",
         "province": "湖北",
         "arcadeName": "大玩家武汉新洲万达店",
         "mall": "大玩家武汉新洲万达店",
@@ -3655,6 +4177,7 @@
     },
     "1685": {
         "machineCount": 1,
+        "id": "1685",
         "province": "湖南",
         "arcadeName": "城市英雄株洲芦淞店",
         "mall": "城市英雄株洲芦淞店",
@@ -3662,6 +4185,7 @@
     },
     "1686": {
         "machineCount": 1,
+        "id": "1686",
         "province": "广东",
         "arcadeName": "星际传奇珠海宝龙城店",
         "mall": "星际传奇珠海宝龙城店",
@@ -3669,6 +4193,7 @@
     },
     "1687": {
         "machineCount": 1,
+        "id": "1687",
         "province": "黑龙江",
         "arcadeName": "大玩家哈尔滨道里悦荟店",
         "mall": "大玩家哈尔滨道里悦荟店",
@@ -3676,6 +4201,7 @@
     },
     "1688": {
         "machineCount": 1,
+        "id": "1688",
         "province": "浙江",
         "arcadeName": "合电占金华义乌宝龙店",
         "mall": "合电占金华义乌宝龙店",
@@ -3683,6 +4209,7 @@
     },
     "1689": {
         "machineCount": 2,
+        "id": "1689",
         "province": "广东",
         "arcadeName": "环游嘉年华广州中华广场店",
         "mall": "环游嘉年华广州中华广场店",
@@ -3690,6 +4217,7 @@
     },
     "1690": {
         "machineCount": 1,
+        "id": "1690",
         "province": "黑龙江",
         "arcadeName": "MY泛娱乐中心鹤岗红星店",
         "mall": "MY泛娱乐中心鹤岗红星店",
@@ -3697,6 +4225,7 @@
     },
     "1691": {
         "machineCount": 1,
+        "id": "1691",
         "province": "北京",
         "arcadeName": "万有引力北京顺义店",
         "mall": "万有引力北京顺义店",
@@ -3704,6 +4233,7 @@
     },
     "1692": {
         "machineCount": 1,
+        "id": "1692",
         "province": "广东",
         "arcadeName": "大玩家佛山顺德大良万达店",
         "mall": "大玩家佛山顺德大良万达店",
@@ -3711,6 +4241,7 @@
     },
     "1693": {
         "machineCount": 1,
+        "id": "1693",
         "province": "湖北",
         "arcadeName": "真快活武汉洪山店",
         "mall": "真快活武汉洪山店",
@@ -3718,6 +4249,7 @@
     },
     "1695": {
         "machineCount": 1,
+        "id": "1695",
         "province": "贵州",
         "arcadeName": "大玩家贵阳南明亨特店",
         "mall": "大玩家贵阳南明亨特店",
@@ -3725,6 +4257,7 @@
     },
     "1696": {
         "machineCount": 1,
+        "id": "1696",
         "province": "贵州",
         "arcadeName": "星际传奇贵阳观山湖华润店",
         "mall": "星际传奇贵阳观山湖华润店",
@@ -3732,6 +4265,7 @@
     },
     "1697": {
         "machineCount": 1,
+        "id": "1697",
         "province": "湖南",
         "arcadeName": "小酋长湘潭雨湖店",
         "mall": "小酋长湘潭雨湖店",
@@ -3739,6 +4273,7 @@
     },
     "1698": {
         "machineCount": 1,
+        "id": "1698",
         "province": "福建",
         "arcadeName": "大玩家厦门集美灌口万达店",
         "mall": "大玩家厦门集美灌口万达店",
@@ -3746,6 +4281,7 @@
     },
     "1699": {
         "machineCount": 1,
+        "id": "1699",
         "province": "安徽",
         "arcadeName": "星世纪合肥滨湖唯品会店",
         "mall": "星世纪合肥滨湖唯品会店",
@@ -3753,6 +4289,7 @@
     },
     "1700": {
         "machineCount": 4,
+        "id": "1700",
         "province": "上海",
         "arcadeName": "风云再起上海宝山日月光店",
         "mall": "风云再起上海宝山日月光店",
@@ -3760,6 +4297,7 @@
     },
     "1701": {
         "machineCount": 1,
+        "id": "1701",
         "province": "江苏",
         "arcadeName": "萌多拉张家港金港店",
         "mall": "萌多拉张家港金港店",
@@ -3767,6 +4305,7 @@
     },
     "1702": {
         "machineCount": 4,
+        "id": "1702",
         "province": "上海",
         "arcadeName": "朗玩上海宝山日月光店",
         "mall": "朗玩上海宝山日月光店",
@@ -3774,6 +4313,7 @@
     },
     "1703": {
         "machineCount": 2,
+        "id": "1703",
         "province": "广西",
         "arcadeName": "风云再起南宁青秀爱琴海店",
         "mall": "风云再起南宁青秀爱琴海店",
@@ -3781,6 +4321,7 @@
     },
     "1704": {
         "machineCount": 1,
+        "id": "1704",
         "province": "上海",
         "arcadeName": "风云再起上海龙阳广场店",
         "mall": "风云再起上海龙阳广场店",
@@ -3788,6 +4329,7 @@
     },
     "1705": {
         "machineCount": 2,
+        "id": "1705",
         "province": "云南",
         "arcadeName": "风云再起昆明盘龙爱琴海店",
         "mall": "风云再起昆明盘龙爱琴海店",
@@ -3795,6 +4337,7 @@
     },
     "1706": {
         "machineCount": 1,
+        "id": "1706",
         "province": "陕西",
         "arcadeName": "大玩家咸阳秦都万达店",
         "mall": "大玩家咸阳秦都万达店",
@@ -3802,6 +4345,7 @@
     },
     "1707": {
         "machineCount": 1,
+        "id": "1707",
         "province": "浙江",
         "arcadeName": "摩儿大狂欢金华兰溪宝龙店",
         "mall": "摩儿大狂欢金华兰溪宝龙店",
@@ -3809,6 +4353,7 @@
     },
     "1708": {
         "machineCount": 1,
+        "id": "1708",
         "province": "福建",
         "arcadeName": "大玩家福州苍山白湖亭万达店",
         "mall": "大玩家福州苍山白湖亭万达店",
@@ -3816,6 +4361,7 @@
     },
     "1709": {
         "machineCount": 1,
+        "id": "1709",
         "province": "山东",
         "arcadeName": "一起玩烟台龙口保利店",
         "mall": "一起玩烟台龙口保利店",
@@ -3823,6 +4369,7 @@
     },
     "1710": {
         "machineCount": 1,
+        "id": "1710",
         "province": "浙江",
         "arcadeName": "奕部落金华义乌爱琴海店",
         "mall": "奕部落金华义乌爱琴海店",
@@ -3830,6 +4377,7 @@
     },
     "1711": {
         "machineCount": 1,
+        "id": "1711",
         "province": "四川",
         "arcadeName": "娱乐至上成都新都店",
         "mall": "娱乐至上成都新都店",
@@ -3837,6 +4385,7 @@
     },
     "1712": {
         "machineCount": 1,
+        "id": "1712",
         "province": "湖北",
         "arcadeName": "城市英雄荆州沙市店",
         "mall": "城市英雄荆州沙市店",
@@ -3844,6 +4393,7 @@
     },
     "1713": {
         "machineCount": 2,
+        "id": "1713",
         "province": "湖北",
         "arcadeName": "风云再起武汉江汉路站店",
         "mall": "风云再起武汉江汉路站店",
@@ -3851,6 +4401,7 @@
     },
     "1714": {
         "machineCount": 1,
+        "id": "1714",
         "province": "广东",
         "arcadeName": "惠州鹅窝KATTYUU",
         "mall": "惠州鹅窝KATTYUU",
@@ -3858,6 +4409,7 @@
     },
     "1716": {
         "machineCount": 1,
+        "id": "1716",
         "province": "广东",
         "arcadeName": "天空之城佛山顺德悦然店",
         "mall": "天空之城佛山顺德悦然店",
@@ -3865,6 +4417,7 @@
     },
     "1717": {
         "machineCount": 1,
+        "id": "1717",
         "province": "湖北",
         "arcadeName": "星际传奇武汉壹方南馆店",
         "mall": "星际传奇武汉壹方南馆店",
@@ -3872,6 +4425,7 @@
     },
     "1718": {
         "machineCount": 1,
+        "id": "1718",
         "province": "广东",
         "arcadeName": "一同潮玩AcePlay惠州博罗店",
         "mall": "一同潮玩AcePlay惠州博罗店",
@@ -3879,6 +4433,7 @@
     },
     "1719": {
         "machineCount": 2,
+        "id": "1719",
         "province": "四川",
         "arcadeName": "环游嘉年华成都武侯店",
         "mall": "环游嘉年华成都武侯店",
@@ -3886,6 +4441,7 @@
     },
     "1720": {
         "machineCount": 1,
+        "id": "1720",
         "province": "河南",
         "arcadeName": "Mestage郑州郑东云尚店",
         "mall": "Mestage郑州郑东云尚店",
@@ -3893,6 +4449,7 @@
     },
     "1721": {
         "machineCount": 2,
+        "id": "1721",
         "province": "浙江",
         "arcadeName": "星河部落海宁长安奥特莱斯店",
         "mall": "星河部落海宁长安奥特莱斯店",
@@ -3900,6 +4457,7 @@
     },
     "1722": {
         "machineCount": 1,
+        "id": "1722",
         "province": "广东",
         "arcadeName": "深圳国际交易广场",
         "mall": "深圳国际交易广场",
@@ -3907,6 +4465,7 @@
     },
     "1723": {
         "machineCount": 2,
+        "id": "1723",
         "province": "浙江",
         "arcadeName": "第一回合湖州吴兴爱山银泰店",
         "mall": "第一回合湖州吴兴爱山银泰店",
@@ -3914,6 +4473,7 @@
     },
     "1724": {
         "machineCount": 1,
+        "id": "1724",
         "province": "浙江",
         "arcadeName": "星际传奇杭州萧山银泰店",
         "mall": "星际传奇杭州萧山银泰店",
@@ -3921,6 +4481,7 @@
     },
     "1725": {
         "machineCount": 1,
+        "id": "1725",
         "province": "安徽",
         "arcadeName": "星潮电玩合肥新站店",
         "mall": "星潮电玩合肥新站店",
@@ -3928,6 +4489,7 @@
     },
     "1726": {
         "machineCount": 1,
+        "id": "1726",
         "province": "广东",
         "arcadeName": "极力特梦幻城惠州惠东天虹店",
         "mall": "极力特梦幻城惠州惠东天虹店",
@@ -3935,6 +4497,7 @@
     },
     "1727": {
         "machineCount": 1,
+        "id": "1727",
         "province": "四川",
         "arcadeName": "酷漫地带成都新都苏宁店",
         "mall": "酷漫地带成都新都苏宁店",
@@ -3942,6 +4505,7 @@
     },
     "1728": {
         "machineCount": 1,
+        "id": "1728",
         "province": "上海",
         "arcadeName": "奥玩空间上海ESP店",
         "mall": "奥玩空间上海ESP店",
@@ -3949,6 +4513,7 @@
     },
     "1729": {
         "machineCount": 1,
+        "id": "1729",
         "province": "河南",
         "arcadeName": "潮范动漫城社濮阳南乐店",
         "mall": "潮范动漫城社濮阳南乐店",
@@ -3956,6 +4521,7 @@
     },
     "1730": {
         "machineCount": 1,
+        "id": "1730",
         "province": "河南",
         "arcadeName": "乐趣游戏空间郑州郑东店",
         "mall": "乐趣游戏空间郑州郑东店",
@@ -3963,6 +4529,7 @@
     },
     "1731": {
         "machineCount": 1,
+        "id": "1731",
         "province": "江西",
         "arcadeName": "乐酷电玩景德珠山金鼎店",
         "mall": "乐酷电玩景德珠山金鼎店",
@@ -3970,6 +4537,7 @@
     },
     "1732": {
         "machineCount": 1,
+        "id": "1732",
         "province": "山东",
         "arcadeName": "嘻哈传奇济宁任城店",
         "mall": "嘻哈传奇济宁任城店",
@@ -3977,6 +4545,7 @@
     },
     "1733": {
         "machineCount": 1,
+        "id": "1733",
         "province": "江苏",
         "arcadeName": "天空之城南通崇川万象城店",
         "mall": "天空之城南通崇川万象城店",
@@ -3984,6 +4553,7 @@
     },
     "1734": {
         "machineCount": 1,
+        "id": "1734",
         "province": "河北",
         "arcadeName": "王者之风秦皇岛海港店",
         "mall": "王者之风秦皇岛海港店",
@@ -3991,6 +4561,7 @@
     },
     "1735": {
         "machineCount": 1,
+        "id": "1735",
         "province": "湖北",
         "arcadeName": "欢悦游艺武汉江夏店",
         "mall": "欢悦游艺武汉江夏店",
@@ -3998,6 +4569,7 @@
     },
     "1736": {
         "machineCount": 1,
+        "id": "1736",
         "province": "新疆",
         "arcadeName": "独山子美美影城克拉玛依店",
         "mall": "独山子美美影城克拉玛依店",
@@ -4005,6 +4577,7 @@
     },
     "1737": {
         "machineCount": 1,
+        "id": "1737",
         "province": "山东",
         "arcadeName": "梦想嘉年华临沂兰山店",
         "mall": "梦想嘉年华临沂兰山店",
@@ -4012,6 +4585,7 @@
     },
     "1739": {
         "machineCount": 1,
+        "id": "1739",
         "province": "福建",
         "arcadeName": "地保网络基地厦门集美万科店",
         "mall": "地保网络基地厦门集美万科店",
@@ -4019,6 +4593,7 @@
     },
     "1740": {
         "machineCount": 2,
+        "id": "1740",
         "province": "北京",
         "arcadeName": "真快活北京西城coohooMax",
         "mall": "真快活北京西城coohooMax",
@@ -4026,6 +4601,7 @@
     },
     "1741": {
         "machineCount": 1,
+        "id": "1741",
         "province": "湖南",
         "arcadeName": "城市英雄长沙岳麓金茂店",
         "mall": "城市英雄长沙岳麓金茂店",
@@ -4033,6 +4609,7 @@
     },
     "1742": {
         "machineCount": 1,
+        "id": "1742",
         "province": "河北",
         "arcadeName": "王者之风邢台信都店",
         "mall": "王者之风邢台信都店",
@@ -4040,6 +4617,7 @@
     },
     "1743": {
         "machineCount": 3,
+        "id": "1743",
         "province": "湖北",
         "arcadeName": "IN竞技现场武汉洪山光谷店",
         "mall": "IN竞技现场武汉洪山光谷店",
@@ -4047,6 +4625,7 @@
     },
     "1745": {
         "machineCount": 1,
+        "id": "1745",
         "province": "广东",
         "arcadeName": "疯狂牛仔城佛山三水店",
         "mall": "疯狂牛仔城佛山三水店",
@@ -4054,6 +4633,7 @@
     },
     "1746": {
         "machineCount": 1,
+        "id": "1746",
         "province": "湖南",
         "arcadeName": "super101电玩城吉首店",
         "mall": "super101电玩城吉首店",
@@ -4061,6 +4641,7 @@
     },
     "1747": {
         "machineCount": 1,
+        "id": "1747",
         "province": "山西",
         "arcadeName": "炫e潮玩太原万通广场店",
         "mall": "炫e潮玩太原万通广场店",
@@ -4068,6 +4649,7 @@
     },
     "1748": {
         "machineCount": 2,
+        "id": "1748",
         "province": "天津",
         "arcadeName": "7Holic天津和平店",
         "mall": "7Holic天津和平店",
@@ -4075,6 +4657,7 @@
     },
     "1749": {
         "machineCount": 1,
+        "id": "1749",
         "province": "浙江",
         "arcadeName": "第一回合杭州滨江宝龙店",
         "mall": "第一回合杭州滨江宝龙店",
@@ -4082,6 +4665,7 @@
     },
     "1750": {
         "machineCount": 1,
+        "id": "1750",
         "province": "山东",
         "arcadeName": "51区超级乐园济南印象城店",
         "mall": "51区超级乐园济南印象城店",
@@ -4089,6 +4673,7 @@
     },
     "1751": {
         "machineCount": 2,
+        "id": "1751",
         "province": "广东",
         "arcadeName": "疯狂牛仔城广州番禺大石店",
         "mall": "疯狂牛仔城广州番禺大石店",
@@ -4096,6 +4681,7 @@
     },
     "1752": {
         "machineCount": 1,
+        "id": "1752",
         "province": "福建",
         "arcadeName": "纷享星球泉州安溪店",
         "mall": "纷享星球泉州安溪店",
@@ -4103,6 +4689,7 @@
     },
     "1753": {
         "machineCount": 1,
+        "id": "1753",
         "province": "山东",
         "arcadeName": "51区青岛市北悦荟广场店",
         "mall": "51区青岛市北悦荟广场店",
@@ -4110,6 +4697,7 @@
     },
     "1754": {
         "machineCount": 1,
+        "id": "1754",
         "province": "吉林",
         "arcadeName": "威尼斯辽源东旺店",
         "mall": "威尼斯辽源东旺店",
@@ -4117,6 +4705,7 @@
     },
     "1755": {
         "machineCount": 2,
+        "id": "1755",
         "province": "江西",
         "arcadeName": "PPG潮玩汇九江店",
         "mall": "PPG潮玩汇九江店",
@@ -4124,6 +4713,7 @@
     },
     "1756": {
         "machineCount": 1,
+        "id": "1756",
         "province": "安徽",
         "arcadeName": "熊孩子乐园安庆望江店",
         "mall": "熊孩子乐园安庆望江店",
@@ -4131,6 +4721,7 @@
     },
     "1757": {
         "machineCount": 1,
+        "id": "1757",
         "province": "上海",
         "arcadeName": "汤姆熊上海杨浦合生汇店",
         "mall": "汤姆熊上海杨浦合生汇店",
@@ -4138,6 +4729,7 @@
     },
     "1758": {
         "machineCount": 1,
+        "id": "1758",
         "province": "重庆",
         "arcadeName": "爱玩嘉年华重庆合川店",
         "mall": "爱玩嘉年华重庆合川店",
@@ -4145,6 +4737,7 @@
     },
     "1759": {
         "machineCount": 1,
+        "id": "1759",
         "province": "山西",
         "arcadeName": "世纪欢乐城长治潞州店",
         "mall": "世纪欢乐城长治潞州店",
@@ -4152,6 +4745,7 @@
     },
     "1760": {
         "machineCount": 1,
+        "id": "1760",
         "province": "湖南",
         "arcadeName": "城市英雄岳阳步行街店",
         "mall": "城市英雄岳阳步行街店",
@@ -4159,6 +4753,7 @@
     },
     "1761": {
         "machineCount": 1,
+        "id": "1761",
         "province": "广东",
         "arcadeName": "SMILEPLAY佛山南海店",
         "mall": "SMILEPLAY佛山南海店",
@@ -4166,6 +4761,7 @@
     },
     "1762": {
         "machineCount": 1,
+        "id": "1762",
         "province": "福建",
         "arcadeName": "蓝鲸乐园宁德东侨店",
         "mall": "蓝鲸乐园宁德东侨店",
@@ -4173,6 +4769,7 @@
     },
     "1763": {
         "machineCount": 1,
+        "id": "1763",
         "province": "浙江",
         "arcadeName": "嘻游嘉年华诸暨店",
         "mall": "嘻游嘉年华诸暨店",
@@ -4180,6 +4777,7 @@
     },
     "1764": {
         "machineCount": 1,
+        "id": "1764",
         "province": "浙江",
         "arcadeName": "酷儿游乐金华婺城店",
         "mall": "酷儿游乐金华婺城店",
@@ -4187,6 +4785,7 @@
     },
     "1765": {
         "machineCount": 1,
+        "id": "1765",
         "province": "重庆",
         "arcadeName": "爱玩嘉年华重庆渝北店",
         "mall": "爱玩嘉年华重庆渝北店",
@@ -4194,6 +4793,7 @@
     },
     "1766": {
         "machineCount": 1,
+        "id": "1766",
         "province": "山东",
         "arcadeName": "潮玩社潍坊青州店",
         "mall": "潮玩社潍坊青州店",
@@ -4201,6 +4801,7 @@
     },
     "1767": {
         "machineCount": 1,
+        "id": "1767",
         "province": "山东",
         "arcadeName": "偶予潮玩潍坊潍城店",
         "mall": "偶予潮玩潍坊潍城店",
@@ -4208,6 +4809,7 @@
     },
     "1768": {
         "machineCount": 1,
+        "id": "1768",
         "province": "贵州",
         "arcadeName": "大玩家贵阳观山湖万达店",
         "mall": "大玩家贵阳观山湖万达店",
@@ -4215,6 +4817,7 @@
     },
     "1769": {
         "machineCount": 1,
+        "id": "1769",
         "province": "江苏",
         "arcadeName": "一同潮玩连云港店",
         "mall": "一同潮玩连云港店",
@@ -4222,6 +4825,7 @@
     },
     "1770": {
         "machineCount": 1,
+        "id": "1770",
         "province": "江苏",
         "arcadeName": "大玩家连云港海州万达店",
         "mall": "大玩家连云港海州万达店",
@@ -4229,6 +4833,7 @@
     },
     "1771": {
         "machineCount": 1,
+        "id": "1771",
         "province": "广东",
         "arcadeName": "大玩家广州新塘万达店",
         "mall": "大玩家广州新塘万达店",
@@ -4236,6 +4841,7 @@
     },
     "1772": {
         "machineCount": 1,
+        "id": "1772",
         "province": "江苏",
         "arcadeName": "大玩家苏州太仓万达店",
         "mall": "大玩家苏州太仓万达店",
@@ -4243,6 +4849,7 @@
     },
     "1773": {
         "machineCount": 1,
+        "id": "1773",
         "province": "四川",
         "arcadeName": "大玩家内江高新万晟汇店",
         "mall": "大玩家内江高新万晟汇店",
@@ -4250,6 +4857,7 @@
     },
     "1774": {
         "machineCount": 1,
+        "id": "1774",
         "province": "福建",
         "arcadeName": "爱玩嘉年华福州闽侯店",
         "mall": "爱玩嘉年华福州闽侯店",
@@ -4257,6 +4865,7 @@
     },
     "1775": {
         "machineCount": 1,
+        "id": "1775",
         "province": "辽宁",
         "arcadeName": "大玩家抚顺新抚万达店",
         "mall": "大玩家抚顺新抚万达店",
@@ -4264,6 +4873,7 @@
     },
     "1776": {
         "machineCount": 2,
+        "id": "1776",
         "province": "重庆",
         "arcadeName": "城市英雄重庆喜盈门范城店",
         "mall": "城市英雄重庆喜盈门范城店",
@@ -4271,6 +4881,7 @@
     },
     "1777": {
         "machineCount": 1,
+        "id": "1777",
         "province": "四川",
         "arcadeName": "汤姆熊德阳广汉店",
         "mall": "汤姆熊德阳广汉店",
@@ -4278,6 +4889,7 @@
     },
     "1779": {
         "machineCount": 1,
+        "id": "1779",
         "province": "江西",
         "arcadeName": "大玩家九江濂溪万达店",
         "mall": "大玩家九江濂溪万达店",
@@ -4285,6 +4897,7 @@
     },
     "1780": {
         "machineCount": 1,
+        "id": "1780",
         "province": "重庆",
         "arcadeName": "大玩家重庆万州万达广场店",
         "mall": "大玩家重庆万州万达广场店",
@@ -4292,6 +4905,7 @@
     },
     "1781": {
         "machineCount": 1,
+        "id": "1781",
         "province": "河北",
         "arcadeName": "大玩家廊坊广阳万达店",
         "mall": "大玩家廊坊广阳万达店",
@@ -4299,6 +4913,7 @@
     },
     "1782": {
         "machineCount": 1,
+        "id": "1782",
         "province": "内蒙古",
         "arcadeName": "大玩家包头青山万达店",
         "mall": "大玩家包头青山万达店",
@@ -4306,6 +4921,7 @@
     },
     "1783": {
         "machineCount": 1,
+        "id": "1783",
         "province": "江西",
         "arcadeName": "大玩家南昌青山湖万达店",
         "mall": "大玩家南昌青山湖万达店",
@@ -4313,6 +4929,7 @@
     },
     "1784": {
         "machineCount": 1,
+        "id": "1784",
         "province": "广东",
         "arcadeName": "天空之城广州白云店",
         "mall": "天空之城广州白云店",
@@ -4320,6 +4937,7 @@
     },
     "1785": {
         "machineCount": 1,
+        "id": "1785",
         "province": "广东",
         "arcadeName": "天空之城佛山南海大沥店",
         "mall": "天空之城佛山南海店",
@@ -4327,6 +4945,7 @@
     },
     "1786": {
         "machineCount": 1,
+        "id": "1786",
         "province": "广东",
         "arcadeName": "天空之城佛山南海金沙洲店",
         "mall": "天空之城佛山南海金沙洲店",
@@ -4334,6 +4953,7 @@
     },
     "1787": {
         "machineCount": 1,
+        "id": "1787",
         "province": "天津",
         "arcadeName": "303Lab天津宁河店",
         "mall": "303Lab天津宁河店",
@@ -4341,6 +4961,7 @@
     },
     "1788": {
         "machineCount": 1,
+        "id": "1788",
         "province": "山东",
         "arcadeName": "大玩家山东泰安万达店",
         "mall": "大玩家山东泰安万达店",
@@ -4348,6 +4969,7 @@
     },
     "1789": {
         "machineCount": 1,
+        "id": "1789",
         "province": "湖北",
         "arcadeName": "真快活洪山光谷大悦城",
         "mall": "真快活洪山光谷大悦城",
@@ -4355,6 +4977,7 @@
     },
     "1790": {
         "machineCount": 1,
+        "id": "1790",
         "province": "浙江",
         "arcadeName": "大玩家台州经开万达店",
         "mall": "大玩家台州经开万达店",
@@ -4362,9 +4985,18 @@
     },
     "1791": {
         "machineCount": 1,
+        "id": "1791",
         "province": "辽宁",
         "arcadeName": "大玩家丹东振兴万达店",
         "mall": "大玩家丹东振兴万达店",
         "address": "辽宁省丹东市振兴区锦山大街万达广场大玩家超乐场"
+    },
+    "1792": {
+        "machineCount": 1,
+        "id": "1792",
+        "province": "黑龙江",
+        "arcadeName": "大玩家大庆萨尔图万达店",
+        "mall": "大玩家大庆萨尔图万达店",
+        "address": "黑龙江省大庆市萨尔图万达二楼大玩家"
     }
 }
