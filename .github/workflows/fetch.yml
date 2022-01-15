@@ -29,4 +29,3 @@ jobs:
           ALIAS_SHEET_TSV_URL: ${{ secrets.ALIAS_SHEET_TSV_URL }}
         run: |
           bash fetch.sh
-          python3 post-processing.py
