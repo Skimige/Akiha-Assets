@@ -6,7 +6,6 @@ with open('shop_data.json', 'r', -1, 'utf_8') as f:
     for i in shops:
         i_id = i['id']
         shops_ht[i_id] = i
-        del shops_ht[i_id]['id']
         del shops_ht[i_id]['placeId']
 
 with open('shop_data.json', 'w', -1, 'utf_8') as f:
