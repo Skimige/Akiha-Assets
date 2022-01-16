@@ -27,5 +27,7 @@ jobs:
         env:
           WAHLAP_SHOP_API_URL: ${{ secrets.WAHLAP_SHOP_API_URL }}
           ALIAS_SHEET_TSV_URL: ${{ secrets.ALIAS_SHEET_TSV_URL }}
+          MUSIC_DATA_URL: ${{ secrets.MUSIC_DATA_URL }}
+          CHART_STATS_DATA_URL: ${{ secrets.CHART_STATS_DATA_URL }}
         run: |
           bash fetch.sh

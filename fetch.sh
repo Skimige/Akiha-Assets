@@ -1,7 +1,9 @@
 #!/bin/bash
 
-curl $WAHLAP_SHOP_API_URL -o shop_data.json > /dev/null 2>&1
-wget "$ALIAS_SHEET_TSV_URL" -O aliases.tsv > /dev/null 2>&1
+# Retrieve and post-process the data
+python3 retrieve-data.py
+
+# Push
 git config --global user.name "$GITHUB_ACTOR"
 git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 git commit -a -m "Update data"
