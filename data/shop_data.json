@@ -96,7 +96,7 @@
         "address": "广东省广州市白云区云城东路503号万达广场B区一层大玩家"
     },
     "1018": {
-        "machineCount": 3,
+        "machineCount": 2,
         "id": "1018",
         "province": "北京",
         "arcadeName": "风云再起北京西单店",
@@ -454,6 +454,14 @@
         "arcadeName": "风云再起钦州店",
         "mall": "风云再起钦州店",
         "address": "广西钦州市钦南区金海湾东大街1号新城吾悦广场第四层Z12风云再起"
+    },
+    "1127": {
+        "machineCount": 1,
+        "id": "1127",
+        "province": "陕西",
+        "arcadeName": "风云再起咸阳店",
+        "mall": "风云再起咸阳店",
+        "address": "咸阳市秦都区正兴广场三楼风云再起"
     },
     "1128": {
         "machineCount": 2,
