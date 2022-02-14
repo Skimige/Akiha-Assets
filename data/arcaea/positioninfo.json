@@ -1,0 +1,698 @@
+{
+    "1": [
+        {
+            "Partner": "0",
+            "PositionX": "753",
+            "PositionY": "93",
+            "Size": "950"
+        },
+        {
+            "Partner": "0u",
+            "PositionX": "753",
+            "PositionY": "93",
+            "Size": "950"
+        },
+        {
+            "Partner": "1",
+            "PositionX": "753",
+            "PositionY": "93",
+            "Size": "950"
+        },
+        {
+            "Partner": "1u",
+            "PositionX": "753",
+            "PositionY": "93",
+            "Size": "950"
+        },
+        {
+            "Partner": "3",
+            "PositionX": "750",
+            "PositionY": "58",
+            "Size": "950"
+        },
+        {
+            "Partner": "4",
+            "PositionX": "760",
+            "PositionY": "58",
+            "Size": "950"
+        },
+        {
+            "Partner": "4u",
+            "PositionX": "760",
+            "PositionY": "58",
+            "Size": "950"
+        },
+        {
+            "Partner": "11",
+            "PositionX": "770",
+            "PositionY": "68",
+            "Size": "985"
+        },
+        {
+            "Partner": "12",
+            "PositionX": "770",
+            "PositionY": "68",
+            "Size": "985"
+        },
+        {
+            "Partner": "13",
+            "PositionX": "805",
+            "PositionY": "48",
+            "Size": "900"
+        },
+        {
+            "Partner": "13u",
+            "PositionX": "805",
+            "PositionY": "48",
+            "Size": "900"
+        },
+        {
+            "Partner": "14",
+            "PositionX": "685",
+            "PositionY": "58",
+            "Size": "1170"
+        },
+        {
+            "Partner": "15",
+            "PositionX": "760",
+            "PositionY": "68",
+            "Size": "950"
+        },
+        {
+            "Partner": "16",
+            "PositionX": "770",
+            "PositionY": "83",
+            "Size": "1250"
+        },
+        {
+            "Partner": "17",
+            "PositionX": "715",
+            "PositionY": "58",
+            "Size": "1170"
+        },
+        {
+            "Partner": "18",
+            "PositionX": "760",
+            "PositionY": "58",
+            "Size": "950"
+        },
+        {
+            "Partner": "19",
+            "PositionX": "720",
+            "PositionY": "108",
+            "Size": "1080"
+        },
+        {
+            "Partner": "20",
+            "PositionX": "785",
+            "PositionY": "83",
+            "Size": "950"
+        },
+        {
+            "Partner": "21",
+            "PositionX": "770",
+            "PositionY": "23",
+            "Size": "950"
+        },
+        {
+            "Partner": "23",
+            "PositionX": "740",
+            "PositionY": "58",
+            "Size": "950"
+        },
+        {
+            "Partner": "24",
+            "PositionX": "700",
+            "PositionY": "58",
+            "Size": "950"
+        },
+        {
+            "Partner": "25",
+            "PositionX": "690",
+            "PositionY": "153",
+            "Size": "1130"
+        },
+        {
+            "Partner": "26",
+            "PositionX": "770",
+            "PositionY": "18",
+            "Size": "950"
+        },
+        {
+            "Partner": "26u",
+            "PositionX": "770",
+            "PositionY": "18",
+            "Size": "950"
+        },
+        {
+            "Partner": "28",
+            "PositionX": "735",
+            "PositionY": "58",
+            "Size": "950"
+        },
+        {
+            "Partner": "28u",
+            "PositionX": "735",
+            "PositionY": "58",
+            "Size": "950"
+        },
+        {
+            "Partner": "30",
+            "PositionX": "770",
+            "PositionY": "43",
+            "Size": "950"
+        },
+        {
+            "Partner": "31",
+            "PositionX": "770",
+            "PositionY": "108",
+            "Size": "950"
+        },
+        {
+            "Partner": "33",
+            "PositionX": "770",
+            "PositionY": "23",
+            "Size": "950"
+        },
+        {
+            "Partner": "34",
+            "PositionX": "770",
+            "PositionY": "13",
+            "Size": "950"
+        },
+        {
+            "Partner": "35",
+            "PositionX": "770",
+            "PositionY": "8",
+            "Size": "950"
+        },
+        {
+            "Partner": "36",
+            "PositionX": "730",
+            "PositionY": "108",
+            "Size": "770"
+        },
+        {
+            "Partner": "36u",
+            "PositionX": "730",
+            "PositionY": "108",
+            "Size": "770"
+        },
+        {
+            "Partner": "37",
+            "PositionX": "740",
+            "PositionY": "60",
+            "Size": "950"
+        }
+    ],
+    "2": [
+        {
+            "Partner": "0",
+            "PositionX": "833",
+            "PositionY": "35",
+            "Size": "1400"
+        },
+        {
+            "Partner": "0u",
+            "PositionX": "833",
+            "PositionY": "35",
+            "Size": "1400"
+        },
+        {
+            "Partner": "1",
+            "PositionX": "833",
+            "PositionY": "35",
+            "Size": "1400"
+        },
+        {
+            "Partner": "1u",
+            "PositionX": "833",
+            "PositionY": "35",
+            "Size": "1400"
+        },
+        {
+            "Partner": "3",
+            "PositionX": "830",
+            "PositionY": "0",
+            "Size": "1400"
+        },
+        {
+            "Partner": "4",
+            "PositionX": "840",
+            "PositionY": "20",
+            "Size": "1400"
+        },
+        {
+            "Partner": "4u",
+            "PositionX": "840",
+            "PositionY": "20",
+            "Size": "1400"
+        },
+        {
+            "Partner": "11",
+            "PositionX": "840",
+            "PositionY": "10",
+            "Size": "1435"
+        },
+        {
+            "Partner": "12",
+            "PositionX": "840",
+            "PositionY": "10",
+            "Size": "1435"
+        },
+        {
+            "Partner": "13",
+            "PositionX": "875",
+            "PositionY": "20",
+            "Size": "1350"
+        },
+        {
+            "Partner": "13u",
+            "PositionX": "875",
+            "PositionY": "20",
+            "Size": "1350"
+        },
+        {
+            "Partner": "14",
+            "PositionX": "755",
+            "PositionY": "-10",
+            "Size": "1640"
+        },
+        {
+            "Partner": "15",
+            "PositionX": "840",
+            "PositionY": "10",
+            "Size": "1400"
+        },
+        {
+            "Partner": "16",
+            "PositionX": "830",
+            "PositionY": "25",
+            "Size": "1450"
+        },
+        {
+            "Partner": "17",
+            "PositionX": "795",
+            "PositionY": "0",
+            "Size": "1620"
+        },
+        {
+            "Partner": "18",
+            "PositionX": "840",
+            "PositionY": "0",
+            "Size": "1400"
+        },
+        {
+            "Partner": "19",
+            "PositionX": "800",
+            "PositionY": "50",
+            "Size": "1530"
+        },
+        {
+            "Partner": "20",
+            "PositionX": "865",
+            "PositionY": "25",
+            "Size": "1400"
+        },
+        {
+            "Partner": "21",
+            "PositionX": "850",
+            "PositionY": "-25",
+            "Size": "1400"
+        },
+        {
+            "Partner": "23",
+            "PositionX": "820",
+            "PositionY": "0",
+            "Size": "1400"
+        },
+        {
+            "Partner": "24",
+            "PositionX": "770",
+            "PositionY": "0",
+            "Size": "1400"
+        },
+        {
+            "Partner": "25",
+            "PositionX": "770",
+            "PositionY": "95",
+            "Size": "1580"
+        },
+        {
+            "Partner": "26",
+            "PositionX": "850",
+            "PositionY": "-30",
+            "Size": "1400"
+        },
+        {
+            "Partner": "26u",
+            "PositionX": "850",
+            "PositionY": "-30",
+            "Size": "1400"
+        },
+        {
+            "Partner": "28",
+            "PositionX": "820",
+            "PositionY": "35",
+            "Size": "1400"
+        },
+        {
+            "Partner": "28u",
+            "PositionX": "820",
+            "PositionY": "35",
+            "Size": "1400"
+        },
+        {
+            "Partner": "30",
+            "PositionX": "850",
+            "PositionY": "-15",
+            "Size": "1400"
+        },
+        {
+            "Partner": "31",
+            "PositionX": "850",
+            "PositionY": "50",
+            "Size": "1400"
+        },
+        {
+            "Partner": "33",
+            "PositionX": "850",
+            "PositionY": "-25",
+            "Size": "1400"
+        },
+        {
+            "Partner": "34",
+            "PositionX": "840",
+            "PositionY": "-45",
+            "Size": "1400"
+        },
+        {
+            "Partner": "35",
+            "PositionX": "840",
+            "PositionY": "-60",
+            "Size": "1400"
+        },
+        {
+            "Partner": "36",
+            "PositionX": "810",
+            "PositionY": "50",
+            "Size": "1220"
+        },
+        {
+            "Partner": "36u",
+            "PositionX": "810",
+            "PositionY": "50",
+            "Size": "1220"
+        },
+        {
+            "Partner": "37",
+            "PositionX": "785",
+            "PositionY": "50",
+            "Size": "1400"
+        }
+    ],
+    "4": [
+        {
+            "Partner": "0",
+            "PositionX": "702",
+            "PositionY": "69",
+            "Size": "1436"
+        },
+        {
+            "Partner": "0u",
+            "PositionX": "437",
+            "PositionY": "46",
+            "Size": "1498"
+        },
+        {
+            "Partner": "1",
+            "PositionX": "579",
+            "PositionY": "50",
+            "Size": "1496"
+        },
+        {
+            "Partner": "1u",
+            "PositionX": "439",
+            "PositionY": "48",
+            "Size": "1498"
+        },
+        {
+            "Partner": "2",
+            "PositionX": "574",
+            "PositionY": "48",
+            "Size": "1501"
+        },
+        {
+            "Partner": "2u",
+            "PositionX": "562",
+            "PositionY": "33",
+            "Size": "1503"
+        },
+        {
+            "Partner": "3",
+            "PositionX": "567",
+            "PositionY": "45",
+            "Size": "1522"
+        },
+        {
+            "Partner": "4",
+            "PositionX": "573",
+            "PositionY": "45",
+            "Size": "1508"
+        },
+        {
+            "Partner": "4u",
+            "PositionX": "451",
+            "PositionY": "23",
+            "Size": "1495"
+        },
+        {
+            "Partner": "6",
+            "PositionX": "576",
+            "PositionY": "49",
+            "Size": "1495"
+        },
+        {
+            "Partner": "7",
+            "PositionX": "576",
+            "PositionY": "49",
+            "Size": "1485"
+        },
+        {
+            "Partner": "8",
+            "PositionX": "449",
+            "PositionY": "4",
+            "Size": "1526"
+        },
+        {
+            "Partner": "9",
+            "PositionX": "588",
+            "PositionY": "46",
+            "Size": "1505"
+        },
+        {
+            "Partner": "10",
+            "PositionX": "571",
+            "PositionY": "44",
+            "Size": "1513"
+        },
+        {
+            "Partner": "11",
+            "PositionX": "571",
+            "PositionY": "47",
+            "Size": "1509"
+        },
+        {
+            "Partner": "12",
+            "PositionX": "483",
+            "PositionY": "43",
+            "Size": "1515"
+        },
+        {
+            "Partner": "13",
+            "PositionX": "571",
+            "PositionY": "49",
+            "Size": "1519"
+        },
+        {
+            "Partner": "13u",
+            "PositionX": "476",
+            "PositionY": "51",
+            "Size": "1499"
+        },
+        {
+            "Partner": "14",
+            "PositionX": "593",
+            "PositionY": "50",
+            "Size": "1502"
+        },
+        {
+            "Partner": "15",
+            "PositionX": "547",
+            "PositionY": "46",
+            "Size": "1512"
+        },
+        {
+            "Partner": "16",
+            "PositionX": "576",
+            "PositionY": "50",
+            "Size": "1497"
+        },
+        {
+            "Partner": "17",
+            "PositionX": "574",
+            "PositionY": "50",
+            "Size": "1502"
+        },
+        {
+            "Partner": "18",
+            "PositionX": "517",
+            "PositionY": "47",
+            "Size": "1506"
+        },
+        {
+            "Partner": "19",
+            "PositionX": "567",
+            "PositionY": "45",
+            "Size": "1510"
+        },
+        {
+            "Partner": "20",
+            "PositionX": "598",
+            "PositionY": "49",
+            "Size": "1506"
+        },
+        {
+            "Partner": "21",
+            "PositionX": "588",
+            "PositionY": "48",
+            "Size": "1504"
+        },
+        {
+            "Partner": "22",
+            "PositionX": "576",
+            "PositionY": "48",
+            "Size": "1500"
+        },
+        {
+            "Partner": "23",
+            "PositionX": "587",
+            "PositionY": "49",
+            "Size": "1499"
+        },
+        {
+            "Partner": "24",
+            "PositionX": "434",
+            "PositionY": "46",
+            "Size": "1509"
+        },
+        {
+            "Partner": "25",
+            "PositionX": "572",
+            "PositionY": "47",
+            "Size": "1511"
+        },
+        {
+            "Partner": "26",
+            "PositionX": "577",
+            "PositionY": "51",
+            "Size": "1495"
+        },
+        {
+            "Partner": "26u",
+            "PositionX": "567",
+            "PositionY": "45",
+            "Size": "1510"
+        },
+        {
+            "Partner": "27",
+            "PositionX": "590",
+            "PositionY": "50",
+            "Size": "1495"
+        },
+        {
+            "Partner": "27u",
+            "PositionX": "575",
+            "PositionY": "41",
+            "Size": "1502"
+        },
+        {
+            "Partner": "28",
+            "PositionX": "435",
+            "PositionY": "46",
+            "Size": "1507"
+        },
+        {
+            "Partner": "28u",
+            "PositionX": "423",
+            "PositionY": "47",
+            "Size": "1494"
+        },
+        {
+            "Partner": "29",
+            "PositionX": "524",
+            "PositionY": "47",
+            "Size": "1516"
+        },
+        {
+            "Partner": "29u",
+            "PositionX": "527",
+            "PositionY": "47",
+            "Size": "1495"
+        },
+        {
+            "Partner": "30",
+            "PositionX": "635",
+            "PositionY": "-79",
+            "Size": "1510"
+        },
+        {
+            "Partner": "31",
+            "PositionX": "572",
+            "PositionY": "47",
+            "Size": "1508"
+        },
+        {
+            "Partner": "32",
+            "PositionX": "575",
+            "PositionY": "48",
+            "Size": "1500"
+        },
+        {
+            "Partner": "33",
+            "PositionX": "547",
+            "PositionY": "47",
+            "Size": "1504"
+        },
+        {
+            "Partner": "34",
+            "PositionX": "576",
+            "PositionY": "47",
+            "Size": "1504"
+        },
+        {
+            "Partner": "35",
+            "PositionX": "441",
+            "PositionY": "4",
+            "Size": "1495"
+        },
+        {
+            "Partner": "36",
+            "PositionX": "438",
+            "PositionY": "-2",
+            "Size": "1428"
+        },
+        {
+            "Partner": "36u",
+            "PositionX": "555",
+            "PositionY": "50",
+            "Size": "1501"
+        },
+        {
+            "Partner": "37",
+            "PositionX": "474",
+            "PositionY": "83",
+            "Size": "1502"
+        }
+    ]
+}
