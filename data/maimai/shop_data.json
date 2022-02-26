@@ -5259,8 +5259,16 @@
         "machineCount": 1,
         "id": "1829",
         "province": "湖北",
-        "arcadeName": "寻游纪嗨众",
+        "arcadeName": "寻游纪嗨众武汉江夏店",
         "mall": "寻游纪嗨众",
         "address": "湖北省武汉市江夏区北华街九全嘉国际广场3楼"
+    },
+    "1830": {
+        "machineCount": 1,
+        "id": "1830",
+        "province": "四川",
+        "arcadeName": "欢乐嘉时光绵阳安州店",
+        "mall": "欢乐嘉时光绵阳安州店",
+        "address": "四川省绵阳市安州区银河大道108号汇星广场四楼安州欢乐嘉时光电玩城"
     }
 }
