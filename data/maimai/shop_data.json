@@ -5294,5 +5294,13 @@
         "arcadeName": "非玩不可重庆涪陵店",
         "mall": "非玩不可重庆涪陵店",
         "address": "重庆市涪陵区泽胜中央广场一楼非玩不可游乐场"
+    },
+    "1834": {
+        "machineCount": 1,
+        "id": "1834",
+        "province": "广东",
+        "arcadeName": "kikis其趣游乐广州白云店",
+        "mall": "kikis其趣游乐广州白云店",
+        "address": "广东省广州市白云区同和大道金铂天地2层kikis其趣游乐体验世界"
     }
 }
