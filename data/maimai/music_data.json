@@ -49419,6 +49419,228 @@
             "is_new": true
         }
     },
+    "11165": {
+        "id": "11165",
+        "title": "Regulus",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.5,
+            12.5,
+            14.7
+        ],
+        "level": [
+            "6",
+            "8",
+            "12",
+            "14+"
+        ],
+        "cids": [
+            5940,
+            5941,
+            5942,
+            5943
+        ],
+        "charts": [
+            {
+                "notes": [
+                    126,
+                    22,
+                    6,
+                    19,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    346,
+                    13,
+                    37,
+                    17,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    492,
+                    43,
+                    39,
+                    45,
+                    9
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    764,
+                    28,
+                    99,
+                    99,
+                    9
+                ],
+                "charter": "7.3GHz"
+            }
+        ],
+        "basic_info": {
+            "title": "Regulus",
+            "artist": "お月さま交響曲",
+            "genre": "maimai",
+            "bpm": 212,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11166": {
+        "id": "11166",
+        "title": "ワンダーシャッフェンの法則",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            10.7,
+            14.1
+        ],
+        "level": [
+            "5",
+            "7+",
+            "10+",
+            "14"
+        ],
+        "cids": [
+            5944,
+            5945,
+            5946,
+            5947
+        ],
+        "charts": [
+            {
+                "notes": [
+                    126,
+                    12,
+                    6,
+                    6,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    15,
+                    16,
+                    16,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    38,
+                    70,
+                    7,
+                    20
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    501,
+                    53,
+                    131,
+                    64,
+                    16
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ワンダーシャッフェンの法則",
+            "artist": "アリスシャッハと魔法の楽団",
+            "genre": "maimai",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11167": {
+        "id": "11167",
+        "title": "BIRTH",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.9,
+            12.8,
+            14.5
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            5948,
+            5949,
+            5950,
+            5951
+        ],
+        "charts": [
+            {
+                "notes": [
+                    117,
+                    13,
+                    5,
+                    11,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    17,
+                    24,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    505,
+                    62,
+                    17,
+                    8,
+                    9
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    697,
+                    40,
+                    94,
+                    19,
+                    38
+                ],
+                "charter": "Safata.Hz"
+            }
+        ],
+        "basic_info": {
+            "title": "BIRTH",
+            "artist": "llliiillliiilll",
+            "genre": "maimai",
+            "bpm": 176,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
     "11168": {
         "id": "11168",
         "title": "シアトリカル・ケース",
@@ -49562,6 +49784,228 @@
             "artist": "t+pazolite",
             "genre": "オンゲキCHUNITHM",
             "bpm": 270,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11172": {
+        "id": "11172",
+        "title": "ポケットからぬりつぶせ！",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.2,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            5952,
+            5953,
+            5954,
+            5955
+        ],
+        "charts": [
+            {
+                "notes": [
+                    112,
+                    10,
+                    4,
+                    14,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    224,
+                    19,
+                    21,
+                    30,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    57,
+                    41,
+                    41,
+                    20
+                ],
+                "charter": "小鳥遊さん"
+            },
+            {
+                "notes": [
+                    472,
+                    68,
+                    68,
+                    140,
+                    22
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "ポケットからぬりつぶせ！",
+            "artist": "曲：中山真斗／歌：マーチングポケッツ [日向 千夏(CV：岡咲 美保)、柏木 美亜(CV：和氣 あず未)、東雲 つむぎ(CV：和泉 風花)]",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 126,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11173": {
+        "id": "11173",
+        "title": "トリドリ⇒モリモリ！Lovely fruits☆",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            10.7,
+            13.2
+        ],
+        "level": [
+            "5",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            5956,
+            5957,
+            5958,
+            5959
+        ],
+        "charts": [
+            {
+                "notes": [
+                    152,
+                    19,
+                    7,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    35,
+                    14,
+                    52,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    446,
+                    92,
+                    42,
+                    12,
+                    23
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    605,
+                    87,
+                    112,
+                    44,
+                    36
+                ],
+                "charter": "すきやき奉行"
+            }
+        ],
+        "basic_info": {
+            "title": "トリドリ⇒モリモリ！Lovely fruits☆",
+            "artist": "曲：やしきん／歌：柏木 美亜(CV：和氣 あず未)",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11174": {
+        "id": "11174",
+        "title": "Desperado Waltz",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.4,
+            11.8,
+            14.3
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "14"
+        ],
+        "cids": [
+            5960,
+            5961,
+            5962,
+            5963
+        ],
+        "charts": [
+            {
+                "notes": [
+                    129,
+                    21,
+                    4,
+                    10,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    270,
+                    31,
+                    18,
+                    37,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    485,
+                    120,
+                    27,
+                    52,
+                    13
+                ],
+                "charter": "小鳥遊さん"
+            },
+            {
+                "notes": [
+                    809,
+                    140,
+                    42,
+                    57,
+                    54
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "Desperado Waltz",
+            "artist": "ぺのれり",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 172,
             "release_date": "",
             "from": "maimai でらっくす Splash",
             "is_new": true
@@ -51147,6 +51591,302 @@
             "is_new": true
         }
     },
+    "11201": {
+        "id": "11201",
+        "title": "絡繰りドール",
+        "type": "DX",
+        "ds": [
+            4.0,
+            6.5,
+            9.0,
+            12.8
+        ],
+        "level": [
+            "4",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            5964,
+            5965,
+            5966,
+            5967
+        ],
+        "charts": [
+            {
+                "notes": [
+                    120,
+                    8,
+                    2,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    233,
+                    17,
+                    8,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    315,
+                    29,
+                    44,
+                    23,
+                    10
+                ],
+                "charter": "小鳥遊さん"
+            },
+            {
+                "notes": [
+                    528,
+                    47,
+                    52,
+                    33,
+                    38
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "絡繰りドール",
+            "artist": "SOUND HOLIC feat. Nana Takahashi",
+            "genre": "東方Project",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11202": {
+        "id": "11202",
+        "title": "物凄いヴァイブスで魔理沙が物凄いラップ",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.0,
+            9.7,
+            13.4
+        ],
+        "level": [
+            "4",
+            "7",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            5968,
+            5969,
+            5970,
+            5971
+        ],
+        "charts": [
+            {
+                "notes": [
+                    128,
+                    9,
+                    4,
+                    12,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    204,
+                    21,
+                    8,
+                    21,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    315,
+                    15,
+                    44,
+                    48,
+                    46
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    499,
+                    60,
+                    102,
+                    71,
+                    45
+                ],
+                "charter": "7.3Hz＋Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "物凄いヴァイブスで魔理沙が物凄いラップ",
+            "artist": "魂音泉",
+            "genre": "東方Project",
+            "bpm": 173,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11204": {
+        "id": "11204",
+        "title": "Sweet Requiem",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            10.7,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            5972,
+            5973,
+            5974,
+            5975
+        ],
+        "charts": [
+            {
+                "notes": [
+                    98,
+                    12,
+                    3,
+                    18,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    261,
+                    9,
+                    15,
+                    23,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    355,
+                    52,
+                    39,
+                    23,
+                    23
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    744,
+                    30,
+                    42,
+                    52,
+                    40
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "Sweet Requiem",
+            "artist": "REDALiCE & aran",
+            "genre": "東方Project",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11205": {
+        "id": "11205",
+        "title": "Dive into The Sky ～initialized～",
+        "type": "DX",
+        "ds": [
+            4.0,
+            6.2,
+            9.2,
+            12.8
+        ],
+        "level": [
+            "4",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            5976,
+            5977,
+            5978,
+            5979
+        ],
+        "charts": [
+            {
+                "notes": [
+                    121,
+                    10,
+                    5,
+                    6,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    236,
+                    12,
+                    15,
+                    17,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    401,
+                    63,
+                    30,
+                    13,
+                    22
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    578,
+                    56,
+                    50,
+                    47,
+                    39
+                ],
+                "charter": "小鳥遊さん"
+            }
+        ],
+        "basic_info": {
+            "title": "Dive into The Sky ～initialized～",
+            "artist": "A-One",
+            "genre": "東方Project",
+            "bpm": 165,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
     "11206": {
         "id": "11206",
         "title": "BATTLE NO.1",
@@ -51216,6 +51956,228 @@
             "artist": "TANO*C Sound Team",
             "genre": "ゲームバラエティ",
             "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11207": {
+        "id": "11207",
+        "title": "Ether Strike",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            10.8,
+            13.9
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            5980,
+            5981,
+            5982,
+            5983
+        ],
+        "charts": [
+            {
+                "notes": [
+                    120,
+                    12,
+                    4,
+                    12,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    292,
+                    21,
+                    20,
+                    12,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    357,
+                    121,
+                    38,
+                    26,
+                    16
+                ],
+                "charter": "小鳥遊さん"
+            },
+            {
+                "notes": [
+                    600,
+                    79,
+                    105,
+                    16,
+                    52
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "Ether Strike",
+            "artist": "Akira Complex",
+            "genre": "ゲームバラエティ",
+            "bpm": 156,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11208": {
+        "id": "11208",
+        "title": "Cyaegha",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            11.0,
+            13.5
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [
+            5984,
+            5985,
+            5986,
+            5987
+        ],
+        "charts": [
+            {
+                "notes": [
+                    174,
+                    7,
+                    2,
+                    8,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    312,
+                    24,
+                    14,
+                    25,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    407,
+                    49,
+                    86,
+                    22,
+                    24
+                ],
+                "charter": "シチミヘルツ"
+            },
+            {
+                "notes": [
+                    706,
+                    39,
+                    119,
+                    30,
+                    52
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "Cyaegha",
+            "artist": "USAO",
+            "genre": "ゲームバラエティ",
+            "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11209": {
+        "id": "11209",
+        "title": "Grievous Lady",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            12.0,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            5988,
+            5989,
+            5990,
+            5991
+        ],
+        "charts": [
+            {
+                "notes": [
+                    170,
+                    7,
+                    2,
+                    40,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    378,
+                    14,
+                    16,
+                    24,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    504,
+                    89,
+                    55,
+                    47,
+                    17
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    726,
+                    92,
+                    85,
+                    44,
+                    41
+                ],
+                "charter": "Anomaly Labyrinth"
+            }
+        ],
+        "basic_info": {
+            "title": "Grievous Lady",
+            "artist": "Team Grimoire vs Laur",
+            "genre": "ゲームバラエティ",
+            "bpm": 210,
             "release_date": "",
             "from": "maimai でらっくす Splash",
             "is_new": true
@@ -51813,6 +52775,80 @@
             "is_new": true
         }
     },
+    "11219": {
+        "id": "11219",
+        "title": "Prismatic",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.4,
+            9.4,
+            12.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "9",
+            "12"
+        ],
+        "cids": [
+            5992,
+            5993,
+            5994,
+            5995
+        ],
+        "charts": [
+            {
+                "notes": [
+                    114,
+                    14,
+                    3,
+                    12,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    358,
+                    14,
+                    3,
+                    12,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    300,
+                    108,
+                    38,
+                    13,
+                    13
+                ],
+                "charter": "某S氏"
+            },
+            {
+                "notes": [
+                    552,
+                    42,
+                    114,
+                    29,
+                    13
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Prismatic",
+            "artist": "CielArc",
+            "genre": "東方Project",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
     "11221": {
         "id": "11221",
         "title": "≠彡\"/了→",
@@ -51882,6 +52918,80 @@
             "artist": "水野健治",
             "genre": "maimai",
             "bpm": 222,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": true
+        }
+    },
+    "11222": {
+        "id": "11222",
+        "title": "BREaK! BREaK! BREaK!",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.5,
+            12.8,
+            14.7
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14+"
+        ],
+        "cids": [
+            5996,
+            5997,
+            5998,
+            5999
+        ],
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    10,
+                    8,
+                    0,
+                    17
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    321,
+                    17,
+                    14,
+                    26,
+                    36
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    513,
+                    65,
+                    42,
+                    55,
+                    57
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    797,
+                    76,
+                    121,
+                    62,
+                    50
+                ],
+                "charter": "サファ太 vs -ZONE- SaFaRi"
+            }
+        ],
+        "basic_info": {
+            "title": "BREaK! BREaK! BREaK!",
+            "artist": "HiTECH NINJA vs Cranky",
+            "genre": "maimai",
+            "bpm": 165,
             "release_date": "",
             "from": "maimai でらっくす Splash",
             "is_new": true
