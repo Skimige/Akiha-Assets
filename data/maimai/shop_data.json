@@ -40,7 +40,7 @@
         "address": "广东省东莞市长安镇长青南路1号7栋万科广场三楼3039室城市英雄"
     },
     "1009": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1009",
         "province": "江苏",
         "arcadeName": "风云再起南京新街口天丰大厦店",
@@ -2339,7 +2339,7 @@
         "machineCount": 1,
         "id": "1432",
         "province": "河南",
-        "arcadeName": "驻马店爱玩星球",
+        "arcadeName": "爱玩星球驻马店",
         "mall": "驻马店爱玩星球",
         "address": "河南省驻马店市经济开发区乐山大道与置地大道交叉口爱克玖隆茂购物中心三楼爱玩星球"
     },
@@ -2853,7 +2853,7 @@
         "province": "北京",
         "arcadeName": "treasure dream北京店",
         "mall": "treasure dream北京店",
-        "address": "北京市朝阳区建国路16号201"
+        "address": "北京市朝阳区建国路16号院（星空文娱）C区二楼梦与宝藏"
     },
     "1505": {
         "machineCount": 1,
@@ -4167,14 +4167,6 @@
         "mall": "超级星座昆明官渡海乐店",
         "address": "云南省昆明市官渡区永中路海乐世界购物中心3层超级星座游戏体验中心"
     },
-    "1683": {
-        "machineCount": 1,
-        "id": "1683",
-        "province": "江苏",
-        "arcadeName": "凤梨潮玩社南京鼓楼店",
-        "mall": "凤梨潮玩社南京鼓楼店",
-        "address": "江苏省南京市鼓楼区中海环宇城三楼凤梨潮玩社"
-    },
     "1684": {
         "machineCount": 1,
         "id": "1684",
@@ -4467,9 +4459,9 @@
         "machineCount": 1,
         "id": "1722",
         "province": "广东",
-        "arcadeName": "深圳国际交易广场",
-        "mall": "深圳国际交易广场",
-        "address": "广东省深圳市福田区福华路北深圳国际交易广场36楼东区"
+        "arcadeName": "深圳市大中华国际交易广场店",
+        "mall": "深圳市大中华国际交易广场店",
+        "address": "广东省深圳市福田区福华一路大中华国际交易广场G层中心广场"
     },
     "1723": {
         "machineCount": 2,
@@ -5229,7 +5221,7 @@
         "province": "河南",
         "arcadeName": "爱玩星球郑州金水店",
         "mall": "爱玩星球郑州金水店",
-        "address": "河南省郑州市金水区东风路瀚海海尚负一层爱玩星球"
+        "address": "河南省郑州市金水区东风路瀚海海尚mall-B146号爱玩星球"
     },
     "1825": {
         "machineCount": 1,
