@@ -1,0 +1,13 @@
+aniso8601==9.0.1
+click==8.1.2; python_version >= "3.7"
+colorama==0.4.4; python_version >= "3.7" and python_full_version < "3.0.0" and platform_system == "Windows" or platform_system == "Windows" and python_version >= "3.7" and python_full_version >= "3.5.0"
+flask-restful==0.3.9
+flask==2.1.1; python_version >= "3.7"
+importlib-metadata==4.11.3; python_version < "3.10" and python_version >= "3.7"
+itsdangerous==2.1.2; python_version >= "3.7"
+jinja2==3.1.1; python_version >= "3.7"
+markupsafe==2.1.1; python_version >= "3.7"
+pytz==2022.1
+six==1.16.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
+werkzeug==2.1.1; python_version >= "3.7"
+zipp==3.8.0; python_version < "3.10" and python_version >= "3.7"
