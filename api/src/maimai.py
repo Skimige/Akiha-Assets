@@ -12,5 +12,6 @@ with open(os.path.join('..', 'data', 'maimai', 'chart_stats.json'), 'r', -1, 'ut
 
 
 class MaimaiDXMusicInfo(Resource):
-    def get(self, id: str):
-        return music_data[id]
+    @staticmethod
+    def get(music_id: str):
+        return music_data[music_id]
