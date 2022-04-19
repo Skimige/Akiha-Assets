@@ -27,12 +27,12 @@ def maimai_dx_music_info():
 def not_found(error):
     # Include request info in response
     print(error)
-    return Response(jsonify({
+    return jsonify({
         'path': request.path,
         'params': request.args,
         'method': request.method,
         'message': 'Not found'
-    }), status=404)
+    }), 404
 
 # if __name__ == '__main__':
 #     app.run(debug=True)
