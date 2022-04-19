@@ -14,7 +14,8 @@ app = Flask(__name__)
 
 
 @app.route('/api/maimai/music', methods=['GET'])
-def maimai_dx_music_info():
+@app.route('/api/maimai/music/<string:music_id>', methods=['GET'])
+def maimai_dx_music_info(music_id=None):
     args = request.args
     music_id = args.get('music_id', default='', type=str)
     if music_id in music_data:
