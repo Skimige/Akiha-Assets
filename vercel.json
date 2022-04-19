@@ -5,6 +5,10 @@
         {
             "source": "/api/maimai/music/:music_id",
             "destination": "/api/maimai/music"
+        },
+        {
+            "source": "/maimai/music/:music_id",
+            "destination": "/api/maimai/music"
         }
     ]
 }
