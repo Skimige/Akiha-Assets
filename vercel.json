@@ -3,7 +3,7 @@
     "trailingSlash": false,
     "rewrites": [
         {
-            "source": "/api/maimai/music/:id",
+            "source": "/api/maimai/music/:music_id",
             "destination": "/api/maimai/music"
         }
     ]
