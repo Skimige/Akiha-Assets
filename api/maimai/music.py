@@ -13,7 +13,7 @@ with open(os.path.join('data', 'maimai', 'chart_stats.json'), 'r', -1, 'utf-8') 
 app = Flask(__name__)
 
 
-@app.route('/', methods=['GET'])
+@app.route('/api/maimai/music', methods=['GET'])
 def maimai_dx_music_info():
     args = request.args
     music_id = args.get('music_id', default='', type=str)
