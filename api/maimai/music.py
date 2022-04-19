@@ -1,7 +1,7 @@
 import json
 import os
 
-from flask import Flask, Response, jsonify
+from flask import Flask, Response, jsonify, request
 
 
 with open(os.path.join('data', 'maimai', 'music_data.json'), 'r', -1, 'utf-8') as f:
@@ -13,8 +13,10 @@ with open(os.path.join('data', 'maimai', 'chart_stats.json'), 'r', -1, 'utf-8') 
 app = Flask(__name__)
 
 
-@app.route('/<string:music_id>', methods=['GET'])
-def maimai_dx_music_info(music_id):
+@app.route('/', methods=['GET'])
+def maimai_dx_music_info():
+    args = request.args
+    music_id = args.get('music_id', default='', type=str)
     if music_id in music_data:
         print(music_data[music_id])
         return jsonify(music_data[music_id])
