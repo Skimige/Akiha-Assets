@@ -23,6 +23,16 @@ def maimai_dx_music_info():
     else:
         return Response('Specified music not found.', status=404)
 
+@app.errorhandler(404)
+def not_found(error):
+    # Include request info in response
+    print(error)
+    return Response({
+        'path': request.path,
+        'params': request.args,
+        'method': request.method,
+        'message': 'Not found'
+    }, status=404)
 
 # if __name__ == '__main__':
 #     app.run(debug=True)
