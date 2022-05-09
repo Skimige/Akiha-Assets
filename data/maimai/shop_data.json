@@ -871,14 +871,6 @@
         "mall": "风云再起郑州大卫城店",
         "address": "河南省郑州市金水区二七路西泰康路大卫城6楼风云再起"
     },
-    "1215": {
-        "machineCount": 1,
-        "id": "1215",
-        "province": "海南",
-        "arcadeName": "三亚时光机动漫城",
-        "mall": "三亚时光机动漫城",
-        "address": "海南省三亚市天涯区胜利路胜利广场一楼时光机动漫城"
-    },
     "1217": {
         "machineCount": 2,
         "id": "1217",
@@ -4648,7 +4640,7 @@
         "address": "山西省太原市柳巷街道柳巷南路63号万通购物广场一层141号"
     },
     "1748": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1748",
         "province": "天津",
         "arcadeName": "7Holic天津和平店",
@@ -5478,5 +5470,21 @@
         "arcadeName": "天空之城重庆两江新区店",
         "mall": "天空之城重庆两江新区店",
         "address": "重庆市两江新区鸳鸯街道金渝大道58号馆-2F-24.25.26号天空之城"
+    },
+    "1863": {
+        "machineCount": 1,
+        "id": "1863",
+        "province": "贵州",
+        "arcadeName": "第8街潮玩安顺西秀古城店",
+        "mall": "第8街潮玩安顺西秀古城店",
+        "address": "贵州省安顺市西秀区小十字安顺古城A2号楼一层商铺"
+    },
+    "1864": {
+        "machineCount": 1,
+        "id": "1864",
+        "province": "天津",
+        "arcadeName": "JAJSPOP一番赏天津和平店",
+        "mall": "JAJSPOP一番赏天津和平店",
+        "address": "天津市和平区南京路221号国际商场负一层JAJAPOP一番赏"
     }
 }
