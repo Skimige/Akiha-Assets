@@ -5486,5 +5486,13 @@
         "arcadeName": "JAJSPOP一番赏天津和平店",
         "mall": "JAJSPOP一番赏天津和平店",
         "address": "天津市和平区南京路221号国际商场负一层JAJAPOP一番赏"
+    },
+    "1865": {
+        "machineCount": 2,
+        "id": "1865",
+        "province": "浙江",
+        "arcadeName": "第一回合嘉兴八佰伴店",
+        "mall": "第一回合嘉兴八佰伴店",
+        "address": "浙江省嘉兴市南湖区中山路1360号嘉兴八佰伴购物中心B1层"
     }
 }
