@@ -4631,14 +4631,6 @@
         "mall": "炫e潮玩太原万通广场店",
         "address": "山西省太原市柳巷街道柳巷南路63号万通购物广场一层141号"
     },
-    "1748": {
-        "machineCount": 1,
-        "id": "1748",
-        "province": "天津",
-        "arcadeName": "7Holic天津和平店",
-        "mall": "7Holic天津和平店",
-        "address": "天津市和平区南京路世纪都会商厦208号"
-    },
     "1749": {
         "machineCount": 1,
         "id": "1749",
@@ -5518,6 +5510,14 @@
         "arcadeName": "盐城酷玩空间青岛胶州店",
         "mall": "盐城酷玩空间青岛胶州店",
         "address": "山东省青岛市胶州市香港路277号A栋F39"
+    },
+    "1871": {
+        "machineCount": 1,
+        "id": "1871",
+        "province": "广东",
+        "arcadeName": "UFOCENTER广州从化欣荣店",
+        "mall": "UFOCENTER广州从化欣荣店",
+        "address": "广东省广州市从化区欣荣时尚广场A区B栋2楼UFO-CENTER"
     },
     "1872": {
         "machineCount": 2,
