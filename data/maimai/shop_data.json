@@ -1840,7 +1840,7 @@
         "address": "四川省成都市都江堰市幸福街道幸福社区都江堰大道106号1号楼4层13b室"
     },
     "1364": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1364",
         "province": "湖北",
         "arcadeName": "奇奇乐园宜昌兴发店",
@@ -5598,5 +5598,13 @@
         "arcadeName": "一同潮玩南昌青山店",
         "mall": "一同潮玩南昌青山店",
         "address": "江西省南昌市青山湖区蛟桥镇双港西大街旭辉Cmall4楼011号一同潮玩"
+    },
+    "1885": {
+        "machineCount": 1,
+        "id": "1885",
+        "province": "湖北",
+        "arcadeName": "奇奇乐园宜昌西陵CBD店",
+        "mall": "奇奇乐园宜昌西陵CBD店",
+        "address": "湖北省宜昌市西陵区夷陵大道58号CBD购物中心三楼奇奇乐园"
     }
 }
