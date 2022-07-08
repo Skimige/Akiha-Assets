@@ -6067,8 +6067,16 @@
         "machineCount": 1,
         "id": "1943",
         "province": "山东",
-        "arcadeName": "济南潮玩社",
-        "mall": "济南潮玩社",
+        "arcadeName": "潮玩社济南历下龙湖天街店",
+        "mall": "潮玩社济南历下龙湖天街店",
         "address": "山东省济南市历下区奥体西路龙湖天街5楼潮玩社"
+    },
+    "1944": {
+        "machineCount": 1,
+        "id": "1944",
+        "province": "重庆",
+        "arcadeName": "城市英雄渝北龙湖礼嘉天街店",
+        "mall": "城市英雄渝北龙湖礼嘉天街店",
+        "address": "重庆市渝北区龙湖礼嘉天街A馆负一楼"
     }
 }
