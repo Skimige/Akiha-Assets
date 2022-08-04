@@ -25,7 +25,8 @@ jobs:
       # Runs a single command using the runners shell
       - name: Get latest data and update
         env:
-          WAHLAP_SHOP_API_URL: ${{ secrets.WAHLAP_SHOP_API_URL }}
+          WAHLAP_CHUNITHM_SHOP_DATA_URL: ${{ secrets.WAHLAP_CHUNITHM_SHOP_DATA_URL }}
+          WAHLAP_MAIMAI_SHOP_DATA_URL: ${{ secrets.WAHLAP_MAIMAI_SHOP_DATA_URL }}
           ALIAS_SHEET_TSV_URL: ${{ secrets.ALIAS_SHEET_TSV_URL }}
           MUSIC_DATA_URL: ${{ secrets.MUSIC_DATA_URL }}
           CHART_STATS_DATA_URL: ${{ secrets.CHART_STATS_DATA_URL }}
