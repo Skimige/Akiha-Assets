@@ -2968,7 +2968,7 @@
         "address": "湖北省襄阳市樊城区关圣古镇13栋"
     },
     "1530": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1530",
         "province": "湖南",
         "arcadeName": "城市英雄长沙荟聚店",
@@ -6424,7 +6424,7 @@
         "address": "湖南长沙开福区金泰路199号世纪金源购物中心F4"
     },
     "2005": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2005",
         "province": "重庆",
         "arcadeName": "城市英雄重庆大学城店",
@@ -6438,5 +6438,13 @@
         "arcadeName": "欢悦天堂太空之城凯德西城店",
         "mall": "欢悦天堂太空之城凯德西城店",
         "address": "湖北省武汉硚口区解放大道18号凯德西城4楼"
+    },
+    "2007": {
+        "machineCount": 2,
+        "id": "2007",
+        "province": "北京",
+        "arcadeName": "嘉贝乐北京五道口店",
+        "mall": "嘉贝乐北京五道口店",
+        "address": "北京市海淀区成府路28号五道口购物中心三层"
     }
 }
