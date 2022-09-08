@@ -1,1 +1,146 @@
-{}
+{
+    "1001": {
+        "machineCount": 4,
+        "id": "1001",
+        "province": "广东",
+        "arcadeName": "环游嘉年华天河店",
+        "mall": "天河城",
+        "address": "广东省广州市天河区天河路208号天河城6楼"
+    },
+    "1002": {
+        "machineCount": 2,
+        "id": "1002",
+        "province": "广东",
+        "arcadeName": "环游嘉年华番禺易发店",
+        "mall": "环游嘉年华番禺易发店",
+        "address": "广东省广州市番禺区市桥街易发商业街新大新百货5楼"
+    },
+    "1005": {
+        "machineCount": 2,
+        "id": "1005",
+        "province": "陕西",
+        "arcadeName": "哆啦乐图西安钟楼店",
+        "mall": "哆啦星球",
+        "address": "西安市碑林区骡马市60号文商大厦一层"
+    },
+    "1073": {
+        "machineCount": 4,
+        "id": "1073",
+        "province": "广东",
+        "arcadeName": "环游嘉年华东莞民盈国贸店",
+        "mall": "环游嘉年华东莞民盈国贸店",
+        "address": "广东省东莞市东城街道东泰社区鸿福东路1号民盈国贸城5号楼L3001-3003"
+    },
+    "1077": {
+        "machineCount": 2,
+        "id": "1077",
+        "province": "湖南",
+        "arcadeName": "城市英雄长沙梅溪湖步步高店",
+        "mall": "城市英雄长沙梅溪湖步步高店",
+        "address": "湖南省长沙市岳麓区梅溪湖步步高负一层城市英雄"
+    },
+    "1080": {
+        "machineCount": 2,
+        "id": "1080",
+        "province": "江苏",
+        "arcadeName": "风云再起正洪大厦店",
+        "mall": "风云再起正洪大夏店",
+        "address": "江苏省南京市秦淮区洪武路38号正洪大厦102栋"
+    },
+    "1086": {
+        "machineCount": 2,
+        "id": "1086",
+        "province": "陕西",
+        "arcadeName": "哆啦星球小寨店",
+        "mall": "哆啦星球小寨店",
+        "address": "陕西省西安市雁塔区长安中路215号西旅国际一楼"
+    },
+    "1088": {
+        "machineCount": 2,
+        "id": "1088",
+        "province": "湖南",
+        "arcadeName": "城市英雄长沙五一广场店",
+        "mall": "城市英雄长沙五一广场店",
+        "address": "湖南省长沙市天心区春天百货负一楼城市英雄电玩"
+    },
+    "1098": {
+        "machineCount": 2,
+        "id": "1098",
+        "province": "上海",
+        "arcadeName": "上海JOYPOLIS世嘉都市乐园",
+        "mall": "上海JOYPOLIS世嘉都市乐园",
+        "address": "上海市普陀区中山北路3300号月星环球港四楼世嘉都市乐园"
+    },
+    "1146": {
+        "machineCount": 2,
+        "id": "1146",
+        "province": "湖南",
+        "arcadeName": "城市英雄司门口店",
+        "mall": "城市英雄司门口店",
+        "address": "湖南省长沙市解放西路147号"
+    },
+    "1205": {
+        "machineCount": 2,
+        "id": "1205",
+        "province": "山西",
+        "arcadeName": "阿凡达电玩山西太原柳巷店",
+        "mall": "阿凡达电玩山西太原柳巷店",
+        "address": "山西省太原市迎泽区柳巷商业街工贸大厦四楼阿凡达电玩嘉年华"
+    },
+    "1243": {
+        "machineCount": 2,
+        "id": "1243",
+        "province": "福建",
+        "arcadeName": "乐炫风福州鼓楼东百中心店",
+        "mall": "乐炫风福州鼓楼东百中心店",
+        "address": "福建省福州市鼓楼区东街东百中心C馆负一楼乐炫风"
+    },
+    "1328": {
+        "machineCount": 1,
+        "id": "1328",
+        "province": "内蒙古",
+        "arcadeName": "酷乐大玩家鄂尔多斯店",
+        "mall": "酷乐大玩家鄂尔多斯店",
+        "address": "内蒙古鄂尔多斯市东胜区星河COCO City二期二楼"
+    },
+    "1417": {
+        "machineCount": 2,
+        "id": "1417",
+        "province": "广东",
+        "arcadeName": "哇哇哇游乐城广州天河正佳店",
+        "mall": "哇哇哇游乐城广州天河正佳店",
+        "address": "广东省广州市天河区天河路228号正佳广场七楼"
+    },
+    "1623": {
+        "machineCount": 2,
+        "id": "1623",
+        "province": "上海",
+        "arcadeName": "星河部落川沙百联店",
+        "mall": "星河部落川沙百联店",
+        "address": "上海市浦东新区5398号3楼"
+    },
+    "1627": {
+        "machineCount": 4,
+        "id": "1627",
+        "province": "广东",
+        "arcadeName": "环游嘉年华东莞运动汇一城店",
+        "mall": "环游嘉年华东莞运动汇一城店",
+        "address": "广东省东莞市南城街道鸿福路200号第一财富中心5栋103-202室"
+    },
+    "1858": {
+        "machineCount": 2,
+        "id": "1858",
+        "province": "江苏",
+        "arcadeName": "风云再起徐州鼓楼苏宁广场店",
+        "mall": "风云再起徐州鼓楼苏宁广场店",
+        "address": "江苏省徐州市鼓楼区淮海东路29号苏宁广场3F326"
+    },
+    "1869": {
+        "machineCount": 2,
+        "id": "1869",
+        "province": "浙江",
+        "arcadeName": "米吉姆宁波鄞州银泰店",
+        "mall": "米吉姆宁波鄞州银泰店",
+        "address": "浙江省宁波市鄞州区首南街道天童南路1088号句章东路999号银泰环球城内购物中心3F层"
+    }
+}
