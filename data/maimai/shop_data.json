@@ -6527,6 +6527,14 @@
         "mall": "欢乐嘉时光绵阳茂业店",
         "address": "四川省绵阳市涪城区茂业百货三楼欢乐嘉时光电玩城"
     },
+    "2017": {
+        "machineCount": 1,
+        "id": "2017",
+        "province": "广东",
+        "arcadeName": "GoPlay潮玩中山石岐店",
+        "mall": "华立暂未开业-GoPlay潮玩",
+        "address": "广东省中山市石岐区大信南路3号7卡GoPlay潮玩"
+    },
     "2018": {
         "machineCount": 2,
         "id": "2018",
@@ -6638,5 +6646,13 @@
         "arcadeName": "大玩小乐重庆江津店",
         "mall": "大玩小乐重庆江津店",
         "address": "重庆市江津区浒溪南路万达广场大玩小乐"
+    },
+    "2034": {
+        "machineCount": 1,
+        "id": "2034",
+        "province": "山西",
+        "arcadeName": "PPG潮玩汇大同平城店",
+        "mall": "PPG潮玩汇大同店",
+        "address": "山西省大同市平城区绿地缤纷汇6号楼二层"
     }
 }
