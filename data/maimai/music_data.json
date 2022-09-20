@@ -53161,6 +53161,302 @@
             "is_new": true
         }
     },
+    "11232": {
+        "id": "11232",
+        "title": "Never Give Up!",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.8,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            6255,
+            6256,
+            6257,
+            6258
+        ],
+        "charts": [
+            {
+                "notes": [
+                    131,
+                    7,
+                    8,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    245,
+                    25,
+                    23,
+                    27,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    340,
+                    43,
+                    54,
+                    53,
+                    5
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    485,
+                    73,
+                    112,
+                    57,
+                    20
+                ],
+                "charter": "7.3連発華火"
+            }
+        ],
+        "basic_info": {
+            "title": "Never Give Up!",
+            "artist": "nanobii",
+            "genre": "maimai",
+            "bpm": 171,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11233": {
+        "id": "11233",
+        "title": "Starry Colors",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            14.0
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "14"
+        ],
+        "cids": [
+            6259,
+            6260,
+            6261,
+            6262
+        ],
+        "charts": [
+            {
+                "notes": [
+                    138,
+                    14,
+                    6,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    259,
+                    37,
+                    25,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    405,
+                    65,
+                    31,
+                    10,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    674,
+                    60,
+                    99,
+                    78,
+                    19
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "Starry Colors",
+            "artist": "BlackY feat. Risa Yuzuki",
+            "genre": "maimai",
+            "bpm": 177,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11234": {
+        "id": "11234",
+        "title": "ほしぞらスペクタクル",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            12.5,
+            14.3
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6263,
+            6264,
+            6265,
+            6266
+        ],
+        "charts": [
+            {
+                "notes": [
+                    157,
+                    16,
+                    12,
+                    22,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    318,
+                    30,
+                    45,
+                    27,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    583,
+                    59,
+                    50,
+                    60,
+                    10
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    823,
+                    60,
+                    69,
+                    202,
+                    25
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "ほしぞらスペクタクル",
+            "artist": "奏音",
+            "genre": "maimai",
+            "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11235": {
+        "id": "11235",
+        "title": "VIIIbit Explorer",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            13.0,
+            14.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "13",
+            "14+"
+        ],
+        "cids": [
+            6267,
+            6268,
+            6269,
+            6270
+        ],
+        "charts": [
+            {
+                "notes": [
+                    225,
+                    8,
+                    4,
+                    9,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    351,
+                    20,
+                    14,
+                    29,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    606,
+                    75,
+                    72,
+                    46,
+                    26
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    738,
+                    28,
+                    75,
+                    70,
+                    88
+                ],
+                "charter": "-ZONE- SaFaRi"
+            }
+        ],
+        "basic_info": {
+            "title": "VIIIbit Explorer",
+            "artist": "Lime",
+            "genre": "maimai",
+            "bpm": 188,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "11239": {
         "id": "11239",
         "title": "オーケー？　オーライ！",
@@ -54236,6 +54532,154 @@
             "is_new": true
         }
     },
+    "11265": {
+        "id": "11265",
+        "title": "Alice in 冷凍庫",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            6271,
+            6272,
+            6273,
+            6274
+        ],
+        "charts": [
+            {
+                "notes": [
+                    118,
+                    6,
+                    2,
+                    6,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    238,
+                    19,
+                    14,
+                    10,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    347,
+                    54,
+                    24,
+                    14,
+                    8
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    437,
+                    69,
+                    81,
+                    50,
+                    6
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Alice in 冷凍庫",
+            "artist": "Orangestar",
+            "genre": "niconicoボーカロイド",
+            "bpm": 176,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11266": {
+        "id": "11266",
+        "title": "キラメキ居残り大戦争",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.5,
+            10.8,
+            13.2
+        ],
+        "level": [
+            "5",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            6275,
+            6276,
+            6277,
+            6278
+        ],
+        "charts": [
+            {
+                "notes": [
+                    136,
+                    17,
+                    2,
+                    16,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    270,
+                    42,
+                    24,
+                    22,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    48,
+                    29,
+                    25,
+                    32
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    536,
+                    38,
+                    135,
+                    41,
+                    48
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "キラメキ居残り大戦争",
+            "artist": "森羅万象",
+            "genre": "ゲームバラエティ",
+            "bpm": 212,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "11275": {
         "id": "11275",
         "title": "ロストワードクロニカル",
@@ -54379,6 +54823,302 @@
             "artist": "幽閉サテライト",
             "genre": "東方Project",
             "bpm": 156,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11277": {
+        "id": "11277",
+        "title": "Melody！",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            9.8,
+            12.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12"
+        ],
+        "cids": [
+            6279,
+            6280,
+            6281,
+            6282
+        ],
+        "charts": [
+            {
+                "notes": [
+                    110,
+                    16,
+                    4,
+                    16,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    277,
+                    21,
+                    27,
+                    19,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    380,
+                    54,
+                    32,
+                    46,
+                    12
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    544,
+                    52,
+                    91,
+                    24,
+                    10
+                ],
+                "charter": "はっぴー respects for 某S氏"
+            }
+        ],
+        "basic_info": {
+            "title": "Melody！",
+            "artist": "あ～るの～と（いえろ～ぜぶら）",
+            "genre": "東方Project",
+            "bpm": 175,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11278": {
+        "id": "11278",
+        "title": "下克上々",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.8,
+            10.2,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6283,
+            6284,
+            6285,
+            6286
+        ],
+        "charts": [
+            {
+                "notes": [
+                    101,
+                    15,
+                    6,
+                    6,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    252,
+                    25,
+                    10,
+                    29,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    338,
+                    56,
+                    51,
+                    21,
+                    6
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    632,
+                    54,
+                    79,
+                    16,
+                    46
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "下克上々",
+            "artist": "豚乙女",
+            "genre": "東方Project",
+            "bpm": 164,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11279": {
+        "id": "11279",
+        "title": "ハウリング",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.2,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            6287,
+            6288,
+            6289,
+            6290
+        ],
+        "charts": [
+            {
+                "notes": [
+                    122,
+                    12,
+                    6,
+                    6,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    237,
+                    25,
+                    19,
+                    13,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    320,
+                    45,
+                    33,
+                    10,
+                    16
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    404,
+                    52,
+                    111,
+                    83,
+                    34
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ハウリング",
+            "artist": "Liz Triangle",
+            "genre": "東方Project",
+            "bpm": 184,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11280": {
+        "id": "11280",
+        "title": "トランスダンスアナーキー",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            10.8,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            6291,
+            6292,
+            6293,
+            6294
+        ],
+        "charts": [
+            {
+                "notes": [
+                    188,
+                    8,
+                    4,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    53,
+                    13,
+                    57,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    490,
+                    37,
+                    28,
+                    48,
+                    50
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    656,
+                    25,
+                    178,
+                    29,
+                    44
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "トランスダンスアナーキー",
+            "artist": "暁Records",
+            "genre": "東方Project",
+            "bpm": 195,
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": true
@@ -54823,6 +55563,524 @@
             "artist": "litmus*",
             "genre": "ゲームバラエティ",
             "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11287": {
+        "id": "11287",
+        "title": "Strange Bar",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.9,
+            10.7,
+            13.8
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            6295,
+            6296,
+            6297,
+            6298
+        ],
+        "charts": [
+            {
+                "notes": [
+                    110,
+                    9,
+                    4,
+                    7,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    276,
+                    25,
+                    19,
+                    49,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    378,
+                    59,
+                    46,
+                    61,
+                    11
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    677,
+                    49,
+                    104,
+                    16,
+                    36
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "Strange Bar",
+            "artist": "Laur",
+            "genre": "ゲームバラエティ",
+            "bpm": 110,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11288": {
+        "id": "11288",
+        "title": "Big Daddy",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.8,
+            12.0,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8+",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            6299,
+            6300,
+            6301,
+            6302
+        ],
+        "charts": [
+            {
+                "notes": [
+                    138,
+                    15,
+                    4,
+                    7,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    376,
+                    17,
+                    16,
+                    35,
+                    18
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    464,
+                    103,
+                    88,
+                    47,
+                    19
+                ],
+                "charter": "シチミヘルツ"
+            },
+            {
+                "notes": [
+                    677,
+                    77,
+                    144,
+                    57,
+                    45
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Big Daddy",
+            "artist": "USAO",
+            "genre": "ゲームバラエティ",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11289": {
+        "id": "11289",
+        "title": "ベースラインやってる？笑",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            11.0,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [
+            6303,
+            6304,
+            6305,
+            6306
+        ],
+        "charts": [
+            {
+                "notes": [
+                    105,
+                    9,
+                    3,
+                    7,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    223,
+                    44,
+                    17,
+                    23,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    297,
+                    56,
+                    45,
+                    108,
+                    18
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    447,
+                    39,
+                    90,
+                    63,
+                    53
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ベースラインやってる？笑",
+            "artist": "かめりあ feat. ななひら",
+            "genre": "ゲームバラエティ",
+            "bpm": 128,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11290": {
+        "id": "11290",
+        "title": "ALiVE",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.8,
+            13.1
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            6307,
+            6308,
+            6309,
+            6310
+        ],
+        "charts": [
+            {
+                "notes": [
+                    106,
+                    7,
+                    3,
+                    6,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    256,
+                    11,
+                    14,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    369,
+                    40,
+                    28,
+                    14,
+                    10
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    465,
+                    75,
+                    93,
+                    95,
+                    20
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "ALiVE",
+            "artist": "REDALiCE",
+            "genre": "ゲームバラエティ",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11291": {
+        "id": "11291",
+        "title": "ヒミツCULT",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.2,
+            11.5,
+            13.7
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            6311,
+            6312,
+            6313,
+            6314
+        ],
+        "charts": [
+            {
+                "notes": [
+                    140,
+                    9,
+                    2,
+                    16,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    348,
+                    23,
+                    17,
+                    32,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    474,
+                    67,
+                    48,
+                    80,
+                    14
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    671,
+                    48,
+                    99,
+                    50,
+                    45
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ヒミツCULT",
+            "artist": "t+pazolite",
+            "genre": "ゲームバラエティ",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11292": {
+        "id": "11292",
+        "title": "MEGATON KICK",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.7,
+            11.8,
+            14.1
+        ],
+        "level": [
+            "5",
+            "8+",
+            "11+",
+            "14"
+        ],
+        "cids": [
+            6315,
+            6316,
+            6317,
+            6318
+        ],
+        "charts": [
+            {
+                "notes": [
+                    142,
+                    17,
+                    2,
+                    12,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    329,
+                    16,
+                    23,
+                    48,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    516,
+                    61,
+                    9,
+                    74,
+                    22
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    631,
+                    39,
+                    113,
+                    102,
+                    53
+                ],
+                "charter": "ロシアンブラック"
+            }
+        ],
+        "basic_info": {
+            "title": "MEGATON KICK",
+            "artist": "DJ Myosuke",
+            "genre": "ゲームバラエティ",
+            "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11293": {
+        "id": "11293",
+        "title": "LOSE CONTROL",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            12.0,
+            13.5
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "13"
+        ],
+        "cids": [
+            6319,
+            6320,
+            6321,
+            6322
+        ],
+        "charts": [
+            {
+                "notes": [
+                    103,
+                    4,
+                    4,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    175,
+                    48,
+                    11,
+                    33,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    300,
+                    43,
+                    32,
+                    65,
+                    54
+                ],
+                "charter": "ぴちネコ"
+            },
+            {
+                "notes": [
+                    390,
+                    19,
+                    139,
+                    50,
+                    17
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "LOSE CONTROL",
+            "artist": "Massive New Krew",
+            "genre": "ゲームバラエティ",
+            "bpm": 150,
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": true
