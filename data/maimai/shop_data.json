@@ -6726,5 +6726,13 @@
         "arcadeName": "反斗乐园派长沙雨花星城店",
         "mall": "反斗乐园长沙雨花星城店",
         "address": "湖南省长沙市雨花区中意一路与湘府路交叉口步步高星城天地L3-3046"
+    },
+    "2046": {
+        "machineCount": 1,
+        "id": "2046",
+        "province": "山东",
+        "arcadeName": "super101青岛崂山店",
+        "mall": "super101青岛崂山店",
+        "address": "山东省青岛市崂山区丽达广场super101"
     }
 }
