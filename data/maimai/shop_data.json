@@ -6734,5 +6734,13 @@
         "arcadeName": "super101青岛崂山店",
         "mall": "super101青岛崂山店",
         "address": "山东省青岛市崂山区丽达广场super101"
+    },
+    "2047": {
+        "machineCount": 1,
+        "id": "2047",
+        "province": "江苏",
+        "arcadeName": "天空之城镇江丹阳店",
+        "mall": "天空之城镇江丹阳店",
+        "address": "江苏省镇江市丹阳市开发区吾悦广场三楼天空之城"
     }
 }
