@@ -2395,7 +2395,7 @@
         "machineCount": 1,
         "id": "1447",
         "province": "天津",
-        "arcadeName": "PPG潮玩汇天津店",
+        "arcadeName": "PPG潮玩汇天津大悦城店",
         "mall": "PPG潮玩汇",
         "address": "天津市南开区南门外大街大悦城南区四楼"
     },
@@ -6911,6 +6911,14 @@
         "mall": "万德隆南阳唐河店",
         "address": "河南省南阳市唐河县建设路中段泗洲宾馆旁万德隆唐河购物中心电玩城"
     },
+    "2069": {
+        "machineCount": 1,
+        "id": "2069",
+        "province": "北京",
+        "arcadeName": "魔方MIX北京亦庄华联店",
+        "mall": "魔方MIX家庭娱乐中心北京亦庄店",
+        "address": "北京市亦庄开发区荣华中路力宝华联购物中心3楼魔方MIX家庭娱乐中心"
+    },
     "2071": {
         "machineCount": 2,
         "id": "2071",
@@ -6918,5 +6926,29 @@
         "arcadeName": "嗨玩社赣州万达店",
         "mall": "嗨玩社赣州万达店",
         "address": "江西省赣州市经济开发区金岭东路万达商场二楼"
+    },
+    "2072": {
+        "machineCount": 1,
+        "id": "2072",
+        "province": "北京",
+        "arcadeName": "魔方MIX北京顺义华联店",
+        "mall": "魔方MIX北京顺义华联店",
+        "address": "北京市顺义区新顺南大街8号华联购物中心3楼魔方MIX家庭娱乐中心"
+    },
+    "2073": {
+        "machineCount": 1,
+        "id": "2073",
+        "province": "广东",
+        "arcadeName": "Tizuka音游窝",
+        "mall": "Tizuka音游窝",
+        "address": "广东省潮州市湘桥区福安路新居乐花园"
+    },
+    "2074": {
+        "machineCount": 1,
+        "id": "2074",
+        "province": "广东",
+        "arcadeName": "小房子广州增城挂绿广场店",
+        "mall": "小房子广州增城挂绿广场店",
+        "address": "广东省\r\n广州市增城区荔城街挂绿路2号挂绿广场A2商业区域小房子亲子游乐园"
     }
 }
