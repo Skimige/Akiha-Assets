@@ -455,6 +455,14 @@
         "mall": "super101青岛崂山店",
         "address": "山东省青岛市崂山区丽达广场super101"
     },
+    "2051": {
+        "machineCount": 2,
+        "id": "2051",
+        "province": "北京",
+        "arcadeName": "可多梦北京丰台店",
+        "mall": "可多梦北京丰台店",
+        "address": "北京市丰台区南四环西路76号花乡奥莱村13号楼13101-B号"
+    },
     "2064": {
         "machineCount": 2,
         "id": "2064",
