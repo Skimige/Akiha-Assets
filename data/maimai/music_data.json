@@ -53457,6 +53457,228 @@
             "is_new": true
         }
     },
+    "11236": {
+        "id": "11236",
+        "title": "Last Samurai",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            12.0,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            6323,
+            6324,
+            6325,
+            6326
+        ],
+        "charts": [
+            {
+                "notes": [
+                    126,
+                    13,
+                    4,
+                    23,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    243,
+                    7,
+                    10,
+                    5,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    154,
+                    36,
+                    44,
+                    6,
+                    7
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    290,
+                    42,
+                    105,
+                    8,
+                    4
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Last Samurai",
+            "artist": "Street",
+            "genre": "maimai",
+            "bpm": 57,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11237": {
+        "id": "11237",
+        "title": "蒼穹舞楽",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            12.8,
+            14.0
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            6327,
+            6328,
+            6329,
+            6330
+        ],
+        "charts": [
+            {
+                "notes": [
+                    160,
+                    5,
+                    8,
+                    22,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    303,
+                    14,
+                    22,
+                    38,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    498,
+                    68,
+                    43,
+                    57,
+                    22
+                ],
+                "charter": "シチミヘルツ"
+            },
+            {
+                "notes": [
+                    610,
+                    61,
+                    98,
+                    78,
+                    31
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "蒼穹舞楽",
+            "artist": "Capchii",
+            "genre": "maimai",
+            "bpm": 195,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11238": {
+        "id": "11238",
+        "title": "AMABIE",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.8,
+            12.4,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6331,
+            6332,
+            6333,
+            6334
+        ],
+        "charts": [
+            {
+                "notes": [
+                    202,
+                    4,
+                    5,
+                    8,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    328,
+                    23,
+                    25,
+                    26,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    374,
+                    44,
+                    57,
+                    77,
+                    60
+                ],
+                "charter": "ぴちネコ"
+            },
+            {
+                "notes": [
+                    748,
+                    37,
+                    59,
+                    82,
+                    6
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "AMABIE",
+            "artist": "OSTER project",
+            "genre": "maimai",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "11239": {
         "id": "11239",
         "title": "オーケー？　オーライ！",
@@ -53835,6 +54057,302 @@
             "artist": "ゆゆうた",
             "genre": "オンゲキCHUNITHM",
             "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11246": {
+        "id": "11246",
+        "title": "BOUNCE & DANCE",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            10.5,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            6335,
+            6336,
+            6337,
+            6338
+        ],
+        "charts": [
+            {
+                "notes": [
+                    164,
+                    10,
+                    7,
+                    6,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    304,
+                    32,
+                    11,
+                    20,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    463,
+                    105,
+                    41,
+                    24,
+                    10
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    711,
+                    114,
+                    76,
+                    71,
+                    27
+                ],
+                "charter": "シチミッピー"
+            }
+        ],
+        "basic_info": {
+            "title": "BOUNCE & DANCE",
+            "artist": "IOSYS TRAX",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 135,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11247": {
+        "id": "11247",
+        "title": "Kiss Me Kiss",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            6339,
+            6340,
+            6341,
+            6342
+        ],
+        "charts": [
+            {
+                "notes": [
+                    97,
+                    15,
+                    7,
+                    4,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    283,
+                    12,
+                    21,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    292,
+                    106,
+                    37,
+                    41,
+                    8
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    522,
+                    80,
+                    77,
+                    27,
+                    13
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Kiss Me Kiss",
+            "artist": "曲：大畑拓也／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11248": {
+        "id": "11248",
+        "title": "MEGATON BLAST",
+        "type": "DX",
+        "ds": [
+            5.0,
+            9.5,
+            12.9,
+            14.3
+        ],
+        "level": [
+            "5",
+            "9",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            6343,
+            6344,
+            6345,
+            6346
+        ],
+        "charts": [
+            {
+                "notes": [
+                    237,
+                    5,
+                    12,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    737,
+                    10,
+                    7,
+                    35,
+                    25
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    654,
+                    117,
+                    82,
+                    26,
+                    77
+                ],
+                "charter": "シチミヘルツ"
+            },
+            {
+                "notes": [
+                    864,
+                    141,
+                    60,
+                    110,
+                    63
+                ],
+                "charter": "The ALiEN vs. Phoenix"
+            }
+        ],
+        "basic_info": {
+            "title": "MEGATON BLAST",
+            "artist": "BlackY vs. Yooh",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 194,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11249": {
+        "id": "11249",
+        "title": "Splash Dance!!",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            10.0,
+            13.4
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6347,
+            6348,
+            6349,
+            6350
+        ],
+        "charts": [
+            {
+                "notes": [
+                    137,
+                    16,
+                    6,
+                    16,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    222,
+                    36,
+                    23,
+                    38,
+                    28
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    420,
+                    41,
+                    49,
+                    48,
+                    54
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    784,
+                    24,
+                    105,
+                    39,
+                    40
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Splash Dance!!",
+            "artist": "曲：Q-MHz／歌：オンゲキシューターズ",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 155,
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": true
@@ -54675,6 +55193,598 @@
             "artist": "森羅万象",
             "genre": "ゲームバラエティ",
             "bpm": 212,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11267": {
+        "id": "11267",
+        "title": "ディカディズム",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            9.8,
+            13.1
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            6351,
+            6352,
+            6353,
+            6354
+        ],
+        "charts": [
+            {
+                "notes": [
+                    115,
+                    9,
+                    6,
+                    8,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    230,
+                    18,
+                    11,
+                    21,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    423,
+                    77,
+                    17,
+                    14,
+                    3
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    663,
+                    81,
+                    53,
+                    20,
+                    27
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ディカディズム",
+            "artist": "ぬゆり",
+            "genre": "niconicoボーカロイド",
+            "bpm": 124,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11268": {
+        "id": "11268",
+        "title": "猫猫的宇宙論",
+        "type": "DX",
+        "ds": [
+            4.0,
+            6.2,
+            9.5,
+            12.7
+        ],
+        "level": [
+            "4",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            6355,
+            6356,
+            6357,
+            6358
+        ],
+        "charts": [
+            {
+                "notes": [
+                    152,
+                    9,
+                    4,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    270,
+                    18,
+                    9,
+                    11,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    288,
+                    62,
+                    42,
+                    87,
+                    14
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    528,
+                    72,
+                    68,
+                    48,
+                    22
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "猫猫的宇宙論",
+            "artist": "ナユタン星人",
+            "genre": "niconicoボーカロイド",
+            "bpm": 134,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11269": {
+        "id": "11269",
+        "title": "ラットが死んだnew words",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            6359,
+            6360,
+            6361,
+            6362
+        ],
+        "charts": [
+            {
+                "notes": [
+                    105,
+                    9,
+                    5,
+                    9,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    216,
+                    17,
+                    12,
+                    27,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    245,
+                    52,
+                    42,
+                    32,
+                    4
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    604,
+                    36,
+                    101,
+                    34,
+                    8
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ラットが死んだnew words",
+            "artist": "P.I.N.A.",
+            "genre": "niconicoボーカロイド",
+            "bpm": 146,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11270": {
+        "id": "11270",
+        "title": "阿吽のビーツ",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            10.0,
+            12.8
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            6363,
+            6364,
+            6365,
+            6366
+        ],
+        "charts": [
+            {
+                "notes": [
+                    73,
+                    10,
+                    6,
+                    13,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    173,
+                    20,
+                    15,
+                    20,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    352,
+                    55,
+                    22,
+                    34,
+                    11
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    557,
+                    11,
+                    76,
+                    31,
+                    8
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "阿吽のビーツ",
+            "artist": "羽生まゐご",
+            "genre": "niconicoボーカロイド",
+            "bpm": 103,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11271": {
+        "id": "11271",
+        "title": "再会",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.2,
+            8.8,
+            12.2
+        ],
+        "level": [
+            "2",
+            "6",
+            "8+",
+            "12"
+        ],
+        "cids": [
+            6367,
+            6368,
+            6369,
+            6370
+        ],
+        "charts": [
+            {
+                "notes": [
+                    77,
+                    8,
+                    6,
+                    7,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    211,
+                    15,
+                    17,
+                    20,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    315,
+                    30,
+                    27,
+                    42,
+                    4
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    508,
+                    25,
+                    73,
+                    22,
+                    15
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "再会",
+            "artist": "はるまきごはん",
+            "genre": "niconicoボーカロイド",
+            "bpm": 137,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11272": {
+        "id": "11272",
+        "title": "約束",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            8.2,
+            12.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "8",
+            "12"
+        ],
+        "cids": [
+            6371,
+            6372,
+            6373,
+            6374
+        ],
+        "charts": [
+            {
+                "notes": [
+                    95,
+                    9,
+                    2,
+                    5,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    169,
+                    23,
+                    27,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    168,
+                    60,
+                    33,
+                    27,
+                    4
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    366,
+                    44,
+                    92,
+                    30,
+                    16
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "約束",
+            "artist": "はるまきごはん",
+            "genre": "niconicoボーカロイド",
+            "bpm": 136,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11273": {
+        "id": "11273",
+        "title": "トラフィック・ジャム",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            6375,
+            6376,
+            6377,
+            6378
+        ],
+        "charts": [
+            {
+                "notes": [
+                    92,
+                    13,
+                    4,
+                    16,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    206,
+                    20,
+                    16,
+                    31,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    124,
+                    27,
+                    45,
+                    16
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    496,
+                    174,
+                    104,
+                    92,
+                    30
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "トラフィック・ジャム",
+            "artist": "煮ル果実",
+            "genre": "niconicoボーカロイド",
+            "bpm": 130,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11274": {
+        "id": "11274",
+        "title": "アルティメットセンパイ",
+        "type": "DX",
+        "ds": [
+            4.0,
+            6.8,
+            9.0,
+            13.0
+        ],
+        "level": [
+            "4",
+            "6",
+            "9",
+            "13"
+        ],
+        "cids": [
+            6379,
+            6380,
+            6381,
+            6382
+        ],
+        "charts": [
+            {
+                "notes": [
+                    109,
+                    11,
+                    2,
+                    11,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    236,
+                    34,
+                    9,
+                    32,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    274,
+                    54,
+                    38,
+                    33,
+                    25
+                ],
+                "charter": "畳返し"
+            },
+            {
+                "notes": [
+                    523,
+                    45,
+                    95,
+                    46,
+                    34
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "アルティメットセンパイ",
+            "artist": "ピノキオピー",
+            "genre": "niconicoボーカロイド",
+            "bpm": 145,
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": true
