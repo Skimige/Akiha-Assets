@@ -2696,7 +2696,7 @@
         "address": "山东省青岛市即墨区宝龙广场四楼偶予电玩"
     },
     "1496": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1496",
         "province": "江西",
         "arcadeName": "幸运星南昌万象汇店",
@@ -7102,5 +7102,13 @@
         "arcadeName": "真快活武汉白沙天街店",
         "mall": "真快活武汉白沙天街店",
         "address": "湖北省武汉市烽胜路龙湖天街A馆4楼真快活Coohoomax"
+    },
+    "2099": {
+        "machineCount": 1,
+        "id": "2099",
+        "province": "江西",
+        "arcadeName": "幸运星上饶信州店",
+        "mall": "幸运星上饶信州店",
+        "address": "江西省上饶市信州区北门街道凤凰东大道89号天虹购物中心3楼3005幸运星乐园"
     }
 }
