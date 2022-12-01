@@ -272,7 +272,7 @@
         "address": "海南省三亚市天涯区河西路金润阳光三楼南梦园"
     },
     "1073": {
-        "machineCount": 5,
+        "machineCount": 3,
         "id": "1073",
         "province": "广东",
         "arcadeName": "环游嘉年华东莞民盈国贸店",
@@ -7150,6 +7150,14 @@
         "arcadeName": "七彩天空杭州临安财富店",
         "mall": "七彩天空杭州临安财富店",
         "address": "浙江省杭州市临安区锦城街道钱王财富中心2楼七彩天空乐园"
+    },
+    "2107": {
+        "machineCount": 2,
+        "id": "2107",
+        "province": "广东",
+        "arcadeName": "WAGAME东莞国贸中心",
+        "mall": "WAGAME东莞国贸中心",
+        "address": "广东省东莞市东城街道东泰社区鸿福东路1号民盈国贸城3L中庭"
     },
     "2108": {
         "machineCount": 2,
