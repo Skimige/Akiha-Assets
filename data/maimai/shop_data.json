@@ -7230,5 +7230,21 @@
         "arcadeName": "头号玩家上饶广丰店",
         "mall": "头号玩家上饶广丰店",
         "address": "江西省上饶市广丰区永丰大道1号广丰里三楼"
+    },
+    "2119": {
+        "machineCount": 1,
+        "id": "2119",
+        "province": "辽宁",
+        "arcadeName": "大潮玩沈阳铁西龙之梦店",
+        "mall": "大潮玩沈阳铁西龙之梦店",
+        "address": "辽宁省沈阳市铁西区建设西路2号龙之梦大都汇2楼东侧大潮玩家庭娱乐中心"
+    },
+    "2120": {
+        "machineCount": 1,
+        "id": "2120",
+        "province": "广西",
+        "arcadeName": "SUPER101潮漫北流店",
+        "mall": "SUPER101潮漫北流店",
+        "address": "广西壮族自治区北流市北流万达3F-B ，SUPER101"
     }
 }
