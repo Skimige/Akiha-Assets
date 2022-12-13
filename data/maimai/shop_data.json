@@ -7246,5 +7246,13 @@
         "arcadeName": "SUPER101潮漫北流店",
         "mall": "SUPER101潮漫北流店",
         "address": "广西壮族自治区北流市北流万达3F-B ，SUPER101"
+    },
+    "2121": {
+        "machineCount": 1,
+        "id": "2121",
+        "province": "浙江",
+        "arcadeName": "炫技星空金华世贸店",
+        "mall": "炫技星空金华世贸店",
+        "address": "浙江省金华市婺城区李渔路888号炫技星空"
     }
 }
