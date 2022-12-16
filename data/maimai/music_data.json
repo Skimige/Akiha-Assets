@@ -39071,6 +39071,80 @@
             "is_new": false
         }
     },
+    "10552": {
+        "id": "10552",
+        "title": "ゴーストルール",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.8,
+            9.8,
+            12.9
+        ],
+        "level": [
+            "3",
+            "7+",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            6383,
+            6384,
+            6385,
+            6386
+        ],
+        "charts": [
+            {
+                "notes": [
+                    99,
+                    12,
+                    2,
+                    14,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    240,
+                    36,
+                    18,
+                    9,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    314,
+                    75,
+                    15,
+                    51,
+                    53
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    444,
+                    75,
+                    106,
+                    30,
+                    18
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ゴーストルール",
+            "artist": "DECO*27",
+            "genre": "niconicoボーカロイド",
+            "bpm": 210,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "10572": {
         "id": "10572",
         "title": "Scream out! -maimai SONIC WASHER Edit-",
@@ -39217,6 +39291,80 @@
             "release_date": "",
             "from": "maimai でらっくす",
             "is_new": false
+        }
+    },
+    "10602": {
+        "id": "10602",
+        "title": "taboo tears you up",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.8,
+            13.9
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            6387,
+            6388,
+            6389,
+            6390
+        ],
+        "charts": [
+            {
+                "notes": [
+                    98,
+                    20,
+                    4,
+                    16,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    294,
+                    17,
+                    23,
+                    28,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    378,
+                    62,
+                    28,
+                    26,
+                    7
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    650,
+                    106,
+                    96,
+                    52,
+                    33
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "taboo tears you up",
+            "artist": "REDALiCE (HARDCORE TANO*C)",
+            "genre": "東方Project",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
         }
     },
     "10641": {
@@ -57191,6 +57339,1625 @@
             "artist": "Massive New Krew",
             "genre": "ゲームバラエティ",
             "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11294": {
+        "id": "11294",
+        "title": "宿星審判",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.2,
+            12.2,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6391,
+            6392,
+            6393,
+            6394
+        ],
+        "charts": [
+            {
+                "notes": [
+                    120,
+                    20,
+                    5,
+                    23,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    304,
+                    11,
+                    26,
+                    36,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    517,
+                    65,
+                    50,
+                    34,
+                    21
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    738,
+                    103,
+                    77,
+                    110,
+                    46
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "宿星審判",
+            "artist": "suzu",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 189,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11295": {
+        "id": "11295",
+        "title": "脳天直撃",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.8,
+            12.9,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            6395,
+            6396,
+            6397,
+            6398
+        ],
+        "charts": [
+            {
+                "notes": [
+                    196,
+                    20,
+                    9,
+                    54,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    355,
+                    44,
+                    23,
+                    34,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    659,
+                    60,
+                    35,
+                    27,
+                    9
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    1021,
+                    69,
+                    46,
+                    125,
+                    35
+                ],
+                "charter": "小鳥遊さん vs 華火職人"
+            }
+        ],
+        "basic_info": {
+            "title": "脳天直撃",
+            "artist": "黒沢ダイスケ VS 穴山大輔",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 145,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11296": {
+        "id": "11296",
+        "title": "とびだせ！TO THE COSMIC!!",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.2,
+            12.5,
+            13.5
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "13"
+        ],
+        "cids": [
+            6399,
+            6400,
+            6401,
+            6402
+        ],
+        "charts": [
+            {
+                "notes": [
+                    159,
+                    10,
+                    2,
+                    22,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    397,
+                    15,
+                    23,
+                    16,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    489,
+                    51,
+                    68,
+                    22,
+                    100
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    705,
+                    29,
+                    161,
+                    7,
+                    45
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "とびだせ！TO THE COSMIC!!",
+            "artist": "t+pazolite feat. しゃま(CV:種﨑 敦美) & みるく(CV:伊藤 あすか)",
+            "genre": "maimai",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11297": {
+        "id": "11297",
+        "title": "噛み係",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.8,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            6403,
+            6404,
+            6405,
+            6406
+        ],
+        "charts": [
+            {
+                "notes": [
+                    88,
+                    16,
+                    4,
+                    30,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    214,
+                    30,
+                    16,
+                    20,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    258,
+                    132,
+                    51,
+                    25,
+                    50
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    517,
+                    112,
+                    83,
+                    18,
+                    34
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "噛み係",
+            "artist": "さつき が てんこもり feat.96猫",
+            "genre": "maimai",
+            "bpm": 148,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11298": {
+        "id": "11298",
+        "title": "トリアージ",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.0,
+            13.1
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6407,
+            6408,
+            6409,
+            6410
+        ],
+        "charts": [
+            {
+                "notes": [
+                    74,
+                    23,
+                    4,
+                    19,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    232,
+                    18,
+                    27,
+                    7,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    303,
+                    71,
+                    39,
+                    24,
+                    22
+                ],
+                "charter": "華火職人"
+            },
+            {
+                "notes": [
+                    461,
+                    19,
+                    128,
+                    20,
+                    9
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "トリアージ",
+            "artist": "niki feat.noire",
+            "genre": "maimai",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11299": {
+        "id": "11299",
+        "title": "NAGAREBOSHI☆ROCKET",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.5,
+            12.0,
+            14.2
+        ],
+        "level": [
+            "6",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6411,
+            6412,
+            6413,
+            6414
+        ],
+        "charts": [
+            {
+                "notes": [
+                    157,
+                    15,
+                    4,
+                    22,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    295,
+                    22,
+                    9,
+                    24,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    388,
+                    54,
+                    38,
+                    34,
+                    39
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    516,
+                    63,
+                    104,
+                    102,
+                    36
+                ],
+                "charter": "SHICHIMI☆CAT"
+            }
+        ],
+        "basic_info": {
+            "title": "NAGAREBOSHI☆ROCKET",
+            "artist": "梅干茶漬け",
+            "genre": "maimai",
+            "bpm": 216,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11321": {
+        "id": "11321",
+        "title": "夜に駆ける",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            8.5,
+            11.2,
+            12.8
+        ],
+        "level": [
+            "2",
+            "6",
+            "8",
+            "11",
+            "12+"
+        ],
+        "cids": [
+            6415,
+            6416,
+            6417,
+            6418,
+            6419
+        ],
+        "charts": [
+            {
+                "notes": [
+                    95,
+                    6,
+                    8,
+                    9,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    280,
+                    15,
+                    15,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    303,
+                    62,
+                    36,
+                    43,
+                    20
+                ],
+                "charter": "みそかつ侍"
+            },
+            {
+                "notes": [
+                    512,
+                    51,
+                    88,
+                    20,
+                    13
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    632,
+                    61,
+                    87,
+                    27,
+                    17
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "夜に駆ける",
+            "artist": "YOASOBI",
+            "genre": "POPSアニメ",
+            "bpm": 130,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11322": {
+        "id": "11322",
+        "title": "うっせぇわ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.5,
+            9.8,
+            11.7,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "11+",
+            "13"
+        ],
+        "cids": [
+            6420,
+            6421,
+            6422,
+            6423,
+            6424
+        ],
+        "charts": [
+            {
+                "notes": [
+                    89,
+                    17,
+                    4,
+                    17,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    28,
+                    19,
+                    6,
+                    17
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    320,
+                    56,
+                    40,
+                    68,
+                    26
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    537,
+                    40,
+                    115,
+                    36,
+                    19
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    438,
+                    60,
+                    115,
+                    102,
+                    76
+                ],
+                "charter": "あまくちジンジャー＠やべー新人"
+            }
+        ],
+        "basic_info": {
+            "title": "うっせぇわ",
+            "artist": "Ado",
+            "genre": "POPSアニメ",
+            "bpm": 178,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11323": {
+        "id": "11323",
+        "title": "Shooting Stars",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            8.0,
+            12.5
+        ],
+        "level": [
+            "2",
+            "6",
+            "8",
+            "12"
+        ],
+        "cids": [
+            6425,
+            6426,
+            6427,
+            6428
+        ],
+        "charts": [
+            {
+                "notes": [
+                    69,
+                    12,
+                    4,
+                    8,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    205,
+                    21,
+                    22,
+                    7,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    216,
+                    59,
+                    37,
+                    18,
+                    6
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    481,
+                    49,
+                    81,
+                    5,
+                    26
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "Shooting Stars",
+            "artist": "クレシェンドブルー [最上静香 (CV.田所あずさ)、北上麗花 (CV.平山笑美)、北沢志保 (CV.雨宮 天)、野々原 茜 (CV.小笠原早紀)、箱崎星梨花 (CV.麻倉もも)]",
+            "genre": "POPSアニメ",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11324": {
+        "id": "11324",
+        "title": "MOON NIGHTのせいにして",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.2,
+            8.5,
+            12.2
+        ],
+        "level": [
+            "2",
+            "6",
+            "8",
+            "12"
+        ],
+        "cids": [
+            6429,
+            6430,
+            6431,
+            6432
+        ],
+        "charts": [
+            {
+                "notes": [
+                    76,
+                    9,
+                    3,
+                    8,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    211,
+                    16,
+                    6,
+                    21,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    242,
+                    53,
+                    25,
+                    14,
+                    12
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    406,
+                    47,
+                    95,
+                    14,
+                    6
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "MOON NIGHTのせいにして",
+            "artist": "DRAMATIC STARS [天道 輝 (CV.仲村宗悟), 桜庭 薫 (CV.内田雄馬), 柏木 翼 (CV.八代 拓)]",
+            "genre": "POPSアニメ",
+            "bpm": 141,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11325": {
+        "id": "11325",
+        "title": "テレキャスタービーボーイ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.2,
+            9.8,
+            11.8,
+            12.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "11+",
+            "12+"
+        ],
+        "cids": [
+            6433,
+            6434,
+            6435,
+            6436,
+            6437
+        ],
+        "charts": [
+            {
+                "notes": [
+                    87,
+                    6,
+                    2,
+                    4,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    237,
+                    18,
+                    4,
+                    12,
+                    15
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    280,
+                    50,
+                    41,
+                    14,
+                    19
+                ],
+                "charter": "みそかつ侍"
+            },
+            {
+                "notes": [
+                    402,
+                    49,
+                    77,
+                    24,
+                    10
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    486,
+                    52,
+                    64,
+                    31,
+                    13
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "テレキャスタービーボーイ",
+            "artist": "すりぃ",
+            "genre": "niconicoボーカロイド",
+            "bpm": 182,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11327": {
+        "id": "11327",
+        "title": "僕は空気が嫁ない",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.2,
+            10.0,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6438,
+            6439,
+            6440,
+            6441
+        ],
+        "charts": [
+            {
+                "notes": [
+                    70,
+                    3,
+                    2,
+                    12,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    238,
+                    20,
+                    15,
+                    15,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    307,
+                    53,
+                    23,
+                    19,
+                    31
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    516,
+                    33,
+                    140,
+                    29,
+                    1
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "僕は空気が嫁ない",
+            "artist": "cosMo＠暴走P",
+            "genre": "niconicoボーカロイド",
+            "bpm": 192,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11328": {
+        "id": "11328",
+        "title": "デッドマンズバラッド",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            12.5,
+            14.2
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6442,
+            6443,
+            6444,
+            6445
+        ],
+        "charts": [
+            {
+                "notes": [
+                    186,
+                    15,
+                    3,
+                    4,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    363,
+                    36,
+                    26,
+                    22,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    635,
+                    38,
+                    51,
+                    51,
+                    43
+                ],
+                "charter": "シチミヘルツ"
+            },
+            {
+                "notes": [
+                    718,
+                    230,
+                    97,
+                    97,
+                    66
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "デッドマンズバラッド",
+            "artist": "cosMo＠暴走P",
+            "genre": "niconicoボーカロイド",
+            "bpm": 300,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11330": {
+        "id": "11330",
+        "title": "竹",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.7,
+            11.8,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8+",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            6446,
+            6447,
+            6448,
+            6449
+        ],
+        "charts": [
+            {
+                "notes": [
+                    124,
+                    25,
+                    4,
+                    16,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    346,
+                    27,
+                    8,
+                    20,
+                    28
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    395,
+                    52,
+                    64,
+                    61,
+                    27
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    592,
+                    168,
+                    77,
+                    79,
+                    55
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "竹",
+            "artist": "立秋 feat.ちょこ",
+            "genre": "ゲームバラエティ",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11331": {
+        "id": "11331",
+        "title": "スーパーシンメトリー",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            12.0,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            6450,
+            6451,
+            6452,
+            6453
+        ],
+        "charts": [
+            {
+                "notes": [
+                    246,
+                    10,
+                    1,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    351,
+                    33,
+                    14,
+                    38,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    85,
+                    59,
+                    78,
+                    17
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    753,
+                    46,
+                    131,
+                    76,
+                    20
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "スーパーシンメトリー",
+            "artist": "Sta feat. b",
+            "genre": "ゲームバラエティ",
+            "bpm": 210,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11333": {
+        "id": "11333",
+        "title": "Southern Cross",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            10.7,
+            13.2,
+            13.9
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13",
+            "13+"
+        ],
+        "cids": [
+            6454,
+            6455,
+            6456,
+            6457,
+            6458
+        ],
+        "charts": [
+            {
+                "notes": [
+                    130,
+                    10,
+                    6,
+                    27,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    18,
+                    20,
+                    23,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    353,
+                    46,
+                    78,
+                    26,
+                    84
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    702,
+                    49,
+                    92,
+                    55,
+                    37
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    1103,
+                    20,
+                    24,
+                    15,
+                    32
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Southern Cross",
+            "artist": "403",
+            "genre": "ゲームバラエティ",
+            "bpm": 171,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11353": {
+        "id": "11353",
+        "title": "グッバイ宣言",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.2,
+            9.8,
+            12.5
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "12"
+        ],
+        "cids": [
+            6459,
+            6460,
+            6461,
+            6462
+        ],
+        "charts": [
+            {
+                "notes": [
+                    98,
+                    12,
+                    4,
+                    5,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    295,
+                    12,
+                    12,
+                    5,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    384,
+                    81,
+                    22,
+                    21,
+                    11
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    473,
+                    58,
+                    135,
+                    7,
+                    10
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "グッバイ宣言",
+            "artist": "Chinozo",
+            "genre": "niconicoボーカロイド",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11364": {
+        "id": "11364",
+        "title": "Lia=Fail",
+        "type": "DX",
+        "ds": [
+            6.0,
+            9.0,
+            12.8,
+            14.8
+        ],
+        "level": [
+            "6",
+            "9",
+            "12+",
+            "14+"
+        ],
+        "cids": [
+            6463,
+            6464,
+            6465,
+            6466
+        ],
+        "charts": [
+            {
+                "notes": [
+                    181,
+                    12,
+                    2,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    389,
+                    19,
+                    16,
+                    25,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    514,
+                    51,
+                    67,
+                    38,
+                    27
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    827,
+                    47,
+                    118,
+                    20,
+                    4
+                ],
+                "charter": "-ZONE-Phoenix"
+            }
+        ],
+        "basic_info": {
+            "title": "Lia=Fail",
+            "artist": "Team Grimoire",
+            "genre": "maimai",
+            "bpm": 186,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11365": {
+        "id": "11365",
+        "title": "アンビバレンス",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            10.7,
+            13.0
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            6467,
+            6468,
+            6469,
+            6470
+        ],
+        "charts": [
+            {
+                "notes": [
+                    163,
+                    14,
+                    5,
+                    18,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    275,
+                    15,
+                    34,
+                    41,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    439,
+                    77,
+                    41,
+                    26,
+                    20
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    564,
+                    50,
+                    203,
+                    51,
+                    16
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "アンビバレンス",
+            "artist": "すりぃ×相沢",
+            "genre": "maimai",
+            "bpm": 187,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11369": {
+        "id": "11369",
+        "title": "廻廻奇譚",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            9.8,
+            11.8,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7",
+            "9+",
+            "11+",
+            "13"
+        ],
+        "cids": [
+            6471,
+            6472,
+            6473,
+            6474,
+            6475
+        ],
+        "charts": [
+            {
+                "notes": [
+                    150,
+                    6,
+                    12,
+                    6,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    301,
+                    26,
+                    19,
+                    22,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    466,
+                    75,
+                    41,
+                    4,
+                    2
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    519,
+                    63,
+                    118,
+                    11,
+                    10
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    631,
+                    21,
+                    122,
+                    45,
+                    20
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "廻廻奇譚",
+            "artist": "Eve TVアニメ「呪術廻戦」第1クールオープニングテーマ",
+            "genre": "POPSアニメ",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11370": {
+        "id": "11370",
+        "title": "さんさーら！",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.8,
+            8.8,
+            12.9
+        ],
+        "level": [
+            "3",
+            "6",
+            "8+",
+            "12+"
+        ],
+        "cids": [
+            6476,
+            6477,
+            6478,
+            6479
+        ],
+        "charts": [
+            {
+                "notes": [
+                    120,
+                    13,
+                    4,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    269,
+                    16,
+                    15,
+                    20,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    286,
+                    107,
+                    15,
+                    9,
+                    13
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    519,
+                    47,
+                    107,
+                    52,
+                    68
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "さんさーら！",
+            "artist": "ARuFa",
+            "genre": "ゲームバラエティ",
+            "bpm": 140,
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": true
