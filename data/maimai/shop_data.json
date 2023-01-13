@@ -7646,5 +7646,21 @@
         "arcadeName": "乐享潮玩丰城新城店",
         "mall": "乐享潮玩丰城新城店",
         "address": "江西省丰城市新城区雷焕路良辰悦购2楼乐享潮玩"
+    },
+    "2186": {
+        "machineCount": 1,
+        "id": "2186",
+        "province": "河南",
+        "arcadeName": "极客星球济源店",
+        "mall": "极客星球济源店",
+        "address": "河南省济源市北环大道与愚公路交叉口向北100联洋建材城内"
+    },
+    "2187": {
+        "machineCount": 1,
+        "id": "2187",
+        "province": "宁夏",
+        "arcadeName": "TOP玩家银川店",
+        "mall": "TOP玩家银川店",
+        "address": "宁夏回族自治区银川新华百货CCpark三层3C02铺TOP玩家家庭娱乐中心"
     }
 }
