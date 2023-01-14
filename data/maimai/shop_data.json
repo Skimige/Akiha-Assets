@@ -6200,7 +6200,7 @@
         "address": "福建省三明市三元区和仁新村44栋梅列大厦地下城进珠游乐城"
     },
     "1991": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1991",
         "province": "安徽",
         "arcadeName": "天空之城安庆大观吾悦店",
@@ -7662,5 +7662,13 @@
         "arcadeName": "TOP玩家银川店",
         "mall": "TOP玩家银川店",
         "address": "宁夏回族自治区银川新华百货CCpark三层3C02铺TOP玩家家庭娱乐中心"
+    },
+    "2188": {
+        "machineCount": 1,
+        "id": "2188",
+        "province": "安徽",
+        "arcadeName": "明日世界芜湖镜湖店",
+        "mall": "明日世界芜湖镜湖店",
+        "address": "安徽省芜湖市镜湖区八佰伴三楼明日世界"
     }
 }
