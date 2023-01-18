@@ -38257,6 +38257,76 @@
             "is_new": false
         }
     },
+    "1020": {
+        "id": "1020",
+        "title": "Technicians High",
+        "type": "SD",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            6480,
+            6481,
+            6482,
+            6483
+        ],
+        "charts": [
+            {
+                "notes": [
+                    101,
+                    11,
+                    11,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    326,
+                    22,
+                    14,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    390,
+                    86,
+                    58,
+                    24
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    642,
+                    48,
+                    86,
+                    8
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "Technicians High",
+            "artist": "HiTECH NINJA",
+            "genre": "maimai",
+            "bpm": 165,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "10146": {
         "id": "10146",
         "title": "39",
@@ -57788,6 +57858,302 @@
             "is_new": true
         }
     },
+    "11300": {
+        "id": "11300",
+        "title": "U&iVERSE -銀河鸞翔-",
+        "type": "DX",
+        "ds": [
+            5.0,
+            9.0,
+            12.0,
+            14.4
+        ],
+        "level": [
+            "5",
+            "9",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6484,
+            6485,
+            6486,
+            6487
+        ],
+        "charts": [
+            {
+                "notes": [
+                    164,
+                    22,
+                    7,
+                    17,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    347,
+                    32,
+                    12,
+                    28,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    522,
+                    83,
+                    38,
+                    61,
+                    12
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    660,
+                    29,
+                    101,
+                    126,
+                    99
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "U&iVERSE -銀河鸞翔-",
+            "artist": "Kai VS 大国奏音 VS 水野健治",
+            "genre": "maimai",
+            "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11301": {
+        "id": "11301",
+        "title": "華の集落、秋のお届け",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.9,
+            11.8,
+            13.9
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            6488,
+            6489,
+            6490,
+            6491
+        ],
+        "charts": [
+            {
+                "notes": [
+                    117,
+                    18,
+                    6,
+                    9,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    263,
+                    13,
+                    28,
+                    20,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    425,
+                    70,
+                    42,
+                    16,
+                    14
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    530,
+                    36,
+                    67,
+                    246,
+                    11
+                ],
+                "charter": "あまくちジンジャー"
+            }
+        ],
+        "basic_info": {
+            "title": "華の集落、秋のお届け",
+            "artist": "Umiai",
+            "genre": "maimai",
+            "bpm": 165,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11302": {
+        "id": "11302",
+        "title": "BLACK SWAN",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.5,
+            12.7,
+            14.6
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            6492,
+            6493,
+            6494,
+            6495
+        ],
+        "charts": [
+            {
+                "notes": [
+                    196,
+                    9,
+                    4,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    264,
+                    33,
+                    16,
+                    27,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    480,
+                    70,
+                    58,
+                    25,
+                    6
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    711,
+                    57,
+                    84,
+                    57,
+                    57
+                ],
+                "charter": "The ALiEN"
+            }
+        ],
+        "basic_info": {
+            "title": "BLACK SWAN",
+            "artist": "ぺのれり",
+            "genre": "maimai",
+            "bpm": 201,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11303": {
+        "id": "11303",
+        "title": "星詠みとデスペラード",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            11.8,
+            13.9
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            6496,
+            6497,
+            6498,
+            6499
+        ],
+        "charts": [
+            {
+                "notes": [
+                    154,
+                    9,
+                    8,
+                    17,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    184,
+                    16,
+                    32,
+                    17,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    72,
+                    38,
+                    22,
+                    8
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    620,
+                    70,
+                    60,
+                    69,
+                    13
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "星詠みとデスペラード",
+            "artist": "しょご/野村渉悟",
+            "genre": "maimai",
+            "bpm": 182,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "11321": {
         "id": "11321",
         "title": "夜に駆ける",
@@ -58580,6 +58946,746 @@
             "is_new": true
         }
     },
+    "11334": {
+        "id": "11334",
+        "title": "Upshift",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.2,
+            11.0,
+            13.8
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            6500,
+            6501,
+            6502,
+            6503
+        ],
+        "charts": [
+            {
+                "notes": [
+                    110,
+                    7,
+                    4,
+                    15,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    286,
+                    6,
+                    18,
+                    24,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    419,
+                    68,
+                    65,
+                    21,
+                    13
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    656,
+                    39,
+                    110,
+                    15,
+                    44
+                ],
+                "charter": "Safata.Hz"
+            }
+        ],
+        "basic_info": {
+            "title": "Upshift",
+            "artist": "s-don as Iriss-Frantzz",
+            "genre": "ゲームバラエティ",
+            "bpm": 155,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11335": {
+        "id": "11335",
+        "title": "MOBILYS",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6504,
+            6505,
+            6506,
+            6507
+        ],
+        "charts": [
+            {
+                "notes": [
+                    112,
+                    15,
+                    4,
+                    20,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    217,
+                    26,
+                    17,
+                    21,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    274,
+                    51,
+                    63,
+                    12,
+                    30
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    434,
+                    49,
+                    88,
+                    122,
+                    17
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "MOBILYS",
+            "artist": "Dachs",
+            "genre": "ゲームバラエティ",
+            "bpm": 144,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11336": {
+        "id": "11336",
+        "title": "ドラゴンエネルギー",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.7,
+            9.8,
+            12.5
+        ],
+        "level": [
+            "3",
+            "6+",
+            "9+",
+            "12"
+        ],
+        "cids": [
+            6508,
+            6509,
+            6510,
+            6511
+        ],
+        "charts": [
+            {
+                "notes": [
+                    79,
+                    12,
+                    7,
+                    4,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    228,
+                    24,
+                    20,
+                    19,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    344,
+                    37,
+                    21,
+                    57,
+                    34
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    517,
+                    71,
+                    96,
+                    31,
+                    13
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ドラゴンエネルギー",
+            "artist": "オーイシマサヨシ×加藤純一",
+            "genre": "POPSアニメ",
+            "bpm": 148,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11340": {
+        "id": "11340",
+        "title": "Sweets Time",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6512,
+            6513,
+            6514,
+            6515
+        ],
+        "charts": [
+            {
+                "notes": [
+                    121,
+                    4,
+                    4,
+                    8,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    277,
+                    28,
+                    16,
+                    24,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    142,
+                    138,
+                    52,
+                    18,
+                    10
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    430,
+                    0,
+                    218,
+                    3,
+                    7
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Sweets Time",
+            "artist": "SYNC.ART'S feat. 3L",
+            "genre": "東方Project",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11341": {
+        "id": "11341",
+        "title": "紅星ミゼラブル～廃憶編",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.0,
+            13.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6516,
+            6517,
+            6518,
+            6519
+        ],
+        "charts": [
+            {
+                "notes": [
+                    115,
+                    6,
+                    5,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    231,
+                    18,
+                    25,
+                    27,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    77,
+                    39,
+                    19,
+                    21
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    568,
+                    54,
+                    72,
+                    123,
+                    20
+                ],
+                "charter": "Redarrow"
+            }
+        ],
+        "basic_info": {
+            "title": "紅星ミゼラブル～廃憶編",
+            "artist": "東京アクティブNEETs",
+            "genre": "東方Project",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11342": {
+        "id": "11342",
+        "title": "幻想に咲いた花",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.0,
+            9.7,
+            12.9
+        ],
+        "level": [
+            "4",
+            "7",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            6520,
+            6521,
+            6522,
+            6523
+        ],
+        "charts": [
+            {
+                "notes": [
+                    103,
+                    9,
+                    6,
+                    11,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    251,
+                    30,
+                    20,
+                    17,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    360,
+                    50,
+                    33,
+                    21,
+                    18
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    522,
+                    59,
+                    105,
+                    31,
+                    20
+                ],
+                "charter": "アミノハバキリ"
+            }
+        ],
+        "basic_info": {
+            "title": "幻想に咲いた花",
+            "artist": "岸田教団&THE明星ロケッツ×草野華余子「東方ダンマクカグラ」",
+            "genre": "東方Project",
+            "bpm": 186,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11343": {
+        "id": "11343",
+        "title": "マツヨイナイトバグ",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            10.7,
+            13.8
+        ],
+        "level": [
+            "5",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            6524,
+            6525,
+            6526,
+            6527
+        ],
+        "charts": [
+            {
+                "notes": [
+                    119,
+                    13,
+                    6,
+                    14,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    31,
+                    9,
+                    40,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    444,
+                    97,
+                    56,
+                    9,
+                    17
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    732,
+                    23,
+                    115,
+                    23,
+                    89
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "マツヨイナイトバグ",
+            "artist": "COOL&CREATE feat.ビートまりおとまろん「東方ダンマクカグラ」",
+            "genre": "東方Project",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11344": {
+        "id": "11344",
+        "title": "ポッピンキャンディ☆フィーバー！",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.7,
+            10.0,
+            12.9
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            6528,
+            6529,
+            6530,
+            6531
+        ],
+        "charts": [
+            {
+                "notes": [
+                    121,
+                    9,
+                    6,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    25,
+                    18,
+                    18,
+                    44
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    450,
+                    45,
+                    40,
+                    35,
+                    29
+                ],
+                "charter": "シチミヘルツ"
+            },
+            {
+                "notes": [
+                    551,
+                    75,
+                    87,
+                    116,
+                    43
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "ポッピンキャンディ☆フィーバー！",
+            "artist": "キノシタ",
+            "genre": "niconicoボーカロイド",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11345": {
+        "id": "11345",
+        "title": "どぅーまいべすと！",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            9.8,
+            12.4
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12"
+        ],
+        "cids": [
+            6532,
+            6533,
+            6534,
+            6535
+        ],
+        "charts": [
+            {
+                "notes": [
+                    70,
+                    3,
+                    3,
+                    15,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    188,
+                    17,
+                    14,
+                    7,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    379,
+                    68,
+                    9,
+                    12,
+                    9
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    506,
+                    60,
+                    39,
+                    31,
+                    35
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "どぅーまいべすと！",
+            "artist": "キノシタ",
+            "genre": "niconicoボーカロイド",
+            "bpm": 128,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11347": {
+        "id": "11347",
+        "title": "泥の分際で私だけの大切を奪おうだなんて",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.8,
+            10.7,
+            13.4
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            6536,
+            6537,
+            6538,
+            6539
+        ],
+        "charts": [
+            {
+                "notes": [
+                    101,
+                    7,
+                    2,
+                    6,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    279,
+                    37,
+                    19,
+                    13,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    482,
+                    32,
+                    36,
+                    3,
+                    37
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    522,
+                    76,
+                    137,
+                    52,
+                    37
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "泥の分際で私だけの大切を奪おうだなんて",
+            "artist": "ツユ",
+            "genre": "POPSアニメ",
+            "bpm": 225,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "11353": {
         "id": "11353",
         "title": "グッバイ宣言",
@@ -58802,6 +59908,80 @@
             "is_new": true
         }
     },
+    "11367": {
+        "id": "11367",
+        "title": "veil",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            8.7,
+            12.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "8+",
+            "12"
+        ],
+        "cids": [
+            6540,
+            6541,
+            6542,
+            6543
+        ],
+        "charts": [
+            {
+                "notes": [
+                    98,
+                    2,
+                    5,
+                    20,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    186,
+                    20,
+                    13,
+                    21,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    35,
+                    24,
+                    30,
+                    13
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    352,
+                    66,
+                    116,
+                    22,
+                    20
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "veil",
+            "artist": "須田景凪",
+            "genre": "POPSアニメ",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "11369": {
         "id": "11369",
         "title": "廻廻奇譚",
@@ -58958,6 +60138,80 @@
             "artist": "ARuFa",
             "genre": "ゲームバラエティ",
             "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11374": {
+        "id": "11374",
+        "title": "GIGANTØMAKHIA",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.2,
+            13.0,
+            14.8
+        ],
+        "level": [
+            "6",
+            "8",
+            "13",
+            "14+"
+        ],
+        "cids": [
+            6544,
+            6545,
+            6546,
+            6547
+        ],
+        "charts": [
+            {
+                "notes": [
+                    243,
+                    14,
+                    4,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    367,
+                    10,
+                    24,
+                    20,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    441,
+                    63,
+                    62,
+                    43,
+                    13
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    883,
+                    37,
+                    98,
+                    31,
+                    100
+                ],
+                "charter": "KOP3rd with 翡翠マナ"
+            }
+        ],
+        "basic_info": {
+            "title": "GIGANTØMAKHIA",
+            "artist": "BlackYooh vs. siromaru",
+            "genre": "maimai",
+            "bpm": 190,
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": true
