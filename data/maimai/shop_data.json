@@ -7806,5 +7806,13 @@
         "arcadeName": "星光嘉年华潍坊高新店",
         "mall": "星光嘉年华潍坊高新店",
         "address": "山东省潍坊市高新区清池街道健康东街与惠贤路东北角谷德茂三楼"
+    },
+    "2205": {
+        "machineCount": 2,
+        "id": "2205",
+        "province": "广东",
+        "arcadeName": "WAGAME广州新港东GTI展",
+        "mall": "WAGAME广州新港东GTI展",
+        "address": "广东省广州市海珠区中国进出口商品交易会展馆D区·华立科技-18T06"
     }
 }
