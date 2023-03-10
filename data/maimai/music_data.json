@@ -38327,6 +38327,76 @@
             "is_new": true
         }
     },
+    "1051": {
+        "id": "1051",
+        "title": "Destr0yer",
+        "type": "SD",
+        "ds": [
+            5.0,
+            8.0,
+            12.0,
+            14.0
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6548,
+            6549,
+            6550,
+            6551
+        ],
+        "charts": [
+            {
+                "notes": [
+                    112,
+                    32,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    313,
+                    12,
+                    38,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    416,
+                    69,
+                    42,
+                    10
+                ],
+                "charter": "シチミヘルツ"
+            },
+            {
+                "notes": [
+                    744,
+                    53,
+                    84,
+                    16
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Destr0yer",
+            "artist": "削除 feat. Nikki Simmons",
+            "genre": "ゲームバラエティ",
+            "bpm": 90,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "10146": {
         "id": "10146",
         "title": "39",
@@ -58154,6 +58224,598 @@
             "is_new": true
         }
     },
+    "11304": {
+        "id": "11304",
+        "title": "Round Round Spinning Around",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.2,
+            10.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "8",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            6552,
+            6553,
+            6554,
+            6555
+        ],
+        "charts": [
+            {
+                "notes": [
+                    131,
+                    9,
+                    6,
+                    5,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    346,
+                    14,
+                    20,
+                    11,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    427,
+                    37,
+                    47,
+                    10,
+                    10
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    588,
+                    78,
+                    101,
+                    46,
+                    8
+                ],
+                "charter": "すきやき奉行"
+            }
+        ],
+        "basic_info": {
+            "title": "Round Round Spinning Around",
+            "artist": "Nhato",
+            "genre": "maimai",
+            "bpm": 175,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11305": {
+        "id": "11305",
+        "title": "Alcyone",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            12.0,
+            14.0
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6556,
+            6557,
+            6558,
+            6559
+        ],
+        "charts": [
+            {
+                "notes": [
+                    119,
+                    15,
+                    8,
+                    10,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    279,
+                    37,
+                    24,
+                    27,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    421,
+                    90,
+                    63,
+                    40,
+                    21
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    644,
+                    78,
+                    94,
+                    53,
+                    16
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "Alcyone",
+            "artist": "PRASTIK DANCEFLOOR",
+            "genre": "maimai",
+            "bpm": 176,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11306": {
+        "id": "11306",
+        "title": "Raven Emperor",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            12.0,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6560,
+            6561,
+            6562,
+            6563
+        ],
+        "charts": [
+            {
+                "notes": [
+                    157,
+                    14,
+                    6,
+                    6,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    342,
+                    24,
+                    15,
+                    19,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    395,
+                    65,
+                    69,
+                    48,
+                    38
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    614,
+                    78,
+                    115,
+                    24,
+                    57
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Raven Emperor",
+            "artist": "Kobaryo",
+            "genre": "maimai",
+            "bpm": 205,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11307": {
+        "id": "11307",
+        "title": "Yorugao",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            12.2,
+            14.6
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6564,
+            6565,
+            6566,
+            6567
+        ],
+        "charts": [
+            {
+                "notes": [
+                    125,
+                    19,
+                    7,
+                    14,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    309,
+                    18,
+                    23,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    428,
+                    91,
+                    52,
+                    21,
+                    16
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    712,
+                    76,
+                    102,
+                    59,
+                    5
+                ],
+                "charter": "Jack & Licorice Gunjyo"
+            }
+        ],
+        "basic_info": {
+            "title": "Yorugao",
+            "artist": "An & Ryunosuke Kudo",
+            "genre": "maimai",
+            "bpm": 182,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11312": {
+        "id": "11312",
+        "title": "ぱくぱく☆がーる",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.0,
+            10.2,
+            13.0
+        ],
+        "level": [
+            "5",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6568,
+            6569,
+            6570,
+            6571
+        ],
+        "charts": [
+            {
+                "notes": [
+                    134,
+                    17,
+                    4,
+                    30,
+                    31
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    229,
+                    25,
+                    16,
+                    50,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    370,
+                    81,
+                    53,
+                    70,
+                    50
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    613,
+                    80,
+                    66,
+                    164,
+                    75
+                ],
+                "charter": "Redarrow"
+            }
+        ],
+        "basic_info": {
+            "title": "ぱくぱく☆がーる",
+            "artist": "曲：齋藤大／歌：珠洲島 有栖(CV：長縄 まりあ)",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 121,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11313": {
+        "id": "11313",
+        "title": "No Limit RED Force",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            9.7,
+            12.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            6572,
+            6573,
+            6574,
+            6575
+        ],
+        "charts": [
+            {
+                "notes": [
+                    112,
+                    9,
+                    3,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    238,
+                    15,
+                    29,
+                    9,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    40,
+                    43,
+                    26,
+                    41
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    475,
+                    46,
+                    81,
+                    40,
+                    48
+                ],
+                "charter": "小鳥遊さん"
+            }
+        ],
+        "basic_info": {
+            "title": "No Limit RED Force",
+            "artist": "曲：本多友紀（Arte Refact）／歌：オンゲキシューターズ",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 146,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11314": {
+        "id": "11314",
+        "title": "LiftOff",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.5,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "8",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            6576,
+            6577,
+            6578,
+            6579
+        ],
+        "charts": [
+            {
+                "notes": [
+                    91,
+                    29,
+                    9,
+                    16,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    342,
+                    11,
+                    16,
+                    9,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    376,
+                    67,
+                    52,
+                    113,
+                    11
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    605,
+                    48,
+                    78,
+                    23,
+                    13
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "LiftOff",
+            "artist": "MAYA AKAI",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 137,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11315": {
+        "id": "11315",
+        "title": "Falsum Atlantis.",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            12.5,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6580,
+            6581,
+            6582,
+            6583
+        ],
+        "charts": [
+            {
+                "notes": [
+                    157,
+                    16,
+                    6,
+                    9,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    28,
+                    29,
+                    22,
+                    18
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    530,
+                    50,
+                    54,
+                    34,
+                    4
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    685,
+                    116,
+                    53,
+                    94,
+                    29
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Falsum Atlantis.",
+            "artist": "kanone",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "11321": {
         "id": "11321",
         "title": "夜に駆ける",
@@ -59686,6 +60348,228 @@
             "is_new": true
         }
     },
+    "11349": {
+        "id": "11349",
+        "title": "失敗作少女",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.5,
+            10.2,
+            12.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            6584,
+            6585,
+            6586,
+            6587
+        ],
+        "charts": [
+            {
+                "notes": [
+                    87,
+                    15,
+                    4,
+                    21,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    202,
+                    27,
+                    36,
+                    27,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    84,
+                    41,
+                    36,
+                    17
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    525,
+                    80,
+                    79,
+                    81,
+                    30
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "失敗作少女",
+            "artist": "かいりきベア・MARETU feat.初音ミク",
+            "genre": "niconicoボーカロイド",
+            "bpm": 235,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11350": {
+        "id": "11350",
+        "title": "悪魔の踊り方",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.7,
+            9.8,
+            13.0
+        ],
+        "level": [
+            "2",
+            "6+",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            6588,
+            6589,
+            6590,
+            6591
+        ],
+        "charts": [
+            {
+                "notes": [
+                    89,
+                    11,
+                    4,
+                    7,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    184,
+                    21,
+                    10,
+                    24,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    374,
+                    27,
+                    32,
+                    29,
+                    19
+                ],
+                "charter": "シチミヘルツ"
+            },
+            {
+                "notes": [
+                    489,
+                    64,
+                    85,
+                    27,
+                    11
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "悪魔の踊り方",
+            "artist": "キタニタツヤ",
+            "genre": "niconicoボーカロイド",
+            "bpm": 106,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11351": {
+        "id": "11351",
+        "title": "ノイローゼ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.7,
+            10.0,
+            12.9
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            6592,
+            6593,
+            6594,
+            6595
+        ],
+        "charts": [
+            {
+                "notes": [
+                    94,
+                    14,
+                    6,
+                    21,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    314,
+                    37,
+                    19,
+                    23,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    512,
+                    73,
+                    47,
+                    17,
+                    6
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    600,
+                    73,
+                    152,
+                    56,
+                    9
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ノイローゼ",
+            "artist": "蜂屋ななし",
+            "genre": "niconicoボーカロイド",
+            "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "11353": {
         "id": "11353",
         "title": "グッバイ宣言",
@@ -59755,6 +60639,228 @@
             "artist": "Chinozo",
             "genre": "niconicoボーカロイド",
             "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11358": {
+        "id": "11358",
+        "title": "インドア系ならトラックメイカー",
+        "type": "DX",
+        "ds": [
+            2.0,
+            7.9,
+            10.5,
+            13.2
+        ],
+        "level": [
+            "2",
+            "7+",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6596,
+            6597,
+            6598,
+            6599
+        ],
+        "charts": [
+            {
+                "notes": [
+                    81,
+                    6,
+                    7,
+                    15,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    189,
+                    17,
+                    5,
+                    53,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    157,
+                    184,
+                    33,
+                    57,
+                    8
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    507,
+                    47,
+                    78,
+                    68,
+                    3
+                ],
+                "charter": "一ノ瀬 リズ"
+            }
+        ],
+        "basic_info": {
+            "title": "インドア系ならトラックメイカー",
+            "artist": "Yunomi & nicamoq",
+            "genre": "POPSアニメ",
+            "bpm": 128,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11362": {
+        "id": "11362",
+        "title": "響け！CHIREI MY WAY!",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            9.5,
+            12.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            6600,
+            6601,
+            6602,
+            6603
+        ],
+        "charts": [
+            {
+                "notes": [
+                    42,
+                    20,
+                    5,
+                    13,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    190,
+                    15,
+                    23,
+                    14,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    306,
+                    46,
+                    17,
+                    12,
+                    35
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    344,
+                    32,
+                    101,
+                    39,
+                    36
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "響け！CHIREI MY WAY!",
+            "artist": "森羅万象",
+            "genre": "東方Project",
+            "bpm": 181,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11363": {
+        "id": "11363",
+        "title": "神々が恋した幻想郷",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            10.8,
+            13.3
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            6604,
+            6605,
+            6606,
+            6607
+        ],
+        "charts": [
+            {
+                "notes": [
+                    97,
+                    12,
+                    3,
+                    7,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    295,
+                    17,
+                    16,
+                    15,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    340,
+                    69,
+                    47,
+                    18,
+                    19
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    783,
+                    42,
+                    55,
+                    23,
+                    38
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "神々が恋した幻想郷",
+            "artist": "Unlucky Morpheus",
+            "genre": "東方Project",
+            "bpm": 155,
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": true
@@ -60138,6 +61244,80 @@
             "artist": "ARuFa",
             "genre": "ゲームバラエティ",
             "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11373": {
+        "id": "11373",
+        "title": "ヒステリックナイトガール",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.0,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            6608,
+            6609,
+            6610,
+            6611
+        ],
+        "charts": [
+            {
+                "notes": [
+                    121,
+                    1,
+                    6,
+                    12,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    234,
+                    12,
+                    9,
+                    7,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    301,
+                    52,
+                    87,
+                    5,
+                    18
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    504,
+                    35,
+                    127,
+                    7,
+                    22
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "ヒステリックナイトガール",
+            "artist": "PSYQUI",
+            "genre": "ゲームバラエティ",
+            "bpm": 126,
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": true
