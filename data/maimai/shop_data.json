@@ -4527,14 +4527,6 @@
         "mall": "城市英雄岳阳步行街店",
         "address": "湖南省岳阳市岳阳楼区步行街康星百货负一楼"
     },
-    "1761": {
-        "machineCount": 1,
-        "id": "1761",
-        "province": "广东",
-        "arcadeName": "SMILEPLAY佛山南海店",
-        "mall": "SMILEPLAY佛山南海店",
-        "address": "广东省佛山市南海区大沥镇瑞安购物中心三楼SMILEPLAY泛娱乐体验中心"
-    },
     "1762": {
         "machineCount": 1,
         "id": "1762",
@@ -7910,5 +7902,13 @@
         "arcadeName": "贝贝侠黄石沃尔玛店",
         "mall": "贝贝侠黄石沃尔玛店",
         "address": "湖北省黄石市黄石港区武汉路沃尔玛负一楼8007贝贝侠家庭娱乐中心Party"
+    },
+    "2233": {
+        "machineCount": 1,
+        "id": "2233",
+        "province": "吉林",
+        "arcadeName": "艺珑传奇吉林昌邑店",
+        "mall": "艺珑传奇吉林昌邑店",
+        "address": "吉林省吉林市昌邑区吉林东市商贸示范区财富购物广场店6楼艺珑传奇"
     }
 }
