@@ -8006,5 +8006,13 @@
         "arcadeName": "超级玩家恩施大学城店",
         "mall": "超级玩家恩施大学城店",
         "address": "湖北省恩施市舞阳坝街道大学城广场3楼超级玩家"
+    },
+    "2244": {
+        "machineCount": 1,
+        "id": "2244",
+        "province": "湖南",
+        "arcadeName": "super101娄底新化东方店",
+        "mall": "super101娄底新化东方店",
+        "address": "湖南省娄底市新化县上梅东路东方城市广场一楼super101"
     }
 }
