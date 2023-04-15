@@ -8078,5 +8078,13 @@
         "arcadeName": "星际传奇兰州万象城店",
         "mall": "星际传奇兰州万象城店",
         "address": "甘肃省兰州市城关区庆阳路万象城L501"
+    },
+    "2253": {
+        "machineCount": 1,
+        "id": "2253",
+        "province": "山东",
+        "arcadeName": "super101临沂兰陵店",
+        "mall": "super101临沂兰陵店",
+        "address": "山东省临沂市兰陵县开元广场4楼super101"
     }
 }
