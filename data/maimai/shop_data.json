@@ -8086,5 +8086,13 @@
         "arcadeName": "super101临沂兰陵店",
         "mall": "super101临沂兰陵店",
         "address": "山东省临沂市兰陵县开元广场4楼super101"
+    },
+    "2255": {
+        "machineCount": 1,
+        "id": "2255",
+        "province": "浙江",
+        "arcadeName": "酷奇科幻城义乌店",
+        "mall": "酷奇科幻城义乌店",
+        "address": "浙江省义乌市稠城街道朝阳门五区2-025"
     }
 }
