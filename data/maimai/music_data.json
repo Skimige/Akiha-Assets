@@ -58520,6 +58520,302 @@
             "is_new": true
         }
     },
+    "11308": {
+        "id": "11308",
+        "title": "ヨミビトシラズ",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            12.5,
+            13.7
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            6612,
+            6613,
+            6614,
+            6615
+        ],
+        "charts": [
+            {
+                "notes": [
+                    176,
+                    5,
+                    11,
+                    17,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    249,
+                    15,
+                    26,
+                    32,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    533,
+                    37,
+                    42,
+                    35,
+                    5
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    751,
+                    50,
+                    80,
+                    36,
+                    4
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ヨミビトシラズ",
+            "artist": "Limonène (サノカモメ+月島春果)",
+            "genre": "maimai",
+            "bpm": 188,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11309": {
+        "id": "11309",
+        "title": "前衛的Landscape",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            11.4,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            6616,
+            6617,
+            6618,
+            6619
+        ],
+        "charts": [
+            {
+                "notes": [
+                    123,
+                    8,
+                    4,
+                    11,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    254,
+                    17,
+                    14,
+                    9,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    318,
+                    46,
+                    53,
+                    21,
+                    17
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    566,
+                    33,
+                    107,
+                    38,
+                    11
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "前衛的Landscape",
+            "artist": "HiTECH NINJA feat. RANASOL",
+            "genre": "maimai",
+            "bpm": 153,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11310": {
+        "id": "11310",
+        "title": "Trick tear",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.8,
+            12.5,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            6620,
+            6621,
+            6622,
+            6623
+        ],
+        "charts": [
+            {
+                "notes": [
+                    166,
+                    13,
+                    3,
+                    23,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    324,
+                    28,
+                    15,
+                    31,
+                    24
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    361,
+                    94,
+                    58,
+                    45,
+                    51
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    518,
+                    75,
+                    116,
+                    90,
+                    41
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Trick tear",
+            "artist": "しーけー",
+            "genre": "maimai",
+            "bpm": 222,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11311": {
+        "id": "11311",
+        "title": "躯樹の墓守",
+        "type": "DX",
+        "ds": [
+            6.0,
+            9.8,
+            12.9,
+            14.9
+        ],
+        "level": [
+            "6",
+            "9+",
+            "12+",
+            "14+"
+        ],
+        "cids": [
+            6624,
+            6625,
+            6626,
+            6627
+        ],
+        "charts": [
+            {
+                "notes": [
+                    214,
+                    16,
+                    6,
+                    10,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    404,
+                    24,
+                    26,
+                    10,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    523,
+                    71,
+                    58,
+                    59,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    761,
+                    80,
+                    116,
+                    24,
+                    57
+                ],
+                "charter": "超七味星人"
+            }
+        ],
+        "basic_info": {
+            "title": "躯樹の墓守",
+            "artist": "隣の庭は青い(庭師+Aoi)",
+            "genre": "maimai",
+            "bpm": 211,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "11312": {
         "id": "11312",
         "title": "ぱくぱく☆がーる",
@@ -58811,6 +59107,302 @@
             "artist": "kanone",
             "genre": "オンゲキCHUNITHM",
             "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11316": {
+        "id": "11316",
+        "title": "We Are Us",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.8,
+            10.0,
+            13.2
+        ],
+        "level": [
+            "3",
+            "6+",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6628,
+            6629,
+            6630,
+            6631
+        ],
+        "charts": [
+            {
+                "notes": [
+                    101,
+                    10,
+                    3,
+                    22,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    169,
+                    28,
+                    14,
+                    33,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    293,
+                    73,
+                    22,
+                    14,
+                    11
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    649,
+                    15,
+                    80,
+                    61,
+                    28
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "We Are Us",
+            "artist": "舞ヶ原シンセ研究会",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 145,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11317": {
+        "id": "11317",
+        "title": "Limits",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.5,
+            13.7
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            6632,
+            6633,
+            6634,
+            6635
+        ],
+        "charts": [
+            {
+                "notes": [
+                    135,
+                    22,
+                    6,
+                    20,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    243,
+                    15,
+                    26,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    321,
+                    53,
+                    59,
+                    29,
+                    14
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    455,
+                    108,
+                    144,
+                    59,
+                    20
+                ],
+                "charter": "ロシアンブラック"
+            }
+        ],
+        "basic_info": {
+            "title": "Limits",
+            "artist": "舞ヶ原シンセ研究会",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11318": {
+        "id": "11318",
+        "title": "スピカの天秤",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.8,
+            12.8,
+            14.5
+        ],
+        "level": [
+            "5",
+            "8+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            6636,
+            6637,
+            6638,
+            6639
+        ],
+        "charts": [
+            {
+                "notes": [
+                    149,
+                    35,
+                    8,
+                    14,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    291,
+                    29,
+                    34,
+                    17,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    574,
+                    50,
+                    23,
+                    89,
+                    11
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    768,
+                    62,
+                    87,
+                    61,
+                    33
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "スピカの天秤",
+            "artist": "Acotto",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 252,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11319": {
+        "id": "11319",
+        "title": "ハードコア・シンドローム",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            12.7,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "13+"
+        ],
+        "cids": [
+            6640,
+            6641,
+            6642,
+            6643
+        ],
+        "charts": [
+            {
+                "notes": [
+                    169,
+                    22,
+                    4,
+                    22,
+                    15
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    296,
+                    25,
+                    14,
+                    31,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    455,
+                    122,
+                    60,
+                    51,
+                    41
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    735,
+                    52,
+                    86,
+                    184,
+                    39
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ハードコア・シンドローム",
+            "artist": "t+pazolite (HARDCORE TANO*C) feat.TANO*C ALL STARS",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 180,
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": true
@@ -60644,6 +61236,154 @@
             "is_new": true
         }
     },
+    "11354": {
+        "id": "11354",
+        "title": "春嵐",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.2,
+            10.2,
+            13.7
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            6644,
+            6645,
+            6646,
+            6647
+        ],
+        "charts": [
+            {
+                "notes": [
+                    99,
+                    3,
+                    2,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    209,
+                    13,
+                    4,
+                    19,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    229,
+                    83,
+                    56,
+                    43,
+                    22
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    522,
+                    48,
+                    81,
+                    13,
+                    4
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "春嵐",
+            "artist": "john",
+            "genre": "niconicoボーカロイド",
+            "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11355": {
+        "id": "11355",
+        "title": "ラグトレイン",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.5,
+            9.8,
+            12.9
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            6648,
+            6649,
+            6650,
+            6651
+        ],
+        "charts": [
+            {
+                "notes": [
+                    105,
+                    16,
+                    4,
+                    9,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    249,
+                    22,
+                    14,
+                    16,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    438,
+                    64,
+                    19,
+                    5,
+                    10
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    551,
+                    84,
+                    96,
+                    30,
+                    11
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ラグトレイン",
+            "artist": "稲葉曇",
+            "genre": "niconicoボーカロイド",
+            "bpm": 147,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
     "11358": {
         "id": "11358",
         "title": "インドア系ならトラックメイカー",
@@ -60713,6 +61453,228 @@
             "artist": "Yunomi & nicamoq",
             "genre": "POPSアニメ",
             "bpm": 128,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11359": {
+        "id": "11359",
+        "title": "アカツキアライヴァル",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            6652,
+            6653,
+            6654,
+            6655
+        ],
+        "charts": [
+            {
+                "notes": [
+                    106,
+                    4,
+                    3,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    198,
+                    30,
+                    22,
+                    23,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    429,
+                    28,
+                    53,
+                    7,
+                    5
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    577,
+                    68,
+                    61,
+                    73,
+                    7
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "アカツキアライヴァル",
+            "artist": "Last Note.",
+            "genre": "niconicoボーカロイド",
+            "bpm": 125,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11360": {
+        "id": "11360",
+        "title": "リモコン",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.8,
+            9.5,
+            13.2
+        ],
+        "level": [
+            "3",
+            "6+",
+            "9",
+            "13"
+        ],
+        "cids": [
+            6656,
+            6657,
+            6658,
+            6659
+        ],
+        "charts": [
+            {
+                "notes": [
+                    105,
+                    16,
+                    3,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    242,
+                    19,
+                    11,
+                    52,
+                    18
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    408,
+                    83,
+                    13,
+                    13,
+                    36
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    513,
+                    95,
+                    106,
+                    84,
+                    30
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "リモコン",
+            "artist": "じーざす（ワンダフル☆オポチュニティ！）",
+            "genre": "niconicoボーカロイド",
+            "bpm": 165,
+            "release_date": "",
+            "from": "maimai でらっくす Splash PLUS",
+            "is_new": true
+        }
+    },
+    "11361": {
+        "id": "11361",
+        "title": "on the rocks",
+        "type": "DX",
+        "ds": [
+            1.0,
+            6.2,
+            8.8,
+            12.8
+        ],
+        "level": [
+            "1",
+            "6",
+            "8+",
+            "12+"
+        ],
+        "cids": [
+            6660,
+            6661,
+            6662,
+            6663
+        ],
+        "charts": [
+            {
+                "notes": [
+                    70,
+                    13,
+                    2,
+                    7,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    197,
+                    20,
+                    14,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    49,
+                    21,
+                    10,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    549,
+                    17,
+                    76,
+                    27,
+                    3
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "on the rocks",
+            "artist": "OSTER project",
+            "genre": "niconicoボーカロイド",
+            "bpm": 150,
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": true
