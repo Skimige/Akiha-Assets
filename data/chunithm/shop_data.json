@@ -96,7 +96,7 @@
         "address": "陕西省西安市雁塔区长安中路215号西旅国际一楼"
     },
     "1088": {
-        "machineCount": 2,
+        "machineCount": 4,
         "id": "1088",
         "province": "湖南",
         "arcadeName": "城市英雄长沙五一广场店",
@@ -422,14 +422,6 @@
         "arcadeName": "51区青岛市北悦荟广场店",
         "mall": "51区青岛市北悦荟广场店",
         "address": "山东省青岛市市北区人民路269号悦荟广场5楼"
-    },
-    "1760": {
-        "machineCount": 2,
-        "id": "1760",
-        "province": "湖南",
-        "arcadeName": "城市英雄岳阳步行街店",
-        "mall": "城市英雄岳阳步行街店",
-        "address": "湖南省岳阳市岳阳楼区步行街康星百货负一楼"
     },
     "1778": {
         "machineCount": 2,
