@@ -8288,7 +8288,7 @@
         "address": "湖北省武汉市洪山区珞喻路街道口快乐地带"
     },
     "2279": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2279",
         "province": "广东",
         "arcadeName": "天空之城广州白云店",
@@ -8390,5 +8390,21 @@
         "arcadeName": "热带雨林湛江赤坎店",
         "mall": "热带雨林湛江赤坎店",
         "address": "广东省湛江市赤坎区世贸大厦三楼"
+    },
+    "2292": {
+        "machineCount": 1,
+        "id": "2292",
+        "province": "重庆",
+        "arcadeName": "游戏大魔方重庆铜梁店",
+        "mall": "游戏大魔方重庆铜梁店",
+        "address": "重庆市铜梁区吾悦广场3楼游戏大魔方"
+    },
+    "2293": {
+        "machineCount": 1,
+        "id": "2293",
+        "province": "重庆",
+        "arcadeName": "快乐拾光丰都久桓时代广场店",
+        "mall": "快乐拾光丰都久桓时代广场店",
+        "address": "重庆市丰都县久桓时代广场"
     }
 }
