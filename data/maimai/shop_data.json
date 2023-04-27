@@ -4831,6 +4831,14 @@
         "mall": "乐为先徐州邳州店",
         "address": "江苏省徐州市邳州市新苏购物中心四楼乐为先"
     },
+    "1798": {
+        "machineCount": 1,
+        "id": "1798",
+        "province": "河北",
+        "arcadeName": "希美潮玩邯郸丛台店",
+        "mall": "希美潮玩邯郸丛台店",
+        "address": "河北省邯郸市丛台区环球中心"
+    },
     "1799": {
         "machineCount": 1,
         "id": "1799",
@@ -8411,8 +8419,16 @@
         "machineCount": 1,
         "id": "2294",
         "province": "辽宁",
-        "arcadeName": "潮玩城朝阳凌源市恒发垫",
+        "arcadeName": "潮玩城朝阳凌源恒发店",
         "mall": "潮玩城朝阳凌源市恒发垫",
         "address": "辽宁省朝阳凌源市恒发潮玩城"
+    },
+    "2295": {
+        "machineCount": 1,
+        "id": "2295",
+        "province": "广东",
+        "arcadeName": "晴空超乐场潮州店",
+        "mall": "晴空超乐场潮州店",
+        "address": "广东省潮州市南风里B区3楼晴空超乐场"
     }
 }
