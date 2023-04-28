@@ -8446,5 +8446,37 @@
         "arcadeName": "超级星座平房店",
         "mall": "超级星座平房店",
         "address": "黑龙江省哈尔滨市平房区新疆大街红旗茂商业城二楼"
+    },
+    "2299": {
+        "machineCount": 1,
+        "id": "2299",
+        "province": "浙江",
+        "arcadeName": "蜜享乐园宁波吾悦广场店",
+        "mall": "蜜享乐园宁波吾悦广场店",
+        "address": "浙江省宁波市慈溪吾悦广场"
+    },
+    "2300": {
+        "machineCount": 1,
+        "id": "2300",
+        "province": "江苏",
+        "arcadeName": "星际梦想城经开万达店",
+        "mall": "星际梦想城经开万达店",
+        "address": "江苏省苏州市昆山市经开区万达广场五楼"
+    },
+    "2301": {
+        "machineCount": 1,
+        "id": "2301",
+        "province": "河南",
+        "arcadeName": "TOPRINK郑州中原店",
+        "mall": "TOPRINK郑州中原店",
+        "address": "河南省郑州市中原区长椿南路与文澜街交叉口TOPRINK游乐体验中心"
+    },
+    "2302": {
+        "machineCount": 2,
+        "id": "2302",
+        "province": "江苏",
+        "arcadeName": "散步的蜗牛星湖天街店",
+        "mall": "散步的蜗牛星湖天街店",
+        "address": "江苏省苏州市工业园区龙湖星湖天街B栋三楼散步的蜗牛"
     }
 }
