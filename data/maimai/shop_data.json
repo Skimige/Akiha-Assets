@@ -8646,5 +8646,13 @@
         "arcadeName": "奥飞嘉年华长沙芙蓉店",
         "mall": "奥飞嘉年华长沙芙蓉店",
         "address": "湖南省长沙市芙蓉区天街"
+    },
+    "2326": {
+        "machineCount": 1,
+        "id": "2326",
+        "province": "北京",
+        "arcadeName": "魔方MIX北京海淀万象汇店",
+        "mall": "魔方MIX北京海淀万象汇店",
+        "address": "北京市海淀区西三旗万象汇四层魔方MIX"
     }
 }
