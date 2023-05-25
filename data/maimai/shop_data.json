@@ -8694,5 +8694,21 @@
         "arcadeName": "柒彩大玩家珠海三灶店",
         "mall": "柒彩大玩家珠海三灶店",
         "address": "广东省珠海市三灶镇鹏泰百货三楼柒彩大玩家"
+    },
+    "2333": {
+        "machineCount": 1,
+        "id": "2333",
+        "province": "浙江",
+        "arcadeName": "宝贝王余杭店",
+        "mall": "宝贝王余杭店",
+        "address": "浙江省杭州市文一路1888号万达广场3F"
+    },
+    "2334": {
+        "machineCount": 1,
+        "id": "2334",
+        "province": "湖北",
+        "arcadeName": "真快活coohooMax武汉汉阳店",
+        "mall": "真快活coohooMax武汉汉阳店",
+        "address": "湖北省武汉市汉阳区汉阳大道408号万科未来中心3号门L4层真快活coohooMax"
     }
 }
