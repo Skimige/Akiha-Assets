@@ -8710,5 +8710,13 @@
         "arcadeName": "真快活coohooMax武汉汉阳店",
         "mall": "真快活coohooMax武汉汉阳店",
         "address": "湖北省武汉市汉阳区汉阳大道408号万科未来中心3号门L4层真快活coohooMax"
+    },
+    "2335": {
+        "machineCount": 1,
+        "id": "2335",
+        "province": "天津",
+        "arcadeName": "皮皮熊天津宝坻店",
+        "mall": "皮皮熊天津宝坻店",
+        "address": "天津市宝坻区环城南路26号怡购宝鑫商场二楼皮皮熊主题乐园"
     }
 }
