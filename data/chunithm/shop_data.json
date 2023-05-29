@@ -328,7 +328,7 @@
         "address": "广东省广州市增城区宁西街创新大道15号永旺梦乐城1栋3084朗玩文化"
     },
     "1522": {
-        "machineCount": 4,
+        "machineCount": 2,
         "id": "1522",
         "province": "湖南",
         "arcadeName": "子洋联盟长沙望城奥莱店",
@@ -350,6 +350,14 @@
         "arcadeName": "迪卡丘菏泽牡丹店",
         "mall": "迪卡丘菏泽牡丹店",
         "address": "山东省菏泽市牡丹区佳和城二楼迪卡丘嘉年华"
+    },
+    "1534": {
+        "machineCount": 2,
+        "id": "1534",
+        "province": "湖南",
+        "arcadeName": "子洋联盟长沙雨花店",
+        "mall": "子洋联盟长沙雨花店",
+        "address": "湖南省长沙市雨花区运达汇商场负一楼子洋联盟"
     },
     "1571": {
         "machineCount": 2,
