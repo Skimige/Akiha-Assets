@@ -8990,5 +8990,29 @@
         "arcadeName": "极客森深圳龙岗万达店",
         "mall": "极客森深圳龙岗万达店",
         "address": "广东省深圳市龙岗区平湖街道万达广场负一楼极客森超乐场"
+    },
+    "2381": {
+        "machineCount": 1,
+        "id": "2381",
+        "province": "北京",
+        "arcadeName": "真快活coohooMax海淀领展店",
+        "mall": "真快活coohooMax海淀领展店",
+        "address": "北京市海淀区中关村领展购物广场3楼真快活电玩城"
+    },
+    "2382": {
+        "machineCount": 1,
+        "id": "2382",
+        "province": "广东",
+        "arcadeName": "全境方舟佛山三水店",
+        "mall": "全境方舟佛山三水店",
+        "address": "广东省佛山市三水区万达广场3楼全境方舟"
+    },
+    "2383": {
+        "machineCount": 1,
+        "id": "2383",
+        "province": "浙江",
+        "arcadeName": "幻游时空台州意得店",
+        "mall": "幻游时空台州意得店",
+        "address": "浙江省台州市椒江区天和路88号意得广场三楼幻游时空"
     }
 }
