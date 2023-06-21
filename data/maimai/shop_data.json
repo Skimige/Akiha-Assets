@@ -9035,8 +9035,16 @@
         "machineCount": 1,
         "id": "2387",
         "province": "江苏",
-        "arcadeName": "桂满园唔系高新万达店",
+        "arcadeName": "桂满园无锡高新万达店",
         "mall": "桂满员唔系高新万达店",
         "address": "江苏省无锡市泰山路180号高新万达广场3楼桂满园"
+    },
+    "2388": {
+        "machineCount": 1,
+        "id": "2388",
+        "province": "浙江",
+        "arcadeName": "菲游乐宁波海曙店",
+        "mall": "菲游乐宁波海曙店",
+        "address": "浙江省宁波市海曙区环城南路龙湖天街三楼"
     }
 }
