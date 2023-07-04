@@ -8912,7 +8912,7 @@
         "address": "广西省柳州市柳北区大润发三楼环游艺派游艺中心"
     },
     "2367": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2367",
         "province": "新疆",
         "arcadeName": "美迪乐乌鲁木齐米东店",
@@ -9168,7 +9168,7 @@
         "address": "江苏省南京市浦口区桥北弘阳广场b馆3楼星际传奇"
     },
     "2403": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2403",
         "province": "浙江",
         "arcadeName": "星际梦想城湖州长兴万达店",
@@ -9190,5 +9190,21 @@
         "arcadeName": "爱游乐青岛城阳店",
         "mall": "爱游乐青岛城阳店",
         "address": "山东省青岛市城阳区夏庄街道黑龙江中路2111号鑫江东方城三楼爱游乐"
+    },
+    "2407": {
+        "machineCount": 3,
+        "id": "2407",
+        "province": "北京",
+        "arcadeName": "泛时空北京大兴店",
+        "mall": "泛时空北京大兴店",
+        "address": "北京市大兴区欣宁街15号院1号楼2层02B50泛时空"
+    },
+    "2408": {
+        "machineCount": 1,
+        "id": "2408",
+        "province": "上海",
+        "arcadeName": "宝贝王乐园上海万达店",
+        "mall": "宝贝王乐园上海万达店",
+        "address": "上海市松江区万达广场二楼宝贝王乐园"
     }
 }
