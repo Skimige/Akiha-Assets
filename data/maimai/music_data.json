@@ -37757,6 +37757,76 @@
             "is_new": false
         }
     },
+    "1027": {
+        "id": "1027",
+        "title": "Halcyon",
+        "type": "SD",
+        "ds": [
+            6.0,
+            8.8,
+            12.5,
+            14.3
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            7300,
+            7301,
+            7302,
+            7303
+        ],
+        "charts": [
+            {
+                "notes": [
+                    214,
+                    12,
+                    4,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    382,
+                    30,
+                    18,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    559,
+                    73,
+                    65,
+                    23
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    849,
+                    66,
+                    116,
+                    49
+                ],
+                "charter": "ロシアンブラック"
+            }
+        ],
+        "basic_info": {
+            "title": "Halcyon",
+            "artist": "xi",
+            "genre": "其他游戏",
+            "bpm": 191,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "1032": {
         "id": "1032",
         "title": "Technicians High",
@@ -47934,6 +48004,80 @@
             "is_new": false
         }
     },
+    "11144": {
+        "id": "11144",
+        "title": "マイオドレ！舞舞タイム",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            12.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "12+"
+        ],
+        "cids": [
+            7304,
+            7305,
+            7306,
+            7307
+        ],
+        "charts": [
+            {
+                "notes": [
+                    131,
+                    18,
+                    4,
+                    23,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    38,
+                    14,
+                    22,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    386,
+                    49,
+                    51,
+                    37,
+                    68
+                ],
+                "charter": "華火職人"
+            },
+            {
+                "notes": [
+                    498,
+                    45,
+                    148,
+                    29,
+                    28
+                ],
+                "charter": "ものくろっく"
+            }
+        ],
+        "basic_info": {
+            "title": "マイオドレ！舞舞タイム",
+            "artist": "キノシタ feat. そらみこ (ホロライブ ときのそら＆さくらみこ)",
+            "genre": "舞萌",
+            "bpm": 183,
+            "release_date": "",
+            "from": "maimai でらっくす Splash",
+            "is_new": false
+        }
+    },
     "11145": {
         "id": "11145",
         "title": "宛城、炎上！！",
@@ -55447,6 +55591,80 @@
             "is_new": false
         }
     },
+    "11263": {
+        "id": "11263",
+        "title": "Shiny Smily Story",
+        "type": "DX",
+        "ds": [
+            2.0,
+            7.0,
+            10.0,
+            12.5
+        ],
+        "level": [
+            "2",
+            "7",
+            "10",
+            "12"
+        ],
+        "cids": [
+            7308,
+            7309,
+            7310,
+            7311
+        ],
+        "charts": [
+            {
+                "notes": [
+                    65,
+                    7,
+                    4,
+                    7,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    150,
+                    21,
+                    16,
+                    12,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    318,
+                    19,
+                    36,
+                    25,
+                    10
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    327,
+                    36,
+                    64,
+                    51,
+                    21
+                ],
+                "charter": "ものくろっく"
+            }
+        ],
+        "basic_info": {
+            "title": "Shiny Smily Story",
+            "artist": "hololive IDOL PROJECT",
+            "genre": "流行&动漫",
+            "bpm": 168,
+            "release_date": "",
+            "from": "maimai でらっくす UNiVERSE",
+            "is_new": true
+        }
+    },
     "11265": {
         "id": "11265",
         "title": "猫猫的宇宙論",
@@ -57260,6 +57478,80 @@
             "release_date": "",
             "from": "maimai でらっくす UNiVERSE",
             "is_new": false
+        }
+    },
+    "11289": {
+        "id": "11289",
+        "title": "イヤホンロマンス",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.2,
+            9.5,
+            12.7
+        ],
+        "level": [
+            "3",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            7312,
+            7313,
+            7314,
+            7315
+        ],
+        "charts": [
+            {
+                "notes": [
+                    96,
+                    20,
+                    6,
+                    2,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    193,
+                    21,
+                    28,
+                    21,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    321,
+                    59,
+                    36,
+                    7,
+                    23
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    547,
+                    107,
+                    46,
+                    37,
+                    22
+                ],
+                "charter": "ものくろっく"
+            }
+        ],
+        "basic_info": {
+            "title": "イヤホンロマンス",
+            "artist": "COOL&CREATE × 宝鐘マリン",
+            "genre": "东方Project",
+            "bpm": 132,
+            "release_date": "",
+            "from": "maimai でらっくす UNiVERSE",
+            "is_new": true
         }
     },
     "11290": {
@@ -61580,6 +61872,80 @@
             "is_new": true
         }
     },
+    "11355": {
+        "id": "11355",
+        "title": "Good bye, Merry-Go-Round.",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            12.5,
+            14.1
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            7316,
+            7317,
+            7318,
+            7319
+        ],
+        "charts": [
+            {
+                "notes": [
+                    188,
+                    16,
+                    4,
+                    19,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    293,
+                    12,
+                    15,
+                    23,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    480,
+                    71,
+                    32,
+                    11,
+                    28
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    574,
+                    96,
+                    120,
+                    62,
+                    18
+                ],
+                "charter": "あまくちジンジャー"
+            }
+        ],
+        "basic_info": {
+            "title": "Good bye, Merry-Go-Round.",
+            "artist": "Yooh",
+            "genre": "音击&中二节奏",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11357": {
         "id": "11357",
         "title": "あの世行きのバスに乗ってさらば。",
@@ -62272,6 +62638,894 @@
             "is_new": true
         }
     },
+    "11367": {
+        "id": "11367",
+        "title": "若い力",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.0,
+            9.0,
+            13.3
+        ],
+        "level": [
+            "3",
+            "6",
+            "9",
+            "13"
+        ],
+        "cids": [
+            7320,
+            7321,
+            7322,
+            7323
+        ],
+        "charts": [
+            {
+                "notes": [
+                    55,
+                    18,
+                    8,
+                    6,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    72,
+                    8,
+                    14,
+                    21,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    129,
+                    32,
+                    23,
+                    64,
+                    2
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    298,
+                    15,
+                    51,
+                    56,
+                    62
+                ],
+                "charter": "作譜：翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "若い力",
+            "artist": "作詞：セガ社員、作曲：若草恵、歌：135",
+            "genre": "其他游戏",
+            "bpm": 114,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11368": {
+        "id": "11368",
+        "title": "遺伝子レベル∞スパイラル",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.0,
+            9.8,
+            13.7
+        ],
+        "level": [
+            "5",
+            "7",
+            "9+",
+            "13+"
+        ],
+        "cids": [
+            7324,
+            7325,
+            7326,
+            7327
+        ],
+        "charts": [
+            {
+                "notes": [
+                    189,
+                    18,
+                    3,
+                    8,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    203,
+                    22,
+                    17,
+                    22,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    245,
+                    79,
+                    43,
+                    29,
+                    9
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    656,
+                    37,
+                    85,
+                    34,
+                    20
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "遺伝子レベル∞スパイラル",
+            "artist": "NAOKI feat.小坂りゆ",
+            "genre": "舞萌",
+            "bpm": 164,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11369": {
+        "id": "11369",
+        "title": "otorii INNOVATED -[i]3-",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.9,
+            12.9,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7328,
+            7329,
+            7330,
+            7331
+        ],
+        "charts": [
+            {
+                "notes": [
+                    200,
+                    6,
+                    4,
+                    31,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    289,
+                    21,
+                    15,
+                    52,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    503,
+                    58,
+                    55,
+                    60,
+                    41
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    869,
+                    20,
+                    128,
+                    17,
+                    41
+                ],
+                "charter": "Hz-R.Arrow"
+            }
+        ],
+        "basic_info": {
+            "title": "otorii INNOVATED -[i]3-",
+            "artist": "NAOKI underground",
+            "genre": "音击&中二节奏",
+            "bpm": 210,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11372": {
+        "id": "11372",
+        "title": "Photon Melodies",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.5,
+            13.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            7332,
+            7333,
+            7334,
+            7335
+        ],
+        "charts": [
+            {
+                "notes": [
+                    106,
+                    8,
+                    3,
+                    0,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    116,
+                    16,
+                    14,
+                    27,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    222,
+                    86,
+                    23,
+                    18,
+                    12
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    359,
+                    26,
+                    121,
+                    54,
+                    15
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Photon Melodies",
+            "artist": "Photon Maiden",
+            "genre": "流行&动漫",
+            "bpm": 128,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11373": {
+        "id": "11373",
+        "title": "吾輩よ猫であれ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.8,
+            8.7,
+            12.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "8+",
+            "12"
+        ],
+        "cids": [
+            7336,
+            7337,
+            7338,
+            7339
+        ],
+        "charts": [
+            {
+                "notes": [
+                    103,
+                    7,
+                    3,
+                    7,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    169,
+                    23,
+                    10,
+                    25,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    223,
+                    72,
+                    22,
+                    25,
+                    6
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    377,
+                    56,
+                    90,
+                    27,
+                    8
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "吾輩よ猫であれ",
+            "artist": "Lyrical Lily",
+            "genre": "流行&动漫",
+            "bpm": 136,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11374": {
+        "id": "11374",
+        "title": "　",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.5,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            7340,
+            7341,
+            7342,
+            7343
+        ],
+        "charts": [
+            {
+                "notes": [
+                    100,
+                    8,
+                    8,
+                    16,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    174,
+                    24,
+                    10,
+                    15,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    185,
+                    44,
+                    59,
+                    59,
+                    10
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    382,
+                    38,
+                    135,
+                    44,
+                    6
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "　",
+            "artist": "x0o0x_",
+            "genre": "流行&动漫",
+            "bpm": 130,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11378": {
+        "id": "11378",
+        "title": "Estahv",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            7344,
+            7345,
+            7346,
+            7347
+        ],
+        "charts": [
+            {
+                "notes": [
+                    136,
+                    15,
+                    3,
+                    16,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    164,
+                    14,
+                    29,
+                    22,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    55,
+                    38,
+                    53,
+                    6
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    434,
+                    46,
+                    119,
+                    6,
+                    27
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Estahv",
+            "artist": "Feryquitous",
+            "genre": "其他游戏",
+            "bpm": 191,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11379": {
+        "id": "11379",
+        "title": "First Dance",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            12.0,
+            13.9
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            7348,
+            7349,
+            7350,
+            7351
+        ],
+        "charts": [
+            {
+                "notes": [
+                    193,
+                    14,
+                    13,
+                    4,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    302,
+                    22,
+                    17,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    362,
+                    102,
+                    62,
+                    20,
+                    56
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    637,
+                    76,
+                    122,
+                    71,
+                    28
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "First Dance",
+            "artist": "削除",
+            "genre": "其他游戏",
+            "bpm": 174,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11380": {
+        "id": "11380",
+        "title": "Mjölnir",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.8,
+            12.7,
+            14.2
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7352,
+            7353,
+            7354,
+            7355
+        ],
+        "charts": [
+            {
+                "notes": [
+                    231,
+                    9,
+                    6,
+                    9,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    399,
+                    51,
+                    16,
+                    44,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    513,
+                    90,
+                    54,
+                    82,
+                    25
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    834,
+                    207,
+                    93,
+                    76,
+                    31
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Mjölnir",
+            "artist": "xi",
+            "genre": "其他游戏",
+            "bpm": 222,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11381": {
+        "id": "11381",
+        "title": "Define",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.7,
+            11.2,
+            13.5
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [
+            7356,
+            7357,
+            7358,
+            7359
+        ],
+        "charts": [
+            {
+                "notes": [
+                    113,
+                    5,
+                    7,
+                    13,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    244,
+                    12,
+                    21,
+                    34,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    316,
+                    88,
+                    47,
+                    47,
+                    10
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    461,
+                    36,
+                    137,
+                    4,
+                    11
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "Define",
+            "artist": "Zekk",
+            "genre": "其他游戏",
+            "bpm": 175,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11382": {
+        "id": "11382",
+        "title": "BANG!",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.5,
+            10.8,
+            13.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            7360,
+            7361,
+            7362,
+            7363
+        ],
+        "charts": [
+            {
+                "notes": [
+                    80,
+                    10,
+                    6,
+                    12,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    142,
+                    13,
+                    12,
+                    38,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    329,
+                    29,
+                    35,
+                    44,
+                    16
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    410,
+                    42,
+                    85,
+                    30,
+                    37
+                ],
+                "charter": "Techno Kitchen"
+            }
+        ],
+        "basic_info": {
+            "title": "BANG!",
+            "artist": "Shoichiro Hirata feat.Sana",
+            "genre": "其他游戏",
+            "bpm": 128,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11383": {
+        "id": "11383",
+        "title": "Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.5,
+            13.0,
+            14.1
+        ],
+        "level": [
+            "6",
+            "8",
+            "13",
+            "14"
+        ],
+        "cids": [
+            7364,
+            7365,
+            7366,
+            7367
+        ],
+        "charts": [
+            {
+                "notes": [
+                    240,
+                    13,
+                    6,
+                    15,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    348,
+                    21,
+                    12,
+                    34,
+                    40
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    499,
+                    27,
+                    125,
+                    38,
+                    55
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    467,
+                    155,
+                    180,
+                    79,
+                    153
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
+            "artist": "Hommarju",
+            "genre": "其他游戏",
+            "bpm": 202,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11401": {
         "id": "11401",
         "title": "OTOGEMA",
@@ -62637,6 +63891,450 @@
             "artist": "Aiobahn feat. KOTOKO",
             "genre": "其他游戏",
             "bpm": 163,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11513": {
+        "id": "11513",
+        "title": "Lights of Muse",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            10.0,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            7368,
+            7369,
+            7370,
+            7371
+        ],
+        "charts": [
+            {
+                "notes": [
+                    99,
+                    10,
+                    4,
+                    7,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    229,
+                    12,
+                    10,
+                    22,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    342,
+                    64,
+                    23,
+                    12,
+                    19
+                ],
+                "charter": "きょむりん"
+            },
+            {
+                "notes": [
+                    498,
+                    25,
+                    91,
+                    7,
+                    31
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "Lights of Muse",
+            "artist": "Ayatsugu_Otowa",
+            "genre": "其他游戏",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11514": {
+        "id": "11514",
+        "title": "tape/stop/night",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.8,
+            10.2,
+            12.8
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            7372,
+            7373,
+            7374,
+            7375
+        ],
+        "charts": [
+            {
+                "notes": [
+                    101,
+                    10,
+                    8,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    182,
+                    16,
+                    12,
+                    27,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    254,
+                    50,
+                    46,
+                    50,
+                    16
+                ],
+                "charter": "みそかつ侍"
+            },
+            {
+                "notes": [
+                    357,
+                    15,
+                    163,
+                    14,
+                    14
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "tape/stop/night",
+            "artist": "Sugar & Co.",
+            "genre": "其他游戏",
+            "bpm": 115,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11515": {
+        "id": "11515",
+        "title": "Final Step!",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            11.0,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            7376,
+            7377,
+            7378,
+            7379
+        ],
+        "charts": [
+            {
+                "notes": [
+                    154,
+                    11,
+                    5,
+                    14,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    250,
+                    23,
+                    16,
+                    53,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    431,
+                    68,
+                    53,
+                    16,
+                    8
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    617,
+                    40,
+                    95,
+                    40,
+                    67
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Final Step!",
+            "artist": "Lime",
+            "genre": "其他游戏",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11516": {
+        "id": "11516",
+        "title": "The 90's Decision",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            11.2,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "13"
+        ],
+        "cids": [
+            7380,
+            7381,
+            7382,
+            7383
+        ],
+        "charts": [
+            {
+                "notes": [
+                    133,
+                    10,
+                    4,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    251,
+                    11,
+                    12,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    337,
+                    73,
+                    42,
+                    22,
+                    52
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    490,
+                    58,
+                    69,
+                    12,
+                    65
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "The 90's Decision",
+            "artist": "MYUKKE.",
+            "genre": "其他游戏",
+            "bpm": 128,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11517": {
+        "id": "11517",
+        "title": "僕の和風本当上手",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            12.0,
+            14.0
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            7384,
+            7385,
+            7386,
+            7387
+        ],
+        "charts": [
+            {
+                "notes": [
+                    169,
+                    14,
+                    4,
+                    21,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    336,
+                    24,
+                    10,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    477,
+                    57,
+                    46,
+                    45,
+                    25
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    1007,
+                    23,
+                    73,
+                    11,
+                    59
+                ],
+                "charter": "僕の檸檬本当上手"
+            }
+        ],
+        "basic_info": {
+            "title": "僕の和風本当上手",
+            "artist": "ボス",
+            "genre": "其他游戏",
+            "bpm": 120,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11518": {
+        "id": "11518",
+        "title": "Cthugha",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.8,
+            12.5,
+            14.3
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            7388,
+            7389,
+            7390,
+            7391
+        ],
+        "charts": [
+            {
+                "notes": [
+                    232,
+                    16,
+                    4,
+                    8,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    384,
+                    20,
+                    17,
+                    32,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    538,
+                    80,
+                    49,
+                    20,
+                    72
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    809,
+                    100,
+                    128,
+                    50,
+                    81
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Cthugha",
+            "artist": "USAO",
+            "genre": "其他游戏",
+            "bpm": 213,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": true
