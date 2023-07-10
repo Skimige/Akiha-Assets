@@ -1731,9 +1731,9 @@
         "machineCount": 1,
         "id": "1356",
         "province": "天津",
-        "arcadeName": "汤姆熊天津熙悦汇店",
+        "arcadeName": "汤姆熊天津印象城店",
         "mall": "汤姆熊天津熙悦汇店",
-        "address": "天津市南开区黄河道513号熙悦汇购物中心1楼37b"
+        "address": "天津市西青区友谊南路111号印象城购物中心L2-19汤姆熊"
     },
     "1357": {
         "machineCount": 1,
@@ -3075,9 +3075,9 @@
         "machineCount": 1,
         "id": "1549",
         "province": "山东",
-        "arcadeName": "嘻游玩家德州店",
+        "arcadeName": "游戏大魔方济宁吾悦店",
         "mall": "嘻游玩家德州店",
-        "address": "山东省德州市德城区天衢街道办事处大学西路1566号银座商城318嘻游玩家游乐场"
+        "address": "山东省济宁市任城区吾悅广场二楼游戏大魔方"
     },
     "1550": {
         "machineCount": 1,
@@ -4613,7 +4613,7 @@
         "province": "江苏",
         "arcadeName": "一同潮玩连云港店",
         "mall": "一同潮玩连云港店",
-        "address": "江苏省连云港苏宁广场三楼"
+        "address": "江苏省连云港市海州区灌通北路58号苏宁广场3楼301一同潮玩"
     },
     "1770": {
         "machineCount": 1,
@@ -5077,7 +5077,7 @@
         "province": "广东",
         "arcadeName": "GGS创产音游窝",
         "mall": "华立私人购机-广州工商学院三水校区琉璃动漫协会",
-        "address": "广东省佛山市三水区乐平镇三花路23号创产6楼"
+        "address": "广东省佛山市三水区乐平镇三花路23号广州工商学院三水校区"
     },
     "1837": {
         "machineCount": 1,
@@ -6781,7 +6781,7 @@
         "province": "广东",
         "arcadeName": "Tizuka音游窝",
         "mall": "Tizuka音游窝",
-        "address": "广东省潮州市湘桥区福安路新居乐花园"
+        "address": "广东省汕头市龙湖区珠池路9号8幢"
     },
     "2074": {
         "machineCount": 2,
