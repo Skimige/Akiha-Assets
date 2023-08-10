@@ -37897,6 +37897,76 @@
             "is_new": false
         }
     },
+    "1075": {
+        "id": "1075",
+        "title": "サンバランド",
+        "type": "SD",
+        "ds": [
+            4.0,
+            7.0,
+            11.0,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7",
+            "11",
+            "13"
+        ],
+        "cids": [
+            7392,
+            7393,
+            7394,
+            7395
+        ],
+        "charts": [
+            {
+                "notes": [
+                    140,
+                    5,
+                    4,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    232,
+                    23,
+                    8,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    365,
+                    74,
+                    33,
+                    16
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    392,
+                    6,
+                    201,
+                    38
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "サンバランド",
+            "artist": "SAMBA MASTER 佐藤",
+            "genre": "其他游戏",
+            "bpm": 132,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "10145": {
         "id": "10145",
         "title": "脳漿炸裂ガール",
@@ -59356,6 +59426,80 @@
             "is_new": false
         }
     },
+    "11320": {
+        "id": "11320",
+        "title": "VOLTAGE",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            10.8,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            7400,
+            7401,
+            7402,
+            7403
+        ],
+        "charts": [
+            {
+                "notes": [
+                    196,
+                    6,
+                    4,
+                    7,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    370,
+                    18,
+                    11,
+                    13,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    481,
+                    72,
+                    42,
+                    31,
+                    19
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    573,
+                    70,
+                    161,
+                    23,
+                    15
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "VOLTAGE",
+            "artist": "Rain Drops",
+            "genre": "流行&动漫",
+            "bpm": 194,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11321": {
         "id": "11321",
         "title": "失敗作少女",
@@ -62638,6 +62782,154 @@
             "is_new": true
         }
     },
+    "11370": {
+        "id": "11370",
+        "title": "enchanted love",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            11.8,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            7428,
+            7429,
+            7430,
+            7431
+        ],
+        "charts": [
+            {
+                "notes": [
+                    89,
+                    7,
+                    5,
+                    13,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    157,
+                    16,
+                    12,
+                    32,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    205,
+                    104,
+                    47,
+                    14,
+                    4
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    357,
+                    31,
+                    88,
+                    96,
+                    4
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "enchanted love",
+            "artist": "linear ring",
+            "genre": "其他游戏",
+            "bpm": 95,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11371": {
+        "id": "11371",
+        "title": "Caterpillar Song",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            12.0,
+            13.9
+        ],
+        "level": [
+            "3",
+            "6",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            7432,
+            7433,
+            7434,
+            7435
+        ],
+        "charts": [
+            {
+                "notes": [
+                    62,
+                    11,
+                    4,
+                    20,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    216,
+                    10,
+                    13,
+                    28,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    240,
+                    87,
+                    2,
+                    5,
+                    2
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    309,
+                    31,
+                    94,
+                    46,
+                    1
+                ],
+                "charter": "チェシャ猫とハートのジャック"
+            }
+        ],
+        "basic_info": {
+            "title": "Caterpillar Song",
+            "artist": "Bitplane feat. 葉月ゆら",
+            "genre": "其他游戏",
+            "bpm": 90,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11372": {
         "id": "11372",
         "title": "Photon Melodies",
@@ -62855,6 +63147,154 @@
             "artist": "x0o0x_",
             "genre": "流行&动漫",
             "bpm": 130,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11375": {
+        "id": "11375",
+        "title": "パーフェクション",
+        "type": "DX",
+        "ds": [
+            2.0,
+            7.8,
+            10.8,
+            13.5
+        ],
+        "level": [
+            "2",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            7404,
+            7405,
+            7406,
+            7407
+        ],
+        "charts": [
+            {
+                "notes": [
+                    88,
+                    22,
+                    3,
+                    28,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    305,
+                    12,
+                    21,
+                    39,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    480,
+                    84,
+                    35,
+                    17,
+                    12
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    560,
+                    58,
+                    118,
+                    69,
+                    31
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "パーフェクション",
+            "artist": "柊マグネタイト",
+            "genre": "舞萌",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11376": {
+        "id": "11376",
+        "title": "デーモンベット",
+        "type": "DX",
+        "ds": [
+            2.0,
+            7.5,
+            10.5,
+            13.2
+        ],
+        "level": [
+            "2",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            7408,
+            7409,
+            7410,
+            7411
+        ],
+        "charts": [
+            {
+                "notes": [
+                    114,
+                    10,
+                    4,
+                    18,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    259,
+                    19,
+                    13,
+                    37,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    399,
+                    35,
+                    20,
+                    14,
+                    50
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    484,
+                    36,
+                    110,
+                    23,
+                    13
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "デーモンベット",
+            "artist": "ちいたな feat.flower",
+            "genre": "舞萌",
+            "bpm": 107,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": true
@@ -63299,6 +63739,598 @@
             "artist": "Hommarju",
             "genre": "其他游戏",
             "bpm": 202,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11384": {
+        "id": "11384",
+        "title": "HECATONCHEIR",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            12.7,
+            14.0
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7412,
+            7413,
+            7414,
+            7415
+        ],
+        "charts": [
+            {
+                "notes": [
+                    213,
+                    9,
+                    8,
+                    21,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    329,
+                    10,
+                    22,
+                    33,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    544,
+                    51,
+                    24,
+                    67,
+                    21
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    623,
+                    77,
+                    133,
+                    94,
+                    100
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "HECATONCHEIR",
+            "artist": "Yuta Imai",
+            "genre": "舞萌",
+            "bpm": 155,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11385": {
+        "id": "11385",
+        "title": "Irresistible",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.5,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            7416,
+            7417,
+            7418,
+            7419
+        ],
+        "charts": [
+            {
+                "notes": [
+                    112,
+                    10,
+                    7,
+                    8,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    244,
+                    28,
+                    13,
+                    20,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    344,
+                    41,
+                    42,
+                    5,
+                    22
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    593,
+                    25,
+                    81,
+                    56,
+                    27
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Irresistible",
+            "artist": "MK",
+            "genre": "舞萌",
+            "bpm": 157,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11386": {
+        "id": "11386",
+        "title": "HAGAKIRI",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            12.5,
+            13.9
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            7420,
+            7421,
+            7422,
+            7423
+        ],
+        "charts": [
+            {
+                "notes": [
+                    175,
+                    6,
+                    4,
+                    15,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    264,
+                    18,
+                    17,
+                    32,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    398,
+                    52,
+                    15,
+                    42,
+                    40
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    464,
+                    71,
+                    59,
+                    97,
+                    42
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "HAGAKIRI",
+            "artist": "Masayoshi Iimori",
+            "genre": "舞萌",
+            "bpm": 172,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11387": {
+        "id": "11387",
+        "title": "N3V3R G3T OV3R",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            12.0,
+            14.3
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            7424,
+            7425,
+            7426,
+            7427
+        ],
+        "charts": [
+            {
+                "notes": [
+                    116,
+                    18,
+                    6,
+                    0,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    199,
+                    36,
+                    13,
+                    25,
+                    24
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    84,
+                    31,
+                    77,
+                    7
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    528,
+                    31,
+                    91,
+                    66,
+                    33
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "N3V3R G3T OV3R",
+            "artist": "C-Show",
+            "genre": "舞萌",
+            "bpm": 128,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11388": {
+        "id": "11388",
+        "title": "春を告げる",
+        "type": "DX",
+        "ds": [
+            1.0,
+            6.0,
+            9.8,
+            12.9
+        ],
+        "level": [
+            "1",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            7396,
+            7397,
+            7398,
+            7399
+        ],
+        "charts": [
+            {
+                "notes": [
+                    70,
+                    14,
+                    3,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    192,
+                    9,
+                    13,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    331,
+                    44,
+                    10,
+                    6,
+                    6
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    531,
+                    69,
+                    33,
+                    34,
+                    8
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "春を告げる",
+            "artist": "yama",
+            "genre": "流行&动漫",
+            "bpm": 120,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11389": {
+        "id": "11389",
+        "title": "オントロジー",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.2,
+            10.2,
+            12.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            7436,
+            7437,
+            7438,
+            7439
+        ],
+        "charts": [
+            {
+                "notes": [
+                    103,
+                    4,
+                    6,
+                    15,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    329,
+                    15,
+                    13,
+                    15,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    449,
+                    39,
+                    24,
+                    16,
+                    14
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    479,
+                    30,
+                    149,
+                    20,
+                    24
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "オントロジー",
+            "artist": "Rain Drops",
+            "genre": "流行&动漫",
+            "bpm": 192,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11391": {
+        "id": "11391",
+        "title": "Princess♂",
+        "type": "DX",
+        "ds": [
+            2.0,
+            7.0,
+            10.5,
+            13.7
+        ],
+        "level": [
+            "2",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            7440,
+            7441,
+            7442,
+            7443
+        ],
+        "charts": [
+            {
+                "notes": [
+                    77,
+                    11,
+                    2,
+                    8,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    215,
+                    29,
+                    9,
+                    28,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    51,
+                    19,
+                    2,
+                    22
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    509,
+                    55,
+                    74,
+                    15,
+                    10
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Princess♂",
+            "artist": "TOPHAMHAT-KYO",
+            "genre": "流行&动漫",
+            "bpm": 92,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11392": {
+        "id": "11392",
+        "title": "ヒトガタ",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.5,
+            10.8,
+            13.4
+        ],
+        "level": [
+            "2",
+            "6",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            7444,
+            7445,
+            7446,
+            7447
+        ],
+        "charts": [
+            {
+                "notes": [
+                    107,
+                    8,
+                    6,
+                    8,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    259,
+                    19,
+                    16,
+                    28,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    380,
+                    80,
+                    39,
+                    35,
+                    16
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    530,
+                    82,
+                    134,
+                    19,
+                    34
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "ヒトガタ",
+            "artist": "HIMEHINA",
+            "genre": "流行&动漫",
+            "bpm": 150,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": true
