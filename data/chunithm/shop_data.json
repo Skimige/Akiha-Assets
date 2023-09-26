@@ -1286,5 +1286,21 @@
         "arcadeName": "星城战记长沙万达店",
         "mall": "星城战记长沙万达店",
         "address": "湖南省长沙市岳麓区银盆岭万达广场"
+    },
+    "2481": {
+        "machineCount": 2,
+        "id": "2481",
+        "province": "云南",
+        "arcadeName": "super101昆明店",
+        "mall": "super101昆明店",
+        "address": "云南省昆明市盘龙区北京路同德广场负一层super101"
+    },
+    "2482": {
+        "machineCount": 2,
+        "id": "2482",
+        "province": "北京",
+        "arcadeName": "MelandClub北京万达店",
+        "mall": "MelandClub北京万达店",
+        "address": "北京市海淀区五棵松万达广场3楼MelandClub"
     }
 }
