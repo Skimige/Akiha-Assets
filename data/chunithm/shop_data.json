@@ -1302,5 +1302,13 @@
         "arcadeName": "星际传奇北京五棵松店",
         "mall": "MelandClub北京万达店",
         "address": "北京市海淀区五棵松万达广场3楼星际传奇MelandClub"
+    },
+    "2488": {
+        "machineCount": 2,
+        "id": "2488",
+        "province": "浙江",
+        "arcadeName": "天马行空潮玩嘉年华浙江丽水店",
+        "mall": "天马行空潮玩嘉年华浙江丽水店",
+        "address": "浙江省丽水市莲都区学院路36号西城美食广场三层301号"
     }
 }
