@@ -992,7 +992,7 @@
         "address": "浙江省义乌市江东街道吾悦广场3楼城市英雄"
     },
     "1241": {
-        "machineCount": 4,
+        "machineCount": 3,
         "id": "1241",
         "province": "广东",
         "arcadeName": "星球小镇儿童乐园汕头龙湖店",
@@ -9550,5 +9550,13 @@
         "arcadeName": "咪哆熊大连沙河口店",
         "mall": "咪哆熊大连沙河口店",
         "address": "辽宁省大连市沙河口区中央大道负一层咪哆熊欢乐世界"
+    },
+    "2498": {
+        "machineCount": 1,
+        "id": "2498",
+        "province": "广东",
+        "arcadeName": "猫窝yz room",
+        "mall": "猫窝yz room",
+        "address": "广东省广州市白云区同和大街7号7楼猫窝yz room"
     }
 }
