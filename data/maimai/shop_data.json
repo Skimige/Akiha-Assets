@@ -9574,5 +9574,13 @@
         "arcadeName": "FUN VALLEY潮玩广州越秀侨光西路店",
         "mall": "FUN VALLEY潮玩广州越秀侨光西路店",
         "address": "广东省广州市越秀区侨光西路11号星寰国际商业中心三楼L3-01-1"
+    },
+    "2501": {
+        "machineCount": 1,
+        "id": "2501",
+        "province": "福建",
+        "arcadeName": "星际传奇漳州龙文店",
+        "mall": "星际传奇漳州龙文店",
+        "address": "福建省漳州市龙文区吾悦广场3层"
     }
 }
