@@ -3592,7 +3592,7 @@
         "address": "广西贺州市建设中路129号彰泰新旺角b1-8-1013欢乐哆"
     },
     "1632": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1632",
         "province": "天津",
         "arcadeName": "51区天津南开熙悦汇店",
@@ -9566,5 +9566,13 @@
         "arcadeName": "咪哆熊大连沙河口店",
         "mall": "咪哆熊大连沙河口店",
         "address": "辽宁省大连市沙河口区中央大道负一层咪哆熊欢乐世界"
+    },
+    "2500": {
+        "machineCount": 1,
+        "id": "2500",
+        "province": "广东",
+        "arcadeName": "FUN VALLEY潮玩广州越秀侨光西路店",
+        "mall": "FUN VALLEY潮玩广州越秀侨光西路店",
+        "address": "广东省广州市越秀区侨光西路11号星寰国际商业中心三楼L3-01-1"
     }
 }
