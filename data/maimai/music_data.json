@@ -38707,6 +38707,80 @@
             "is_new": false
         }
     },
+    "10404": {
+        "id": "10404",
+        "title": "響縁",
+        "type": "DX",
+        "ds": [
+            2.0,
+            7.2,
+            10.5,
+            13.4
+        ],
+        "level": [
+            "2",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            7588,
+            7589,
+            7590,
+            7591
+        ],
+        "charts": [
+            {
+                "notes": [
+                    93,
+                    6,
+                    2,
+                    16,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    232,
+                    15,
+                    6,
+                    27,
+                    22
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    428,
+                    22,
+                    20,
+                    28,
+                    21
+                ],
+                "charter": "じゃこレモン"
+            },
+            {
+                "notes": [
+                    547,
+                    45,
+                    88,
+                    12,
+                    15
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "響縁",
+            "artist": "豚乙女",
+            "genre": "东方Project",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "10420": {
         "id": "10420",
         "title": "Change Our MIRAI！",
@@ -62756,6 +62830,302 @@
             "is_new": true
         }
     },
+    "11392": {
+        "id": "11392",
+        "title": "Metamorphosism",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.0,
+            12.8,
+            14.6
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7592,
+            7593,
+            7594,
+            7595
+        ],
+        "charts": [
+            {
+                "notes": [
+                    211,
+                    16,
+                    9,
+                    9,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    232,
+                    38,
+                    21,
+                    29,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    244,
+                    132,
+                    62,
+                    76,
+                    11
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    680,
+                    60,
+                    127,
+                    71,
+                    16
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Metamorphosism",
+            "artist": "削除",
+            "genre": "舞萌",
+            "bpm": 144,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11393": {
+        "id": "11393",
+        "title": "白花の天使",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.7,
+            12.0,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8+",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            7596,
+            7597,
+            7598,
+            7599
+        ],
+        "charts": [
+            {
+                "notes": [
+                    165,
+                    13,
+                    10,
+                    16,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    358,
+                    16,
+                    19,
+                    12,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    530,
+                    89,
+                    52,
+                    18,
+                    11
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    591,
+                    84,
+                    84,
+                    72,
+                    15
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "白花の天使",
+            "artist": "Yu-dachi",
+            "genre": "舞萌",
+            "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11394": {
+        "id": "11394",
+        "title": "World's end loneliness",
+        "type": "DX",
+        "ds": [
+            7.0,
+            9.8,
+            13.0,
+            14.9
+        ],
+        "level": [
+            "7",
+            "9+",
+            "13",
+            "14+"
+        ],
+        "cids": [
+            7600,
+            7601,
+            7602,
+            7603
+        ],
+        "charts": [
+            {
+                "notes": [
+                    281,
+                    26,
+                    8,
+                    35,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    398,
+                    16,
+                    25,
+                    21,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    520,
+                    64,
+                    57,
+                    56,
+                    24
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    856,
+                    88,
+                    96,
+                    94,
+                    100
+                ],
+                "charter": "翡翠マナ"
+            }
+        ],
+        "basic_info": {
+            "title": "World's end loneliness",
+            "artist": "打打だいず",
+            "genre": "舞萌",
+            "bpm": 205,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11395": {
+        "id": "11395",
+        "title": "Jouez Avec Moi?",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            10.8,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            7604,
+            7605,
+            7606,
+            7607
+        ],
+        "charts": [
+            {
+                "notes": [
+                    123,
+                    16,
+                    8,
+                    17,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    248,
+                    16,
+                    18,
+                    21,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    420,
+                    39,
+                    67,
+                    31,
+                    9
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    637,
+                    70,
+                    86,
+                    73,
+                    40
+                ],
+                "charter": "小鳥遊さん"
+            }
+        ],
+        "basic_info": {
+            "title": "Jouez Avec Moi?",
+            "artist": "Retropolitaliens (Ms.+駄々子)",
+            "genre": "舞萌",
+            "bpm": 162,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11396": {
         "id": "11396",
         "title": "テリトリーバトル",
@@ -63121,6 +63491,228 @@
             "artist": "ナユタン星人",
             "genre": "音击&中二节奏",
             "bpm": 129,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11402": {
+        "id": "11402",
+        "title": "撩乱乙女†無双劇",
+        "type": "DX",
+        "ds": [
+            4.0,
+            6.8,
+            11.7,
+            13.4
+        ],
+        "level": [
+            "4",
+            "6",
+            "11+",
+            "13"
+        ],
+        "cids": [
+            7608,
+            7609,
+            7610,
+            7611
+        ],
+        "charts": [
+            {
+                "notes": [
+                    159,
+                    3,
+                    4,
+                    23,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    252,
+                    13,
+                    14,
+                    28,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    495,
+                    58,
+                    54,
+                    8,
+                    80
+                ],
+                "charter": "小鳥遊さん"
+            },
+            {
+                "notes": [
+                    533,
+                    63,
+                    127,
+                    32,
+                    108
+                ],
+                "charter": "Redarrow"
+            }
+        ],
+        "basic_info": {
+            "title": "撩乱乙女†無双劇",
+            "artist": "曲：Haggy Rock & 佐藤厚仁／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]",
+            "genre": "音击&中二节奏",
+            "bpm": 165,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11404": {
+        "id": "11404",
+        "title": "See The Light",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            11.5,
+            13.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            7612,
+            7613,
+            7614,
+            7615
+        ],
+        "charts": [
+            {
+                "notes": [
+                    132,
+                    4,
+                    4,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    196,
+                    24,
+                    10,
+                    24,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    389,
+                    40,
+                    12,
+                    14,
+                    55
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    541,
+                    24,
+                    42,
+                    134,
+                    55
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "See The Light",
+            "artist": "anubasu-anubasu",
+            "genre": "音击&中二节奏",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11405": {
+        "id": "11405",
+        "title": "エータ・ベータ・イータ",
+        "type": "DX",
+        "ds": [
+            6.0,
+            7.8,
+            12.4,
+            14.2
+        ],
+        "level": [
+            "6",
+            "7+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            7616,
+            7617,
+            7618,
+            7619
+        ],
+        "charts": [
+            {
+                "notes": [
+                    263,
+                    13,
+                    4,
+                    24,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    314,
+                    28,
+                    22,
+                    20,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    494,
+                    78,
+                    39,
+                    20,
+                    23
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    857,
+                    29,
+                    29,
+                    66,
+                    73
+                ],
+                "charter": "チャン@DP皆伝"
+            }
+        ],
+        "basic_info": {
+            "title": "エータ・ベータ・イータ",
+            "artist": "ルゼ",
+            "genre": "音击&中二节奏",
+            "bpm": 186,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": true
@@ -64040,6 +64632,80 @@
             "is_new": true
         }
     },
+    "11423": {
+        "id": "11423",
+        "title": "BLUE ZONE",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.2,
+            11.5,
+            14.1
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "14"
+        ],
+        "cids": [
+            7620,
+            7621,
+            7622,
+            7623
+        ],
+        "charts": [
+            {
+                "notes": [
+                    146,
+                    13,
+                    3,
+                    7,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    24,
+                    18,
+                    14,
+                    18
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    369,
+                    67,
+                    48,
+                    10,
+                    21
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    654,
+                    25,
+                    71,
+                    50,
+                    88
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "BLUE ZONE",
+            "artist": "Tatsh x NAOKI",
+            "genre": "其他游戏",
+            "bpm": 168,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11424": {
         "id": "11424",
         "title": "Estahv",
@@ -64774,6 +65440,302 @@
             "title": "ヒトガタ",
             "artist": "HIMEHINA",
             "genre": "流行&动漫",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11434": {
+        "id": "11434",
+        "title": "Spring of Dreams",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.5,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            7624,
+            7625,
+            7626,
+            7627
+        ],
+        "charts": [
+            {
+                "notes": [
+                    129,
+                    8,
+                    3,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    230,
+                    14,
+                    3,
+                    42,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    322,
+                    74,
+                    23,
+                    20,
+                    12
+                ],
+                "charter": "じゃこレモン"
+            },
+            {
+                "notes": [
+                    553,
+                    77,
+                    48,
+                    49,
+                    20
+                ],
+                "charter": "アミノハバキリ"
+            }
+        ],
+        "basic_info": {
+            "title": "Spring of Dreams",
+            "artist": "3L (NJK Record)",
+            "genre": "东方Project",
+            "bpm": 153,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11435": {
+        "id": "11435",
+        "title": "大輪の魂 (feat. AO, 司芭扶)",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.2,
+            9.8,
+            13.4
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            7628,
+            7629,
+            7630,
+            7631
+        ],
+        "charts": [
+            {
+                "notes": [
+                    98,
+                    7,
+                    8,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    229,
+                    10,
+                    17,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    39,
+                    30,
+                    10,
+                    18
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    550,
+                    62,
+                    103,
+                    42,
+                    19
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "大輪の魂 (feat. AO, 司芭扶)",
+            "artist": "魂音泉",
+            "genre": "东方Project",
+            "bpm": 137,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11436": {
+        "id": "11436",
+        "title": "紅に染まる恋の花",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.5,
+            10.0,
+            12.5
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "12"
+        ],
+        "cids": [
+            7632,
+            7633,
+            7634,
+            7635
+        ],
+        "charts": [
+            {
+                "notes": [
+                    80,
+                    9,
+                    4,
+                    22,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    240,
+                    21,
+                    7,
+                    32,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    349,
+                    53,
+                    24,
+                    14,
+                    4
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    472,
+                    14,
+                    129,
+                    36,
+                    10
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "紅に染まる恋の花",
+            "artist": "幽閉サテライト",
+            "genre": "东方Project",
+            "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11437": {
+        "id": "11437",
+        "title": "三妖精SAY YA!!!",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.8,
+            10.0,
+            13.3
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            7636,
+            7637,
+            7638,
+            7639
+        ],
+        "charts": [
+            {
+                "notes": [
+                    105,
+                    6,
+                    7,
+                    21,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    8,
+                    14,
+                    20,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    52,
+                    31,
+                    33,
+                    11
+                ],
+                "charter": "じゃこレモン"
+            },
+            {
+                "notes": [
+                    481,
+                    86,
+                    140,
+                    72,
+                    23
+                ],
+                "charter": "隅田川星人"
+            }
+        ],
+        "basic_info": {
+            "title": "三妖精SAY YA!!!",
+            "artist": "森羅万象",
+            "genre": "东方Project",
             "bpm": 150,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
@@ -65589,6 +66551,80 @@
             "artist": "和田アキ子",
             "genre": "流行&动漫",
             "bpm": 145,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11451": {
+        "id": "11451",
+        "title": "Transcend Lights",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.0,
+            11.8,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            7640,
+            7641,
+            7642,
+            7643
+        ],
+        "charts": [
+            {
+                "notes": [
+                    126,
+                    5,
+                    6,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    251,
+                    19,
+                    2,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    240,
+                    40,
+                    55,
+                    14,
+                    17
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    442,
+                    8,
+                    119,
+                    25,
+                    15
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Transcend Lights",
+            "artist": "曲：小高光太郎／歌：オンゲキシューターズ",
+            "genre": "音击&中二节奏",
+            "bpm": 70,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": true
