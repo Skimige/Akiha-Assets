@@ -9758,5 +9758,21 @@
         "arcadeName": "爱玩荟东城区银座mall店",
         "mall": "爱玩荟东城区银座mall店",
         "address": "北京市东城区银座mall商场三层L3-10-11-12"
+    },
+    "2522": {
+        "machineCount": 1,
+        "id": "2522",
+        "province": "河北",
+        "arcadeName": "嘻游大玩家廊坊三河店",
+        "mall": "嘻游大玩家廊坊三河店",
+        "address": "河北廊坊市三河市燕郊镇鑫乐汇百货四楼嘻游大玩家"
+    },
+    "2523": {
+        "machineCount": 1,
+        "id": "2523",
+        "province": "湖南",
+        "arcadeName": "星城战记衡阳蒸湘店",
+        "mall": "星城战记衡阳蒸湘店",
+        "address": "湖南省衡阳市蒸湘区华新步歩高广场一楼"
     }
 }
