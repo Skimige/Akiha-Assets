@@ -9942,5 +9942,21 @@
         "arcadeName": "桂满园苏州常熟店",
         "mall": "桂满园苏州常熟店",
         "address": "江苏省苏州市常熟市万达广场2楼桂满园"
+    },
+    "2548": {
+        "machineCount": 1,
+        "id": "2548",
+        "province": "广东",
+        "arcadeName": "super101湛江赤坎店",
+        "mall": "super101湛江赤坎店",
+        "address": "广东省湛江市赤坎区印象汇三楼"
+    },
+    "2549": {
+        "machineCount": 1,
+        "id": "2549",
+        "province": "浙江",
+        "arcadeName": "午夜战车杭州富阳店",
+        "mall": "午夜战车杭州富阳店",
+        "address": "浙江省杭州市富阳富春街道东方茂D座一楼午夜战车"
     }
 }
