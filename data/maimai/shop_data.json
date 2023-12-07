@@ -10190,5 +10190,13 @@
         "arcadeName": "梦幻之城宁夏中卫万达店",
         "mall": "梦幻之城宁夏中卫万达店",
         "address": "宁夏中卫市万达二楼西侧梦幻之城体验馆"
+    },
+    "2586": {
+        "machineCount": 1,
+        "id": "2586",
+        "province": "湖北",
+        "arcadeName": "SEER PARTY仙桃吾悦广场店",
+        "mall": "SEER PARTY仙桃吾悦广场店",
+        "address": "湖北省仙桃市前通路与新城大道交汇处吾悦广场三楼"
     }
 }
