@@ -9872,7 +9872,7 @@
         "address": "上海市嘉定区宝龙广场1F"
     },
     "2542": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2542",
         "province": "江苏",
         "arcadeName": "天空之城无锡滨湖店",
@@ -10071,14 +10071,6 @@
         "mall": "夸特世界朝阳龙湖天街店",
         "address": "北京市朝阳区北苑东路19号院北苑龙湖天街A馆4层"
     },
-    "2570": {
-        "machineCount": 1,
-        "id": "2570",
-        "province": "上海",
-        "arcadeName": "王者之风上海大融城店",
-        "mall": "王者之风上海大融城店",
-        "address": "上海市静安区沪太路大融城二楼王者之风游乐体验中心"
-    },
     "2572": {
         "machineCount": 1,
         "id": "2572",
@@ -10198,5 +10190,13 @@
         "arcadeName": "SEER PARTY仙桃吾悦广场店",
         "mall": "SEER PARTY仙桃吾悦广场店",
         "address": "湖北省仙桃市前通路与新城大道交汇处吾悦广场三楼"
+    },
+    "2587": {
+        "machineCount": 1,
+        "id": "2587",
+        "province": "湖北",
+        "arcadeName": "萌可力潮玩大冶吾悦广场店",
+        "mall": "萌可力潮玩大冶吾悦广场店",
+        "address": "湖北省大冶市吾悦广场三楼萌可力潮玩"
     }
 }
