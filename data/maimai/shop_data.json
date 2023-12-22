@@ -6616,7 +6616,7 @@
         "address": "北京市亦庄开发区荣华中路力宝华联购物中心3楼魔方MIX家庭娱乐中心"
     },
     "2071": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "2071",
         "province": "江西",
         "arcadeName": "嗨玩社赣州万达店",
@@ -10662,5 +10662,21 @@
         "arcadeName": "宝贝王六安金安万达店",
         "mall": "宝贝王六安金安万达店",
         "address": "安徽省六安市金安区万达广场1BF宝贝王乐园"
+    },
+    "2655": {
+        "machineCount": 1,
+        "id": "2655",
+        "province": "安徽",
+        "arcadeName": "贝乐迪合肥港澳广场店",
+        "mall": "贝乐迪合肥港澳广场店",
+        "address": "安徽省合肥市经开区港澳广场4楼"
+    },
+    "2656": {
+        "machineCount": 1,
+        "id": "2656",
+        "province": "江西",
+        "arcadeName": "运动元素赣州章贡万象城店",
+        "mall": "运动元素赣州章贡万象城店",
+        "address": "江西省赣州市章贡区登峰大道万象城5楼"
     }
 }
