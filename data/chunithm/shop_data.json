@@ -1614,5 +1614,13 @@
         "arcadeName": "潮玩社济南槐荫和谐广场店",
         "mall": "潮玩社济南槐荫和谐广场店",
         "address": "山东省济南市槐荫区和谐广场五楼潮玩社"
+    },
+    "2661": {
+        "machineCount": 1,
+        "id": "2661",
+        "province": "四川",
+        "arcadeName": "ACJOY成都展",
+        "mall": "ACJOY成都展",
+        "address": "ACJOY成都展"
     }
 }
