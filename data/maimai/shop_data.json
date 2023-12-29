@@ -10000,7 +10000,7 @@
         "address": "江西省赣州市章贡区红旗大道63号赣坊文化创意产业园X栋"
     },
     "2564": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "2564",
         "province": "山东",
         "arcadeName": "嗨森汇乐园济南历城店",
@@ -10830,5 +10830,61 @@
         "arcadeName": "1号玩家淄博淄川sm广场店",
         "mall": "1号玩家淄博淄川sm广场店",
         "address": "山东省淄博市淄川区sm广场二楼1号玩家"
+    },
+    "2682": {
+        "machineCount": 2,
+        "id": "2682",
+        "province": "辽宁",
+        "arcadeName": "终极梦想大连沙河吾悦广场店",
+        "mall": "终极梦想大连沙河吾悦广场店",
+        "address": "辽宁省大连市沙河口区中央大道吾悦广场3楼"
+    },
+    "2683": {
+        "machineCount": 1,
+        "id": "2683",
+        "province": "广东",
+        "arcadeName": "琦趣玩家广州番禺雄峰城店",
+        "mall": "琦趣玩家广州番禺雄峰城店",
+        "address": "广东省广州市番禺区雄峰城B4座1003号"
+    },
+    "2684": {
+        "machineCount": 1,
+        "id": "2684",
+        "province": "广西",
+        "arcadeName": "永利电玩河池宜州店",
+        "mall": "永利电玩河池宜州店",
+        "address": "广西壮族自治区河池市宜州城中中路地下商业街"
+    },
+    "2685": {
+        "machineCount": 1,
+        "id": "2685",
+        "province": "广西",
+        "arcadeName": "小号玩家靖西盛辉百货店",
+        "mall": "小号玩家靖西盛辉百货店",
+        "address": "广西百色靖西市盛辉百货1楼小号玩家"
+    },
+    "2686": {
+        "machineCount": 1,
+        "id": "2686",
+        "province": "湖南",
+        "arcadeName": "奇迹未来城醴陵星悦茂店",
+        "mall": "奇迹未来城醴陵星悦茂店",
+        "address": "湖南省醴陵市青云路星悦茂D区"
+    },
+    "2687": {
+        "machineCount": 1,
+        "id": "2687",
+        "province": "广西",
+        "arcadeName": "快乐星球南宁兴宁百佳汇店",
+        "mall": "快乐星球南宁兴宁百佳汇店",
+        "address": "广西省南宁市兴宁区新华街百佳汇商场"
+    },
+    "2688": {
+        "machineCount": 2,
+        "id": "2688",
+        "province": "广东",
+        "arcadeName": "SUPER101茂名茂南万达店",
+        "mall": "SUPER101茂名茂南万达店",
+        "address": "广东省茂名市茂南区羊角镇茂南万达三楼super101电玩城"
     }
 }
