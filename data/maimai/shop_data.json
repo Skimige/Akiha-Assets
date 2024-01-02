@@ -199,6 +199,14 @@
         "mall": "大玩家青岛城阳万达店",
         "address": "青岛市城阳区向阳中路万达广场二楼大玩家"
     },
+    "1035": {
+        "machineCount": 1,
+        "id": "1035",
+        "province": "江苏",
+        "arcadeName": "常州天空之城",
+        "mall": "常州天空之城",
+        "address": "江苏省常州市钟楼区延陵西路123号吾悦国际广场3楼天空之城"
+    },
     "1040": {
         "machineCount": 1,
         "id": "1040",
@@ -6957,7 +6965,7 @@
         "province": "广西",
         "arcadeName": "SUPER101潮漫北流店",
         "mall": "SUPER101潮漫北流店",
-        "address": "广西壮族自治区北流市北流万达3F-B ，SUPER101"
+        "address": "广西壮族自治区玉林市北流市北流万达3F-B ，SUPER101"
     },
     "2122": {
         "machineCount": 3,
