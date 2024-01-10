@@ -431,6 +431,14 @@
         "mall": "极客森深圳龙岗丹竹头店",
         "address": "深圳市龙岗区丹竹头时光里购物中心3座3楼极客森电玩城"
     },
+    "1104": {
+        "machineCount": 1,
+        "id": "1104",
+        "province": "山东",
+        "arcadeName": "星际传奇日照店",
+        "mall": "星际传奇重庆店",
+        "address": "山东省日照市烟台路176号华润万象汇三楼"
+    },
     "1106": {
         "machineCount": 1,
         "id": "1106",
@@ -2736,7 +2744,7 @@
         "address": "天津市滨海新区新城西路k11商场2楼"
     },
     "1510": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1510",
         "province": "山东",
         "arcadeName": "星际传奇济南融创茂店",
@@ -11118,5 +11126,13 @@
         "arcadeName": "天空之城嘉兴海盐吾悦广场店",
         "mall": "天空之城嘉兴海盐吾悦广场店",
         "address": "浙江省嘉兴市海盐县吾悦广场二楼天空之城"
+    },
+    "2721": {
+        "machineCount": 1,
+        "id": "2721",
+        "province": "浙江",
+        "arcadeName": "luckystar宁波鄞州龙湖天街店",
+        "mall": "luckystar宁波鄞州龙湖天街店",
+        "address": "浙江省宁波市鄞州区龙湖天街3楼"
     }
 }
