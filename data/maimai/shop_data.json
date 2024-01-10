@@ -11134,5 +11134,13 @@
         "arcadeName": "luckystar宁波鄞州龙湖天街店",
         "mall": "luckystar宁波鄞州龙湖天街店",
         "address": "浙江省宁波市鄞州区龙湖天街3楼"
+    },
+    "2722": {
+        "machineCount": 1,
+        "id": "2722",
+        "province": "广东",
+        "arcadeName": "天堡欢乐城阳江江城店",
+        "mall": "天堡欢乐城阳江江城店",
+        "address": "广东省阳江市江城区东风一路42号"
     }
 }
