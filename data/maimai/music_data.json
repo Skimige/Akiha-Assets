@@ -39073,6 +39073,80 @@
             "is_new": true
         }
     },
+    "10235": {
+        "id": "10235",
+        "title": "火炎地獄",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            12.5,
+            14.1
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            7769,
+            7770,
+            7771,
+            7772
+        ],
+        "charts": [
+            {
+                "notes": [
+                    107,
+                    7,
+                    13,
+                    10,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    193,
+                    16,
+                    13,
+                    12,
+                    18
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    389,
+                    63,
+                    42,
+                    22,
+                    27
+                ],
+                "charter": "小鳥遊さん"
+            },
+            {
+                "notes": [
+                    356,
+                    17,
+                    72,
+                    309,
+                    70
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "火炎地獄",
+            "artist": "山根ミチル",
+            "genre": "maimai",
+            "bpm": 216,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "10256": {
         "id": "10256",
         "title": "いーあるふぁんくらぶ",
@@ -68106,6 +68180,376 @@
             "is_new": true
         }
     },
+    "11458": {
+        "id": "11458",
+        "title": "Rising on the horizon",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            12.7,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7773,
+            7774,
+            7775,
+            7776
+        ],
+        "charts": [
+            {
+                "notes": [
+                    174,
+                    7,
+                    10,
+                    25,
+                    15
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    20,
+                    6,
+                    27,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    467,
+                    52,
+                    50,
+                    66,
+                    21
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    719,
+                    39,
+                    43,
+                    63,
+                    82
+                ],
+                "charter": "小鳥遊さん"
+            }
+        ],
+        "basic_info": {
+            "title": "Rising on the horizon",
+            "artist": "TAG",
+            "genre": "maimai",
+            "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11459": {
+        "id": "11459",
+        "title": "You Mean the World to Me",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.2,
+            11.5,
+            13.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            7777,
+            7778,
+            7779,
+            7780
+        ],
+        "charts": [
+            {
+                "notes": [
+                    117,
+                    12,
+                    6,
+                    21,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    268,
+                    24,
+                    14,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    292,
+                    69,
+                    57,
+                    69,
+                    36
+                ],
+                "charter": "みそかつ侍"
+            },
+            {
+                "notes": [
+                    491,
+                    64,
+                    61,
+                    58,
+                    10
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "You Mean the World to Me",
+            "artist": "Mameyudoufu feat. Shully",
+            "genre": "maimai",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11460": {
+        "id": "11460",
+        "title": "Neon Kingdom",
+        "type": "DX",
+        "ds": [
+            4.0,
+            6.8,
+            10.9,
+            13.8
+        ],
+        "level": [
+            "4",
+            "6+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            7781,
+            7782,
+            7783,
+            7784
+        ],
+        "charts": [
+            {
+                "notes": [
+                    146,
+                    11,
+                    4,
+                    14,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    254,
+                    11,
+                    12,
+                    26,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    326,
+                    85,
+                    54,
+                    23,
+                    12
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    468,
+                    146,
+                    41,
+                    19,
+                    43
+                ],
+                "charter": "小鳥遊さん"
+            }
+        ],
+        "basic_info": {
+            "title": "Neon Kingdom",
+            "artist": "litmus*",
+            "genre": "maimai",
+            "bpm": 130,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11461": {
+        "id": "11461",
+        "title": "#狂った民族２ PRAVARGYAZOOQA",
+        "type": "DX",
+        "ds": [
+            6.0,
+            7.8,
+            12.7,
+            14.4
+        ],
+        "level": [
+            "6",
+            "7+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7785,
+            7786,
+            7787,
+            7788
+        ],
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    10,
+                    10,
+                    8,
+                    44
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    291,
+                    22,
+                    10,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    166,
+                    46,
+                    12,
+                    28,
+                    250
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    750,
+                    40,
+                    98,
+                    22,
+                    53
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "#狂った民族２ PRAVARGYAZOOQA",
+            "artist": "DJ Raisei",
+            "genre": "maimai",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11462": {
+        "id": "11462",
+        "title": "VSpook!",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.0,
+            12.9,
+            14.4
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7789,
+            7790,
+            7791,
+            7792
+        ],
+        "charts": [
+            {
+                "notes": [
+                    214,
+                    10,
+                    5,
+                    8,
+                    19
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    336,
+                    18,
+                    3,
+                    19,
+                    26
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    530,
+                    118,
+                    83,
+                    62,
+                    11
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    730,
+                    47,
+                    120,
+                    42,
+                    156
+                ],
+                "charter": "Redarrow VS 翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "VSpook!",
+            "artist": "s-don",
+            "genre": "maimai",
+            "bpm": 155,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11471": {
         "id": "11471",
         "title": "蜘蛛の糸",
@@ -68175,6 +68619,302 @@
             "artist": "きくお×cosMo＠暴走P feat.影縫英",
             "genre": "オンゲキCHUNITHM",
             "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11472": {
+        "id": "11472",
+        "title": "Don't Fight The Music",
+        "type": "DX",
+        "ds": [
+            5.0,
+            9.0,
+            12.8,
+            14.2
+        ],
+        "level": [
+            "5",
+            "9",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7793,
+            7794,
+            7795,
+            7796
+        ],
+        "charts": [
+            {
+                "notes": [
+                    183,
+                    24,
+                    10,
+                    4,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    305,
+                    42,
+                    18,
+                    29,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    545,
+                    112,
+                    58,
+                    19,
+                    17
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    690,
+                    41,
+                    73,
+                    137,
+                    148
+                ],
+                "charter": "翠楼屋 vs あまくちジンジャー"
+            }
+        ],
+        "basic_info": {
+            "title": "Don't Fight The Music",
+            "artist": "黒魔",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 195,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11473": {
+        "id": "11473",
+        "title": "Catch Me If You Can",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.0,
+            10.8,
+            13.2
+        ],
+        "level": [
+            "5",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            7797,
+            7798,
+            7799,
+            7800
+        ],
+        "charts": [
+            {
+                "notes": [
+                    225,
+                    16,
+                    2,
+                    17,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    240,
+                    19,
+                    6,
+                    55,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    83,
+                    53,
+                    17,
+                    20
+                ],
+                "charter": "小鳥遊さん"
+            },
+            {
+                "notes": [
+                    476,
+                    101,
+                    72,
+                    151,
+                    40
+                ],
+                "charter": "ものくろっく"
+            }
+        ],
+        "basic_info": {
+            "title": "Catch Me If You Can",
+            "artist": "曲：TAKU INOUE／歌：早乙女 彩華(CV：中島 唯)",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 130,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11474": {
+        "id": "11474",
+        "title": "MAGNETAR GIRL",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            10.7,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            7801,
+            7802,
+            7803,
+            7804
+        ],
+        "charts": [
+            {
+                "notes": [
+                    160,
+                    16,
+                    5,
+                    17,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    320,
+                    23,
+                    9,
+                    39,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    350,
+                    49,
+                    51,
+                    31,
+                    37
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    626,
+                    73,
+                    71,
+                    128,
+                    33
+                ],
+                "charter": "たかなっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "MAGNETAR GIRL",
+            "artist": "Yu-dachi",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11475": {
+        "id": "11475",
+        "title": "SUPER AMBULANCE",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.7,
+            12.0,
+            14.3
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            7805,
+            7806,
+            7807,
+            7808
+        ],
+        "charts": [
+            {
+                "notes": [
+                    199,
+                    13,
+                    8,
+                    16,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    25,
+                    12,
+                    21,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    450,
+                    66,
+                    57,
+                    64,
+                    11
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    626,
+                    73,
+                    112,
+                    94,
+                    125
+                ],
+                "charter": "翠楼屋 vs あまくちジンジャー"
+            }
+        ],
+        "basic_info": {
+            "title": "SUPER AMBULANCE",
+            "artist": "AJURIKA",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 200,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": true
@@ -68880,6 +69620,524 @@
             "artist": "立秋 feat.ちょこ",
             "genre": "ゲームバラエティ",
             "bpm": 186,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11490": {
+        "id": "11490",
+        "title": "Random",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            11.2,
+            13.5
+        ],
+        "level": [
+            "3",
+            "7",
+            "11",
+            "13"
+        ],
+        "cids": [
+            7809,
+            7810,
+            7811,
+            7812
+        ],
+        "charts": [
+            {
+                "notes": [
+                    131,
+                    17,
+                    12,
+                    5,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    218,
+                    13,
+                    7,
+                    16,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    302,
+                    98,
+                    29,
+                    30,
+                    19
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    417,
+                    119,
+                    57,
+                    147,
+                    46
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "Random",
+            "artist": "Sobrem × Silentroom",
+            "genre": "ゲームバラエティ",
+            "bpm": 132,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11491": {
+        "id": "11491",
+        "title": "Luminaria",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            12.2,
+            13.9
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            7813,
+            7814,
+            7815,
+            7816
+        ],
+        "charts": [
+            {
+                "notes": [
+                    143,
+                    6,
+                    8,
+                    42,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    18,
+                    4,
+                    42,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    481,
+                    55,
+                    17,
+                    63,
+                    75
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    640,
+                    46,
+                    83,
+                    18,
+                    45
+                ],
+                "charter": "小鳥遊さん"
+            }
+        ],
+        "basic_info": {
+            "title": "Luminaria",
+            "artist": "Lime",
+            "genre": "ゲームバラエティ",
+            "bpm": 227,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11495": {
+        "id": "11495",
+        "title": "銀のめぐり",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.0,
+            12.9
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            7817,
+            7818,
+            7819,
+            7820
+        ],
+        "charts": [
+            {
+                "notes": [
+                    115,
+                    10,
+                    6,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    256,
+                    16,
+                    16,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    344,
+                    57,
+                    30,
+                    7,
+                    37
+                ],
+                "charter": "うさぎランドリー"
+            },
+            {
+                "notes": [
+                    427,
+                    37,
+                    96,
+                    51,
+                    42
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "銀のめぐり",
+            "artist": "SYNC.ART'S feat. 3L",
+            "genre": "東方Project",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11496": {
+        "id": "11496",
+        "title": "Destiny Runner",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            11.2,
+            13.9
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            7821,
+            7822,
+            7823,
+            7824
+        ],
+        "charts": [
+            {
+                "notes": [
+                    184,
+                    2,
+                    7,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    337,
+                    23,
+                    8,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    548,
+                    51,
+                    17,
+                    25,
+                    26
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    762,
+                    61,
+                    74,
+                    36,
+                    52
+                ],
+                "charter": "小鳥遊さん"
+            }
+        ],
+        "basic_info": {
+            "title": "Destiny Runner",
+            "artist": "さわわ",
+            "genre": "東方Project",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11497": {
+        "id": "11497",
+        "title": "アマカミサマ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.8,
+            9.5,
+            12.7
+        ],
+        "level": [
+            "3",
+            "6+",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            7825,
+            7826,
+            7827,
+            7828
+        ],
+        "charts": [
+            {
+                "notes": [
+                    118,
+                    11,
+                    3,
+                    8,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    252,
+                    31,
+                    11,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    42,
+                    26,
+                    6,
+                    10
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    390,
+                    70,
+                    79,
+                    145,
+                    17
+                ],
+                "charter": "アマリリスせんせえ"
+            }
+        ],
+        "basic_info": {
+            "title": "アマカミサマ",
+            "artist": "名取さな",
+            "genre": "POPSアニメ",
+            "bpm": 174,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11498": {
+        "id": "11498",
+        "title": "モンダイナイトリッパー！",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.0,
+            10.7,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            7829,
+            7830,
+            7831,
+            7832
+        ],
+        "charts": [
+            {
+                "notes": [
+                    154,
+                    18,
+                    6,
+                    5,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    18,
+                    9,
+                    19,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    408,
+                    66,
+                    15,
+                    15,
+                    27
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    536,
+                    54,
+                    72,
+                    121,
+                    56
+                ],
+                "charter": "アマリリスせんせえ with ぴちネコせんせえ"
+            }
+        ],
+        "basic_info": {
+            "title": "モンダイナイトリッパー！",
+            "artist": "名取さな",
+            "genre": "POPSアニメ",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11523": {
+        "id": "11523",
+        "title": "ViRTUS",
+        "type": "DX",
+        "ds": [
+            6.0,
+            9.0,
+            13.2,
+            14.7
+        ],
+        "level": [
+            "6",
+            "9",
+            "13",
+            "14+"
+        ],
+        "cids": [
+            7833,
+            7834,
+            7835,
+            7836
+        ],
+        "charts": [
+            {
+                "notes": [
+                    229,
+                    10,
+                    12,
+                    14,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    347,
+                    24,
+                    15,
+                    24,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    489,
+                    89,
+                    38,
+                    63,
+                    34
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    774,
+                    41,
+                    161,
+                    49,
+                    38
+                ],
+                "charter": "jacK on Phoenix & -ZONE- SaFaRi"
+            }
+        ],
+        "basic_info": {
+            "title": "ViRTUS",
+            "artist": "Hiro",
+            "genre": "maimai",
+            "bpm": 225,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": true
