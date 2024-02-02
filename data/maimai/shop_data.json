@@ -11611,8 +11611,16 @@
         "machineCount": 1,
         "id": "2787",
         "province": "河南",
-        "arcadeName": "爱玩星球郑州郑东新区店",
+        "arcadeName": "爱玩星球郑州郑东新区太格茂店",
         "mall": "爱玩星球郑州郑东新区店",
         "address": "河南省郑州市郑东新区太格茂三楼"
+    },
+    "2788": {
+        "machineCount": 1,
+        "id": "2788",
+        "province": "天津",
+        "arcadeName": "皮哌格西青大悦汇店",
+        "mall": "皮哌格西青大悦汇店",
+        "address": "天津市西青区中北镇万卉路8号西青大悦汇购物中心A馆3F"
     }
 }
