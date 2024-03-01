@@ -38481,6 +38481,76 @@
             "is_new": true
         }
     },
+    "1235": {
+        "id": "1235",
+        "title": "VIIIbit Explorer",
+        "type": "SD",
+        "ds": [
+            6.0,
+            8.2,
+            12.9,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7837,
+            7838,
+            7839,
+            7840
+        ],
+        "charts": [
+            {
+                "notes": [
+                    195,
+                    16,
+                    4,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    12,
+                    11,
+                    28
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    472,
+                    67,
+                    72,
+                    45
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    831,
+                    59,
+                    122,
+                    99
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "VIIIbit Explorer",
+            "artist": "Lime",
+            "genre": "舞萌",
+            "bpm": 188,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "10070": {
         "id": "10070",
         "title": "ジングルベル",
@@ -68550,6 +68620,286 @@
             "is_new": true
         }
     },
+    "11463": {
+        "id": "11463",
+        "title": "RIFFRAIN",
+        "type": "SD",
+        "ds": [
+            3.0,
+            6.0,
+            9.7,
+            13.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            7841,
+            7842,
+            7843,
+            7844
+        ],
+        "charts": [
+            {
+                "notes": [
+                    108,
+                    13,
+                    4,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    256,
+                    10,
+                    10,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    295,
+                    45,
+                    8,
+                    14
+                ],
+                "charter": "畳返し"
+            },
+            {
+                "notes": [
+                    385,
+                    36,
+                    89,
+                    21
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "RIFFRAIN",
+            "artist": "夏代孝明",
+            "genre": "舞萌",
+            "bpm": 122,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11464": {
+        "id": "11464",
+        "title": "Falling",
+        "type": "SD",
+        "ds": [
+            4.0,
+            7.0,
+            10.2,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            7845,
+            7846,
+            7847,
+            7848
+        ],
+        "charts": [
+            {
+                "notes": [
+                    136,
+                    14,
+                    4,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    256,
+                    11,
+                    6,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    27,
+                    34,
+                    9
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    436,
+                    38,
+                    98,
+                    33
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "Falling",
+            "artist": "シノ feat.しほ",
+            "genre": "舞萌",
+            "bpm": 122,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11465": {
+        "id": "11465",
+        "title": "ピリオドサイン",
+        "type": "SD",
+        "ds": [
+            4.0,
+            7.8,
+            10.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            7849,
+            7850,
+            7851,
+            7852
+        ],
+        "charts": [
+            {
+                "notes": [
+                    109,
+                    15,
+                    4,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    252,
+                    29,
+                    20,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    355,
+                    59,
+                    41,
+                    21
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    546,
+                    52,
+                    70,
+                    31
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ピリオドサイン",
+            "artist": "Ponchi♪ feat.はぁち",
+            "genre": "舞萌",
+            "bpm": 195,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11466": {
+        "id": "11466",
+        "title": "群青シグナル",
+        "type": "SD",
+        "ds": [
+            5.0,
+            8.2,
+            11.7,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            7853,
+            7854,
+            7855,
+            7856
+        ],
+        "charts": [
+            {
+                "notes": [
+                    188,
+                    21,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    369,
+                    18,
+                    10,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    491,
+                    70,
+                    48,
+                    39
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    719,
+                    62,
+                    114,
+                    32
+                ],
+                "charter": "ものくろっく"
+            }
+        ],
+        "basic_info": {
+            "title": "群青シグナル",
+            "artist": "テヅカ feat. 獅子神レオナ",
+            "genre": "舞萌",
+            "bpm": 206,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11471": {
         "id": "11471",
         "title": "蜘蛛の糸",
@@ -68915,6 +69265,216 @@
             "artist": "AJURIKA",
             "genre": "オンゲキCHUNITHM",
             "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11477": {
+        "id": "11477",
+        "title": "Ghost Dance",
+        "type": "SD",
+        "ds": [
+            4.0,
+            7.7,
+            10.0,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10",
+            "13"
+        ],
+        "cids": [
+            7857,
+            7858,
+            7859,
+            7860
+        ],
+        "charts": [
+            {
+                "notes": [
+                    134,
+                    12,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    308,
+                    11,
+                    6,
+                    32
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    347,
+                    55,
+                    74,
+                    20
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    664,
+                    71,
+                    90,
+                    16
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Ghost Dance",
+            "artist": "亜沙 feat.くろくも",
+            "genre": "音击&中二节奏",
+            "bpm": 154,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11478": {
+        "id": "11478",
+        "title": "電光石火",
+        "type": "SD",
+        "ds": [
+            5.0,
+            8.0,
+            12.8,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7861,
+            7862,
+            7863,
+            7864
+        ],
+        "charts": [
+            {
+                "notes": [
+                    160,
+                    12,
+                    6,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    350,
+                    27,
+                    4,
+                    17
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    540,
+                    54,
+                    44,
+                    24
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    809,
+                    72,
+                    99,
+                    50
+                ],
+                "charter": "あまくちヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "電光石火",
+            "artist": "HiTECH NINJA",
+            "genre": "音击&中二节奏",
+            "bpm": 165,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11479": {
+        "id": "11479",
+        "title": "Hainuwele",
+        "type": "SD",
+        "ds": [
+            5.0,
+            8.0,
+            12.9,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7865,
+            7866,
+            7867,
+            7868
+        ],
+        "charts": [
+            {
+                "notes": [
+                    201,
+                    13,
+                    4,
+                    15
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    348,
+                    28,
+                    12,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    503,
+                    82,
+                    44,
+                    13
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    809,
+                    58,
+                    70,
+                    77
+                ],
+                "charter": "サファ太 vs 翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Hainuwele",
+            "artist": "ETIA.",
+            "genre": "音击&中二节奏",
+            "bpm": 175,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": true
@@ -70069,6 +70629,566 @@
             "is_new": true
         }
     },
+    "11499": {
+        "id": "11499",
+        "title": "マーシャル・マキシマイザー",
+        "type": "SD",
+        "ds": [
+            4.0,
+            7.2,
+            9.8,
+            13.1
+        ],
+        "level": [
+            "4",
+            "7",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            7869,
+            7870,
+            7871,
+            7872
+        ],
+        "charts": [
+            {
+                "notes": [
+                    150,
+                    15,
+                    7,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    300,
+                    22,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    416,
+                    76,
+                    24,
+                    28
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    580,
+                    62,
+                    139,
+                    32
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "マーシャル・マキシマイザー",
+            "artist": "柊マグネタイト　feat.音楽的同位体　可不（KAFU）",
+            "genre": "niconico & VOCALOID",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11500": {
+        "id": "11500",
+        "title": "秋の未確認生物",
+        "type": "SD",
+        "ds": [
+            4.0,
+            7.2,
+            10.5,
+            12.9
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            7873,
+            7874,
+            7875,
+            7876
+        ],
+        "charts": [
+            {
+                "notes": [
+                    170,
+                    15,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    275,
+                    18,
+                    12,
+                    30
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    457,
+                    51,
+                    45,
+                    21
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    638,
+                    23,
+                    101,
+                    103
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "秋の未確認生物",
+            "artist": "子牛",
+            "genre": "niconico & VOCALOID",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11502": {
+        "id": "11502",
+        "title": "エナドリおいしいソング",
+        "type": "SD",
+        "ds": [
+            5.0,
+            8.7,
+            12.8,
+            14.0
+        ],
+        "level": [
+            "5",
+            "8+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7877,
+            7878,
+            7879,
+            7880
+        ],
+        "charts": [
+            {
+                "notes": [
+                    137,
+                    15,
+                    4,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    280,
+                    19,
+                    6,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    372,
+                    60,
+                    33,
+                    39
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    510,
+                    23,
+                    90,
+                    46
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "エナドリおいしいソング",
+            "artist": "冥堂院・アレクサンドル・ヴィクトリア・リヒテンシュタイン・聖斗 feat.TINOP",
+            "genre": "其他游戏",
+            "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11503": {
+        "id": "11503",
+        "title": "Baddest",
+        "type": "SD",
+        "ds": [
+            5.0,
+            7.5,
+            10.7,
+            13.8
+        ],
+        "level": [
+            "5",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            7881,
+            7882,
+            7883,
+            7884
+        ],
+        "charts": [
+            {
+                "notes": [
+                    197,
+                    13,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    295,
+                    24,
+                    12,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    356,
+                    65,
+                    39,
+                    63
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    738,
+                    57,
+                    134,
+                    66
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Baddest",
+            "artist": "樋口楓",
+            "genre": "流行&动漫",
+            "bpm": 215,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11504": {
+        "id": "11504",
+        "title": "ばかみたい【Taxi Driver Edition】",
+        "type": "SD",
+        "ds": [
+            2.0,
+            6.5,
+            12.0,
+            13.4
+        ],
+        "level": [
+            "2",
+            "6",
+            "12",
+            "13"
+        ],
+        "cids": [
+            7885,
+            7886,
+            7887,
+            7888
+        ],
+        "charts": [
+            {
+                "notes": [
+                    64,
+                    9,
+                    4,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    173,
+                    17,
+                    9,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    153,
+                    29,
+                    15,
+                    5
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    172,
+                    33,
+                    37,
+                    35
+                ],
+                "charter": "Redarrow"
+            }
+        ],
+        "basic_info": {
+            "title": "ばかみたい【Taxi Driver Edition】",
+            "artist": "桐生一馬(黒田崇矢)",
+            "genre": "其他游戏",
+            "bpm": 74,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11505": {
+        "id": "11505",
+        "title": "れっつ！みらくる☆はーどこあっ！",
+        "type": "SD",
+        "ds": [
+            5.0,
+            8.2,
+            11.8,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            7889,
+            7890,
+            7891,
+            7892
+        ],
+        "charts": [
+            {
+                "notes": [
+                    161,
+                    21,
+                    9,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    322,
+                    45,
+                    5,
+                    21
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    347,
+                    68,
+                    45,
+                    119
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    613,
+                    92,
+                    126,
+                    110
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "れっつ！みらくる☆はーどこあっ！",
+            "artist": "Laur feat.みしゃも",
+            "genre": "其他游戏",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11508": {
+        "id": "11508",
+        "title": "アイム・マイヒーロー",
+        "type": "SD",
+        "ds": [
+            2.0,
+            6.2,
+            9.0,
+            13.2
+        ],
+        "level": [
+            "2",
+            "6",
+            "9",
+            "13"
+        ],
+        "cids": [
+            7893,
+            7894,
+            7895,
+            7896
+        ],
+        "charts": [
+            {
+                "notes": [
+                    85,
+                    8,
+                    3,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    231,
+                    15,
+                    8,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    39,
+                    34,
+                    20
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    632,
+                    29,
+                    58,
+                    13
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "アイム・マイヒーロー",
+            "artist": "Ino(chronoize) feat. 柳瀬マサキ",
+            "genre": "其他游戏",
+            "bpm": 138,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11509": {
+        "id": "11509",
+        "title": "NightTheater",
+        "type": "SD",
+        "ds": [
+            3.0,
+            7.8,
+            11.8,
+            13.9
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            7897,
+            7898,
+            7899,
+            7900
+        ],
+        "charts": [
+            {
+                "notes": [
+                    108,
+                    10,
+                    4,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    26,
+                    8,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    402,
+                    41,
+                    42,
+                    45
+                ],
+                "charter": "みそかつ侍"
+            },
+            {
+                "notes": [
+                    570,
+                    43,
+                    54,
+                    61
+                ],
+                "charter": "はぴネコ(はっぴー&ぴちネコ)"
+            }
+        ],
+        "basic_info": {
+            "title": "NightTheater",
+            "artist": "わかどり",
+            "genre": "其他游戏",
+            "bpm": 151,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11523": {
         "id": "11523",
         "title": "ViRTUS",
@@ -70138,6 +71258,76 @@
             "artist": "Hiro",
             "genre": "maimai",
             "bpm": 225,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11525": {
+        "id": "11525",
+        "title": "ピュグマリオンの咒文",
+        "type": "SD",
+        "ds": [
+            4.0,
+            7.2,
+            10.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            7901,
+            7902,
+            7903,
+            7904
+        ],
+        "charts": [
+            {
+                "notes": [
+                    148,
+                    13,
+                    4,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    223,
+                    45,
+                    8,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    329,
+                    82,
+                    15,
+                    55
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    430,
+                    90,
+                    105,
+                    76
+                ],
+                "charter": "はぴネコ(はっぴー&ぴちネコ)"
+            }
+        ],
+        "basic_info": {
+            "title": "ピュグマリオンの咒文",
+            "artist": "アリスシャッハと魔法の楽団",
+            "genre": "音击&中二节奏",
+            "bpm": 190,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": true
