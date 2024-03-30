@@ -1806,5 +1806,13 @@
         "arcadeName": "天空之城义乌稠城店",
         "mall": "天空之城义乌稠城店",
         "address": "浙江省义乌市稠城街道义乌之心六楼"
+    },
+    "2813": {
+        "machineCount": 2,
+        "id": "2813",
+        "province": "重庆",
+        "arcadeName": "V-play潮玩重庆时代天街店",
+        "mall": "V-play潮玩重庆时代天街店",
+        "address": "重庆市渝中区石油路时代天街C馆四楼潮玩运动街区"
     }
 }

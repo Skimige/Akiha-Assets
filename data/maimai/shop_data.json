@@ -11782,5 +11782,13 @@
         "arcadeName": "淘淘兔武穴恒泰城店",
         "mall": "淘淘兔武穴恒泰城店",
         "address": "湖北省武穴恒泰城四楼"
+    },
+    "2813": {
+        "machineCount": 1,
+        "id": "2813",
+        "province": "重庆",
+        "arcadeName": "V-play潮玩重庆时代天街店",
+        "mall": "V-play潮玩重庆时代天街店",
+        "address": "重庆市渝中区石油路时代天街C馆四楼潮玩运动街区"
     }
 }
