@@ -11814,5 +11814,13 @@
         "arcadeName": "星奇多蚌埠万达店",
         "mall": "星奇多蚌埠万达店",
         "address": "安徽省蚌埠市淮上万达三楼星奇多"
+    },
+    "2818": {
+        "machineCount": 1,
+        "id": "2818",
+        "province": "湖北",
+        "arcadeName": "SEERCITY武汉蔡甸万达店",
+        "mall": "SEERCITY武汉蔡甸万达店",
+        "address": "湖北省武汉市蔡甸区经开万达广场三楼"
     }
 }
