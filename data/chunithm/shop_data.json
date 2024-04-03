@@ -1814,5 +1814,13 @@
         "arcadeName": "酷玩空间佛山顺德印象城店",
         "mall": "酷玩空间佛山顺德印象城店",
         "address": "广东省佛山市顺德区东乐路268号印象城购物中心3楼"
+    },
+    "2816": {
+        "machineCount": 2,
+        "id": "2816",
+        "province": "河北",
+        "arcadeName": "GOOGOOILSAND河北保定店",
+        "mall": "酷玩空间佛山顺德店",
+        "address": "河北省保定市涿州市君悦广场3层西侧"
     }
 }
