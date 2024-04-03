@@ -7927,6 +7927,14 @@
         "mall": "super101临沂兰陵店",
         "address": "山东省临沂市兰陵县开元广场4楼super101"
     },
+    "2254": {
+        "machineCount": 1,
+        "id": "2254",
+        "province": "河南",
+        "arcadeName": "阳光狮乐园固始丽宝广场店",
+        "mall": "阳光狮乐园固始丽宝广场店",
+        "address": "河南省信阳市固始县蓼北路与民主路交叉口"
+    },
     "2255": {
         "machineCount": 1,
         "id": "2255",
@@ -11830,5 +11838,13 @@
         "arcadeName": "SEERCITY武汉蔡甸万达店",
         "mall": "SEERCITY武汉蔡甸万达店",
         "address": "湖北省武汉市蔡甸区经开万达广场三楼"
+    },
+    "2819": {
+        "machineCount": 1,
+        "id": "2819",
+        "province": "吉林",
+        "arcadeName": "澳海华星动漫城吉林长春店",
+        "mall": "澳海华星动漫城吉林长春店",
+        "address": "吉林省长春市朝阳区前进大街力旺广场二楼"
     }
 }
