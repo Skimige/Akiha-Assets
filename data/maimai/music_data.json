@@ -39439,6 +39439,80 @@
             "is_new": false
         }
     },
+    "10302": {
+        "id": "10302",
+        "title": "ケロ⑨destiny",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.2,
+            13.4
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            7905,
+            7906,
+            7907,
+            7908
+        ],
+        "charts": [
+            {
+                "notes": [
+                    151,
+                    8,
+                    5,
+                    9,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    184,
+                    35,
+                    13,
+                    16,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    252,
+                    97,
+                    22,
+                    15,
+                    44
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    431,
+                    58,
+                    78,
+                    54,
+                    70
+                ],
+                "charter": "Redarrow"
+            }
+        ],
+        "basic_info": {
+            "title": "ケロ⑨destiny",
+            "artist": "Silver Forest",
+            "genre": "东方Project",
+            "bpm": 172,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "10316": {
         "id": "10316",
         "title": "M.S.S.Planet",
@@ -40177,6 +40251,80 @@
             "release_date": "",
             "from": "maimai でらっくす UNiVERSE",
             "is_new": false
+        }
+    },
+    "10625": {
+        "id": "10625",
+        "title": "Maxi",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            11.9,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            7909,
+            7910,
+            7911,
+            7912
+        ],
+        "charts": [
+            {
+                "notes": [
+                    160,
+                    12,
+                    8,
+                    14,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    311,
+                    11,
+                    3,
+                    25,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    397,
+                    57,
+                    29,
+                    32,
+                    29
+                ],
+                "charter": "小鳥遊さん"
+            },
+            {
+                "notes": [
+                    521,
+                    46,
+                    77,
+                    145,
+                    118
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Maxi",
+            "artist": "Nizikawa",
+            "genre": "其他游戏",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
         }
     },
     "10641": {
@@ -68916,6 +69064,302 @@
             "is_new": true
         }
     },
+    "11467": {
+        "id": "11467",
+        "title": "Beat Opera op.1",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.7,
+            10.8,
+            13.9
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            7913,
+            7914,
+            7915,
+            7916
+        ],
+        "charts": [
+            {
+                "notes": [
+                    123,
+                    11,
+                    5,
+                    10,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    228,
+                    30,
+                    10,
+                    32,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    309,
+                    97,
+                    53,
+                    35,
+                    6
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    535,
+                    87,
+                    75,
+                    47,
+                    19
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Beat Opera op.1",
+            "artist": "bermei.inazawa",
+            "genre": "舞萌",
+            "bpm": 145,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11468": {
+        "id": "11468",
+        "title": "星見草",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.0,
+            11.0,
+            13.8
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            7917,
+            7918,
+            7919,
+            7920
+        ],
+        "charts": [
+            {
+                "notes": [
+                    134,
+                    13,
+                    9,
+                    25,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    277,
+                    31,
+                    6,
+                    30,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    385,
+                    45,
+                    40,
+                    22,
+                    28
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    638,
+                    43,
+                    104,
+                    0,
+                    32
+                ],
+                "charter": "Redarrow"
+            }
+        ],
+        "basic_info": {
+            "title": "星見草",
+            "artist": "秋田 真典",
+            "genre": "舞萌",
+            "bpm": 164,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11469": {
+        "id": "11469",
+        "title": "\"411Ψ892\"",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.7,
+            12.7,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7921,
+            7922,
+            7923,
+            7924
+        ],
+        "charts": [
+            {
+                "notes": [
+                    179,
+                    15,
+                    4,
+                    21,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    298,
+                    31,
+                    12,
+                    31,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    416,
+                    53,
+                    52,
+                    25,
+                    85
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    664,
+                    53,
+                    86,
+                    39,
+                    103
+                ],
+                "charter": "サファ太 vs じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "\"411Ψ892\"",
+            "artist": "Tanchiky",
+            "genre": "舞萌",
+            "bpm": 184,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11470": {
+        "id": "11470",
+        "title": "康莊大道",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.7,
+            13.2,
+            14.7
+        ],
+        "level": [
+            "6",
+            "8+",
+            "13",
+            "14+"
+        ],
+        "cids": [
+            7925,
+            7926,
+            7927,
+            7928
+        ],
+        "charts": [
+            {
+                "notes": [
+                    223,
+                    9,
+                    9,
+                    17,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    338,
+                    20,
+                    30,
+                    17,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    513,
+                    88,
+                    54,
+                    55,
+                    25
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    782,
+                    46,
+                    47,
+                    140,
+                    114
+                ],
+                "charter": "ボコ太"
+            }
+        ],
+        "basic_info": {
+            "title": "康莊大道",
+            "artist": "Spiegel vs Yukino",
+            "genre": "舞萌",
+            "bpm": 208,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11471": {
         "id": "11471",
         "title": "蜘蛛の糸",
@@ -71101,6 +71545,154 @@
             "is_new": true
         }
     },
+    "11506": {
+        "id": "11506",
+        "title": "Blank Paper (Prod. TEMPLIME)",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            8.7,
+            12.9
+        ],
+        "level": [
+            "2",
+            "6",
+            "8+",
+            "12+"
+        ],
+        "cids": [
+            7929,
+            7930,
+            7931,
+            7932
+        ],
+        "charts": [
+            {
+                "notes": [
+                    87,
+                    10,
+                    8,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    220,
+                    12,
+                    10,
+                    25,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    58,
+                    30,
+                    17,
+                    18
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    630,
+                    33,
+                    98,
+                    4,
+                    36
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Blank Paper (Prod. TEMPLIME)",
+            "artist": "日高零奈・東雲和音・茅野ふたば「電音部」",
+            "genre": "流行&动漫",
+            "bpm": 133,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11507": {
+        "id": "11507",
+        "title": "In my world (Prod. KOTONOHOUSE)",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.0,
+            13.3
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            7933,
+            7934,
+            7935,
+            7936
+        ],
+        "charts": [
+            {
+                "notes": [
+                    99,
+                    11,
+                    4,
+                    19,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    235,
+                    20,
+                    18,
+                    28,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    310,
+                    52,
+                    38,
+                    5,
+                    24
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    530,
+                    37,
+                    110,
+                    52,
+                    14
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "In my world (Prod. KOTONOHOUSE)",
+            "artist": "鳳凰火凛・瀬戸海月・大賀ルキア「電音部」",
+            "genre": "流行&动漫",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11508": {
         "id": "11508",
         "title": "アイム・マイヒーロー",
@@ -71249,6 +71841,820 @@
             "is_new": true
         }
     },
+    "11510": {
+        "id": "11510",
+        "title": "キュートなカノジョ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.8,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            7937,
+            7938,
+            7939,
+            7940
+        ],
+        "charts": [
+            {
+                "notes": [
+                    107,
+                    13,
+                    6,
+                    17,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    212,
+                    21,
+                    10,
+                    25,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    341,
+                    34,
+                    27,
+                    26,
+                    18
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    468,
+                    47,
+                    106,
+                    11,
+                    48
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "キュートなカノジョ",
+            "artist": "syudou　feat.音楽的同位体　可不（KAFU）",
+            "genre": "niconico & VOCALOID",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11511": {
+        "id": "11511",
+        "title": "へべれけジャンキー",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.2,
+            9.7,
+            13.2
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            7941,
+            7942,
+            7943,
+            7944
+        ],
+        "charts": [
+            {
+                "notes": [
+                    107,
+                    5,
+                    4,
+                    6,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    212,
+                    15,
+                    4,
+                    15,
+                    22
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    310,
+                    50,
+                    12,
+                    33,
+                    16
+                ],
+                "charter": "畳返し"
+            },
+            {
+                "notes": [
+                    515,
+                    64,
+                    45,
+                    71,
+                    40
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "へべれけジャンキー",
+            "artist": "syudou",
+            "genre": "niconico & VOCALOID",
+            "bpm": 104,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11512": {
+        "id": "11512",
+        "title": "きゅうくらりん",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            11.5,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            7945,
+            7946,
+            7947,
+            7948
+        ],
+        "charts": [
+            {
+                "notes": [
+                    147,
+                    15,
+                    2,
+                    14,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    245,
+                    38,
+                    8,
+                    29,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    445,
+                    101,
+                    27,
+                    7,
+                    50
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    484,
+                    196,
+                    114,
+                    17,
+                    48
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "きゅうくらりん",
+            "artist": "いよわ",
+            "genre": "niconico & VOCALOID",
+            "bpm": 220,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11513": {
+        "id": "11513",
+        "title": "回る空うさぎ",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.2,
+            8.2,
+            12.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "8",
+            "12"
+        ],
+        "cids": [
+            7949,
+            7950,
+            7951,
+            7952
+        ],
+        "charts": [
+            {
+                "notes": [
+                    103,
+                    9,
+                    2,
+                    13,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    205,
+                    14,
+                    16,
+                    14,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    217,
+                    35,
+                    25,
+                    11,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    415,
+                    27,
+                    47,
+                    9,
+                    28
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "回る空うさぎ",
+            "artist": "Orangestar",
+            "genre": "niconico & VOCALOID",
+            "bpm": 120,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11514": {
+        "id": "11514",
+        "title": "Lost Desire",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.8,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            7953,
+            7954,
+            7955,
+            7956
+        ],
+        "charts": [
+            {
+                "notes": [
+                    140,
+                    15,
+                    11,
+                    21,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    293,
+                    21,
+                    22,
+                    22,
+                    26
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    372,
+                    69,
+                    49,
+                    7,
+                    77
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    648,
+                    75,
+                    93,
+                    8,
+                    102
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "Lost Desire",
+            "artist": "Powerless feat. Sennzai",
+            "genre": "其他游戏",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11516": {
+        "id": "11516",
+        "title": "Aegleseeker",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            12.8,
+            14.5
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            7957,
+            7958,
+            7959,
+            7960
+        ],
+        "charts": [
+            {
+                "notes": [
+                    184,
+                    19,
+                    4,
+                    31,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    312,
+                    17,
+                    18,
+                    23,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    480,
+                    88,
+                    41,
+                    35,
+                    21
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    754,
+                    87,
+                    49,
+                    114,
+                    80
+                ],
+                "charter": "サファ太 vs 翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Aegleseeker",
+            "artist": "Silentroom vs Frums",
+            "genre": "其他游戏",
+            "bpm": 234,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11517": {
+        "id": "11517",
+        "title": "最強STRONGER",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.7,
+            13.0,
+            14.6
+        ],
+        "level": [
+            "6",
+            "8+",
+            "13",
+            "14"
+        ],
+        "cids": [
+            7961,
+            7962,
+            7963,
+            7964
+        ],
+        "charts": [
+            {
+                "notes": [
+                    201,
+                    24,
+                    8,
+                    18,
+                    27
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    337,
+                    30,
+                    13,
+                    26,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    540,
+                    122,
+                    75,
+                    28,
+                    24
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    725,
+                    66,
+                    152,
+                    46,
+                    80
+                ],
+                "charter": "チャン@DP皆伝 vs シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "最強STRONGER",
+            "artist": "REDALiCE vs USAO",
+            "genre": "其他游戏",
+            "bpm": 205,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11518": {
+        "id": "11518",
+        "title": "ボッカデラベリタ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            10.0,
+            13.1
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            7965,
+            7966,
+            7967,
+            7968
+        ],
+        "charts": [
+            {
+                "notes": [
+                    134,
+                    14,
+                    6,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    24,
+                    12,
+                    23,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    354,
+                    62,
+                    35,
+                    19,
+                    69
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    597,
+                    61,
+                    93,
+                    16,
+                    29
+                ],
+                "charter": "Redarrow"
+            }
+        ],
+        "basic_info": {
+            "title": "ボッカデラベリタ",
+            "artist": "柊キライ",
+            "genre": "niconico & VOCALOID",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11519": {
+        "id": "11519",
+        "title": "『んっあっあっ。』",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.8,
+            9.5,
+            12.8
+        ],
+        "level": [
+            "2",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            7969,
+            7970,
+            7971,
+            7972
+        ],
+        "charts": [
+            {
+                "notes": [
+                    128,
+                    11,
+                    4,
+                    6,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    196,
+                    26,
+                    10,
+                    28,
+                    19
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    307,
+                    121,
+                    17,
+                    11,
+                    28
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    436,
+                    64,
+                    82,
+                    221,
+                    94
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "『んっあっあっ。』",
+            "artist": "SLAVE.V-V-R",
+            "genre": "niconico & VOCALOID",
+            "bpm": 123,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11520": {
+        "id": "11520",
+        "title": "独りんぼエンヴィー",
+        "type": "DX",
+        "ds": [
+            1.0,
+            6.5,
+            8.5,
+            12.7
+        ],
+        "level": [
+            "1",
+            "6",
+            "8",
+            "12+"
+        ],
+        "cids": [
+            7973,
+            7974,
+            7975,
+            7976
+        ],
+        "charts": [
+            {
+                "notes": [
+                    80,
+                    10,
+                    5,
+                    20,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    232,
+                    22,
+                    6,
+                    29,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    257,
+                    76,
+                    24,
+                    14,
+                    8
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    390,
+                    72,
+                    80,
+                    39,
+                    25
+                ],
+                "charter": "メロンポップ"
+            }
+        ],
+        "basic_info": {
+            "title": "独りんぼエンヴィー",
+            "artist": "koyori（電ポルP）",
+            "genre": "niconico & VOCALOID",
+            "bpm": 132,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11521": {
+        "id": "11521",
+        "title": "ロータスイーター",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.8,
+            9.8,
+            13.3
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            7977,
+            7978,
+            7979,
+            7980
+        ],
+        "charts": [
+            {
+                "notes": [
+                    74,
+                    18,
+                    4,
+                    20,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    232,
+                    24,
+                    15,
+                    24,
+                    23
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    367,
+                    57,
+                    22,
+                    0,
+                    33
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    553,
+                    79,
+                    111,
+                    56,
+                    7
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ロータスイーター",
+            "artist": "青栗鼠",
+            "genre": "niconico & VOCALOID",
+            "bpm": 142,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
     "11523": {
         "id": "11523",
         "title": "ViRTUS",
@@ -71318,6 +72724,80 @@
             "artist": "Hiro",
             "genre": "maimai",
             "bpm": 225,
+            "release_date": "",
+            "from": "maimai でらっくす FESTiVAL",
+            "is_new": true
+        }
+    },
+    "11524": {
+        "id": "11524",
+        "title": "Alice's Suitcase",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.7,
+            10.7,
+            13.8
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            7981,
+            7982,
+            7983,
+            7984
+        ],
+        "charts": [
+            {
+                "notes": [
+                    125,
+                    19,
+                    6,
+                    20,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    247,
+                    47,
+                    14,
+                    24,
+                    18
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    331,
+                    78,
+                    38,
+                    12,
+                    18
+                ],
+                "charter": "PG-NAKAGAWA"
+            },
+            {
+                "notes": [
+                    516,
+                    69,
+                    101,
+                    79,
+                    21
+                ],
+                "charter": "Jack vs あまくちジンジャー"
+            }
+        ],
+        "basic_info": {
+            "title": "Alice's Suitcase",
+            "artist": "Endorfin.",
+            "genre": "其他游戏",
+            "bpm": 190,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": true
