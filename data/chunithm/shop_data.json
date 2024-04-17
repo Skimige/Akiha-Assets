@@ -816,7 +816,7 @@
         "address": "北京市顺义区新顺南大街8号华联购物中心3楼魔方MIX家庭娱乐中心"
     },
     "2079": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "2079",
         "province": "四川",
         "arcadeName": "泛时空成都武侯店",
@@ -1830,5 +1830,13 @@
         "arcadeName": "GOOGOOILSAND河北保定店",
         "mall": "酷玩空间佛山顺德店",
         "address": "河北省保定市涿州市君悦广场3层西侧"
+    },
+    "2833": {
+        "machineCount": 2,
+        "id": "2833",
+        "province": "陕西",
+        "arcadeName": "泛时空西安雁塔荟聚店",
+        "mall": "泛时空西安雁塔荟聚店",
+        "address": "陕西省西安市雁塔区子午大道6号西安荟聚"
     }
 }
