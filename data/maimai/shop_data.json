@@ -12120,7 +12120,7 @@
         "address": "安徽省合肥市瑶海区芜湖路坝上吾悦广场"
     },
     "2863": {
-        "machineCount": 1,
+        "machineCount": 3,
         "id": "2863",
         "province": "安徽",
         "arcadeName": "星际梦想城宿州埇桥万达店",
@@ -12128,7 +12128,7 @@
         "address": "安徽省宿州市埇桥区银河三路万达广场三楼星际梦想电玩城"
     },
     "2864": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2864",
         "province": "山西",
         "arcadeName": "星际梦想城晋中榆次万达店",
@@ -12318,5 +12318,21 @@
         "arcadeName": "菠萝猫太仓城厢华旭店",
         "mall": "菠萝猫太仓城厢华旭店",
         "address": "江苏省太仓市城厢镇人民南路华旭广场2楼菠萝猫动漫城"
+    },
+    "2892": {
+        "machineCount": 1,
+        "id": "2892",
+        "province": "浙江",
+        "arcadeName": "热带雨林宁波江北万达店",
+        "mall": "热带雨林宁波江北万达店",
+        "address": "浙江省宁波市江北区江北大道188号万达广场2层娱乐楼2F-A"
+    },
+    "2893": {
+        "machineCount": 2,
+        "id": "2893",
+        "province": "四川",
+        "arcadeName": "润宝梦四川泸州万达店",
+        "mall": "润宝梦四川泸州万达店",
+        "address": "四川泸州万达广场3F润宝梦"
     }
 }
