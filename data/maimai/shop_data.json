@@ -12478,5 +12478,13 @@
         "arcadeName": "PartyOn潮玩聊城昌府店",
         "mall": "PartyOn潮玩聊城昌府店",
         "address": "山东省聊城市东昌府区顺屹家居6号口A区"
+    },
+    "2923": {
+        "machineCount": 1,
+        "id": "2923",
+        "province": "江苏",
+        "arcadeName": "真快活苏州钟南永旺店",
+        "mall": "真快活苏州钟南永旺店",
+        "address": "江苏省苏州市吴中区工业园区胜浦街道钟南街永旺梦乐城"
     }
 }
