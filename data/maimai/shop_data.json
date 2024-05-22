@@ -12470,5 +12470,13 @@
         "arcadeName": "幸运星六安万达广场店",
         "mall": "幸运星六安万达广场店",
         "address": "安徽省六安市霍邱县万达广场"
+    },
+    "2922": {
+        "machineCount": 1,
+        "id": "2922",
+        "province": "山东",
+        "arcadeName": "PartyOn潮玩聊城昌府店",
+        "mall": "PartyOn潮玩聊城昌府店",
+        "address": "山东省聊城市东昌府区顺屹家居6号口A区"
     }
 }
