@@ -11168,7 +11168,7 @@
         "address": "湖北省武汉市武昌区销品茂2楼卡通尼乐园"
     },
     "2746": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "2746",
         "province": "广东",
         "arcadeName": "九州城梦乐园阳江阳东店",
@@ -12766,5 +12766,21 @@
         "arcadeName": "多多爱台州温岭店",
         "mall": "多多爱台州温岭店",
         "address": "浙江省台州市温岭市大溪镇多方里商场二楼"
+    },
+    "2958": {
+        "machineCount": 1,
+        "id": "2958",
+        "province": "浙江",
+        "arcadeName": "真快活嘉兴海宁银泰城店",
+        "mall": "真快活嘉兴海宁银泰城店",
+        "address": "浙江省嘉兴市海宁市海州街道海昌南路银泰城真快活coohoomax"
+    },
+    "2959": {
+        "machineCount": 1,
+        "id": "2959",
+        "province": "安徽",
+        "arcadeName": "城市英雄安徽黄山店",
+        "mall": "城市英雄安徽黄山店",
+        "address": "安徽省黄山市歙县颐高广场2楼"
     }
 }
