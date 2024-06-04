@@ -1272,7 +1272,7 @@
         "address": "上海市长宁区长宁路1810号龙之梦购物中心6楼汤姆熊欢乐世界"
     },
     "1289": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1289",
         "province": "北京",
         "arcadeName": "量子攻略北京新奥店",
@@ -5504,7 +5504,7 @@
         "address": "湖南省长沙市雨花区湘府中路18号德思勤城市广场三楼"
     },
     "1920": {
-        "machineCount": 3,
+        "machineCount": 2,
         "id": "1920",
         "province": "北京",
         "arcadeName": "量子攻略北京朝阳金隅嘉品店",
@@ -6870,6 +6870,14 @@
         "arcadeName": "头号玩家上饶广丰店",
         "mall": "头号玩家上饶广丰店",
         "address": "江西省上饶市广丰区永丰大道1号广丰里三楼"
+    },
+    "2119": {
+        "machineCount": 1,
+        "id": "2119",
+        "province": "辽宁",
+        "arcadeName": "大潮玩沈阳铁西龙之梦店",
+        "mall": "大潮玩沈阳铁西龙之梦店",
+        "address": "沈阳市铁西区建设西路2号龙之梦大都汇2楼东侧大潮玩"
     },
     "2120": {
         "machineCount": 1,
