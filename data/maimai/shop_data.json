@@ -12886,5 +12886,29 @@
         "arcadeName": "星悦乐玩城濮阳华龙店",
         "mall": "星悦乐玩城濮阳华龙店",
         "address": "河南省濮阳市华龙区水秀街5号楼"
+    },
+    "2977": {
+        "machineCount": 1,
+        "id": "2977",
+        "province": "安徽",
+        "arcadeName": "嘻游大玩家马鞍山金鹰商场店",
+        "mall": "嘻游大玩家马鞍山金鹰商场店",
+        "address": "安徽省马鞍山市金鹰商场三楼嘻游大玩家"
+    },
+    "2978": {
+        "machineCount": 1,
+        "id": "2978",
+        "province": "河北",
+        "arcadeName": "麦酷电玩城廊坊广阳万向城店",
+        "mall": "麦酷电玩城廊坊广阳万向城店",
+        "address": "河北省廊坊市广阳区裕华路交口万向城购物中心三楼麦酷电玩城"
+    },
+    "2979": {
+        "machineCount": 1,
+        "id": "2979",
+        "province": "湖北",
+        "arcadeName": "seercity孝感孝南吾悦广场店",
+        "mall": "seercity孝感孝南吾悦广场店",
+        "address": "湖北省孝感市孝南区吾悦广场三楼seercity"
     }
 }
