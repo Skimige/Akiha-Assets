@@ -13022,5 +13022,21 @@
         "arcadeName": "YumeWorld上海徐汇万科店",
         "mall": "YumeWorld上海徐汇万科店",
         "address": "上海市徐汇区万科广场二楼"
+    },
+    "2997": {
+        "machineCount": 1,
+        "id": "2997",
+        "province": "四川",
+        "arcadeName": "SUPERBUDDY成都锦江店",
+        "mall": "SUPERBUDDY成都锦江店",
+        "address": "四川省成都市锦江区东大路333号光环购物公园\r\n1层03铺超级乐园"
+    },
+    "2998": {
+        "machineCount": 1,
+        "id": "2998",
+        "province": "浙江",
+        "arcadeName": "酷玩e族绍兴嵊州和悦时代广场店",
+        "mall": "酷玩e族绍兴嵊州和悦时代广场店",
+        "address": "浙江省绍兴市嵊州市和悦时代广场三楼酷玩e族"
     }
 }
