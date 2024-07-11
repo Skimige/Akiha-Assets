@@ -2206,5 +2206,13 @@
         "arcadeName": "funmall贵阳万象城店",
         "mall": "funmall贵阳万象城店",
         "address": "贵州省贵阳市遵义路万象城3F"
+    },
+    "3051": {
+        "machineCount": 2,
+        "id": "3051",
+        "province": "广东",
+        "arcadeName": "炫次方深圳宝安海岸城店",
+        "mall": "炫次方深圳宝安海岸城店",
+        "address": "广东省深圳市宝安区沙井海岸城5楼"
     }
 }
