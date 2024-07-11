@@ -2198,5 +2198,13 @@
         "arcadeName": "X-in空间西安雁塔金辉广场店",
         "mall": "X-in空间西安雁塔金辉广场店",
         "address": "陕西省西安市雁塔区雁塔南路885号金辉广场01-F01-73号"
+    },
+    "3050": {
+        "machineCount": 2,
+        "id": "3050",
+        "province": "贵州",
+        "arcadeName": "funmall贵阳万象城店",
+        "mall": "funmall贵阳万象城店",
+        "address": "贵州省贵阳市遵义路万象城3F"
     }
 }
