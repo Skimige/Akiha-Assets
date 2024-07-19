@@ -12536,7 +12536,7 @@
         "address": "湖北省黄石市阳新县华联时代广场3楼"
     },
     "2938": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2938",
         "province": "江西",
         "arcadeName": "慢车道南昌铜锣湾T16店",
@@ -12712,7 +12712,7 @@
         "address": "安徽省黄山市歙县颐高广场2楼"
     },
     "2960": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2960",
         "province": "广东",
         "arcadeName": "精灵岛佛山嘉州广场店",
@@ -13248,7 +13248,7 @@
         "address": "浙江省杭州市拱墅区拱墅万达广场2楼萌可力"
     },
     "3041": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "3041",
         "province": "广东",
         "arcadeName": "米其漫游艺城深圳龙华店",
@@ -13312,7 +13312,7 @@
         "address": "贵州省贵阳市小河万科三楼宝贝王乐园"
     },
     "3055": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "3055",
         "province": "广东",
         "arcadeName": "悦空之城深圳宝安店",
@@ -13350,5 +13350,13 @@
         "arcadeName": "欢乐多贺州八步财富中心店",
         "mall": "欢乐多贺州八步财富中心店",
         "address": "广西壮族自治区贺州市八步区城东街道远东财富中心欢乐多游乐场"
+    },
+    "3064": {
+        "machineCount": 1,
+        "id": "3064",
+        "province": "广东",
+        "arcadeName": "漫奈斯广州南沙万达店",
+        "mall": "漫奈斯广州南沙万达店",
+        "address": "广东省广州市南沙区双山大道万达广场二楼漫奈斯"
     }
 }
