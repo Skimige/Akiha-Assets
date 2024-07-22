@@ -13430,5 +13430,13 @@
         "arcadeName": "潮玩英雄唐山遵化店",
         "mall": "潮玩英雄唐山遵化店",
         "address": "河北省唐山市遵化市文化北路金缘购物四楼潮玩英雄电玩城"
+    },
+    "3070": {
+        "machineCount": 1,
+        "id": "3070",
+        "province": "福建",
+        "arcadeName": "NATAKIDS漳州龙文吾悦店",
+        "mall": "NATAKIDS漳州龙文吾悦店",
+        "address": "福建省漳州市龙文区吾悦广场3楼NATAKIDS"
     }
 }
