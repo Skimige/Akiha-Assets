@@ -11055,14 +11055,6 @@
         "mall": "星城战记衡阳财富广场店",
         "address": "湖南省衡阳市衡东县万上财富广场"
     },
-    "2745": {
-        "machineCount": 1,
-        "id": "2745",
-        "province": "湖北",
-        "arcadeName": "卡通尼武汉武昌店",
-        "mall": "卡通尼武汉武昌店",
-        "address": "湖北省武汉市武昌区销品茂2楼卡通尼乐园"
-    },
     "2746": {
         "machineCount": 1,
         "id": "2746",
@@ -13742,5 +13734,21 @@
         "arcadeName": "嘿鹿鹿镇江八佰伴店",
         "mall": "嘿鹿鹿镇江八佰伴店",
         "address": "江苏省镇江市京口区中山东路288号镇江八佰伴3楼嘿鹿鹿"
+    },
+    "3113": {
+        "machineCount": 1,
+        "id": "3113",
+        "province": "湖北",
+        "arcadeName": "卡通尼武汉江夏永旺店",
+        "mall": "卡通尼武汉江夏永旺店",
+        "address": "湖北省武汉市江夏区江夏永旺梦乐城三楼卡通尼乐园"
+    },
+    "3114": {
+        "machineCount": 1,
+        "id": "3114",
+        "province": "浙江",
+        "arcadeName": "Trendyplay杭州西湖店",
+        "mall": "Trendyplay杭州西湖店",
+        "address": "浙江省杭州市西湖区三墩镇龙湖紫荆天街3楼"
     }
 }
