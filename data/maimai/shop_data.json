@@ -13750,5 +13750,21 @@
         "arcadeName": "Trendyplay杭州西湖店",
         "mall": "Trendyplay杭州西湖店",
         "address": "浙江省杭州市西湖区三墩镇龙湖紫荆天街3楼"
+    },
+    "3115": {
+        "machineCount": 1,
+        "id": "3115",
+        "province": "广东",
+        "arcadeName": "Top City佛山祖庙店",
+        "mall": "Top City佛山祖庙店",
+        "address": "广东省佛山市祖庙街道祖庙路29NOVA岭南站6楼Top City"
+    },
+    "3116": {
+        "machineCount": 1,
+        "id": "3116",
+        "province": "河北",
+        "arcadeName": "酷乐王国廊坊固安万汇广场店",
+        "mall": "酷乐王国廊坊固安万汇广场店",
+        "address": "河北省廊坊市固安县万汇广场二期二楼酷乐王国"
     }
 }
