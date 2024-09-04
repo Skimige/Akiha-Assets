@@ -39385,6 +39385,80 @@
             "is_new": false
         }
     },
+    "10251": {
+        "id": "10251",
+        "title": "Monochrome Rainbow",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.0,
+            11.2,
+            13.3
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13"
+        ],
+        "cids": [
+            8165,
+            8166,
+            8167,
+            8168
+        ],
+        "charts": [
+            {
+                "notes": [
+                    121,
+                    7,
+                    6,
+                    7,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    220,
+                    24,
+                    6,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    306,
+                    61,
+                    25,
+                    14,
+                    15
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    455,
+                    44,
+                    77,
+                    66,
+                    16
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Monochrome Rainbow",
+            "artist": "Sta",
+            "genre": "舞萌",
+            "bpm": 182,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
     "10256": {
         "id": "10256",
         "title": "いーあるふぁんくらぶ",
@@ -40048,6 +40122,80 @@
             "bpm": 180,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
+            "is_new": false
+        }
+    },
+    "10411": {
+        "id": "10411",
+        "title": "初音ミクの消失",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.0,
+            12.0,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            8169,
+            8170,
+            8171,
+            8172
+        ],
+        "charts": [
+            {
+                "notes": [
+                    232,
+                    8,
+                    3,
+                    7,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    324,
+                    13,
+                    10,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    506,
+                    56,
+                    33,
+                    32,
+                    13
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    828,
+                    50,
+                    102,
+                    20,
+                    39
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "初音ミクの消失",
+            "artist": "cosMo＠暴走P",
+            "genre": "niconico & VOCALOID",
+            "bpm": 240,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
             "is_new": false
         }
     },
@@ -60123,11 +60271,11 @@
             "12+"
         ],
         "cids": [
-            6415,
-            6416,
-            6417,
-            6418,
-            6419
+            8173,
+            8174,
+            8175,
+            8176,
+            8177
         ],
         "charts": [
             {
@@ -60210,11 +60358,11 @@
             "13"
         ],
         "cids": [
-            6420,
-            6421,
-            6422,
-            6423,
-            6424
+            8178,
+            8179,
+            8180,
+            8181,
+            8182
         ],
         "charts": [
             {
@@ -60295,10 +60443,10 @@
             "12"
         ],
         "cids": [
-            6425,
-            6426,
-            6427,
-            6428
+            8183,
+            8184,
+            8185,
+            8186
         ],
         "charts": [
             {
@@ -60369,10 +60517,10 @@
             "12"
         ],
         "cids": [
-            6429,
-            6430,
-            6431,
-            6432
+            8187,
+            8188,
+            8189,
+            8190
         ],
         "charts": [
             {
@@ -61653,10 +61801,10 @@
             "13"
         ],
         "cids": [
-            7400,
-            7401,
-            7402,
-            7403
+            8191,
+            8192,
+            8193,
+            8194
         ],
         "charts": [
             {
@@ -61707,7 +61855,7 @@
             "bpm": 194,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
-            "is_new": false
+            "is_new": true
         }
     },
     "11349": {
@@ -62763,10 +62911,10 @@
             "12+"
         ],
         "cids": [
-            6540,
-            6541,
-            6542,
-            6543
+            8195,
+            8196,
+            8197,
+            8198
         ],
         "charts": [
             {
@@ -62919,15 +63067,15 @@
         ],
         "level": [
             "3",
-            "6",
+            "6+",
             "8+",
             "12+"
         ],
         "cids": [
-            6476,
-            6477,
-            6478,
-            6479
+            8199,
+            8200,
+            8201,
+            8202
         ],
         "charts": [
             {
@@ -73245,6 +73393,154 @@
             "is_new": true
         }
     },
+    "11532": {
+        "id": "11532",
+        "title": "ヱデン",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            9.0,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            8203,
+            8204,
+            8205,
+            8206
+        ],
+        "charts": [
+            {
+                "notes": [
+                    111,
+                    18,
+                    4,
+                    10,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    230,
+                    19,
+                    10,
+                    25,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    342,
+                    46,
+                    42,
+                    13,
+                    18
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    474,
+                    52,
+                    91,
+                    21,
+                    17
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ヱデン",
+            "artist": "koyori（電ポルP）",
+            "genre": "舞萌",
+            "bpm": 137,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
+    "11533": {
+        "id": "11533",
+        "title": "にゃーにゃー冒険譚",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.2,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "5",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            8207,
+            8208,
+            8209,
+            8210
+        ],
+        "charts": [
+            {
+                "notes": [
+                    154,
+                    20,
+                    7,
+                    21,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    308,
+                    40,
+                    17,
+                    24,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    482,
+                    44,
+                    22,
+                    24,
+                    69
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    802,
+                    49,
+                    82,
+                    68,
+                    84
+                ],
+                "charter": "みそかつ侍"
+            }
+        ],
+        "basic_info": {
+            "title": "にゃーにゃー冒険譚",
+            "artist": "黒魔",
+            "genre": "舞萌",
+            "bpm": 188,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
     "11538": {
         "id": "11538",
         "title": "アンバークロニクル",
@@ -73541,6 +73837,228 @@
             "is_new": true
         }
     },
+    "11542": {
+        "id": "11542",
+        "title": "ここからはじまるプロローグ。 (Kanon Remix)",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.0,
+            11.8,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            8211,
+            8212,
+            8213,
+            8214
+        ],
+        "charts": [
+            {
+                "notes": [
+                    178,
+                    20,
+                    4,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    266,
+                    43,
+                    8,
+                    27,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    461,
+                    46,
+                    43,
+                    13,
+                    30
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    695,
+                    105,
+                    71,
+                    39,
+                    23
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ここからはじまるプロローグ。 (Kanon Remix)",
+            "artist": "ああああ／大国奏音",
+            "genre": "舞萌",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
+    "11543": {
+        "id": "11543",
+        "title": "モ°ルモ°ル (MZK Skippin' Remix)",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.0,
+            10.9,
+            13.7
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            8215,
+            8216,
+            8217,
+            8218
+        ],
+        "charts": [
+            {
+                "notes": [
+                    123,
+                    11,
+                    6,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    211,
+                    21,
+                    10,
+                    21,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    224,
+                    103,
+                    26,
+                    18,
+                    56
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    506,
+                    47,
+                    36,
+                    70,
+                    37
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "モ°ルモ°ル (MZK Skippin' Remix)",
+            "artist": "sasakure.UK／水野健治",
+            "genre": "舞萌",
+            "bpm": 136,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
+    "11544": {
+        "id": "11544",
+        "title": "VERTeX (rintaro soma deconstructed remix)",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            12.8,
+            14.7
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12+",
+            "14+"
+        ],
+        "cids": [
+            8219,
+            8220,
+            8221,
+            8222
+        ],
+        "charts": [
+            {
+                "notes": [
+                    200,
+                    5,
+                    4,
+                    17,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    255,
+                    42,
+                    6,
+                    27,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    436,
+                    56,
+                    42,
+                    47,
+                    37
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    659,
+                    32,
+                    89,
+                    85,
+                    71
+                ],
+                "charter": "rintaro soma"
+            }
+        ],
+        "basic_info": {
+            "title": "VERTeX (rintaro soma deconstructed remix)",
+            "artist": "Hiro／rintaro soma",
+            "genre": "舞萌",
+            "bpm": 158,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
     "11549": {
         "id": "11549",
         "title": "Trrricksters!!",
@@ -73613,6 +74131,80 @@
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": true
+        }
+    },
+    "11550": {
+        "id": "11550",
+        "title": "FLUFFY FLASH",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.5,
+            12.8,
+            14.3
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            8223,
+            8224,
+            8225,
+            8226
+        ],
+        "charts": [
+            {
+                "notes": [
+                    184,
+                    12,
+                    9,
+                    15,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    318,
+                    33,
+                    16,
+                    35,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    463,
+                    103,
+                    39,
+                    34,
+                    20
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    646,
+                    102,
+                    111,
+                    104,
+                    25
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "FLUFFY FLASH",
+            "artist": "Kobaryo",
+            "genre": "音击&中二节奏",
+            "bpm": 252,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
         }
     },
     "11555": {
@@ -75208,6 +75800,80 @@
             "is_new": false
         }
     },
+    "11577": {
+        "id": "11577",
+        "title": "はんぶんこ",
+        "type": "DX",
+        "ds": [
+            1.0,
+            6.0,
+            8.7,
+            12.8
+        ],
+        "level": [
+            "1",
+            "6",
+            "8+",
+            "12+"
+        ],
+        "cids": [
+            8227,
+            8228,
+            8229,
+            8230
+        ],
+        "charts": [
+            {
+                "notes": [
+                    99,
+                    9,
+                    6,
+                    6,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    197,
+                    25,
+                    6,
+                    13,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    192,
+                    21,
+                    38,
+                    20,
+                    10
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    197,
+                    15,
+                    77,
+                    28,
+                    60
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "はんぶんこ",
+            "artist": "三枝明那",
+            "genre": "流行&动漫",
+            "bpm": 124,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
     "11583": {
         "id": "11583",
         "title": "インターネットサバイバー",
@@ -76022,6 +76688,524 @@
             "is_new": true
         }
     },
+    "11598": {
+        "id": "11598",
+        "title": "テオ",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            10.8,
+            13.2
+        ],
+        "level": [
+            "5",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            8231,
+            8232,
+            8233,
+            8234
+        ],
+        "charts": [
+            {
+                "notes": [
+                    200,
+                    10,
+                    6,
+                    8,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    294,
+                    23,
+                    11,
+                    15,
+                    21
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    361,
+                    85,
+                    64,
+                    37,
+                    35
+                ],
+                "charter": "きょむりん"
+            },
+            {
+                "notes": [
+                    657,
+                    54,
+                    96,
+                    49,
+                    109
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "テオ",
+            "artist": "Omoi",
+            "genre": "niconico & VOCALOID",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
+    "11601": {
+        "id": "11601",
+        "title": "ド屑",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.5,
+            9.5,
+            13.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "9",
+            "13"
+        ],
+        "cids": [
+            8235,
+            8236,
+            8237,
+            8238
+        ],
+        "charts": [
+            {
+                "notes": [
+                    77,
+                    16,
+                    4,
+                    15,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    198,
+                    14,
+                    8,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    82,
+                    60,
+                    19,
+                    51,
+                    12
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    390,
+                    42,
+                    114,
+                    33,
+                    33
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "ド屑",
+            "artist": "なきそ",
+            "genre": "niconico & VOCALOID",
+            "bpm": 115,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
+    "11602": {
+        "id": "11602",
+        "title": "絶対敵対メチャキライヤー",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.7,
+            9.8,
+            12.9
+        ],
+        "level": [
+            "3",
+            "7+",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            8239,
+            8240,
+            8241,
+            8242
+        ],
+        "charts": [
+            {
+                "notes": [
+                    128,
+                    10,
+                    8,
+                    8,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    199,
+                    27,
+                    10,
+                    60,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    356,
+                    49,
+                    15,
+                    24,
+                    29
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    431,
+                    74,
+                    127,
+                    34,
+                    69
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "絶対敵対メチャキライヤー",
+            "artist": "メドミア",
+            "genre": "niconico & VOCALOID",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
+    "11603": {
+        "id": "11603",
+        "title": "つるぺったん",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            10.0,
+            12.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            8243,
+            8244,
+            8245,
+            8246
+        ],
+        "charts": [
+            {
+                "notes": [
+                    154,
+                    9,
+                    8,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    18,
+                    12,
+                    15,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    300,
+                    132,
+                    40,
+                    19,
+                    20
+                ],
+                "charter": "カマボコ君"
+            },
+            {
+                "notes": [
+                    374,
+                    98,
+                    106,
+                    54,
+                    34
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "つるぺったん",
+            "artist": "Silver Forest",
+            "genre": "东方Project",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
+    "11604": {
+        "id": "11604",
+        "title": "『ウソテイ』 ～一回戦せりなvsしろなvsなずな～",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.5,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            8247,
+            8248,
+            8249,
+            8250
+        ],
+        "charts": [
+            {
+                "notes": [
+                    175,
+                    9,
+                    4,
+                    15,
+                    17
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    283,
+                    33,
+                    13,
+                    23,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    338,
+                    135,
+                    15,
+                    28,
+                    42
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    628,
+                    52,
+                    133,
+                    15,
+                    65
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "『ウソテイ』 ～一回戦せりなvsしろなvsなずな～",
+            "artist": "イロドリミドリ「CHUNITHM」",
+            "genre": "音击&中二节奏",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
+    "11605": {
+        "id": "11605",
+        "title": "Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.7,
+            13.3
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            8251,
+            8252,
+            8253,
+            8254
+        ],
+        "charts": [
+            {
+                "notes": [
+                    146,
+                    8,
+                    3,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    244,
+                    12,
+                    13,
+                    27,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    402,
+                    35,
+                    14,
+                    37,
+                    20
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    631,
+                    44,
+                    82,
+                    39,
+                    27
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～",
+            "artist": "Masayoshi Minoshima [covered by 五十嵐 撫子(CV:花井 美春)]",
+            "genre": "音击&中二节奏",
+            "bpm": 141,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
+    "11606": {
+        "id": "11606",
+        "title": "Snow Colored Score",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.5,
+            9.9,
+            12.9
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            8255,
+            8256,
+            8257,
+            8258
+        ],
+        "charts": [
+            {
+                "notes": [
+                    124,
+                    13,
+                    7,
+                    7,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    280,
+                    22,
+                    17,
+                    23,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    65,
+                    39,
+                    10,
+                    14
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    436,
+                    53,
+                    102,
+                    70,
+                    53
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "Snow Colored Score",
+            "artist": "イロドリミドリ「CHUNITHM」",
+            "genre": "音击&中二节奏",
+            "bpm": 164,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
     "11607": {
         "id": "11607",
         "title": "MAGENTA POTION",
@@ -76314,6 +77498,41 @@
             "is_new": true
         }
     },
+    "100363": {
+        "id": "100363",
+        "title": "[宴]Oshama Scramble!",
+        "type": "DX",
+        "ds": [
+            13.0
+        ],
+        "level": [
+            "13?"
+        ],
+        "cids": [
+            8259
+        ],
+        "charts": [
+            {
+                "notes": [
+                    87,
+                    36,
+                    132,
+                    0,
+                    35
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[宴]Oshama Scramble!",
+            "artist": "t+pazolite",
+            "genre": "宴会場",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
     "100508": {
         "id": "100508",
         "title": "[協]恋愛裁判",
@@ -76454,6 +77673,41 @@
             "is_new": true
         }
     },
+    "111222": {
+        "id": "111222",
+        "title": "[光]BREaK! BREaK! BREaK!",
+        "type": "DX",
+        "ds": [
+            14.7
+        ],
+        "level": [
+            "14+?"
+        ],
+        "cids": [
+            8260
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    5,
+                    0,
+                    60,
+                    1039
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[光]BREaK! BREaK! BREaK!",
+            "artist": "HiTECH NINJA vs Cranky",
+            "genre": "宴会場",
+            "bpm": 165,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
     "111355": {
         "id": "111355",
         "title": "[協]ラグトレイン",
@@ -76548,6 +77802,41 @@
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": true
+        }
+    },
+    "111516": {
+        "id": "111516",
+        "title": "[蔵]Aegleseeker",
+        "type": "DX",
+        "ds": [
+            14.7
+        ],
+        "level": [
+            "14+?"
+        ],
+        "cids": [
+            8261
+        ],
+        "charts": [
+            {
+                "notes": [
+                    987,
+                    106,
+                    42,
+                    61,
+                    73
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[蔵]Aegleseeker",
+            "artist": "Silentroom vs Frums",
+            "genre": "宴会場",
+            "bpm": 234,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
         }
     }
 }
