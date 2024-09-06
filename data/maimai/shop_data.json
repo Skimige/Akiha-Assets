@@ -14390,5 +14390,13 @@
         "arcadeName": "咕咕鲨超级乐园保定万博店",
         "mall": "咕咕鲨超级乐园保定万博店",
         "address": "河北省保定市竞秀区万博广场三层南区咕咕鲨超级乐园"
+    },
+    "3200": {
+        "machineCount": 1,
+        "id": "3200",
+        "province": "广东",
+        "arcadeName": "Top City深圳宝安店",
+        "mall": "Top City深圳宝安店",
+        "address": "广东省深圳市宝安区新安街道仟里食家(购物中心)3楼Top City309铺"
     }
 }
