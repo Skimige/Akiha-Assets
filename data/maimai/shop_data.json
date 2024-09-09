@@ -13824,7 +13824,7 @@
         "address": "广东省广州市天河区华观路1932号L301-311铺"
     },
     "3128": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "3128",
         "province": "四川",
         "arcadeName": "玩咖联萌南充北湖广场店",
@@ -14398,5 +14398,13 @@
         "arcadeName": "Top City深圳宝安店",
         "mall": "Top City深圳宝安店",
         "address": "广东省深圳市宝安区新安街道仟里食家(购物中心)3楼Top City309铺"
+    },
+    "3201": {
+        "machineCount": 2,
+        "id": "3201",
+        "province": "湖南",
+        "arcadeName": "嘻品堂长沙永旺店",
+        "mall": "嘻品堂长沙永旺店",
+        "address": "湖南省长沙市长沙县永旺梦乐城3楼嘻品堂电玩城"
     }
 }
