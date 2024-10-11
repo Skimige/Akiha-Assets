@@ -592,7 +592,7 @@
         "address": "辽宁省沈阳市浑南区长青南街6甲号欧亚长青城"
     },
     "1682": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1682",
         "province": "云南",
         "arcadeName": "超级星座昆明官渡海乐店",
@@ -782,6 +782,14 @@
         "arcadeName": "城市英雄重庆大学城店",
         "mall": "城市英雄重庆大学城店",
         "address": "重庆沙坪坝区熙街商业街C区1C-20城市英雄电玩城"
+    },
+    "2020": {
+        "machineCount": 1,
+        "id": "2020",
+        "province": "云南",
+        "arcadeName": "超级星座昆明盘龙七彩店",
+        "mall": "超级星座昆明盘龙七彩店",
+        "address": "云南省昆明市盘龙区白塔路399号七彩me town购物中心F3超级星座家庭娱乐中心"
     },
     "2023": {
         "machineCount": 2,
