@@ -40495,6 +40495,80 @@
             "is_new": false
         }
     },
+    "10574": {
+        "id": "10574",
+        "title": "Selector",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            11.0,
+            13.9
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            8262,
+            8263,
+            8264,
+            8265
+        ],
+        "charts": [
+            {
+                "notes": [
+                    146,
+                    9,
+                    3,
+                    15,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    230,
+                    20,
+                    6,
+                    18,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    57,
+                    74,
+                    8,
+                    20
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    652,
+                    77,
+                    12,
+                    41,
+                    44
+                ],
+                "charter": "ボコ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Selector",
+            "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+            "genre": "舞萌",
+            "bpm": 148,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
     "10593": {
         "id": "10593",
         "title": "conflict",
@@ -73515,6 +73589,302 @@
             "is_new": true
         }
     },
+    "11545": {
+        "id": "11545",
+        "title": "隠密あんみつDX",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            10.7,
+            13.5
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            8266,
+            8267,
+            8268,
+            8269
+        ],
+        "charts": [
+            {
+                "notes": [
+                    147,
+                    11,
+                    4,
+                    7,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    12,
+                    6,
+                    33,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    344,
+                    54,
+                    38,
+                    19,
+                    76
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    581,
+                    31,
+                    117,
+                    54,
+                    49
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "隠密あんみつDX",
+            "artist": "カルロス袴田 feat. 日南めい, 古川由彩",
+            "genre": "舞萌",
+            "bpm": 155,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11546": {
+        "id": "11546",
+        "title": "地球",
+        "type": "DX",
+        "ds": [
+            6.0,
+            9.0,
+            12.8,
+            14.3
+        ],
+        "level": [
+            "6",
+            "9",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            8270,
+            8271,
+            8272,
+            8273
+        ],
+        "charts": [
+            {
+                "notes": [
+                    156,
+                    10,
+                    6,
+                    11,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    26,
+                    4,
+                    13,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    379,
+                    43,
+                    24,
+                    24,
+                    97
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    600,
+                    48,
+                    147,
+                    45,
+                    50
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "地球",
+            "artist": "立秋 feat.ちょこ",
+            "genre": "舞萌",
+            "bpm": 79,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11547": {
+        "id": "11547",
+        "title": "Churros Parlor",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            12.5,
+            13.8
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            8274,
+            8275,
+            8276,
+            8277
+        ],
+        "charts": [
+            {
+                "notes": [
+                    150,
+                    11,
+                    8,
+                    8,
+                    17
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    22,
+                    9,
+                    29,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    431,
+                    100,
+                    26,
+                    91,
+                    78
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    540,
+                    107,
+                    54,
+                    126,
+                    142
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Churros Parlor",
+            "artist": "ピエロ☆マン",
+            "genre": "舞萌",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11548": {
+        "id": "11548",
+        "title": "超熊猫的周遊記（ワンダーパンダートラベラー）",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            12.7,
+            14.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12+",
+            "14+"
+        ],
+        "cids": [
+            8278,
+            8279,
+            8280,
+            8281
+        ],
+        "charts": [
+            {
+                "notes": [
+                    171,
+                    13,
+                    4,
+                    16,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    258,
+                    20,
+                    8,
+                    24,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    416,
+                    62,
+                    62,
+                    32,
+                    51
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    735,
+                    63,
+                    100,
+                    55,
+                    88
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "超熊猫的周遊記（ワンダーパンダートラベラー）",
+            "artist": "FANTAGIRAFF",
+            "genre": "舞萌",
+            "bpm": 121,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
     "11549": {
         "id": "11549",
         "title": "Trrricksters!!",
@@ -73658,6 +74028,302 @@
             "artist": "Kobaryo",
             "genre": "音击&中二节奏",
             "bpm": 252,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11551": {
+        "id": "11551",
+        "title": "STARRED HEART",
+        "type": "DX",
+        "ds": [
+            3.0,
+            5.8,
+            9.7,
+            12.5
+        ],
+        "level": [
+            "3",
+            "5+",
+            "9+",
+            "12"
+        ],
+        "cids": [
+            8282,
+            8283,
+            8284,
+            8285
+        ],
+        "charts": [
+            {
+                "notes": [
+                    112,
+                    12,
+                    4,
+                    12,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    186,
+                    14,
+                    9,
+                    20,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    217,
+                    19,
+                    87,
+                    41,
+                    15
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    299,
+                    19,
+                    109,
+                    20,
+                    35
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "STARRED HEART",
+            "artist": "曲：広川恵一 (MONACA)／歌：オンゲキシューターズ",
+            "genre": "音击&中二节奏",
+            "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11552": {
+        "id": "11552",
+        "title": "Y.Y.Y.計画!!!!",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.7,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            8286,
+            8287,
+            8288,
+            8289
+        ],
+        "charts": [
+            {
+                "notes": [
+                    171,
+                    12,
+                    7,
+                    8,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    19,
+                    9,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    464,
+                    42,
+                    36,
+                    35,
+                    49
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    529,
+                    41,
+                    108,
+                    111,
+                    158
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "Y.Y.Y.計画!!!!",
+            "artist": "曲：烏屋茶房／歌：R.B.P. [九條 楓(CV：佳村 はるか)、逢坂 茜(CV：大空 直美)、珠洲島 有栖(CV：長縄 まりあ)]",
+            "genre": "音击&中二节奏",
+            "bpm": 186,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11553": {
+        "id": "11553",
+        "title": "Last Kingdom",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            12.5,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            8290,
+            8291,
+            8292,
+            8293
+        ],
+        "charts": [
+            {
+                "notes": [
+                    157,
+                    13,
+                    6,
+                    15,
+                    15
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    261,
+                    21,
+                    8,
+                    29,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    452,
+                    74,
+                    37,
+                    9,
+                    60
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    562,
+                    98,
+                    64,
+                    53,
+                    74
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Last Kingdom",
+            "artist": "USAO",
+            "genre": "音击&中二节奏",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11554": {
+        "id": "11554",
+        "title": "LAMIA",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.0,
+            13.0,
+            14.7
+        ],
+        "level": [
+            "6",
+            "8",
+            "13",
+            "14+"
+        ],
+        "cids": [
+            8294,
+            8295,
+            8296,
+            8297
+        ],
+        "charts": [
+            {
+                "notes": [
+                    212,
+                    17,
+                    7,
+                    21,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    306,
+                    34,
+                    4,
+                    16,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    483,
+                    64,
+                    33,
+                    35,
+                    144
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    712,
+                    65,
+                    67,
+                    56,
+                    99
+                ],
+                "charter": "譜面ボーイズからの挑戦状"
+            }
+        ],
+        "basic_info": {
+            "title": "LAMIA",
+            "artist": "BlackY",
+            "genre": "音击&中二节奏",
+            "bpm": 199,
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": true
@@ -75848,6 +76514,154 @@
             "is_new": true
         }
     },
+    "11590": {
+        "id": "11590",
+        "title": "あつすぎの歌",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.2,
+            10.5,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            8298,
+            8299,
+            8300,
+            8301
+        ],
+        "charts": [
+            {
+                "notes": [
+                    146,
+                    9,
+                    4,
+                    6,
+                    39
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    261,
+                    30,
+                    8,
+                    10,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    269,
+                    47,
+                    29,
+                    9,
+                    164
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    345,
+                    53,
+                    83,
+                    83,
+                    242
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "あつすぎの歌",
+            "artist": "からめる",
+            "genre": "流行&动漫",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11591": {
+        "id": "11591",
+        "title": "ULTRA SYNERGY MATRIX",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.4,
+            12.0,
+            14.0
+        ],
+        "level": [
+            "5",
+            "7",
+            "12",
+            "14"
+        ],
+        "cids": [
+            8302,
+            8303,
+            8304,
+            8305
+        ],
+        "charts": [
+            {
+                "notes": [
+                    174,
+                    6,
+                    4,
+                    8,
+                    21
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    260,
+                    32,
+                    6,
+                    29,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    336,
+                    44,
+                    51,
+                    54,
+                    34
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    657,
+                    24,
+                    64,
+                    61,
+                    100
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ULTRA SYNERGY MATRIX",
+            "artist": "Tanchiky",
+            "genre": "其他游戏",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
     "11592": {
         "id": "11592",
         "title": "花となれ",
@@ -76213,6 +77027,154 @@
             "artist": "Omoi",
             "genre": "niconico & VOCALOID",
             "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11599": {
+        "id": "11599",
+        "title": "まにまに",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.0,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            8306,
+            8307,
+            8308,
+            8309
+        ],
+        "charts": [
+            {
+                "notes": [
+                    135,
+                    14,
+                    7,
+                    15,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    288,
+                    30,
+                    6,
+                    16,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    371,
+                    52,
+                    18,
+                    25,
+                    60
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    501,
+                    49,
+                    116,
+                    37,
+                    24
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "まにまに",
+            "artist": "r-906",
+            "genre": "niconico & VOCALOID",
+            "bpm": 174,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11600": {
+        "id": "11600",
+        "title": "感情ディシーブ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            9.7,
+            13.0
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            8310,
+            8311,
+            8312,
+            8313
+        ],
+        "charts": [
+            {
+                "notes": [
+                    113,
+                    15,
+                    6,
+                    7,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    194,
+                    27,
+                    8,
+                    50,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    315,
+                    55,
+                    19,
+                    22,
+                    63
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    475,
+                    57,
+                    73,
+                    47,
+                    42
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "感情ディシーブ",
+            "artist": "ろーある",
+            "genre": "niconico & VOCALOID",
+            "bpm": 175,
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": true
