@@ -15427,8 +15427,16 @@
         "machineCount": 2,
         "id": "3351",
         "province": "青海",
-        "arcadeName": "天空之城西宁城北店",
+        "arcadeName": "天空之城西宁城北吾悦广场店",
         "mall": "天空之城西宁城北店",
         "address": "青海省西宁市城北区小桥大街吾悦广场3楼天空之城"
+    },
+    "3352": {
+        "machineCount": 2,
+        "id": "3352",
+        "province": "广东",
+        "arcadeName": "城市英雄清远清城店",
+        "mall": "城市英雄清远清城店",
+        "address": "广东省清远市清城区清飞路保利广场二楼"
     }
 }
