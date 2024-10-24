@@ -15470,5 +15470,13 @@
         "arcadeName": "FS COMICS成都高新时光里店",
         "mall": "FS COMICS成都高新时光里店",
         "address": "四川省成都市高新区吉瑞二路99号成都时光里购物中心B区B1081号"
+    },
+    "3360": {
+        "machineCount": 1,
+        "id": "3360",
+        "province": "广东",
+        "arcadeName": "齐悦儿梅州客都汇店",
+        "mall": "齐悦儿梅州客都汇店",
+        "address": "广东省梅州市梅水路客都汇二楼齐悦儿家庭娱乐中心"
     }
 }
