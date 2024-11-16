@@ -67,7 +67,7 @@
         "machineCount": 1,
         "id": "1012",
         "province": "广东",
-        "arcadeName": "深圳KKMALL星际传奇",
+        "arcadeName": "星际传奇深圳罗湖KKMALL店",
         "mall": "KKMALL星际传奇",
         "address": "广东省深圳市罗湖区深南东路5016号京基百纳空间KKMALL三楼313A星际传奇"
     },
@@ -75,7 +75,7 @@
         "machineCount": 1,
         "id": "1013",
         "province": "广东",
-        "arcadeName": "深圳反斗乐园中心城店",
+        "arcadeName": "反斗乐园深圳福田中心城店",
         "mall": "反斗乐园中心城店",
         "address": "广东省深圳市福田区福华一路怡景中心城UG层反斗乐园"
     },
@@ -683,7 +683,7 @@
         "machineCount": 1,
         "id": "1174",
         "province": "广东",
-        "arcadeName": "反斗乐园华强北九方分店",
+        "arcadeName": "反斗乐园深圳福田华强北店",
         "mall": "反斗乐园华强北九方分店",
         "address": "深圳市福田区华强北街道中航九方购物中心L511商铺"
     },
@@ -715,7 +715,7 @@
         "machineCount": 1,
         "id": "1179",
         "province": "广东",
-        "arcadeName": "深圳星际传奇上梅林卓悦汇店",
+        "arcadeName": "星际传奇深圳福田卓悦汇店",
         "mall": "深圳星际传奇上梅林卓悦汇店",
         "address": "广东省深圳市福田区梅林街道中康路与梅林路交汇处卓悦汇购物中心L3层17号"
     },
@@ -923,7 +923,7 @@
         "machineCount": 1,
         "id": "1219",
         "province": "广东",
-        "arcadeName": "星际传奇大千里店",
+        "arcadeName": "星际传奇深圳宝安大千里店",
         "mall": "星际传奇大千里店",
         "address": "广东省深圳市宝安区坪洲大千里3楼"
     },
@@ -1243,7 +1243,7 @@
         "machineCount": 1,
         "id": "1280",
         "province": "广东",
-        "arcadeName": "星际传奇深圳万象天地店",
+        "arcadeName": "星际传奇深圳南山万象天地店",
         "mall": "星际传奇深圳万象天地店",
         "address": "广东省深圳市南山区深南大道9668号万象天地4层SL435星际传奇"
     },
@@ -1259,7 +1259,7 @@
         "machineCount": 1,
         "id": "1286",
         "province": "广东",
-        "arcadeName": "反斗乐园深圳宝安壹方城星际传奇店",
+        "arcadeName": "星际传奇深圳宝安壹方城店",
         "mall": "反斗乐园深圳宝安壹方城星际传奇店",
         "address": "广东省深圳市宝安区宝安中心壹方城购物中心三楼星际传奇"
     },
@@ -2635,7 +2635,7 @@
         "machineCount": 1,
         "id": "1502",
         "province": "广东",
-        "arcadeName": "星际传奇光明大仟里店",
+        "arcadeName": "星际传奇深圳光明店",
         "mall": "星际传奇光明大仟里店",
         "address": "广东省深圳市光明区公明街道天汇城一期商业裙楼三楼L323-325号商铺星际传奇"
     },
@@ -7795,7 +7795,7 @@
         "machineCount": 1,
         "id": "2275",
         "province": "广东",
-        "arcadeName": "星际传奇龙岗万科店",
+        "arcadeName": "星际传奇深圳龙岗万科店",
         "mall": "星际传奇龙岗万科店",
         "address": "广东省深圳市龙岗区龙翔大道7188号万科广场L3-11号星际传奇"
     },
@@ -10395,7 +10395,7 @@
         "machineCount": 1,
         "id": "2659",
         "province": "广东",
-        "arcadeName": "欢乐星球深圳南山店",
+        "arcadeName": "欢乐星球深圳南山船前广场店",
         "mall": "欢乐星球深圳南山店",
         "address": "深圳市南山区招商街道水湾社区船前广场3栋B014负一层欢乐星球"
     },
@@ -14283,7 +14283,7 @@
         "machineCount": 1,
         "id": "3194",
         "province": "广东",
-        "arcadeName": "全境方舟娱乐中心深圳天河城店",
+        "arcadeName": "全境方舟深圳罗湖天河城店",
         "mall": "全境方舟娱乐中心深圳天河城店",
         "address": "广东省深圳市罗湖区东晓街道东晓社区布心路2018号粤海置地深圳天河城N205、N206、N207"
     },
