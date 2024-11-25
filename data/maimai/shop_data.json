@@ -15455,14 +15455,6 @@
         "mall": "卡希尔乐享汇广州花都盛业店",
         "address": "广东省广州市花都区狮岭镇盛业广场3楼卡希尔乐享汇"
     },
-    "3359": {
-        "machineCount": 1,
-        "id": "3359",
-        "province": "四川",
-        "arcadeName": "FS COMICS成都高新时光里店",
-        "mall": "FS COMICS成都高新时光里店",
-        "address": "四川省成都市高新区吉瑞二路99号成都时光里购物中心B区B1081号"
-    },
     "3360": {
         "machineCount": 1,
         "id": "3360",
@@ -15974,5 +15966,13 @@
         "arcadeName": "宝贝王枣庄滕州万达店",
         "mall": "宝贝王枣庄滕州万达店",
         "address": "山东枣庄市滕州市龙泉街道万达广场二楼万达宝贝王"
+    },
+    "3427": {
+        "machineCount": 1,
+        "id": "3427",
+        "province": "四川",
+        "arcadeName": "FS COMICS成都武侯时光里店",
+        "mall": "FS COMICS成都武侯时光里店",
+        "address": "四川省成都市武侯区吉瑞二路成都保利时光里南里B1081"
     }
 }
