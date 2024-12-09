@@ -1752,7 +1752,7 @@
         "address": "海南省海口市龙华区友谊阳光城3楼炫动四方"
     },
     "2652": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "2652",
         "province": "山东",
         "arcadeName": "潮玩社济南槐荫和谐广场店",
@@ -2710,6 +2710,14 @@
         "arcadeName": "魔力空间临平万达店",
         "mall": "魔力空间临平万达店",
         "address": "浙江省杭州市临平区临平万达3F魔力空间"
+    },
+    "3440": {
+        "machineCount": 1,
+        "id": "3440",
+        "province": "陕西",
+        "arcadeName": "潮玩社西安雁塔店",
+        "mall": "潮玩社西安雁塔店",
+        "address": "陕西省西安市雁塔区万象城四楼潮玩社"
     },
     "3443": {
         "machineCount": 2,
