@@ -2790,5 +2790,13 @@
         "arcadeName": "宴窝Banquet广州天河燕岭店",
         "mall": "宴窝Banquet广州天河燕岭店",
         "address": "广东省广州市天河区燕岭路133号之十105"
+    },
+    "3488": {
+        "machineCount": 2,
+        "id": "3488",
+        "province": "河南",
+        "arcadeName": "大玩家洛阳涧西万达店",
+        "mall": "大玩家洛阳涧西万达店",
+        "address": "河南省洛阳市涧西区辽宁路万达广场二楼大玩家"
     }
 }
