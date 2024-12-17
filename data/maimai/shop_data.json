@@ -3847,14 +3847,6 @@
         "mall": "风云再起武汉江汉路站店",
         "address": "湖北省武汉市江汉区地铁二号线江汉路站JH2-009风云再起"
     },
-    "1714": {
-        "machineCount": 1,
-        "id": "1714",
-        "province": "广东",
-        "arcadeName": "惠州鹅窝KATTYUU",
-        "mall": "惠州鹅窝KATTYUU",
-        "address": "广东省惠州市惠城区桥东街道方直君御18栋2层206-207鹅窝KATTYUU"
-    },
     "1716": {
         "machineCount": 1,
         "id": "1716",
@@ -15856,7 +15848,7 @@
         "address": "吉林省长春市宽城区上海路宽城广场3楼3023A"
     },
     "3484": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "3484",
         "province": "广东",
         "arcadeName": "宴窝Banquet广州天河燕岭店",
