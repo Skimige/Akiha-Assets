@@ -2726,5 +2726,13 @@
         "arcadeName": "天空之城九江浔阳联盛店",
         "mall": "天空之城九江浔阳联盛店",
         "address": "江西省九江市浔阳区联盛快乐城2F天空之城"
+    },
+    "3499": {
+        "machineCount": 2,
+        "id": "3499",
+        "province": "江苏",
+        "arcadeName": "SUPERBUDDY常州天宁华润店",
+        "mall": "SUPERBUDDY常州天宁华润店",
+        "address": "江苏省常州市天宁区离宫路329号华润国际花园100栋常州万象城四楼L459"
     }
 }
