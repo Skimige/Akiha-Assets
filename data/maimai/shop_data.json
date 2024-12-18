@@ -4839,6 +4839,14 @@
         "mall": "UFOCENTER广州从化欣荣店",
         "address": "广东省广州市从化区欣荣时尚广场A区B栋2楼UFO-CENTER"
     },
+    "1872": {
+        "machineCount": 1,
+        "id": "1872",
+        "province": "湖北",
+        "arcadeName": "奇奇乐园襄阳樊城万达店",
+        "mall": "奇奇乐园襄阳樊城万达店",
+        "address": "湖北省襄阳市樊城区长虹路万达广场三楼奇奇乐园"
+    },
     "1873": {
         "machineCount": 1,
         "id": "1873",
@@ -6376,7 +6384,7 @@
         "address": "广东省湛江市霞山区东新路6号银地上悦广场二层2-2124号商铺"
     },
     "2106": {
-        "machineCount": 3,
+        "machineCount": 2,
         "id": "2106",
         "province": "浙江",
         "arcadeName": "七彩天空杭州临安锦北宝龙店",
@@ -16174,5 +16182,13 @@
         "arcadeName": "大玩家太原龙湖万达店",
         "mall": "大玩家太原龙湖万达店",
         "address": "山西省太原市杏花岭区解放路175号万达广场娱乐3F-A"
+    },
+    "3521": {
+        "machineCount": 1,
+        "id": "3521",
+        "province": "江苏",
+        "arcadeName": "E+潮玩连云港灌云万达店",
+        "mall": "E+潮玩连云港灌云万达店",
+        "address": "江苏省连云港市灌云县万达广场三楼E+潮玩"
     }
 }
