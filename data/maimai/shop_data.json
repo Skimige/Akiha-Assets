@@ -16502,5 +16502,13 @@
         "arcadeName": "TOPTOP潮玩聊城东昌府万达店",
         "mall": "TOPTOP潮玩聊城东昌府万达店",
         "address": "山东省聊城市东昌府区万达广场TOPTOP潮玩世嘉"
+    },
+    "3538": {
+        "machineCount": 1,
+        "id": "3538",
+        "province": "北京",
+        "arcadeName": "城市英雄北京海淀大悦城店",
+        "mall": "城市英雄北京海淀大悦城店",
+        "address": "北京市海淀区西北旺海淀大悦城3楼城市英雄"
     }
 }
