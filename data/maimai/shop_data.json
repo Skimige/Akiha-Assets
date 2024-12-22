@@ -16087,6 +16087,14 @@
         "mall": "嗨玩街区重庆涪陵泽胜广场店",
         "address": "重庆市涪陵区荔枝街道泽胜广场嗨玩街区"
     },
+    "3479": {
+        "machineCount": 1,
+        "id": "3479",
+        "province": "河南",
+        "arcadeName": "翡尔堡郑州二七万象城店",
+        "mall": "翡尔堡郑州二七万象城店",
+        "address": "河南省郑州市二七区万象城3楼翡尔堡"
+    },
     "3480": {
         "machineCount": 1,
         "id": "3480",
@@ -16558,5 +16566,13 @@
         "arcadeName": "veryland奇境乐园广州白云新市店",
         "mall": "veryland奇境乐园广州白云新市店",
         "address": "广东省广州市白云区新市街机场路1309号四层DL4018veryland奇境乐园"
+    },
+    "3543": {
+        "machineCount": 1,
+        "id": "3543",
+        "province": "河南",
+        "arcadeName": "宝贝王许昌魏都店",
+        "mall": "宝贝王许昌魏都店",
+        "address": "河南省许昌市魏都区万达宝贝王"
     }
 }
