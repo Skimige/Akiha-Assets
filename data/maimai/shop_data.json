@@ -16016,7 +16016,7 @@
         "address": "陕西省咸阳市兴平市中心大街西北角翔瑞大厦四楼"
     },
     "3470": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "3470",
         "province": "广东",
         "arcadeName": "疯狂牛仔城广州白云凯德店",
@@ -16574,5 +16574,61 @@
         "arcadeName": "宝贝王许昌魏都店",
         "mall": "宝贝王许昌魏都店",
         "address": "河南省许昌市魏都区万达宝贝王"
+    },
+    "3546": {
+        "machineCount": 1,
+        "id": "3546",
+        "province": "湖南",
+        "arcadeName": "城市NiCOLE张家界永定中商广场店",
+        "mall": "城市NiCOLE张家界永定中商广场店",
+        "address": "湖南省张家界市永定区中商广场三楼城市NiCOLE"
+    },
+    "3547": {
+        "machineCount": 1,
+        "id": "3547",
+        "province": "辽宁",
+        "arcadeName": "拾光派对盘锦双台子店",
+        "mall": "拾光派对盘锦双台子店",
+        "address": "辽宁省盘锦市双台子区双台城3楼拾光派对家庭娱乐中心"
+    },
+    "3548": {
+        "machineCount": 1,
+        "id": "3548",
+        "province": "江西",
+        "arcadeName": "天空之星贵溪雄石天虹店",
+        "mall": "天空之星贵溪雄石天虹店",
+        "address": "江西省贵溪市雄石路天虹购物中心3楼3028天空之星"
+    },
+    "3549": {
+        "machineCount": 1,
+        "id": "3549",
+        "province": "浙江",
+        "arcadeName": "天空之城温州瑞安吾悦广场店",
+        "mall": "天空之城温州瑞安吾悦广场店",
+        "address": "浙江省温州市瑞安市新城吾悦广场3楼3055号商铺天空之城"
+    },
+    "3550": {
+        "machineCount": 1,
+        "id": "3550",
+        "province": "贵州",
+        "arcadeName": "小猪泰德凯里奥特莱斯店",
+        "mall": "小猪泰德凯里奥特莱斯店",
+        "address": "贵州省凯里市民族体育馆西侧地下空间奥特莱斯B1层004号小猪泰德"
+    },
+    "3551": {
+        "machineCount": 2,
+        "id": "3551",
+        "province": "陕西",
+        "arcadeName": "多奇妙宝鸡渭滨店",
+        "mall": "多奇妙宝鸡渭滨店",
+        "address": "陕西省宝鸡市渭滨区三楼多奇妙乐园"
+    },
+    "3552": {
+        "machineCount": 1,
+        "id": "3552",
+        "province": "广东",
+        "arcadeName": "超能星客广州海珠乐峰广场店",
+        "mall": "超能星客广州海珠乐峰广场店",
+        "address": "广东省广州市海珠区乐峰广场L2-S05/S04B超能星客"
     }
 }

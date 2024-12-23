@@ -2894,5 +2894,13 @@
         "arcadeName": "星城战记苏州吴江店",
         "mall": "星城战记苏州吴江店",
         "address": "江苏省苏州市吴江区盛泽镇舜湖西路天虹商场L2层A001号商铺星城战记"
+    },
+    "3546": {
+        "machineCount": 2,
+        "id": "3546",
+        "province": "湖南",
+        "arcadeName": "城市NiCOLE张家界永定中商广场店",
+        "mall": "城市NiCOLE张家界永定中商广场店",
+        "address": "湖南省张家界市永定区中商广场三楼城市NiCOLE"
     }
 }
