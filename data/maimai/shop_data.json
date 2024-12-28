@@ -13680,7 +13680,7 @@
         "address": "新疆哈密市伊州区中山北路与广场南路交汇处汇嘉时代一期5楼L5011"
     },
     "3152": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "3152",
         "province": "安徽",
         "arcadeName": "宝贝王铜陵铜官万达店",
@@ -16854,5 +16854,69 @@
         "arcadeName": "乐玩家黄石阳新铜锣湾店",
         "mall": "乐玩家黄石阳新铜锣湾店",
         "address": "湖北省黄石市阳新县阳新大道铜锣湾广场3F乐玩家超乐场"
+    },
+    "3582": {
+        "machineCount": 1,
+        "id": "3582",
+        "province": "江苏",
+        "arcadeName": "天空之城淮安生态新城吾悦店",
+        "mall": "天空之城淮安生态新城吾悦店",
+        "address": "江苏省淮安市生态新城吾悦广场三楼天空之城多奇妙乐园"
+    },
+    "3583": {
+        "machineCount": 1,
+        "id": "3583",
+        "province": "山东",
+        "arcadeName": "遇见未来临沂兰山万象汇店",
+        "mall": "遇见未来临沂兰山万象汇店",
+        "address": "山东省临沂市兰山区万象汇L-301遇见未来"
+    },
+    "3584": {
+        "machineCount": 1,
+        "id": "3584",
+        "province": "贵州",
+        "arcadeName": "青云部落贵阳南明店",
+        "mall": "青云部落贵阳南明店",
+        "address": "贵州省贵阳市南明区青云市集酒吧街青云部落电玩城"
+    },
+    "3585": {
+        "machineCount": 1,
+        "id": "3585",
+        "province": "河南",
+        "arcadeName": "嗨party洛阳西工万达店",
+        "mall": "嗨party洛阳西工万达店",
+        "address": "河南省洛阳市西工区中州万达广场5楼嗨party运动娱乐中心"
+    },
+    "3586": {
+        "machineCount": 1,
+        "id": "3586",
+        "province": "湖北",
+        "arcadeName": "快乐电堂黄冈黄州店",
+        "mall": "快乐电堂黄冈黄州店",
+        "address": "湖北省黄冈市黄州区胜利街与八一路交汇处居然之家快乐电堂"
+    },
+    "3587": {
+        "machineCount": 1,
+        "id": "3587",
+        "province": "湖北",
+        "arcadeName": "维京传奇荆州洪湖雅斯广场店",
+        "mall": "维京传奇荆州洪湖雅斯广场店",
+        "address": "湖北省荆州市洪湖市新堤镇天远时代雅斯广场A区三楼维京传奇家庭娱乐中心"
+    },
+    "3588": {
+        "machineCount": 1,
+        "id": "3588",
+        "province": "江西",
+        "arcadeName": "开心大玩家宜春市丰喜盈门店",
+        "mall": "开心大玩家宜春市丰喜盈门店",
+        "address": "江西省宜春市丰城市孙渡街道龙光中大道喜盈门范城2栋3层开心大玩家"
+    },
+    "3589": {
+        "machineCount": 4,
+        "id": "3589",
+        "province": "上海",
+        "arcadeName": "AKIBAGO上海杨浦百联ZX造趣场店",
+        "mall": "AKIBAGO上海杨浦百联ZX造趣场店",
+        "address": "上海市杨浦区四平路2500号百联ZX造趣场2楼AKIBAGO"
     }
 }
