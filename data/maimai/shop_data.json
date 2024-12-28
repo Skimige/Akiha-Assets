@@ -16918,5 +16918,13 @@
         "arcadeName": "AKIBAGO上海杨浦百联ZX造趣场店",
         "mall": "AKIBAGO上海杨浦百联ZX造趣场店",
         "address": "上海市杨浦区四平路2500号百联ZX造趣场2楼AKIBAGO"
+    },
+    "3590": {
+        "machineCount": 2,
+        "id": "3590",
+        "province": "广东",
+        "arcadeName": "玩嘉来了东莞虎门天虹购物中心店",
+        "mall": "玩嘉来了东莞虎门天虹购物中心店",
+        "address": "广东省东莞市虎门镇连升路天虹购物中心二楼玩嘉来了电玩城"
     }
 }
