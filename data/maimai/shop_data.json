@@ -17046,5 +17046,13 @@
         "arcadeName": "SaturneyMusicHouse沙坪坝万科店",
         "mall": "SaturneyMusicHouse沙坪坝万科店",
         "address": "重庆市沙坪坝区万科金色悦城二期二栋106SaturneyMusicHouse"
+    },
+    "3602": {
+        "machineCount": 2,
+        "id": "3602",
+        "province": "广东",
+        "arcadeName": "骑趣乐园广州海珠燕汇旗舰店",
+        "mall": "骑趣乐园广州海珠燕汇旗舰店",
+        "address": "广东省广州市海珠区江燕路108号燕汇广场3楼骑趣乐园"
     }
 }
