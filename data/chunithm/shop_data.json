@@ -2975,6 +2975,14 @@
         "mall": "合家欢青岛市北悦荟店",
         "address": "山东省青岛市市北区四方路悦荟广场3楼"
     },
+    "3589": {
+        "machineCount": 2,
+        "id": "3589",
+        "province": "上海",
+        "arcadeName": "AKIBAGO上海杨浦百联ZX造趣场店",
+        "mall": "AKIBAGO上海杨浦百联ZX造趣场店",
+        "address": "上海市杨浦区四平路2500号百联ZX造趣场2楼AKIBAGO"
+    },
     "3590": {
         "machineCount": 2,
         "id": "3590",
@@ -3051,7 +3059,7 @@
         "machineCount": 2,
         "id": "3628",
         "province": "甘肃",
-        "arcadeName": "一起玩潮趣麦积桥南店",
+        "arcadeName": "一起玩天水麦积桥南店",
         "mall": "一起玩潮趣麦积桥南店",
         "address": "甘肃省天水市市麦积区桥南五道街广场2楼一起玩潮趣嘉年华"
     }
