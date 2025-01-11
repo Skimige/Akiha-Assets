@@ -17574,5 +17574,13 @@
         "arcadeName": "Funwlley家庭娱乐中心广州番禺店",
         "mall": "Funwlley家庭娱乐中心广州番禺店",
         "address": "广东省广州市番禺区洛溪环岛南路398号洛溪大厦喜邻里商业中心4楼funwlley家庭娱乐中心"
+    },
+    "3674": {
+        "machineCount": 1,
+        "id": "3674",
+        "province": "广东",
+        "arcadeName": "蚂蚁特工队汕尾海丰店",
+        "mall": "蚂蚁特工队汕尾海丰店",
+        "address": "广东省汕尾市海丰县海城镇世纪广场三楼蚂蚁特工队"
     }
 }
