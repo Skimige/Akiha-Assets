@@ -39385,6 +39385,80 @@
             "is_new": false
         }
     },
+    "10242": {
+        "id": "10242",
+        "title": "ナミダと流星",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.2,
+            11.0,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7",
+            "11",
+            "13"
+        ],
+        "cids": [
+            8395,
+            8396,
+            8397,
+            8398
+        ],
+        "charts": [
+            {
+                "notes": [
+                    169,
+                    15,
+                    3,
+                    7,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    216,
+                    34,
+                    9,
+                    22,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    349,
+                    59,
+                    44,
+                    9,
+                    34
+                ],
+                "charter": "みそかつ侍"
+            },
+            {
+                "notes": [
+                    475,
+                    39,
+                    126,
+                    18,
+                    20
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ナミダと流星",
+            "artist": "芳川よしの",
+            "genre": "舞萌",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
     "10251": {
         "id": "10251",
         "title": "Monochrome Rainbow",
@@ -40049,6 +40123,80 @@
             "release_date": "",
             "from": "maimai でらっくす",
             "is_new": false
+        }
+    },
+    "10366": {
+        "id": "10366",
+        "title": "oboro",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            8399,
+            8400,
+            8401,
+            8402
+        ],
+        "charts": [
+            {
+                "notes": [
+                    132,
+                    13,
+                    4,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    256,
+                    14,
+                    8,
+                    30,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    258,
+                    40,
+                    41,
+                    27,
+                    42
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    429,
+                    43,
+                    67,
+                    78,
+                    47
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "oboro",
+            "artist": "ヒゲドライバー",
+            "genre": "舞萌",
+            "bpm": 175,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
         }
     },
     "10404": {
@@ -75256,6 +75404,80 @@
             "is_new": false
         }
     },
+    "11567": {
+        "id": "11567",
+        "title": "I’m Here (feat. Merry Kirk-Holmes)",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            10.0,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            8403,
+            8404,
+            8405,
+            8406
+        ],
+        "charts": [
+            {
+                "notes": [
+                    132,
+                    12,
+                    8,
+                    16,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    264,
+                    22,
+                    12,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    359,
+                    78,
+                    34,
+                    22,
+                    38
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    538,
+                    32,
+                    118,
+                    12,
+                    41
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "I’m Here (feat. Merry Kirk-Holmes)",
+            "artist": "大谷智哉「ソニックフロンティア」",
+            "genre": "其他游戏",
+            "bpm": 187,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
     "11568": {
         "id": "11568",
         "title": "INTERNET OVERDOSE",
@@ -77106,6 +77328,80 @@
             "is_new": true
         }
     },
+    "11597": {
+        "id": "11597",
+        "title": "ノンブレス・オブリージュ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.2,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            8407,
+            8408,
+            8409,
+            8410
+        ],
+        "charts": [
+            {
+                "notes": [
+                    109,
+                    9,
+                    4,
+                    16,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    227,
+                    11,
+                    8,
+                    25,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    241,
+                    38,
+                    26,
+                    25,
+                    15
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    102,
+                    281,
+                    39,
+                    15,
+                    28
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ノンブレス・オブリージュ",
+            "artist": "ピノキオピー",
+            "genre": "niconico & VOCALOID",
+            "bpm": 148,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
     "11598": {
         "id": "11598",
         "title": "テオ",
@@ -78216,6 +78512,598 @@
             "is_new": true
         }
     },
+    "11613": {
+        "id": "11613",
+        "title": "Mystic Parade",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.5,
+            10.0,
+            13.5
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            8411,
+            8412,
+            8413,
+            8414
+        ],
+        "charts": [
+            {
+                "notes": [
+                    125,
+                    13,
+                    6,
+                    13,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    242,
+                    18,
+                    8,
+                    27,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    429,
+                    44,
+                    44,
+                    15,
+                    50
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    681,
+                    46,
+                    82,
+                    24,
+                    63
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Mystic Parade",
+            "artist": "ひとしずく×やま△ feat.悠佑＆ないこ（いれいす）",
+            "genre": "舞萌",
+            "bpm": 133,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11614": {
+        "id": "11614",
+        "title": "Cry Cry Cry",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.2,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            8415,
+            8416,
+            8417,
+            8418
+        ],
+        "charts": [
+            {
+                "notes": [
+                    93,
+                    10,
+                    7,
+                    18,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    232,
+                    12,
+                    14,
+                    27,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    242,
+                    88,
+                    32,
+                    38,
+                    32
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    523,
+                    57,
+                    68,
+                    42,
+                    16
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "Cry Cry Cry",
+            "artist": "FLG4 feat.Flower",
+            "genre": "舞萌",
+            "bpm": 123,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11615": {
+        "id": "11615",
+        "title": "ぽわわん劇場",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            11.2,
+            13.4
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [
+            8419,
+            8420,
+            8421,
+            8422
+        ],
+        "charts": [
+            {
+                "notes": [
+                    176,
+                    13,
+                    8,
+                    17,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    314,
+                    16,
+                    16,
+                    29,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    461,
+                    45,
+                    65,
+                    27,
+                    19
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    498,
+                    86,
+                    112,
+                    58,
+                    46
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "ぽわわん劇場",
+            "artist": "ぽわわん劇場",
+            "genre": "舞萌",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11616": {
+        "id": "11616",
+        "title": "my flow",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            8423,
+            8424,
+            8425,
+            8426
+        ],
+        "charts": [
+            {
+                "notes": [
+                    123,
+                    15,
+                    6,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    256,
+                    6,
+                    10,
+                    24,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    323,
+                    43,
+                    62,
+                    28,
+                    37
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    443,
+                    62,
+                    58,
+                    59,
+                    61
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "my flow",
+            "artist": "crayvxn",
+            "genre": "舞萌",
+            "bpm": 157,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11617": {
+        "id": "11617",
+        "title": "POWER OF UNITY",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.2,
+            12.0,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            8427,
+            8428,
+            8429,
+            8430
+        ],
+        "charts": [
+            {
+                "notes": [
+                    213,
+                    15,
+                    3,
+                    6,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    326,
+                    18,
+                    4,
+                    29,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    35,
+                    32,
+                    17,
+                    45
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    651,
+                    15,
+                    93,
+                    74,
+                    80
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "POWER OF UNITY",
+            "artist": "Zekk",
+            "genre": "舞萌",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11618": {
+        "id": "11618",
+        "title": "Energizing Flame",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.0,
+            12.8,
+            14.4
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            8431,
+            8432,
+            8433,
+            8434
+        ],
+        "charts": [
+            {
+                "notes": [
+                    213,
+                    11,
+                    12,
+                    7,
+                    15
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    318,
+                    20,
+                    15,
+                    22,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    469,
+                    103,
+                    53,
+                    55,
+                    66
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    666,
+                    36,
+                    104,
+                    59,
+                    101
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Energizing Flame",
+            "artist": "Artifact vs. Dualcast",
+            "genre": "舞萌",
+            "bpm": 201,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11619": {
+        "id": "11619",
+        "title": "KHYMΞXΛ",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.7,
+            12.9,
+            14.7
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12+",
+            "14+"
+        ],
+        "cids": [
+            8435,
+            8436,
+            8437,
+            8438
+        ],
+        "charts": [
+            {
+                "notes": [
+                    246,
+                    13,
+                    4,
+                    7,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    342,
+                    21,
+                    12,
+                    22,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    402,
+                    73,
+                    21,
+                    24,
+                    91
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    672,
+                    84,
+                    56,
+                    19,
+                    150
+                ],
+                "charter": "鳩サファzhel"
+            }
+        ],
+        "basic_info": {
+            "title": "KHYMΞXΛ",
+            "artist": "のらねこさい feat.ricono",
+            "genre": "舞萌",
+            "bpm": 220,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11624": {
+        "id": "11624",
+        "title": "SQUAD-Phvntom-",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            12.8,
+            14.4
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            8439,
+            8440,
+            8441,
+            8442
+        ],
+        "charts": [
+            {
+                "notes": [
+                    167,
+                    11,
+                    4,
+                    20,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    284,
+                    22,
+                    12,
+                    26,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    545,
+                    59,
+                    47,
+                    23,
+                    43
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    708,
+                    51,
+                    88,
+                    77,
+                    140
+                ],
+                "charter": "Ruby"
+            }
+        ],
+        "basic_info": {
+            "title": "SQUAD-Phvntom-",
+            "artist": "Getty vs DJ DiA",
+            "genre": "音击&中二节奏",
+            "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
     "11625": {
         "id": "11625",
         "title": "GEOMETRIC DANCE",
@@ -78834,6 +79722,376 @@
             "is_new": true
         }
     },
+    "11638": {
+        "id": "11638",
+        "title": "星界ちゃんと可不ちゃんのおつかい合騒曲",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            11.9,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            8443,
+            8444,
+            8445,
+            8446
+        ],
+        "charts": [
+            {
+                "notes": [
+                    189,
+                    16,
+                    6,
+                    23,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    314,
+                    23,
+                    6,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    475,
+                    58,
+                    80,
+                    43,
+                    51
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    616,
+                    75,
+                    224,
+                    62,
+                    68
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "星界ちゃんと可不ちゃんのおつかい合騒曲",
+            "artist": "南ノ南",
+            "genre": "niconico & VOCALOID",
+            "bpm": 220,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11640": {
+        "id": "11640",
+        "title": "with U",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            12.0,
+            13.4
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "13"
+        ],
+        "cids": [
+            8447,
+            8448,
+            8449,
+            8450
+        ],
+        "charts": [
+            {
+                "notes": [
+                    164,
+                    11,
+                    8,
+                    14,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    228,
+                    23,
+                    8,
+                    30,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    481,
+                    41,
+                    19,
+                    43,
+                    33
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    445,
+                    162,
+                    86,
+                    60,
+                    44
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "with U",
+            "artist": "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)",
+            "genre": "其他游戏",
+            "bpm": 155,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11641": {
+        "id": "11641",
+        "title": "Love Kills U",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.8,
+            10.7,
+            13.4
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            8451,
+            8452,
+            8453,
+            8454
+        ],
+        "charts": [
+            {
+                "notes": [
+                    102,
+                    24,
+                    4,
+                    16,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    276,
+                    20,
+                    8,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    396,
+                    54,
+                    34,
+                    10,
+                    19
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    469,
+                    63,
+                    42,
+                    72,
+                    130
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "Love Kills U",
+            "artist": "EmoCosine",
+            "genre": "其他游戏",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11642": {
+        "id": "11642",
+        "title": "DANGEROOOOUS JUNGLE",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.8,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            8455,
+            8456,
+            8457,
+            8458
+        ],
+        "charts": [
+            {
+                "notes": [
+                    124,
+                    14,
+                    8,
+                    32,
+                    15
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    23,
+                    6,
+                    27,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    363,
+                    66,
+                    49,
+                    13,
+                    62
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    711,
+                    56,
+                    96,
+                    72,
+                    57
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "DANGEROOOOUS JUNGLE",
+            "artist": "Laur",
+            "genre": "其他游戏",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11643": {
+        "id": "11643",
+        "title": "天使光輪",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.2,
+            12.5,
+            14.4
+        ],
+        "level": [
+            "6",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            8459,
+            8460,
+            8461,
+            8462
+        ],
+        "charts": [
+            {
+                "notes": [
+                    242,
+                    14,
+                    7,
+                    21,
+                    24
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    372,
+                    16,
+                    8,
+                    16,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    453,
+                    79,
+                    61,
+                    15,
+                    87
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    749,
+                    57,
+                    116,
+                    67,
+                    75
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "天使光輪",
+            "artist": "REDALiCE & cosMo＠暴走P",
+            "genre": "其他游戏",
+            "bpm": 203,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
     "11650": {
         "id": "11650",
         "title": "ずんだもんの朝食　〜目覚ましずんラップ〜",
@@ -78977,6 +80235,154 @@
             "artist": "なみぐる",
             "genre": "niconico & VOCALOID",
             "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11652": {
+        "id": "11652",
+        "title": "HUMANBORG",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.0,
+            12.0,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            8463,
+            8464,
+            8465,
+            8466
+        ],
+        "charts": [
+            {
+                "notes": [
+                    169,
+                    17,
+                    8,
+                    21,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    287,
+                    32,
+                    9,
+                    29,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    387,
+                    124,
+                    68,
+                    3,
+                    32
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    651,
+                    159,
+                    1,
+                    186,
+                    30
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "HUMANBORG",
+            "artist": "SARUKANI",
+            "genre": "流行&动漫",
+            "bpm": 189,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
+        }
+    },
+    "11653": {
+        "id": "11653",
+        "title": "ULTRA POWER",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.2,
+            11.2,
+            13.5
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "13"
+        ],
+        "cids": [
+            8467,
+            8468,
+            8469,
+            8470
+        ],
+        "charts": [
+            {
+                "notes": [
+                    139,
+                    15,
+                    4,
+                    7,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    225,
+                    19,
+                    6,
+                    30,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    335,
+                    24,
+                    43,
+                    59,
+                    47
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    485,
+                    118,
+                    65,
+                    44,
+                    68
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ULTRA POWER",
+            "artist": "SARUKANI",
+            "genre": "流行&动漫",
+            "bpm": 142,
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": true
