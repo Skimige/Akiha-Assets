@@ -2840,7 +2840,7 @@
         "address": "河南省郑州市二七区万象城3楼翡尔堡"
     },
     "3481": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "3481",
         "province": "福建",
         "arcadeName": "天空之城福州仓山中俊店",
@@ -2894,14 +2894,6 @@
         "arcadeName": "SUPERBUDDY常州天宁华润店",
         "mall": "SUPERBUDDY常州天宁华润店",
         "address": "江苏省常州市天宁区离宫路329号华润国际花园100栋常州万象城四楼L459"
-    },
-    "3502": {
-        "machineCount": 1,
-        "id": "3502",
-        "province": "河南",
-        "arcadeName": "天空之城郑州荥阳店",
-        "mall": "多奇妙乐园郑州荥阳店",
-        "address": "河南省郑州市荥阳市豫龙镇荥泽大道与郑上路交叉口向北吾悦广场第二层天空之城"
     },
     "3504": {
         "machineCount": 1,
@@ -3198,5 +3190,13 @@
         "arcadeName": "宇宙队长南昌进贤嘉禾店",
         "mall": "宇宙队长南昌进贤嘉禾店",
         "address": "江西省南昌市进贤县民和镇嘉禾广场鹏颂百货商场3楼宇宙队长"
+    },
+    "3698": {
+        "machineCount": 2,
+        "id": "3698",
+        "province": "北京",
+        "arcadeName": "插电师北京王府井银泰店",
+        "mall": "插电师北京王府井银泰店",
+        "address": "北京市东城区王府井银泰in882F插电师电玩"
     }
 }
