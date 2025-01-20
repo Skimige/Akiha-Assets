@@ -576,7 +576,7 @@
         "address": "内蒙古呼和浩特市赛罕区万达广场二楼大玩家"
     },
     "1146": {
-        "machineCount": 2,
+        "machineCount": 4,
         "id": "1146",
         "province": "湖南",
         "arcadeName": "城市英雄司门口店",
@@ -17918,5 +17918,13 @@
         "arcadeName": "星贝乐园阜阳颍州店",
         "mall": "星贝乐园阜阳颍州店",
         "address": "安徽省阜阳市颍州区阜阳商厦中心三楼星贝乐园"
+    },
+    "3719": {
+        "machineCount": 1,
+        "id": "3719",
+        "province": "广东",
+        "arcadeName": "星际传奇佛山禅城祖庙店",
+        "mall": "星际传奇佛山禅城祖庙店",
+        "address": "广东省佛山市禅城区祖庙街道祖庙路17号MELANDSPORT星际传奇"
     }
 }
