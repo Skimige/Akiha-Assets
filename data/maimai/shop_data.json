@@ -9072,7 +9072,7 @@
         "address": "福建省漳州市龙文区吾悦广场3层"
     },
     "2502": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2502",
         "province": "天津",
         "arcadeName": "王者之风天津大悦城店",
@@ -9904,7 +9904,7 @@
         "address": "河北省石家庄市桥西区西美花街生活工场二楼西头"
     },
     "2620": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2620",
         "province": "山东",
         "arcadeName": "哈奇乐园烟台金都百货店",
@@ -17878,5 +17878,21 @@
         "arcadeName": "大玩家乐山市中万达店",
         "mall": "大玩家乐山市中万达店",
         "address": "四川省乐山市市中区万达广场三楼大玩家"
+    },
+    "3714": {
+        "machineCount": 1,
+        "id": "3714",
+        "province": "山东",
+        "arcadeName": "积木熊菏泽曹县大润发店",
+        "mall": "积木熊菏泽曹县大润发店",
+        "address": "山东省菏泽市曹县大润发三楼积木熊家庭娱乐中心"
+    },
+    "3715": {
+        "machineCount": 1,
+        "id": "3715",
+        "province": "江苏",
+        "arcadeName": "穿越时光连云港赣榆店",
+        "mall": "穿越时光连云港赣榆店",
+        "address": "江苏省连云港市赣榆区吾悦繁华里南门二楼穿越时光电玩世界"
     }
 }
