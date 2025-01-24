@@ -18070,5 +18070,13 @@
         "arcadeName": "超能玩家呼和浩特赛店",
         "mall": "超能玩家呼和浩特赛店",
         "address": "内蒙古自治区呼和浩特市赛罕区摩尔城A座8楼超能玩家电玩体验中心"
+    },
+    "3739": {
+        "machineCount": 1,
+        "id": "3739",
+        "province": "山西",
+        "arcadeName": "X街区X-block太原晋源店",
+        "mall": "X街区X-block太原晋源店",
+        "address": "山西省太原市晋源区长风国贸第六馆A006号X街区X-block"
     }
 }
