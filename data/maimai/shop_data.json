@@ -18078,5 +18078,13 @@
         "arcadeName": "X街区X-block太原晋源店",
         "mall": "X街区X-block太原晋源店",
         "address": "山西省太原市晋源区长风国贸第六馆A006号X街区X-block"
+    },
+    "3740": {
+        "machineCount": 1,
+        "id": "3740",
+        "province": "江苏",
+        "arcadeName": "潮趣堂常州新北环球港店",
+        "mall": "潮趣堂常州新北环球港店",
+        "address": "江苏省常州市新北区通江中路江南环球港太阳大厅4楼L4111潮趣堂"
     }
 }
