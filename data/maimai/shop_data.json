@@ -847,6 +847,14 @@
         "mall": "星际传奇龙华天虹店",
         "address": "深圳市龙华区民治街道人民路九方购物中心三楼L312星际传奇"
     },
+    "1200": {
+        "machineCount": 1,
+        "id": "1200",
+        "province": "广东",
+        "arcadeName": "Echo Lab广州番禺店",
+        "mall": "广州GOGO新天地店",
+        "address": "广东省广州市番禺区员岗大道东路12号恒创智慧园D栋101Echo Lab"
+    },
     "1201": {
         "machineCount": 1,
         "id": "1201",
