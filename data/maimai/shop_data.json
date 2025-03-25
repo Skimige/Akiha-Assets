@@ -18462,5 +18462,13 @@
         "arcadeName": "菲游乐闵行剑川路店",
         "mall": "菲游乐闵行剑川路店",
         "address": "上海市闵行区剑川路1000号3楼"
+    },
+    "3808": {
+        "machineCount": 2,
+        "id": "3808",
+        "province": "广东",
+        "arcadeName": "OWANGE运动超乐场珠海横琴华发商都店",
+        "mall": "OWANGE运动超乐场珠海横琴华发商都店",
+        "address": "广东省珠海市横琴合作区横琴华发商都南区二楼OWANGE运动超乐场"
     }
 }
