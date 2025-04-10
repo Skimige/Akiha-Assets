@@ -10639,16 +10639,8 @@
         "mall": "欢乐猩球沈阳沈河万达店",
         "address": "辽宁省沈阳市沈河区文化路81号万达广场三楼"
     },
-    "2739": {
-        "machineCount": 1,
-        "id": "2739",
-        "province": "江苏",
-        "arcadeName": "超乐趣玩堂常州中吴广场店",
-        "mall": "超乐趣玩堂常州中吴广场店",
-        "address": "江苏常州市西林街道中吴广场一楼"
-    },
     "2740": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2740",
         "province": "江苏",
         "arcadeName": "超乐趣玩堂常州钟楼店",
