@@ -11179,7 +11179,7 @@
         "machineCount": 1,
         "id": "2821",
         "province": "贵州",
-        "arcadeName": "梦时代电玩城西秀国贸店",
+        "arcadeName": "梦时代电玩城安顺国贸店",
         "mall": "梦时代西秀国贸店",
         "address": "贵州省安顺市西秀区国贸购物中心负一层梦时代电玩城"
     },
@@ -11763,7 +11763,7 @@
         "machineCount": 1,
         "id": "2900",
         "province": "贵州",
-        "arcadeName": "梦时代贵阳云岩店",
+        "arcadeName": "梦时代电玩城贵阳新印1950店",
         "mall": "梦时代贵阳云岩店",
         "address": "贵州省贵阳市云岩区国贸新印19503A层"
     },
@@ -11811,7 +11811,7 @@
         "machineCount": 1,
         "id": "2906",
         "province": "贵州",
-        "arcadeName": "梦时代电玩贵州贵阳CCpark店",
+        "arcadeName": "梦时代电玩城贵阳CCpark店",
         "mall": "梦时代电玩贵州贵阳CCpark店",
         "address": "贵州省贵阳市观山湖CCpark B馆"
     },
@@ -15619,7 +15619,7 @@
         "machineCount": 1,
         "id": "3431",
         "province": "贵州",
-        "arcadeName": "梦时代凯里清江岗亭国贸店",
+        "arcadeName": "梦时代电玩城凯里国贸店",
         "mall": "梦时代凯里清江岗亭国贸店",
         "address": "贵州省凯里市清江岗亭国贸购物中心广场三楼梦时代电玩城"
     },
@@ -18710,5 +18710,13 @@
         "arcadeName": "名豪娱乐松原宁江南秀商业广场店",
         "mall": "名豪娱乐松原宁江南秀商业广场店",
         "address": "吉林省松原市宁江区滨江街道铂金路江南秀商业广场一楼一层西区"
+    },
+    "3843": {
+        "machineCount": 1,
+        "id": "3843",
+        "province": "辽宁",
+        "arcadeName": "汤姆熊大连甘井子亿合城店",
+        "mall": "汤姆熊大连甘井子亿合城店",
+        "address": "辽宁省大连市甘井子区山东路235号亿合城三楼"
     }
 }
