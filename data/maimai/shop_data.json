@@ -18774,5 +18774,13 @@
         "arcadeName": "嘻游记金华浦江店",
         "mall": "嘻游记金华浦江店",
         "address": "浙江省金华市浦江县人民广场2楼213室嘻游记乐园"
+    },
+    "3854": {
+        "machineCount": 4,
+        "id": "3854",
+        "province": "上海",
+        "arcadeName": "秋叶原上海南京东路百联AKIBA店",
+        "mall": "秋叶原上海南京东路百联AKIBA店",
+        "address": "上海市黄浦区南京东路340号百联ZX创趣场AKIBA秋叶原"
     }
 }
