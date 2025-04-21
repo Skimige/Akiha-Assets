@@ -3406,5 +3406,13 @@
         "arcadeName": "极客玩家佛山悦汇广场店",
         "mall": "极客玩家佛山悦汇广场店",
         "address": "广东省佛山市南海区南海大道北81号悦汇广场A座3楼"
+    },
+    "3854": {
+        "machineCount": 2,
+        "id": "3854",
+        "province": "上海",
+        "arcadeName": "秋叶原上海南京东路百联AKIBA店",
+        "mall": "秋叶原上海南京东路百联AKIBA店",
+        "address": "上海市黄浦区南京东路340号百联ZX创趣场AKIBA秋叶原"
     }
 }
