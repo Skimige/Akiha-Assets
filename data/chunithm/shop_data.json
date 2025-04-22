@@ -3414,5 +3414,13 @@
         "arcadeName": "秋叶原上海南京东路百联AKIBA店",
         "mall": "秋叶原上海南京东路百联AKIBA店",
         "address": "上海市黄浦区南京东路340号百联ZX创趣场AKIBA秋叶原"
+    },
+    "3857": {
+        "machineCount": 2,
+        "id": "3857",
+        "province": "广东",
+        "arcadeName": "宝贝王惠州大亚湾万达店",
+        "mall": "宝贝王惠州大亚湾万达店",
+        "address": "广东省惠州市大亚湾万达广场三楼宝贝王"
     }
 }
