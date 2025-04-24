@@ -56,7 +56,7 @@
         "address": "湖南省衡阳市石鼓区解放路26号"
     },
     "1011": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1011",
         "province": "北京",
         "arcadeName": "北京乐酷电玩",
@@ -18870,5 +18870,21 @@
         "arcadeName": "6686家庭娱乐中心赣州章贡店",
         "mall": "6686家庭娱乐中心赣州章贡店",
         "address": "江西省赣州市章贡区6686家庭娱乐中心"
+    },
+    "3867": {
+        "machineCount": 1,
+        "id": "3867",
+        "province": "河北",
+        "arcadeName": "潮玩会唐山唐海名都广场店",
+        "mall": "潮玩会唐山唐海名都广场店",
+        "address": "河北省唐山市唐海镇大通路兴海名都广场三层潮玩会"
+    },
+    "3868": {
+        "machineCount": 1,
+        "id": "3868",
+        "province": "浙江",
+        "arcadeName": "Party time潮玩街区温州鹿城店",
+        "mall": "Party time潮玩街区温州鹿城店",
+        "address": "浙江省温州市鹿城区5050购物广场4楼"
     }
 }
