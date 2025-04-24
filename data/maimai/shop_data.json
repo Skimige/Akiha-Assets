@@ -18886,5 +18886,13 @@
         "arcadeName": "Party time潮玩街区温州鹿城店",
         "mall": "Party time潮玩街区温州鹿城店",
         "address": "浙江省温州市鹿城区5050购物广场4楼"
+    },
+    "3869": {
+        "machineCount": 1,
+        "id": "3869",
+        "province": "山东",
+        "arcadeName": "享区日照东港万达店",
+        "mall": "享区日照东港万达店",
+        "address": "山东省日照市东港区秦楼街道万达广场三楼享区家庭娱乐中心"
     }
 }
