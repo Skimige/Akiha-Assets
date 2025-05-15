@@ -2095,14 +2095,6 @@
         "mall": "大玩家常州新北万达店",
         "address": "江苏省常州市新北区万达广场三楼大玩家"
     },
-    "1419": {
-        "machineCount": 1,
-        "id": "1419",
-        "province": "四川",
-        "arcadeName": "大玩家成都金牛二店",
-        "mall": "大玩家成都金牛二店",
-        "address": "四川省成都市金牛区一环路北三段万达广场大玩家"
-    },
     "1420": {
         "machineCount": 1,
         "id": "1420",
@@ -2600,7 +2592,7 @@
         "address": "北京市朝阳区建国路16号院（星空文娱）C区二楼梦与宝藏"
     },
     "1508": {
-        "machineCount": 5,
+        "machineCount": 4,
         "id": "1508",
         "province": "广东",
         "arcadeName": "朗玩广州新塘永旺店",
@@ -3336,7 +3328,7 @@
         "address": "广东省广州市白云区同和金铂广场2楼漫奈斯"
     },
     "1632": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1632",
         "province": "天津",
         "arcadeName": "51区天津南开熙悦汇店",
@@ -3792,7 +3784,7 @@
         "address": "江苏省张家港市金港镇崇真路中骏世界城东门2楼萌多拉"
     },
     "1702": {
-        "machineCount": 4,
+        "machineCount": 6,
         "id": "1702",
         "province": "上海",
         "arcadeName": "朗玩上海宝山日月光店",
@@ -5192,7 +5184,7 @@
         "address": "陕西省西安市雁塔区崇业路凯德广场三楼泷威嘉年华"
     },
     "1917": {
-        "machineCount": 6,
+        "machineCount": 5,
         "id": "1917",
         "province": "江苏",
         "arcadeName": "朗玩南京江宁金鹰店",
@@ -5382,14 +5374,6 @@
         "arcadeName": "摩兜欢乐岛湖州南浔店",
         "mall": "摩兜欢乐岛湖州南浔店",
         "address": "浙江省湖州市南浔区吾悦广场三楼摩兜欢乐岛"
-    },
-    "1942": {
-        "machineCount": 1,
-        "id": "1942",
-        "province": "湖南",
-        "arcadeName": "骑士玩国长沙华创国际广场店",
-        "mall": "骑士玩国长沙华创国际广场店",
-        "address": "湖南省长沙市开福区芙蓉北路街道华创国际广场负一层南区骑士玩国"
     },
     "1944": {
         "machineCount": 1,
@@ -7664,7 +7648,7 @@
         "address": "湖北省武汉市洪山区潮乐街区娱乐中心"
     },
     "2291": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2291",
         "province": "广东",
         "arcadeName": "热带雨林湛江赤坎店",
@@ -8502,14 +8486,6 @@
         "arcadeName": "游戏大魔方滨州吾悦店",
         "mall": "游戏大魔方滨州吾悦店",
         "address": "山东省滨州市滨城区市西街道长江三路渤海十八路吾悦广场Z207铺游戏大魔方"
-    },
-    "2422": {
-        "machineCount": 1,
-        "id": "2422",
-        "province": "湖南",
-        "arcadeName": "子洋联盟长沙雨花店",
-        "mall": "子洋联盟长沙雨花店",
-        "address": "湖南省长沙市雨花区运达汇商场负一楼子洋联盟"
     },
     "2424": {
         "machineCount": 1,
@@ -19222,5 +19198,21 @@
         "arcadeName": "雁窝西安雁塔小寨店",
         "mall": "雁窝西安雁塔小寨店",
         "address": "陕西省西安市雁塔区雁塔西路世纪经典a1005"
+    },
+    "3917": {
+        "machineCount": 2,
+        "id": "3917",
+        "province": "湖南",
+        "arcadeName": "骑士玩国长沙天心悦方mall店",
+        "mall": "骑士玩国长沙天心悦方mall店",
+        "address": "湖南省长沙市天心区坡子街街道悦方mall负一层骑士玩国"
+    },
+    "3918": {
+        "machineCount": 1,
+        "id": "3918",
+        "province": "黑龙江",
+        "arcadeName": "大玩家鸡西鸡冠万达店",
+        "mall": "大玩家鸡西鸡冠万达店",
+        "address": "黑龙江省鸡西市鸡冠区中心大街万达广场三楼大玩家"
     }
 }
