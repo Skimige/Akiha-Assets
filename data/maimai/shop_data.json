@@ -7471,14 +7471,6 @@
         "mall": "骇客码头七彩云南第壹城店",
         "address": "云南省昆明市呈贡区乌龙街道七彩云南第壹城购物中心4楼"
     },
-    "2278": {
-        "machineCount": 1,
-        "id": "2278",
-        "province": "湖北",
-        "arcadeName": "快乐地带武汉洪山店",
-        "mall": "快乐地带武汉洪山店",
-        "address": "湖北省武汉市洪山区珞喻路街道口快乐地带"
-    },
     "2279": {
         "machineCount": 2,
         "id": "2279",
@@ -9008,7 +9000,7 @@
         "address": "浙江省杭州市上城区延安路98号"
     },
     "2537": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2537",
         "province": "湖北",
         "arcadeName": "欢悦天堂武汉青山奥莱店",
@@ -9336,7 +9328,7 @@
         "address": "湖北省孝感市乾坤新城二楼欢悦天堂"
     },
     "2586": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "2586",
         "province": "湖北",
         "arcadeName": "SEER PARTY仙桃吾悦广场店",
@@ -10936,7 +10928,7 @@
         "address": "安徽省蚌埠市淮上万达三楼星奇多"
     },
     "2818": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2818",
         "province": "湖北",
         "arcadeName": "SEERCITY武汉蔡甸万达店",
