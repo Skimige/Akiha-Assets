@@ -13624,7 +13624,7 @@
         "address": "广东省深圳市罗湖区东晓街道东晓社区布心路2018号粤海置地深圳天河城N205、N206、N207"
     },
     "3195": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "3195",
         "province": "广东",
         "arcadeName": "星际梦乐城清远清城店",
@@ -14054,14 +14054,6 @@
         "arcadeName": "Baby熊家庭阜阳太和万达店",
         "mall": "Baby熊家庭阜阳太和万达店",
         "address": "安徽省阜阳市太和县城关镇太和大道万达广场三楼Baby熊家庭"
-    },
-    "3251": {
-        "machineCount": 1,
-        "id": "3251",
-        "province": "广东",
-        "arcadeName": "星际梦乐城清远清城顺盈店",
-        "mall": "星际梦乐城清远清城顺盈店",
-        "address": "广东省清远市清城区先锋中路城市广场顺盈百货三层星际梦乐城"
     },
     "3252": {
         "machineCount": 1,
@@ -14939,9 +14931,9 @@
         "machineCount": 1,
         "id": "3376",
         "province": "江苏",
-        "arcadeName": "天空之城兴化临城吾悦店",
+        "arcadeName": "酷乐街区兴化临城吾悦店",
         "mall": "天空之城兴化临城吾悦店",
-        "address": "江苏省兴化市临城街道吾悦广场2楼天空之城"
+        "address": "江苏省兴化市临城街道吾悦广场2楼酷乐街区"
     },
     "3377": {
         "machineCount": 1,
