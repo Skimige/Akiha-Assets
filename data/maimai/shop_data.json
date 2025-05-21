@@ -296,7 +296,7 @@
         "address": "海南省三亚市天涯区河西路金润阳光三楼南梦园"
     },
     "1073": {
-        "machineCount": 4,
+        "machineCount": 5,
         "id": "1073",
         "province": "广东",
         "arcadeName": "环游嘉年华东莞民盈国贸店",
@@ -920,7 +920,7 @@
         "address": "河南省郑州市金水区二七路西泰康路大卫城6楼风云再起"
     },
     "1217": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1217",
         "province": "广东",
         "arcadeName": "环游嘉年华广州黄埔绿地店",
@@ -9352,7 +9352,7 @@
         "address": "内蒙古赤峰市红山区众联时代城三楼星纪元"
     },
     "2607": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "2607",
         "province": "江苏",
         "arcadeName": "宝贝王连云港市海州万达店",
@@ -19278,5 +19278,13 @@
         "arcadeName": "天空之城大同云冈吾悦广场店",
         "mall": "天空之城大同云冈吾悦广场店",
         "address": "山西省大同市云冈区吾悦广场3楼天空之城"
+    },
+    "3972": {
+        "machineCount": 1,
+        "id": "3972",
+        "province": "江苏",
+        "arcadeName": "极速时代淮盱眙中央商城店",
+        "mall": "极速时代淮盱眙中央商城店",
+        "address": "江苏省淮安市盱眙县金源北路20号中央商城2楼极速时代"
     }
 }
