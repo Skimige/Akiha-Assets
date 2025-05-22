@@ -104,7 +104,7 @@
         "address": "北京市西城区堂子胡同9号新一代商城六层"
     },
     "1019": {
-        "machineCount": 3,
+        "machineCount": 2,
         "id": "1019",
         "province": "天津",
         "arcadeName": "风云再起天津和平路店",
@@ -1136,7 +1136,7 @@
         "address": "河南省郑州市二七区百年德化风情购物公园尚潮汇负一楼"
     },
     "1266": {
-        "machineCount": 2,
+        "machineCount": 4,
         "id": "1266",
         "province": "天津",
         "arcadeName": "风云再起天津南京路店",
@@ -4560,7 +4560,7 @@
         "address": "浙江省绍兴市越城区塔山街道金帝银泰城1幢3F202"
     },
     "1848": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1848",
         "province": "甘肃",
         "arcadeName": "风云再起兰州国芳百货店",
