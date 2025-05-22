@@ -528,7 +528,7 @@
         "address": "咸阳市秦都区正兴广场三楼风云再起"
     },
     "1128": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "1128",
         "province": "浙江",
         "arcadeName": "风云再起杭州店",
@@ -632,7 +632,7 @@
         "address": "宁夏回族自治区银川市金凤区正源北街金凤万达广场三号门二楼大玩家"
     },
     "1164": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1164",
         "province": "江苏",
         "arcadeName": "风云再起苏州观前街店",
@@ -7835,7 +7835,7 @@
         "machineCount": 2,
         "id": "2374",
         "province": "河北",
-        "arcadeName": "王者之风石家庄泰勒店",
+        "arcadeName": "王者之风石家庄勒泰店",
         "mall": "王者之风石家庄泰勒店",
         "address": "河北省石家庄市勒泰商场三楼王者之风电玩城"
     },
@@ -18734,6 +18734,14 @@
         "arcadeName": "雁窝西安雁塔小寨店",
         "mall": "雁窝西安雁塔小寨店",
         "address": "陕西省西安市雁塔区雁塔西路世纪经典a1005"
+    },
+    "3915": {
+        "machineCount": 1,
+        "id": "3915",
+        "province": "北京",
+        "arcadeName": "帝都蹑景北京丰台店",
+        "mall": "帝都蹑景北京丰台店",
+        "address": "北京市丰台区马家堡西路15号时代风帆大厦1区1703号"
     },
     "3917": {
         "machineCount": 2,
