@@ -3392,7 +3392,7 @@
         "address": "黑龙江省齐齐哈尔百货大楼6楼快乐电堂动漫娱乐中心"
     },
     "1661": {
-        "machineCount": 6,
+        "machineCount": 8,
         "id": "1661",
         "province": "广东",
         "arcadeName": "朗玩深圳壹方天地店",
@@ -3414,14 +3414,6 @@
         "arcadeName": "天空之城南宁良庆宜家店",
         "mall": "天空之城南宁良庆宜家店",
         "address": "广西南宁市良庆区平乐大道12号宜家家居天空之城游乐体验世界"
-    },
-    "1664": {
-        "machineCount": 1,
-        "id": "1664",
-        "province": "江苏",
-        "arcadeName": "纷纷乐园泰州泰兴新天地店",
-        "mall": "纷纷乐园泰州泰兴新天地店",
-        "address": "江苏省泰州市泰兴市国庆东路171号鼓楼新天地3楼01-02纷纷乐园"
     },
     "1665": {
         "machineCount": 1,
@@ -3664,7 +3656,7 @@
         "address": "江苏省张家港市金港镇崇真路中骏世界城东门2楼萌多拉"
     },
     "1702": {
-        "machineCount": 6,
+        "machineCount": 4,
         "id": "1702",
         "province": "上海",
         "arcadeName": "朗玩上海宝山日月光店",
@@ -19406,5 +19398,13 @@
         "arcadeName": "ULAND公主岭荣超金未来店",
         "mall": "ULAND公主岭荣超金未来店",
         "address": "吉林省公主岭市荣超金未来8号楼ULAND家庭娱乐中心"
+    },
+    "4004": {
+        "machineCount": 1,
+        "id": "4004",
+        "province": "天津",
+        "arcadeName": "可可猩球天津天河城店",
+        "mall": "可可猩球天津天河城店",
+        "address": "天津市和平区哈尔滨道天河城4层401"
     }
 }
