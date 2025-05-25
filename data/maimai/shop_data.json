@@ -16367,14 +16367,6 @@
         "mall": "超级星座锦州解放路碧乐城店",
         "address": "辽宁省锦州市解放路33号碧乐城2楼超级星座家庭娱乐中心"
     },
-    "3601": {
-        "machineCount": 1,
-        "id": "3601",
-        "province": "重庆",
-        "arcadeName": "SaturneyMusicHouse沙坪坝万科店",
-        "mall": "SaturneyMusicHouse沙坪坝万科店",
-        "address": "重庆市沙坪坝区万科金色悦城二期二栋106SaturneyMusicHouse"
-    },
     "3602": {
         "machineCount": 2,
         "id": "3602",
@@ -19518,5 +19510,13 @@
         "arcadeName": "菲菲羊乐园东莞东城万达店",
         "mall": "菲菲羊乐园东莞东城万达店",
         "address": "广东省东莞市东城街道东城区东纵大道208号万达广场2层菲菲羊乐园"
+    },
+    "4019": {
+        "machineCount": 2,
+        "id": "4019",
+        "province": "重庆",
+        "arcadeName": "SaturneyMusicHouse重庆大学城店",
+        "mall": "SaturneyMusicHouse重庆大学城店",
+        "address": "重庆市沙坪坝区大学城熙街3期2栋2012SaturneyMusicHouse"
     }
 }
