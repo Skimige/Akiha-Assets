@@ -2743,14 +2743,6 @@
         "mall": "韩多多梦幻城威海店",
         "address": "山东省威海市经区韩乐坊南首一层韩多多梦幻城"
     },
-    "1543": {
-        "machineCount": 1,
-        "id": "1543",
-        "province": "陕西",
-        "arcadeName": "极客森超乐场西安店",
-        "mall": "极客森超乐场西安店",
-        "address": "陕西省西安市雁塔区雁展路1111号万象天地"
-    },
     "1544": {
         "machineCount": 1,
         "id": "1544",
@@ -11391,14 +11383,6 @@
         "mall": "幸运星六安万达广场店",
         "address": "安徽省六安市霍邱县万达广场"
     },
-    "2922": {
-        "machineCount": 1,
-        "id": "2922",
-        "province": "山东",
-        "arcadeName": "PartyOn潮玩聊城昌府店",
-        "mall": "PartyOn潮玩聊城昌府店",
-        "address": "山东省聊城市东昌府区顺屹家居6号口A区"
-    },
     "2923": {
         "machineCount": 2,
         "id": "2923",
@@ -19518,5 +19502,45 @@
         "arcadeName": "SaturneyMusicHouse重庆大学城店",
         "mall": "SaturneyMusicHouse重庆大学城店",
         "address": "重庆市沙坪坝区大学城熙街3期2栋2012SaturneyMusicHouse"
+    },
+    "4020": {
+        "machineCount": 1,
+        "id": "4020",
+        "province": "河北",
+        "arcadeName": "1-7play石家庄生活工场店",
+        "mall": "1-7play石家庄生活工场店",
+        "address": "河北省石家庄市桥西区汇丰路8号西美花街生活工场四楼东南角"
+    },
+    "4021": {
+        "machineCount": 1,
+        "id": "4021",
+        "province": "广东",
+        "arcadeName": "潮玩宝贝湛江徐闻龙达店",
+        "mall": "潮玩宝贝湛江徐闻龙达店",
+        "address": "广东省湛江市徐闻县龙达广场C栋一层潮玩宝贝"
+    },
+    "4023": {
+        "machineCount": 1,
+        "id": "4023",
+        "province": "江西",
+        "arcadeName": "真快活九江浔阳招商花园城",
+        "mall": "真快活九江浔阳招商花园城",
+        "address": "江西省九江市浔阳区长虹西大道101号招商花园城三楼真快活电玩城"
+    },
+    "4024": {
+        "machineCount": 2,
+        "id": "4024",
+        "province": "江苏",
+        "arcadeName": "汇嘻熊潮玩徐州宝龙店",
+        "mall": "汇嘻熊潮玩徐州宝龙店",
+        "address": "江苏省徐州市宝龙广场负一层火车站地铁7号口汇嘻熊潮玩"
+    },
+    "4025": {
+        "machineCount": 1,
+        "id": "4025",
+        "province": "浙江",
+        "arcadeName": "极客森绍兴越城龙湖绍兴天街购物中心店",
+        "mall": "极客森绍兴越城龙湖绍兴天街购物中心店",
+        "address": "浙江省绍兴市越城区灵芝街道凤林西路龙湖绍兴天街购物中心A-4F-01/02/61"
     }
 }
