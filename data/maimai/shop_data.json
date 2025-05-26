@@ -3091,9 +3091,9 @@
         "machineCount": 2,
         "id": "1605",
         "province": "广东",
-        "arcadeName": "热带雨林深圳宝安店",
+        "arcadeName": "热带雨林广州增城店",
         "mall": "热带雨林深圳宝安店",
-        "address": "广东省深圳市宝安区翠岗西路方元城3楼热带雨林主题乐园"
+        "address": "广东省广州市增城区荔城增城大道69号万达广场二楼"
     },
     "1606": {
         "machineCount": 1,
@@ -19184,7 +19184,7 @@
         "address": "江苏省连云港市海州区秦东门大街390号吾悅广场二楼天空之城"
     },
     "3983": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "3983",
         "province": "江西",
         "arcadeName": "城市英雄南昌大悦城店",
