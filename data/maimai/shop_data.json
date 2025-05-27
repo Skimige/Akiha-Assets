@@ -792,12 +792,12 @@
         "address": "山东青岛市李沧区伟东乐客城三楼神采飞杨"
     },
     "1198": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1198",
         "province": "河北",
-        "arcadeName": "GOOGOOISLAND咕咕岛河北涿州君悦广场店",
+        "arcadeName": "咕咕岛保定涿州君悦广场店",
         "mall": "GOOGOOISLAND咕咕岛河北涿州君悦广场店",
-        "address": "河北省保定市涿州市范阳路君悦广场3楼GOOGOOISLAND"
+        "address": "河北省保定市涿州市范阳东路君悦广场3层咕咕岛超级乐园"
     },
     "1199": {
         "machineCount": 1,
@@ -7507,9 +7507,9 @@
         "machineCount": 1,
         "id": "2327",
         "province": "河北",
-        "arcadeName": "咕咕小镇廊坊霸州海悦店",
+        "arcadeName": "咕咕鲨廊坊霸州海悦店",
         "mall": "咕咕小镇廊坊霸州海悦店",
-        "address": "河北省廊坊市霸州市海悦广场3层西侧咕咕小镇家庭娱乐中心"
+        "address": "河北省廊坊市霸州市海悦广场3楼咕咕鲨超级乐园"
     },
     "2328": {
         "machineCount": 1,
@@ -10551,6 +10551,14 @@
         "mall": "游梦岛佛山禅城店",
         "address": "广东省佛山市禅城区南庄二马路吉利购物广场三楼游梦岛家庭娱乐中心"
     },
+    "2809": {
+        "machineCount": 1,
+        "id": "2809",
+        "province": "辽宁",
+        "arcadeName": "卡奇部落沈阳大悦城店",
+        "mall": "卡奇部落沈阳大悦城店",
+        "address": "辽宁省沈阳市大东区小东路9号大悦城购物中心D馆负一层DB110卡奇部落"
+    },
     "2810": {
         "machineCount": 1,
         "id": "2810",
@@ -10574,14 +10582,6 @@
         "arcadeName": "酷玩空间佛山顺德印象城店",
         "mall": "酷玩空间佛山顺德印象城店",
         "address": "广东省佛山市顺德区东乐路268号印象城购物中心3楼"
-    },
-    "2816": {
-        "machineCount": 1,
-        "id": "2816",
-        "province": "河北",
-        "arcadeName": "GOOGOOILSAND河北保定店",
-        "mall": "酷玩空间佛山顺德店",
-        "address": "河北省保定市涿州市君悦广场3层西侧"
     },
     "2817": {
         "machineCount": 1,
