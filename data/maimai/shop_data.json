@@ -4623,8 +4623,16 @@
         "mall": "JAJAPOP一番赏天津和平店",
         "address": "天津市和平区南京路221号国际商场负一层JAJAPOP一番赏"
     },
+    "1865": {
+        "machineCount": 1,
+        "id": "1865",
+        "province": "浙江",
+        "arcadeName": "神采飞扬第一回合义乌天地店",
+        "mall": "第一回合嘉兴八佰伴店",
+        "address": "浙江省金华市义乌市园路2-1号3楼LA301-2第一回合·木马王国(义乌天地店)"
+    },
     "1866": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1866",
         "province": "浙江",
         "arcadeName": "第一回合嘉兴八佰伴店",
