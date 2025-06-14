@@ -19958,5 +19958,13 @@
         "arcadeName": "PLAY-ONE家庭娱乐中心六安银泰店",
         "mall": "PLAY-ONE家庭娱乐中心六安银泰店",
         "address": "安徽省六安市金安区银泰百货2楼PLAY-ONE家庭娱乐中心"
+    },
+    "4126": {
+        "machineCount": 1,
+        "id": "4126",
+        "province": "河北",
+        "arcadeName": "榜上英雄石家庄裕华店",
+        "mall": "榜上英雄石家庄裕华店",
+        "address": "河北省石家庄市裕华区裕华万达火车头步行街榜上英雄"
     }
 }
