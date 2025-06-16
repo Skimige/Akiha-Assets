@@ -19974,5 +19974,21 @@
         "arcadeName": "大玩家天津武清万达店",
         "mall": "大玩家天津武清万达店",
         "address": "天津市武清开发区福源道万达广场三楼大玩家"
+    },
+    "4129": {
+        "machineCount": 1,
+        "id": "4129",
+        "province": "湖北",
+        "arcadeName": "superallday潮玩街区十堰茅箭店",
+        "mall": "superallday潮玩街区十堰茅箭店",
+        "address": "湖北省十堰市茅箭区丰融集市3楼superallday潮玩街区"
+    },
+    "4130": {
+        "machineCount": 1,
+        "id": "4130",
+        "province": "河南",
+        "arcadeName": "青鸾动漫郑州金水店",
+        "mall": "青鸾动漫郑州金水店",
+        "address": "河南省郑州市金水区中方园路86号翰宇天悦城3号楼1单元二楼"
     }
 }
