@@ -20022,5 +20022,13 @@
         "arcadeName": "GAMEONE深圳宝安大悦城店",
         "mall": "GAMEONE深圳宝安大悦城店",
         "address": "广东省深圳市宝安区大悦城3楼GAMEONE"
+    },
+    "4137": {
+        "machineCount": 1,
+        "id": "4137",
+        "province": "云南",
+        "arcadeName": "骇客码头普洱思茅创基尚城店",
+        "mall": "骇客码头普洱思茅创基尚城店",
+        "address": "云南省普洱市思茅区创基尚城3楼骇客码头"
     }
 }
