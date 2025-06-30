@@ -7320,7 +7320,7 @@
         "address": "广西壮族自治区钦州市灵山县六峰路地下街30号口永利电玩城"
     },
     "2326": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "2326",
         "province": "北京",
         "arcadeName": "魔方MIX北京海淀万象汇店",
@@ -20358,5 +20358,21 @@
         "arcadeName": "彩虹星际保定蠡县吾北大街店",
         "mall": "彩虹星际保定蠡县吾北大街店",
         "address": "河北省保定市蠡县蠡吾北大街543号彩虹星际"
+    },
+    "4183": {
+        "machineCount": 1,
+        "id": "4183",
+        "province": "北京",
+        "arcadeName": "魔方MIX北京海淀西北旺店",
+        "mall": "魔方MIX北京海淀大悦城店",
+        "address": "北京市海淀区西北旺万象汇四层魔方MIX"
+    },
+    "4184": {
+        "machineCount": 1,
+        "id": "4184",
+        "province": "广东",
+        "arcadeName": "梦幻猩球揭阳揭东博和城店",
+        "mall": "梦幻猩球揭阳揭东博和城店",
+        "address": "广东省揭阳市揭东区博和城梦幻猩球"
     }
 }
