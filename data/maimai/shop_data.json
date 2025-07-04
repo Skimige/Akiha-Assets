@@ -20494,5 +20494,13 @@
         "arcadeName": "宝贝王赤峰红山万达店",
         "mall": "宝贝王赤峰红山万达店",
         "address": "内蒙古赤峰市红山区万达广场二楼宝贝王"
+    },
+    "4200": {
+        "machineCount": 1,
+        "id": "4200",
+        "province": "天津",
+        "arcadeName": "superallday潮玩街区和平恒隆广场店",
+        "mall": "superallday潮玩街区和平恒隆广场店",
+        "address": "天津市和平区兴安路恒隆广场4楼4030superallday潮玩街区"
     }
 }
