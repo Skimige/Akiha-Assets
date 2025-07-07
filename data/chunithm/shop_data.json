@@ -3783,6 +3783,14 @@
         "mall": "大玩家广州番禺万达店",
         "address": "广东省广州市番禺区南村镇汉溪大道东391号203房02铺"
     },
+    "4200": {
+        "machineCount": 2,
+        "id": "4200",
+        "province": "天津",
+        "arcadeName": "superallday潮玩街区和平恒隆广场店",
+        "mall": "superallday潮玩街区和平恒隆广场店",
+        "address": "天津市和平区兴安路恒隆广场4楼4030superallday潮玩街区"
+    },
     "4203": {
         "machineCount": 2,
         "id": "4203",
