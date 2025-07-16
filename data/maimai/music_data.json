@@ -38933,6 +38933,80 @@
             "is_new": false
         }
     },
+    "10117": {
+        "id": "10117",
+        "title": "炎歌 -ほむらうた-",
+        "type": "DX",
+        "ds": [
+            2.0,
+            5.8,
+            9.8,
+            13.0
+        ],
+        "level": [
+            "2",
+            "5",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            8707,
+            8708,
+            8709,
+            8710
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "炎歌 -ほむらうた-",
+            "artist": "Hiro/森山愛子",
+            "genre": "maimai",
+            "bpm": 108,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "10128": {
         "id": "10128",
         "title": "御旗のもとに",
@@ -82835,6 +82909,302 @@
             "is_new": true
         }
     },
+    "11674": {
+        "id": "11674",
+        "title": "Cider P@rty",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.8,
+            11.0,
+            13.5
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [
+            8711,
+            8712,
+            8713,
+            8714
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "きょむりん"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Cider P@rty",
+            "artist": "Ryo Fukuda",
+            "genre": "maimai",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11675": {
+        "id": "11675",
+        "title": "勦滅",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            11.8,
+            14.2
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [
+            8715,
+            8716,
+            8717,
+            8718
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "勦滅",
+            "artist": "siqlo",
+            "genre": "maimai",
+            "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11676": {
+        "id": "11676",
+        "title": "Lunatic Vibes",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.7,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            8719,
+            8720,
+            8721,
+            8722
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Lunatic Vibes",
+            "artist": "K-forest",
+            "genre": "maimai",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11677": {
+        "id": "11677",
+        "title": "Bloody Trail",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.8,
+            12.8,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            8723,
+            8724,
+            8725,
+            8726
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Bloody Trail",
+            "artist": "Hommarju",
+            "genre": "maimai",
+            "bpm": 195,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11687": {
         "id": "11687",
         "title": "MarbleBlue.",
@@ -83701,6 +84071,598 @@
             "is_new": true
         }
     },
+    "11704": {
+        "id": "11704",
+        "title": "DUAL ROZES",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.2,
+            9.7,
+            13.7
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13+"
+        ],
+        "cids": [
+            8727,
+            8728,
+            8729,
+            8730
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "DUAL ROZES",
+            "artist": "SOUND HOLIC Vs. Eurobeat Union feat. Nana Takahashi",
+            "genre": "ゲームバラエティ",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11705": {
+        "id": "11705",
+        "title": "VOLT",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.5,
+            10.9,
+            13.4
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            8731,
+            8732,
+            8733,
+            8734
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "VOLT",
+            "artist": "aran",
+            "genre": "ゲームバラエティ",
+            "bpm": 174,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11706": {
+        "id": "11706",
+        "title": "tiny tales continue",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            11.0,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            8735,
+            8736,
+            8737,
+            8738
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "サファ太 & ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "tiny tales continue",
+            "artist": "黒魔",
+            "genre": "ゲームバラエティ",
+            "bpm": 188,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11707": {
+        "id": "11707",
+        "title": "ouroboros -twin stroke of the end-",
+        "type": "DX",
+        "ds": [
+            6.0,
+            9.0,
+            12.5,
+            14.4
+        ],
+        "level": [
+            "6",
+            "9",
+            "12",
+            "14"
+        ],
+        "cids": [
+            8739,
+            8740,
+            8741,
+            8742
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ouroboros -twin stroke of the end-",
+            "artist": "Cranky VS MASAKI",
+            "genre": "ゲームバラエティ",
+            "bpm": 188,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11710": {
+        "id": "11710",
+        "title": "サイバーサンダーサイダー",
+        "type": "DX",
+        "ds": [
+            4.0,
+            6.5,
+            10.7,
+            13.6
+        ],
+        "level": [
+            "4",
+            "6",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            8743,
+            8744,
+            8745,
+            8746
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "みぞれヤナギ & サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "サイバーサンダーサイダー",
+            "artist": "EZFG",
+            "genre": "niconicoボーカロイド",
+            "bpm": 145,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11711": {
+        "id": "11711",
+        "title": "おくすり飲んで寝よう",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            9.7,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            8747,
+            8748,
+            8749,
+            8750
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "おくすり飲んで寝よう",
+            "artist": "もちうつね",
+            "genre": "niconicoボーカロイド",
+            "bpm": 130,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11712": {
+        "id": "11712",
+        "title": "バラバラ〜仮初レインボーローズ〜",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            10.7,
+            12.7
+        ],
+        "level": [
+            "2",
+            "6",
+            "10+",
+            "12+"
+        ],
+        "cids": [
+            8751,
+            8752,
+            8753,
+            8754
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "バラバラ〜仮初レインボーローズ〜",
+            "artist": "花畑チャイカ＆椎名唯華",
+            "genre": "POPSアニメ",
+            "bpm": 135,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11713": {
+        "id": "11713",
+        "title": "QUATTUORUX",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.8,
+            13.0,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8+",
+            "13",
+            "14"
+        ],
+        "cids": [
+            8755,
+            8756,
+            8757,
+            8758
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "サファ太 Vs. Safari Vs. さふぁた"
+            }
+        ],
+        "basic_info": {
+            "title": "QUATTUORUX",
+            "artist": "打打だいず Vs. Tanchiky Vs. からめる",
+            "genre": "ゲームバラエティ",
+            "bpm": 220,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11714": {
         "id": "11714",
         "title": "匿名M",
@@ -83770,6 +84732,302 @@
             "artist": "ピノキオピー",
             "genre": "niconico & VOCALOID",
             "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11727": {
+        "id": "11727",
+        "title": "ラヴィ",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            10.7,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            8759,
+            8760,
+            8761,
+            8762
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ラヴィ",
+            "artist": "すりぃ",
+            "genre": "niconicoボーカロイド",
+            "bpm": 183,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11728": {
+        "id": "11728",
+        "title": "スティールユー",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.8,
+            11.0,
+            13.1
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [
+            8763,
+            8764,
+            8765,
+            8766
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "スティールユー",
+            "artist": "Omoi",
+            "genre": "niconicoボーカロイド",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11729": {
+        "id": "11729",
+        "title": "オシオキGIMMICK!!",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.5,
+            10.7,
+            12.9
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "12+"
+        ],
+        "cids": [
+            8767,
+            8768,
+            8769,
+            8770
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "オシオキGIMMICK!!",
+            "artist": "Junky",
+            "genre": "niconicoボーカロイド",
+            "bpm": 176,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11733": {
+        "id": "11733",
+        "title": "MUSIC PЯAYER",
+        "type": "DX",
+        "ds": [
+            4.0,
+            6.5,
+            10.0,
+            13.5
+        ],
+        "level": [
+            "4",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            8771,
+            8772,
+            8773,
+            8774
+        ],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "MUSIC PЯAYER",
+            "artist": "A-One",
+            "genre": "オンゲキCHUNITHM",
+            "bpm": 168,
             "release_date": "",
             "from": "maimai でらっくす PRiSM",
             "is_new": true
