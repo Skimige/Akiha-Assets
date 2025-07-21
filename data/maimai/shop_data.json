@@ -20918,5 +20918,13 @@
         "arcadeName": "小金宝动漫城广州番禺钟村店",
         "mall": "小金宝动漫城广州番禺钟村店",
         "address": "广东省广州市番禺区钟村街宏简街5号小金宝动漫城"
+    },
+    "4256": {
+        "machineCount": 1,
+        "id": "4256",
+        "province": "北京",
+        "arcadeName": "LIFEMALL北京海淀羊坊店",
+        "mall": "LIFEMALL北京海淀羊坊店",
+        "address": "北京市海淀区羊坊店路18号北京捌食捌街LIFEMALL"
     }
 }
