@@ -112,7 +112,7 @@
         "address": "天津市和平区和平路万达广场A座"
     },
     "1022": {
-        "machineCount": 1,
+        "machineCount": 5,
         "id": "1022",
         "province": "北京",
         "arcadeName": "大玩家北京通州万达店",
@@ -8280,7 +8280,7 @@
         "address": "辽宁省大连市沙河口区中央大道负一层咪哆熊欢乐世界"
     },
     "2500": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "2500",
         "province": "广东",
         "arcadeName": "FUN VALLEY潮玩广州越秀侨光西路店",
@@ -21174,5 +21174,13 @@
         "arcadeName": "潮可爱驻马店市平舆县爱家购物中心五楼潮可爱",
         "mall": "-",
         "address": "驻马店市平舆县爱家购物中心五楼"
+    },
+    "4296": {
+        "machineCount": 1,
+        "id": "4296",
+        "province": "河北",
+        "arcadeName": "58潮玩SPACE任丘万达店",
+        "mall": "-",
+        "address": "任丘万达广场二楼58潮玩SPACE"
     }
 }
