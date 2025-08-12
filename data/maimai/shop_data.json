@@ -21238,5 +21238,13 @@
         "arcadeName": "宝贝王深圳福田cocopark店",
         "mall": "-",
         "address": "广东省深圳市福田区福田星河Cocopark二期1F宝贝王家庭欢乐中心"
+    },
+    "4304": {
+        "machineCount": 1,
+        "id": "4304",
+        "province": "上海",
+        "arcadeName": "忆凯乐上海松江叶榭店",
+        "mall": "-",
+        "address": "上海市松江区叶榭镇双高广场3楼忆凯乐"
     }
 }
