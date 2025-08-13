@@ -21270,5 +21270,13 @@
         "arcadeName": "福斗星球珠海金湾店",
         "mall": "-",
         "address": "广东省珠海市金湾区金海岸大道206号福斗星球"
+    },
+    "4307": {
+        "machineCount": 2,
+        "id": "4307",
+        "province": "广东",
+        "arcadeName": "深圳BitCity次元小镇",
+        "mall": "-",
+        "address": "广东省深圳市福田区金田南路大中华国际交易广场G层"
     }
 }
