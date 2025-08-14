@@ -112,7 +112,7 @@
         "address": "天津市和平区和平路万达广场A座"
     },
     "1022": {
-        "machineCount": 5,
+        "machineCount": 6,
         "id": "1022",
         "province": "北京",
         "arcadeName": "大玩家北京通州万达店",
@@ -10262,6 +10262,14 @@
         "arcadeName": "三十六计苏州观前店",
         "mall": "三十六计苏州观前店",
         "address": "江苏省苏州市姑苏区观前街46.48号"
+    },
+    "2802": {
+        "machineCount": 1,
+        "id": "2802",
+        "province": "安徽",
+        "arcadeName": "电玩猩合肥百盛店",
+        "mall": "电玩猩合肥百盛店",
+        "address": "安徽省合肥市庐阳区淮河路步行街百盛广场三楼电玩猩"
     },
     "2803": {
         "machineCount": 2,
