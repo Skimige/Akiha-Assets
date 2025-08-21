@@ -21358,5 +21358,21 @@
         "arcadeName": "酷猫电玩翁源店",
         "mall": "-",
         "address": "翁源县翁城镇103国道加油站北侧150米"
+    },
+    "4326": {
+        "machineCount": 1,
+        "id": "4326",
+        "province": "江苏",
+        "arcadeName": "超级伙伴南京仙林万达茂店",
+        "mall": "-",
+        "address": "南京市仙林万达茂2楼"
+    },
+    "4327": {
+        "machineCount": 1,
+        "id": "4327",
+        "province": "北京",
+        "arcadeName": "乐游记丰台京盛时代店",
+        "mall": "-",
+        "address": "北京市丰台区京盛时代广场4楼乐游记"
     }
 }
