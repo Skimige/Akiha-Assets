@@ -1,6 +1,6 @@
 {
     "1001": {
-        "machineCount": 3,
+        "machineCount": 4,
         "id": "1001",
         "province": "广东",
         "arcadeName": "环游嘉年华广州天河城店",
@@ -15408,7 +15408,7 @@
         "address": "江苏省宿迁市泗洪县泗洲吾悅三楼飞马王国"
     },
     "3530": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "3530",
         "province": "北京",
         "arcadeName": "动感星际北京大兴龙玥城店",
@@ -21518,5 +21518,13 @@
         "arcadeName": "苏州火窝音游窝电玩游艺店",
         "mall": "苏州火窝音游窝电玩游艺店",
         "address": "苏州工业园区苏雅路天虹"
+    },
+    "4343": {
+        "machineCount": 1,
+        "id": "4343",
+        "province": "广东",
+        "arcadeName": "迪芝尼云浮盈信广场店",
+        "mall": "迪芝尼云浮盈信广场店",
+        "address": "云浮市郁南县都城镇城中路10号盈信广场二层"
     }
 }
