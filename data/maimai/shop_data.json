@@ -21176,11 +21176,11 @@
         "address": "任丘万达广场二楼58潮玩SPACE"
     },
     "4297": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "4297",
         "province": "北京",
         "arcadeName": "宝贝计划北京昌平乐多港万达店",
-        "mall": "-",
+        "mall": "宝贝计划北京昌平乐多港万达店",
         "address": "北京市昌平区乐多港万达广场"
     },
     "4298": {
