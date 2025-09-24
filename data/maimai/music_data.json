@@ -38785,6 +38785,76 @@
             "is_new": false
         }
     },
+    "1301": {
+        "id": "1301",
+        "title": "華の集落、秋のお届け",
+        "type": "SD",
+        "ds": [
+            5.0,
+            8.0,
+            12.5,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            8778,
+            8779,
+            8780,
+            8781
+        ],
+        "charts": [
+            {
+                "notes": [
+                    162,
+                    20,
+                    11,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    244,
+                    40,
+                    21,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    459,
+                    67,
+                    60,
+                    25
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    673,
+                    60,
+                    77,
+                    26
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "華の集落、秋のお届け",
+            "artist": "Umiai",
+            "genre": "舞萌",
+            "bpm": 165,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "10044": {
         "id": "10044",
         "title": "ハッピーシンセサイザ",
@@ -83205,6 +83275,376 @@
             "is_new": true
         }
     },
+    "11678": {
+        "id": "11678",
+        "title": "RE:INCARNATED DRAGNER",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            11.8,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            8782,
+            8783,
+            8784,
+            8785
+        ],
+        "charts": [
+            {
+                "notes": [
+                    201,
+                    17,
+                    4,
+                    19,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    338,
+                    25,
+                    6,
+                    30,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    566,
+                    51,
+                    43,
+                    10,
+                    24
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    714,
+                    55,
+                    127,
+                    57,
+                    96
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "RE:INCARNATED DRAGNER",
+            "artist": "黒沢ダイスケ × 小寺可南子",
+            "genre": "舞萌",
+            "bpm": 188,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11679": {
+        "id": "11679",
+        "title": "Beginning together!",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.0,
+            10.7,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            8786,
+            8787,
+            8788,
+            8789
+        ],
+        "charts": [
+            {
+                "notes": [
+                    138,
+                    20,
+                    4,
+                    4,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    14,
+                    4,
+                    17,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    356,
+                    43,
+                    33,
+                    20,
+                    20
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    531,
+                    87,
+                    62,
+                    37,
+                    73
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "Beginning together!",
+            "artist": "高瀬一矢 feat. R.I.N.A",
+            "genre": "舞萌",
+            "bpm": 142,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11680": {
+        "id": "11680",
+        "title": "Shining Ray ～僕らの絆～",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.2,
+            10.5,
+            13.3
+        ],
+        "level": [
+            "5",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            8790,
+            8791,
+            8792,
+            8793
+        ],
+        "charts": [
+            {
+                "notes": [
+                    176,
+                    13,
+                    9,
+                    12,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    279,
+                    20,
+                    6,
+                    28,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    383,
+                    69,
+                    32,
+                    26,
+                    24
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    587,
+                    44,
+                    101,
+                    14,
+                    49
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Shining Ray ～僕らの絆～",
+            "artist": "伊藤和馬(Arte Refact) feat.konoco",
+            "genre": "舞萌",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11681": {
+        "id": "11681",
+        "title": "DEVOTION",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            11.7,
+            14.3
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [
+            8794,
+            8795,
+            8796,
+            8797
+        ],
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    11,
+                    6,
+                    15,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    306,
+                    16,
+                    6,
+                    30,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    408,
+                    71,
+                    55,
+                    30,
+                    56
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    761,
+                    60,
+                    102,
+                    6,
+                    52
+                ],
+                "charter": "LuxiHertz"
+            }
+        ],
+        "basic_info": {
+            "title": "DEVOTION",
+            "artist": "AJURIKA feat.SAK.",
+            "genre": "舞萌",
+            "bpm": 167,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11686": {
+        "id": "11686",
+        "title": "Λzure Vixen",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.0,
+            13.2,
+            14.6
+        ],
+        "level": [
+            "6",
+            "8",
+            "13",
+            "14+"
+        ],
+        "cids": [
+            8798,
+            8799,
+            8800,
+            8801
+        ],
+        "charts": [
+            {
+                "notes": [
+                    239,
+                    15,
+                    8,
+                    14,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    338,
+                    22,
+                    6,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    535,
+                    63,
+                    58,
+                    29,
+                    54
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    1039,
+                    58,
+                    87,
+                    39,
+                    66
+                ],
+                "charter": "BELiZHEL"
+            }
+        ],
+        "basic_info": {
+            "title": "Λzure Vixen",
+            "artist": "かめりあ",
+            "genre": "音击&中二节奏",
+            "bpm": 163,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11687": {
         "id": "11687",
         "title": "MarbleBlue.",
@@ -83844,6 +84284,80 @@
             "artist": "Kanaria",
             "genre": "niconico & VOCALOID",
             "bpm": 115,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11699": {
+        "id": "11699",
+        "title": "新人類",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.7,
+            13.7
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            8802,
+            8803,
+            8804,
+            8805
+        ],
+        "charts": [
+            {
+                "notes": [
+                    146,
+                    16,
+                    4,
+                    6,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    250,
+                    18,
+                    6,
+                    28,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    371,
+                    101,
+                    34,
+                    74,
+                    32
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    896,
+                    24,
+                    106,
+                    4,
+                    26
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "新人類",
+            "artist": "まらしぃ×じん×堀江晶太(kemu) feat.鏡音リン",
+            "genre": "niconico & VOCALOID",
+            "bpm": 144,
             "release_date": "",
             "from": "maimai でらっくす PRiSM",
             "is_new": true
@@ -84737,6 +85251,450 @@
             "is_new": true
         }
     },
+    "11715": {
+        "id": "11715",
+        "title": "ライアーダンサー",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.5,
+            10.0,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            8806,
+            8807,
+            8808,
+            8809
+        ],
+        "charts": [
+            {
+                "notes": [
+                    156,
+                    18,
+                    4,
+                    19,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    326,
+                    18,
+                    12,
+                    19,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    436,
+                    67,
+                    28,
+                    4,
+                    54
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    658,
+                    52,
+                    148,
+                    37,
+                    45
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ライアーダンサー",
+            "artist": "マサラダ",
+            "genre": "niconico & VOCALOID",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11716": {
+        "id": "11716",
+        "title": "バカ通信",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.9,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            8810,
+            8811,
+            8812,
+            8813
+        ],
+        "charts": [
+            {
+                "notes": [
+                    193,
+                    22,
+                    5,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    317,
+                    22,
+                    8,
+                    27,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    519,
+                    26,
+                    57,
+                    30,
+                    16
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    586,
+                    105,
+                    142,
+                    89,
+                    75
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "バカ通信",
+            "artist": "isonosuke",
+            "genre": "niconico & VOCALOID",
+            "bpm": 240,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11717": {
+        "id": "11717",
+        "title": "LOSTPHANTASIA",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.5,
+            9.8,
+            12.7
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            8814,
+            8815,
+            8816,
+            8817
+        ],
+        "charts": [
+            {
+                "notes": [
+                    107,
+                    13,
+                    4,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    182,
+                    18,
+                    10,
+                    21,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    206,
+                    58,
+                    25,
+                    19,
+                    21
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    362,
+                    61,
+                    68,
+                    25,
+                    33
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "LOSTPHANTASIA",
+            "artist": "岸田教団&THE明星ロケッツ×草野華余子",
+            "genre": "东方Project",
+            "bpm": 133,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11718": {
+        "id": "11718",
+        "title": "Bad Apple!! feat.nomico (Tetsuya Komuro Remix)",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.2,
+            9.8,
+            13.1
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            8818,
+            8819,
+            8820,
+            8821
+        ],
+        "charts": [
+            {
+                "notes": [
+                    107,
+                    9,
+                    3,
+                    7,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    166,
+                    14,
+                    8,
+                    27,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    305,
+                    31,
+                    31,
+                    17,
+                    15
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    360,
+                    67,
+                    88,
+                    77,
+                    17
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "Bad Apple!! feat.nomico (Tetsuya Komuro Remix)",
+            "artist": "Masayoshi Minoshima Remixed by 小室哲哉",
+            "genre": "东方Project",
+            "bpm": 135,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11720": {
+        "id": "11720",
+        "title": "Re:Unknown X",
+        "type": "DX",
+        "ds": [
+            6.0,
+            9.0,
+            12.5,
+            14.6
+        ],
+        "level": [
+            "6",
+            "9",
+            "12",
+            "14+"
+        ],
+        "cids": [
+            8822,
+            8823,
+            8824,
+            8825
+        ],
+        "charts": [
+            {
+                "notes": [
+                    208,
+                    14,
+                    8,
+                    23,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    322,
+                    22,
+                    12,
+                    25,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    505,
+                    30,
+                    36,
+                    29,
+                    49
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    983,
+                    76,
+                    50,
+                    59,
+                    21
+                ],
+                "charter": "アミノハバキリ"
+            }
+        ],
+        "basic_info": {
+            "title": "Re:Unknown X",
+            "artist": "まらしぃ",
+            "genre": "东方Project",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11721": {
+        "id": "11721",
+        "title": "INFiNiTE ENERZY -Overdoze-",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            13.0,
+            14.0
+        ],
+        "level": [
+            "5",
+            "8",
+            "13",
+            "14"
+        ],
+        "cids": [
+            8826,
+            8827,
+            8828,
+            8829
+        ],
+        "charts": [
+            {
+                "notes": [
+                    201,
+                    11,
+                    4,
+                    14,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    10,
+                    4,
+                    46,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    514,
+                    8,
+                    66,
+                    22,
+                    49
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    692,
+                    40,
+                    51,
+                    4,
+                    62
+                ],
+                "charter": "Jack vs サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "INFiNiTE ENERZY -Overdoze-",
+            "artist": "Reku Mochizuki",
+            "genre": "其他游戏",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11727": {
         "id": "11727",
         "title": "ラヴィ",
@@ -84959,6 +85917,154 @@
             "is_new": true
         }
     },
+    "11730": {
+        "id": "11730",
+        "title": "偉大なる悪魔は実は大天使パトラちゃん様なのだ！",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            10.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            8830,
+            8831,
+            8832,
+            8833
+        ],
+        "charts": [
+            {
+                "notes": [
+                    155,
+                    18,
+                    6,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    303,
+                    26,
+                    7,
+                    50,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    412,
+                    79,
+                    38,
+                    20,
+                    27
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    583,
+                    129,
+                    122,
+                    39,
+                    62
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "偉大なる悪魔は実は大天使パトラちゃん様なのだ！",
+            "artist": "周防パトラ",
+            "genre": "流行&动漫",
+            "bpm": 195,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11731": {
+        "id": "11731",
+        "title": "シュガーホリック",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            10.0,
+            13.1
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            8834,
+            8835,
+            8836,
+            8837
+        ],
+        "charts": [
+            {
+                "notes": [
+                    128,
+                    22,
+                    4,
+                    22,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    299,
+                    27,
+                    5,
+                    21,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    375,
+                    51,
+                    32,
+                    18,
+                    29
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    524,
+                    58,
+                    86,
+                    30,
+                    24
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "シュガーホリック",
+            "artist": "周防パトラ",
+            "genre": "流行&动漫",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11733": {
         "id": "11733",
         "title": "MUSIC PЯAYER",
@@ -85102,6 +86208,80 @@
             "artist": "MyGO!!!!!",
             "genre": "流行&动漫",
             "bpm": 204,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11735": {
+        "id": "11735",
+        "title": "ザムザ",
+        "type": "DX",
+        "ds": [
+            1.0,
+            6.5,
+            9.8,
+            12.9
+        ],
+        "level": [
+            "1",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            8838,
+            8839,
+            8840,
+            8841
+        ],
+        "charts": [
+            {
+                "notes": [
+                    85,
+                    12,
+                    4,
+                    4,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    175,
+                    19,
+                    4,
+                    30,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    250,
+                    32,
+                    36,
+                    13,
+                    28
+                ],
+                "charter": "まぐランド"
+            },
+            {
+                "notes": [
+                    442,
+                    68,
+                    53,
+                    41,
+                    30
+                ],
+                "charter": "Jack&アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "ザムザ",
+            "artist": "てにをは",
+            "genre": "niconico & VOCALOID",
+            "bpm": 121,
             "release_date": "",
             "from": "maimai でらっくす PRiSM",
             "is_new": true
@@ -86187,6 +87367,54 @@
             "is_new": false
         }
     },
+    "111433": {
+        "id": "111433",
+        "title": "[奏]ヒトガタ",
+        "type": "DX",
+        "ds": [
+            13.0,
+            13.0
+        ],
+        "level": [
+            "13?",
+            "13?"
+        ],
+        "cids": [
+            8842,
+            8843
+        ],
+        "charts": [
+            {
+                "notes": [
+                    543,
+                    85,
+                    97,
+                    18,
+                    61
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    519,
+                    94,
+                    111,
+                    22,
+                    60
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[奏]ヒトガタ",
+            "artist": "HIMEHINA",
+            "genre": "宴会場",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
     "111513": {
         "id": "111513",
         "title": "[回]回る空うさぎ",
@@ -86252,6 +87480,41 @@
             "artist": "Silentroom vs Frums",
             "genre": "宴会場",
             "bpm": 234,
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": false
+        }
+    },
+    "111577": {
+        "id": "111577",
+        "title": "[両]はんぶんこ",
+        "type": "DX",
+        "ds": [
+            12.0
+        ],
+        "level": [
+            "12?"
+        ],
+        "cids": [
+            8844
+        ],
+        "charts": [
+            {
+                "notes": [
+                    354,
+                    42,
+                    64,
+                    37,
+                    12
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[両]はんぶんこ",
+            "artist": "三枝明那",
+            "genre": "宴会場",
+            "bpm": 124,
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false
