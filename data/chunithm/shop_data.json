@@ -4222,5 +4222,13 @@
         "arcadeName": "上海漫卡展会",
         "mall": "上海漫卡展会",
         "address": "上海市闵行区虹桥品汇a区"
+    },
+    "4491": {
+        "machineCount": 2,
+        "id": "4491",
+        "province": "广东",
+        "arcadeName": "星空之旅东莞天和city店",
+        "mall": "星空之旅东莞天和city店",
+        "address": "广东省东莞市樟木头永宁街天和city三楼星空之旅"
     }
 }
