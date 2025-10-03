@@ -22590,5 +22590,13 @@
         "arcadeName": "跳动西游南昌红谷滩万达店",
         "mall": "跳动西游南昌红谷滩万达店",
         "address": "江西省南昌市红谷滩区万达广场3楼"
+    },
+    "4496": {
+        "machineCount": 1,
+        "id": "4496",
+        "province": "广东",
+        "arcadeName": "Kikis其趣客村丽影店",
+        "mall": "Kikis其趣客村丽影店",
+        "address": "广东省广州市海珠区客村地铁站D出口丽影广场三楼Kiki’s其趣"
     }
 }
