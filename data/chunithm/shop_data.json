@@ -296,7 +296,7 @@
         "address": "广东省广州市黄埔区亿创大街3号绿地缤纷城3楼301铺"
     },
     "1220": {
-        "machineCount": 2,
+        "machineCount": 4,
         "id": "1220",
         "province": "上海",
         "arcadeName": "天天玩上海徐汇汇银广场店",
@@ -4222,5 +4222,13 @@
         "arcadeName": "星空之旅东莞天和city店",
         "mall": "星空之旅东莞天和city店",
         "address": "广东省东莞市樟木头永宁街天和city三楼星空之旅"
+    },
+    "4512": {
+        "machineCount": 2,
+        "id": "4512",
+        "province": "辽宁",
+        "arcadeName": "金色年华市府恒隆店",
+        "mall": "金色年华市府恒隆店",
+        "address": "沈阳市沈河区青年大街1号 市府恒隆广场负一层 B127"
     }
 }
