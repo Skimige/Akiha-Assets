@@ -1624,7 +1624,7 @@
         "address": "辽宁省沈阳市大东区东中街大悦城A馆426号"
     },
     "2497": {
-        "machineCount": 3,
+        "machineCount": 1,
         "id": "2497",
         "province": "辽宁",
         "arcadeName": "咪哆熊大连沙河口店",
@@ -4238,5 +4238,13 @@
         "arcadeName": "星际玩家石家庄勒泰店",
         "mall": "星际玩家石家庄勒泰店",
         "address": "河北省石家庄市长安区中山东路39号勒泰中心5层F5-0SA星际玩家"
+    },
+    "4525": {
+        "machineCount": 2,
+        "id": "4525",
+        "province": "安徽",
+        "arcadeName": "酷玩e族淮北碧乐城店",
+        "mall": "酷玩e族淮北碧乐城店",
+        "address": "安徽省淮北市碧乐城3楼酷玩e族"
     }
 }
