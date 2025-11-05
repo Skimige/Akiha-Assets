@@ -816,7 +816,7 @@
         "address": "广东省珠海市香洲区珠海大道8号华发商都C馆三楼C3031号环游嘉年华"
     },
     "1897": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1897",
         "province": "河北",
         "arcadeName": "小洋人宝贝王保定雄县店",
@@ -2590,14 +2590,6 @@
         "arcadeName": "火星局石河子万达店",
         "mall": "火星局石河子万达店",
         "address": "新疆石河子市万达广场3楼火星局"
-    },
-    "3260": {
-        "machineCount": 1,
-        "id": "3260",
-        "province": "安徽",
-        "arcadeName": "宝贝王蚌埠蚌山银泰店",
-        "mall": "宝贝王蚌埠蚌山银泰店",
-        "address": "安徽省蚌埠市蚌山区银泰宝贝王"
     },
     "3273": {
         "machineCount": 2,
