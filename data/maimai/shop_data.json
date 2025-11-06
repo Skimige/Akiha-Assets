@@ -22814,5 +22814,13 @@
         "arcadeName": "宴窝SECLUSION广州从化江埔店",
         "mall": "宴窝SECLUSION广州从化江埔店",
         "address": "广州市从化区江埔街道从城大道107号远达汇聚12层1209房"
+    },
+    "4535": {
+        "machineCount": 1,
+        "id": "4535",
+        "province": "广东",
+        "arcadeName": "热带雨林珠海斗门店",
+        "mall": "热带雨林珠海斗门店",
+        "address": "广东省珠海市斗门区大信3楼热带雨林"
     }
 }
