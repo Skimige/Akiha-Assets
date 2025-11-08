@@ -4230,5 +4230,13 @@
         "arcadeName": "宴窝SECLUSION广州从化江埔店",
         "mall": "宴窝SECLUSION广州从化江埔店",
         "address": "广州市从化区江埔街道从城大道107号远达汇聚12层1209房"
+    },
+    "4536": {
+        "machineCount": 1,
+        "id": "4536",
+        "province": "北京",
+        "arcadeName": "西瓜雀庄北京房山店",
+        "mall": "西瓜雀庄北京房山店",
+        "address": "北京市房山区卓秀北街绿地诺亚方舟北区2号楼804"
     }
 }
