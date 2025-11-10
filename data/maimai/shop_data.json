@@ -3320,7 +3320,7 @@
         "address": "浙江省杭州经济技术开发区下沙街道金沙大道97号金沙印象城"
     },
     "1667": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1667",
         "province": "广东",
         "arcadeName": "极客森深圳罗湖宝能店",
@@ -9144,7 +9144,7 @@
         "address": "浙江省丽水市青田县油竹街道石锦路399号3楼L-320号"
     },
     "2633": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "2633",
         "province": "广东",
         "arcadeName": "极客森广州南沙星河店",
@@ -10671,14 +10671,6 @@
         "mall": "偶予潮玩社潍坊泰华城店",
         "address": "山东省潍坊市安丘市泰华城一期三楼偶予潮玩社"
     },
-    "2871": {
-        "machineCount": 2,
-        "id": "2871",
-        "province": "河北",
-        "arcadeName": "极客森邯郸万象汇店",
-        "mall": "极客森邯郸万象汇店",
-        "address": "河北省邯郸市丛台区万象汇2楼"
-    },
     "2872": {
         "machineCount": 1,
         "id": "2872",
@@ -11326,14 +11318,6 @@
         "arcadeName": "奇妙之城广州大学城店",
         "mall": "奇妙之城广州大学城店",
         "address": "广东省广州市番禺区大学城贝岗村中二横路1号GOGO新天地3楼奇妙之城"
-    },
-    "2965": {
-        "machineCount": 1,
-        "id": "2965",
-        "province": "浙江",
-        "arcadeName": "极客森杭州钱塘店",
-        "mall": "极客森杭州钱塘店",
-        "address": "浙江省杭州市钱塘区永旺梦乐城3楼极客森超乐场"
     },
     "2966": {
         "machineCount": 1,
@@ -12022,14 +12006,6 @@
         "arcadeName": "潮玩英雄唐山遵化店",
         "mall": "潮玩英雄唐山遵化店",
         "address": "河北省唐山市遵化市文化北路金缘购物四楼潮玩英雄电玩城"
-    },
-    "3070": {
-        "machineCount": 1,
-        "id": "3070",
-        "province": "福建",
-        "arcadeName": "NATAKIDS漳州龙文吾悦店",
-        "mall": "NATAKIDS漳州龙文吾悦店",
-        "address": "福建省漳州市龙文区吾悦广场3楼NATAKIDS"
     },
     "3071": {
         "machineCount": 1,
@@ -14432,7 +14408,7 @@
         "address": "陕西省西安市莲湖区龙湖星悦汇三楼g2街区"
     },
     "3413": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "3413",
         "province": "湖南",
         "arcadeName": "极客森长沙岳麓店",
