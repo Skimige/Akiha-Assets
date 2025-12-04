@@ -4310,5 +4310,13 @@
         "arcadeName": "酷玩空间宿迁宝龙广场店",
         "mall": "酷玩空间宿迁宝龙广场店",
         "address": "江苏省宿迁市宿城区宝龙广场四楼酷玩空间"
+    },
+    "4605": {
+        "machineCount": 2,
+        "id": "4605",
+        "province": "北京",
+        "arcadeName": "PKboy北京湾里奥莱店",
+        "mall": "PKboy北京湾里奥莱店",
+        "address": "北京市通州区颐瑞东路湾里奥莱二层"
     }
 }

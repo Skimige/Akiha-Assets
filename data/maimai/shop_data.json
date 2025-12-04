@@ -23094,5 +23094,21 @@
         "arcadeName": "神采飞扬汉阳江腾店",
         "mall": "神采飞扬汉阳江腾店",
         "address": "湖北省武汉市汉阳区马鹦路江腾广场三楼"
+    },
+    "4604": {
+        "machineCount": 1,
+        "id": "4604",
+        "province": "陕西",
+        "arcadeName": "欢乐有约延安万达店",
+        "mall": "欢乐有约延安万达店",
+        "address": "延安市宝塔区中心街万达广场三楼"
+    },
+    "4605": {
+        "machineCount": 3,
+        "id": "4605",
+        "province": "北京",
+        "arcadeName": "PKboy北京湾里奥莱店",
+        "mall": "PKboy北京湾里奥莱店",
+        "address": "北京市通州区颐瑞东路湾里奥莱二层"
     }
 }
