@@ -53023,6 +53023,80 @@
             "is_new": false
         }
     },
+    "11197": {
+        "id": "11197",
+        "title": "劣等上等",
+        "type": "DX",
+        "ds": [
+            4.0,
+            6.5,
+            10.0,
+            13.2
+        ],
+        "level": [
+            "4",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            8908,
+            8909,
+            8910,
+            8911
+        ],
+        "charts": [
+            {
+                "notes": [
+                    78,
+                    9,
+                    4,
+                    4,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    134,
+                    10,
+                    8,
+                    33,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    222,
+                    28,
+                    37,
+                    68,
+                    14
+                ],
+                "charter": "華火職人"
+            },
+            {
+                "notes": [
+                    368,
+                    21,
+                    88,
+                    35,
+                    36
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "劣等上等",
+            "artist": "Giga / 鏡音リン・レン / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11198": {
         "id": "11198",
         "title": "アスノヨゾラ哨戒班",
@@ -54353,6 +54427,80 @@
             "release_date": "",
             "from": "maimai でらっくす Splash",
             "is_new": false
+        }
+    },
+    "11218": {
+        "id": "11218",
+        "title": "自傷無色",
+        "type": "DX",
+        "ds": [
+            2.0,
+            5.8,
+            9.0,
+            12.8
+        ],
+        "level": [
+            "2",
+            "5",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            8912,
+            8913,
+            8914,
+            8915
+        ],
+        "charts": [
+            {
+                "notes": [
+                    68,
+                    4,
+                    2,
+                    15,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    140,
+                    10,
+                    9,
+                    13,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    101,
+                    58,
+                    18,
+                    30,
+                    3
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    289,
+                    23,
+                    85,
+                    28,
+                    7
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "自傷無色",
+            "artist": "ササノマリイ / 初音ミク / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 120,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
         }
     },
     "11219": {
@@ -61746,6 +61894,80 @@
             "is_new": false
         }
     },
+    "11337": {
+        "id": "11337",
+        "title": "セカイはまだ始まってすらいない",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            8.7,
+            12.7
+        ],
+        "level": [
+            "2",
+            "6",
+            "8+",
+            "12+"
+        ],
+        "cids": [
+            8916,
+            8917,
+            8918,
+            8919
+        ],
+        "charts": [
+            {
+                "notes": [
+                    83,
+                    4,
+                    3,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    202,
+                    8,
+                    20,
+                    8,
+                    18
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    268,
+                    21,
+                    26,
+                    11,
+                    52
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    344,
+                    48,
+                    76,
+                    48,
+                    20
+                ],
+                "charter": "小鳥遊さん"
+            }
+        ],
+        "basic_info": {
+            "title": "セカイはまだ始まってすらいない",
+            "artist": "ピノキオピー / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 138,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11340": {
         "id": "11340",
         "title": "Sweets Time",
@@ -63385,6 +63607,154 @@
             "release_date": "",
             "from": "maimai でらっくす UNiVERSE",
             "is_new": false
+        }
+    },
+    "11371": {
+        "id": "11371",
+        "title": "アイドル新鋭隊",
+        "type": "DX",
+        "ds": [
+            2.0,
+            7.4,
+            9.7,
+            12.1
+        ],
+        "level": [
+            "2",
+            "7",
+            "9+",
+            "12"
+        ],
+        "cids": [
+            8920,
+            8921,
+            8922,
+            8923
+        ],
+        "charts": [
+            {
+                "notes": [
+                    83,
+                    5,
+                    3,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    198,
+                    16,
+                    18,
+                    9,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    41,
+                    36,
+                    24,
+                    8
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    276,
+                    51,
+                    127,
+                    7,
+                    47
+                ],
+                "charter": "シチミヘルツ"
+            }
+        ],
+        "basic_info": {
+            "title": "アイドル新鋭隊",
+            "artist": "Mitchie M / 初音ミク / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 176,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11372": {
+        "id": "11372",
+        "title": "needLe",
+        "type": "DX",
+        "ds": [
+            2.0,
+            7.7,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "2",
+            "7+",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            8924,
+            8925,
+            8926,
+            8927
+        ],
+        "charts": [
+            {
+                "notes": [
+                    73,
+                    10,
+                    3,
+                    9,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    236,
+                    12,
+                    14,
+                    15,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    318,
+                    42,
+                    22,
+                    29,
+                    14
+                ],
+                "charter": "隅田川星人"
+            },
+            {
+                "notes": [
+                    434,
+                    39,
+                    92,
+                    20,
+                    7
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "needLe",
+            "artist": "DECO*27 / 初音ミク / Leo/need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
         }
     },
     "11373": {
@@ -70837,6 +71207,228 @@
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": false
+        }
+    },
+    "11492": {
+        "id": "11492",
+        "title": "群青讃歌",
+        "type": "DX",
+        "ds": [
+            1.0,
+            6.2,
+            9.5,
+            12.4
+        ],
+        "level": [
+            "1",
+            "6",
+            "9",
+            "12"
+        ],
+        "cids": [
+            8928,
+            8929,
+            8930,
+            8931
+        ],
+        "charts": [
+            {
+                "notes": [
+                    58,
+                    6,
+                    2,
+                    4,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    172,
+                    17,
+                    6,
+                    13,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    29,
+                    17,
+                    7,
+                    10
+                ],
+                "charter": "翠楼屋"
+            },
+            {
+                "notes": [
+                    256,
+                    26,
+                    65,
+                    21,
+                    17
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "群青讃歌",
+            "artist": "Eve / 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 168,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11493": {
+        "id": "11493",
+        "title": "セカイ",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            10.0,
+            12.8
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            8932,
+            8933,
+            8934,
+            8935
+        ],
+        "charts": [
+            {
+                "notes": [
+                    82,
+                    4,
+                    4,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    170,
+                    10,
+                    6,
+                    21,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    254,
+                    39,
+                    33,
+                    16,
+                    18
+                ],
+                "charter": "小鳥遊さん"
+            },
+            {
+                "notes": [
+                    402,
+                    41,
+                    34,
+                    46,
+                    30
+                ],
+                "charter": "うさぎランドリー"
+            }
+        ],
+        "basic_info": {
+            "title": "セカイ",
+            "artist": "DECO*27 × 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 133,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11494": {
+        "id": "11494",
+        "title": "ワーワーワールド",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.2,
+            9.7,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            8936,
+            8937,
+            8938,
+            8939
+        ],
+        "charts": [
+            {
+                "notes": [
+                    100,
+                    4,
+                    4,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    176,
+                    18,
+                    6,
+                    27,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    281,
+                    35,
+                    28,
+                    19,
+                    8
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    382,
+                    45,
+                    74,
+                    35,
+                    22
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "ワーワーワールド",
+            "artist": "Giga & Mitchie M / 初音ミク、花里みのり、小豆沢こはね「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
         }
     },
     "11495": {
@@ -82607,6 +83199,228 @@
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false
+        }
+    },
+    "11665": {
+        "id": "11665",
+        "title": "RAD DOGS",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            8940,
+            8941,
+            8942,
+            8943
+        ],
+        "charts": [
+            {
+                "notes": [
+                    113,
+                    11,
+                    4,
+                    14,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    193,
+                    13,
+                    10,
+                    27,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    280,
+                    58,
+                    29,
+                    7,
+                    30
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    505,
+                    37,
+                    93,
+                    16,
+                    13
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "RAD DOGS",
+            "artist": "八王子P / 初音ミク / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11666": {
+        "id": "11666",
+        "title": "アイディスマイル",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            9.7,
+            12.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            8944,
+            8945,
+            8946,
+            8947
+        ],
+        "charts": [
+            {
+                "notes": [
+                    105,
+                    11,
+                    4,
+                    13,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    227,
+                    24,
+                    4,
+                    41,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    217,
+                    38,
+                    30,
+                    22,
+                    11
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    282,
+                    75,
+                    68,
+                    67,
+                    18
+                ],
+                "charter": "りんご Full Set"
+            }
+        ],
+        "basic_info": {
+            "title": "アイディスマイル",
+            "artist": "とあ / MEIKO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 171,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11667": {
+        "id": "11667",
+        "title": "にっこり^^調査隊のテーマ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.8,
+            10.5,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "12+"
+        ],
+        "cids": [
+            8948,
+            8949,
+            8950,
+            8951
+        ],
+        "charts": [
+            {
+                "notes": [
+                    131,
+                    11,
+                    4,
+                    7,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    222,
+                    32,
+                    6,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    354,
+                    46,
+                    29,
+                    9,
+                    50
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    345,
+                    110,
+                    109,
+                    67,
+                    78
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "にっこり^^調査隊のテーマ",
+            "artist": "ワンダフル☆オポチュニティ！ / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
         }
     },
     "11668": {
