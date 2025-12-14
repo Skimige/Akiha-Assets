@@ -23158,5 +23158,13 @@
         "arcadeName": "玩家搭档赣州龙南店",
         "mall": "玩家搭档赣州龙南店",
         "address": "江西省赣州市龙南市万达广场三楼玩家搭档"
+    },
+    "4637": {
+        "machineCount": 1,
+        "id": "4637",
+        "province": "广西",
+        "arcadeName": "CCTEDAY超乐馆南宁万达茂店",
+        "mall": "CCTEDAY超乐馆南宁万达茂店",
+        "address": "广西南宁市邕宁区良堤路6号万达茂一楼"
     }
 }
