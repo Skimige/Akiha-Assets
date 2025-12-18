@@ -22486,5 +22486,21 @@
         "arcadeName": "嘻哈电玩城西宁湟中店",
         "mall": "嘻哈电玩城西宁湟中店",
         "address": "青海省西宁市湟中区滨河南路北侧1号C区C-58-59嘻哈电玩城"
+    },
+    "4657": {
+        "machineCount": 1,
+        "id": "4657",
+        "province": "上海",
+        "arcadeName": "GOODSLOVE LAND上海五角场店",
+        "mall": "GOODSLOVE LAND上海五角场店",
+        "address": "上海市杨浦区五角场万达广场C区2楼"
+    },
+    "4658": {
+        "machineCount": 1,
+        "id": "4658",
+        "province": "新疆",
+        "arcadeName": "好好次元伊宁山东路店",
+        "mall": "好好次元伊宁山东路店",
+        "address": "新疆维吾尔自治区伊宁市山东路家乡好超市三楼"
     }
 }

@@ -4366,5 +4366,13 @@
         "arcadeName": "酷玩时代海口吾悦广场店",
         "mall": "酷玩时代海口吾悦广场店",
         "address": "海南省海口市新城吾悦广场3楼3020号商铺"
+    },
+    "4657": {
+        "machineCount": 1,
+        "id": "4657",
+        "province": "上海",
+        "arcadeName": "GOODSLOVE LAND上海五角场店",
+        "mall": "GOODSLOVE LAND上海五角场店",
+        "address": "上海市杨浦区五角场万达广场C区2楼"
     }
 }
