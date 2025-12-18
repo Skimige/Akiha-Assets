@@ -4350,5 +4350,21 @@
         "arcadeName": "尖峰玩家杭州余杭万达店",
         "mall": "尖峰玩家杭州余杭万达店",
         "address": "浙江省杭州市余杭区余杭街道文一西路1888号余杭万达广场2F-A尖峰玩家"
+    },
+    "4653": {
+        "machineCount": 2,
+        "id": "4653",
+        "province": "河南",
+        "arcadeName": "HIHIKOKO快乐制造地新乡胖东来店",
+        "mall": "HIHIKOKO快乐制造地新乡胖东来店",
+        "address": "河南省新乡市胖东来HIHIKOKO快乐制造地"
+    },
+    "4654": {
+        "machineCount": 2,
+        "id": "4654",
+        "province": "海南",
+        "arcadeName": "酷玩时代海口吾悦广场店",
+        "mall": "酷玩时代海口吾悦广场店",
+        "address": "海南省海口市新城吾悦广场3楼3020号商铺"
     }
 }
