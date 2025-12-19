@@ -13943,6 +13943,14 @@
         "mall": "天空之城福州仓山中俊店",
         "address": "福建省福州市仓山区利民路11号A地块中骏世界城项目"
     },
+    "3482": {
+        "machineCount": 1,
+        "id": "3482",
+        "province": "广西",
+        "arcadeName": "大玩家北海合浦店",
+        "mall": "大玩家北海合浦店",
+        "address": "广西北海市合浦县廉州镇车沟底55号合浦商业中心三楼大玩家"
+    },
     "3483": {
         "machineCount": 1,
         "id": "3483",
@@ -22542,5 +22550,13 @@
         "arcadeName": "JOYMARK十堰茅箭寿康华悦城店",
         "mall": "JOYMARK十堰茅箭寿康华悦城店",
         "address": "十堰市茅箭区朝阳中路29号寿康华悦城3楼"
+    },
+    "4661": {
+        "machineCount": 1,
+        "id": "4661",
+        "province": "广东",
+        "arcadeName": "星际传奇深圳光明星河cococity店",
+        "mall": "星际传奇深圳光明星河cococity店",
+        "address": "广东省深圳市光明区光明街道星河cococtiy二期B馆L2-026"
     }
 }
