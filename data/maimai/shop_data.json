@@ -2383,6 +2383,14 @@
         "mall": "汤姆熊武汉销品茂店",
         "address": "湖北省武汉市徐东大街18号销品茂4楼汤姆熊"
     },
+    "1584": {
+        "machineCount": 1,
+        "id": "1584",
+        "province": "黑龙江",
+        "arcadeName": "大玩家牡丹江西安万达店",
+        "mall": "大玩家牡丹江西安万达店",
+        "address": "黑龙江省牡丹江市西安区万达广场三楼大玩家"
+    },
     "1586": {
         "machineCount": 1,
         "id": "1586",
@@ -22558,5 +22566,13 @@
         "arcadeName": "星际传奇深圳光明星河cococity店",
         "mall": "星际传奇深圳光明星河cococity店",
         "address": "广东省深圳市光明区光明街道星河cococtiy二期B馆L2-026"
+    },
+    "4663": {
+        "machineCount": 1,
+        "id": "4663",
+        "province": "广东",
+        "arcadeName": "kikis其趣广州白云佳润广场店",
+        "mall": "kikis其趣广州白云佳润广场店",
+        "address": "广州市白云区佳润广场二楼kikis其趣"
     }
 }
