@@ -4382,5 +4382,13 @@
         "arcadeName": "GOODSLOVE LAND上海五角场店",
         "mall": "GOODSLOVE LAND上海五角场店",
         "address": "上海市杨浦区五角场万达广场C区2楼"
+    },
+    "4667": {
+        "machineCount": 2,
+        "id": "4667",
+        "province": "陕西",
+        "arcadeName": "咔奇咔奇咸阳秦都万达店",
+        "mall": "咔奇咔奇咸阳秦都万达店",
+        "address": "陕西省咸阳市秦都万达2楼咔奇咔奇"
     }
 }
