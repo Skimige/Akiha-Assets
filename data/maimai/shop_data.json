@@ -24254,5 +24254,29 @@
         "arcadeName": "超级玩家湛江徐闻政诚大厦店",
         "mall": "超级玩家湛江徐闻政诚大厦店",
         "address": "湛江市徐闻县徐城镇东方一路100号政诚大厦一楼至二楼"
+    },
+    "4856": {
+        "machineCount": 1,
+        "id": "4856",
+        "province": "河北",
+        "arcadeName": "长乐门欢乐汇石家庄勒泰中心店",
+        "mall": "长乐门欢乐汇石家庄勒泰中心店",
+        "address": "河北省石家庄市勒泰中心D座1楼"
+    },
+    "4857": {
+        "machineCount": 1,
+        "id": "4857",
+        "province": "宁夏",
+        "arcadeName": "趣动空间银川金凤店",
+        "mall": "趣动空间银川金凤店",
+        "address": "宁夏省银川市金凤区新华百货E馆1楼"
+    },
+    "4859": {
+        "machineCount": 4,
+        "id": "4859",
+        "province": "北京",
+        "arcadeName": "AKIBAGO北京朝阳微博in店",
+        "mall": "AKIBAGO北京朝阳微博in店",
+        "address": "北京市朝阳区朝阳公园微博in跨次元引力场一层"
     }
 }
