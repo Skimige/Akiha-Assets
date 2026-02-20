@@ -4566,5 +4566,13 @@
         "arcadeName": "AKIBAGO北京朝阳微博in店",
         "mall": "AKIBAGO北京朝阳微博in店",
         "address": "北京市朝阳区朝阳公园微博in跨次元引力场一层"
+    },
+    "4860": {
+        "machineCount": 1,
+        "id": "4860",
+        "province": "江苏",
+        "arcadeName": "超级兔宿迁泓宇广场店",
+        "mall": "超级兔宿迁泓宇广场店",
+        "address": "江苏省宿迁市苏宿大道宏宇广场一楼"
     }
 }
