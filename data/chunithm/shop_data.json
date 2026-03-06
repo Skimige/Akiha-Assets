@@ -4566,5 +4566,13 @@
         "arcadeName": "超级兔宿迁泓宇广场店",
         "mall": "超级兔宿迁泓宇广场店",
         "address": "江苏省宿迁市苏宿大道宏宇广场一楼"
+    },
+    "4865": {
+        "machineCount": 2,
+        "id": "4865",
+        "province": "广东",
+        "arcadeName": "AKIBAGO深圳罗湖新白马·次元店",
+        "mall": "AKIBAGO深圳罗湖新白马·次元店",
+        "address": "广东省深圳市罗湖区东门街道新白马·次元9号"
     }
 }

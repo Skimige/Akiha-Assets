@@ -24040,7 +24040,7 @@
         "address": "常州市新北区通江中路万达广场4楼"
     },
     "4830": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "4830",
         "province": "山东",
         "arcadeName": "壹城潮玩济南章丘世茂广场店",
@@ -24302,5 +24302,13 @@
         "arcadeName": "嘻哈乐猩球万欣广场店",
         "mall": "嘻哈乐猩球万欣广场店",
         "address": "汕头市潮阳区和平镇万欣广场"
+    },
+    "4865": {
+        "machineCount": 4,
+        "id": "4865",
+        "province": "广东",
+        "arcadeName": "AKIBAGO深圳罗湖新白马·次元店",
+        "mall": "AKIBAGO深圳罗湖新白马·次元店",
+        "address": "广东省深圳市罗湖区东门街道新白马·次元9号"
     }
 }
