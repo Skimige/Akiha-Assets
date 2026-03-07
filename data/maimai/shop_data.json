@@ -24302,5 +24302,13 @@
         "arcadeName": "AKIBAGO深圳罗湖新白马·次元店",
         "mall": "AKIBAGO深圳罗湖新白马·次元店",
         "address": "广东省深圳市罗湖区东门街道新白马·次元9号"
+    },
+    "4866": {
+        "machineCount": 1,
+        "id": "4866",
+        "province": "广东",
+        "arcadeName": "漫谷拾光深圳宝安万达店",
+        "mall": "漫谷拾光深圳宝安万达店",
+        "address": "广东省深圳市宝安区万达广场A馆二楼"
     }
 }
