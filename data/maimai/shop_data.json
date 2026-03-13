@@ -143,6 +143,14 @@
         "mall": "playone武汉菱角湖万达店",
         "address": "湖北省武汉市江汉区唐家墩菱角湖万达广场2层playone"
     },
+    "1032": {
+        "machineCount": 1,
+        "id": "1032",
+        "province": "江西",
+        "arcadeName": "大玩家南昌红谷滩万达店",
+        "mall": "大玩家南昌红谷滩万达店",
+        "address": "江西省南昌市红谷滩区大玩家万达店"
+    },
     "1034": {
         "machineCount": 1,
         "id": "1034",
