@@ -42033,6 +42033,80 @@
             "is_new": false
         }
     },
+    "10699": {
+        "id": "10699",
+        "title": "天狗の落とし文 feat. ｙｔｒ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.5,
+            10.2,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            9129,
+            9130,
+            9131,
+            9132
+        ],
+        "charts": [
+            {
+                "notes": [
+                    148,
+                    17,
+                    6,
+                    6,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    287,
+                    17,
+                    8,
+                    26,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    375,
+                    30,
+                    43,
+                    18,
+                    26
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    546,
+                    30,
+                    91,
+                    20,
+                    64
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "天狗の落とし文 feat. ｙｔｒ",
+            "artist": "魂音泉",
+            "genre": "东方Project",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "10702": {
         "id": "10702",
         "title": "WARNING×WARNING×WARNING",
@@ -89047,6 +89121,228 @@
             "is_new": true
         }
     },
+    "11747": {
+        "id": "11747",
+        "title": "地獄",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.9,
+            10.7,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            9133,
+            9134,
+            9135,
+            9136
+        ],
+        "charts": [
+            {
+                "notes": [
+                    154,
+                    16,
+                    4,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    269,
+                    16,
+                    6,
+                    17,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    343,
+                    43,
+                    45,
+                    23,
+                    23
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    489,
+                    53,
+                    80,
+                    62,
+                    22
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "地獄",
+            "artist": "164 feat.ELISA・小林太郎",
+            "genre": "舞萌",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11748": {
+        "id": "11748",
+        "title": "シスターシスター",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            11.0,
+            13.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "13"
+        ],
+        "cids": [
+            9137,
+            9138,
+            9139,
+            9140
+        ],
+        "charts": [
+            {
+                "notes": [
+                    145,
+                    17,
+                    4,
+                    16,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    291,
+                    32,
+                    10,
+                    14,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    63,
+                    44,
+                    69,
+                    38
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    422,
+                    58,
+                    107,
+                    64,
+                    95
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "シスターシスター",
+            "artist": "せきこみごはん",
+            "genre": "舞萌",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11749": {
+        "id": "11749",
+        "title": "有明/Ariake",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            12.4,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            9141,
+            9142,
+            9143,
+            9144
+        ],
+        "charts": [
+            {
+                "notes": [
+                    200,
+                    15,
+                    8,
+                    27,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    354,
+                    17,
+                    8,
+                    36,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    375,
+                    86,
+                    45,
+                    56,
+                    24
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    570,
+                    98,
+                    82,
+                    132,
+                    63
+                ],
+                "charter": "BLaCK rOSE dIsEASe pATiENT"
+            }
+        ],
+        "basic_info": {
+            "title": "有明/Ariake",
+            "artist": "SIINCA",
+            "genre": "舞萌",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11754": {
         "id": "11754",
         "title": "Elemental Ethnic",
@@ -90048,6 +90344,80 @@
             "is_new": true
         }
     },
+    "11773": {
+        "id": "11773",
+        "title": "転生林檎",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.5,
+            9.8,
+            13.1
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            9145,
+            9146,
+            9147,
+            9148
+        ],
+        "charts": [
+            {
+                "notes": [
+                    120,
+                    16,
+                    4,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    18,
+                    6,
+                    26,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    297,
+                    51,
+                    77,
+                    34,
+                    14
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    467,
+                    15,
+                    123,
+                    22,
+                    31
+                ],
+                "charter": "きょむりん"
+            }
+        ],
+        "basic_info": {
+            "title": "転生林檎",
+            "artist": "ピノキオピー",
+            "genre": "niconico & VOCALOID",
+            "bpm": 145,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11774": {
         "id": "11774",
         "title": "メイトなやつら（FEAT. 天開司, 佐藤ホームズ, あっくん大魔王 & 歌衣メイカ）",
@@ -90666,6 +91036,80 @@
             "is_new": true
         }
     },
+    "11783": {
+        "id": "11783",
+        "title": "snooze",
+        "type": "DX",
+        "ds": [
+            4.0,
+            6.8,
+            10.7,
+            13.7
+        ],
+        "level": [
+            "4",
+            "6",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            9149,
+            9150,
+            9151,
+            9152
+        ],
+        "charts": [
+            {
+                "notes": [
+                    182,
+                    13,
+                    4,
+                    6,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    293,
+                    12,
+                    10,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    407,
+                    46,
+                    62,
+                    45,
+                    56
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    572,
+                    100,
+                    104,
+                    23,
+                    69
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "snooze",
+            "artist": "wotaku feat.SHIKI",
+            "genre": "niconico & VOCALOID",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11784": {
         "id": "11784",
         "title": "イガク",
@@ -90735,6 +91179,524 @@
             "artist": "原口沙輔 feat.重音テト",
             "genre": "niconico & VOCALOID",
             "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11785": {
+        "id": "11785",
+        "title": "てらてら",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.2,
+            10.5,
+            13.1
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            9153,
+            9154,
+            9155,
+            9156
+        ],
+        "charts": [
+            {
+                "notes": [
+                    151,
+                    11,
+                    6,
+                    7,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    328,
+                    18,
+                    6,
+                    26,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    382,
+                    41,
+                    33,
+                    14,
+                    58
+                ],
+                "charter": "みそかつ侍"
+            },
+            {
+                "notes": [
+                    575,
+                    23,
+                    92,
+                    37,
+                    52
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "てらてら",
+            "artist": "和田たけあき",
+            "genre": "niconico & VOCALOID",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11786": {
+        "id": "11786",
+        "title": "Empire of Winter",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            10.9,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            9157,
+            9158,
+            9159,
+            9160
+        ],
+        "charts": [
+            {
+                "notes": [
+                    140,
+                    14,
+                    4,
+                    20,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    247,
+                    12,
+                    10,
+                    27,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    67,
+                    53,
+                    16,
+                    13
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    527,
+                    48,
+                    101,
+                    37,
+                    24
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Empire of Winter",
+            "artist": "Street",
+            "genre": "其他游戏",
+            "bpm": 175,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11787": {
+        "id": "11787",
+        "title": "迷える音色は恋の唄",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.7,
+            10.8,
+            13.7
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            9161,
+            9162,
+            9163,
+            9164
+        ],
+        "charts": [
+            {
+                "notes": [
+                    151,
+                    9,
+                    4,
+                    7,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    277,
+                    12,
+                    4,
+                    29,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    346,
+                    35,
+                    61,
+                    49,
+                    34
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    667,
+                    28,
+                    88,
+                    10,
+                    40
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "迷える音色は恋の唄",
+            "artist": "からとP⍺ոchii少年 feat.はるの",
+            "genre": "其他游戏",
+            "bpm": 165,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11788": {
+        "id": "11788",
+        "title": "Löschen",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            11.2,
+            13.9
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            9165,
+            9166,
+            9167,
+            9168
+        ],
+        "charts": [
+            {
+                "notes": [
+                    207,
+                    16,
+                    4,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    358,
+                    12,
+                    6,
+                    16,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    419,
+                    46,
+                    45,
+                    15,
+                    29
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    698,
+                    51,
+                    78,
+                    68,
+                    69
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Löschen",
+            "artist": "BlackY feat. Risa Yuzuki",
+            "genre": "其他游戏",
+            "bpm": 181,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11789": {
+        "id": "11789",
+        "title": "Abstruse Dilemma",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.7,
+            12.4,
+            14.4
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            9169,
+            9170,
+            9171,
+            9172
+        ],
+        "charts": [
+            {
+                "notes": [
+                    243,
+                    30,
+                    5,
+                    15,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    467,
+                    17,
+                    10,
+                    15,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    449,
+                    85,
+                    43,
+                    32,
+                    40
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    704,
+                    44,
+                    121,
+                    87,
+                    92
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "Abstruse Dilemma",
+            "artist": "Ashrount vs. 打打だいず",
+            "genre": "其他游戏",
+            "bpm": 216,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11790": {
+        "id": "11790",
+        "title": "HYP3RTRIBE",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.0,
+            11.7,
+            14.2
+        ],
+        "level": [
+            "6",
+            "8",
+            "11+",
+            "14"
+        ],
+        "cids": [
+            9173,
+            9174,
+            9175,
+            9176
+        ],
+        "charts": [
+            {
+                "notes": [
+                    236,
+                    18,
+                    4,
+                    18,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    362,
+                    16,
+                    6,
+                    26,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    401,
+                    119,
+                    52,
+                    18,
+                    18
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    673,
+                    73,
+                    76,
+                    54,
+                    60
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "HYP3RTRIBE",
+            "artist": "sky_delta vs KO3 vs Tanchiky",
+            "genre": "其他游戏",
+            "bpm": 190,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11791": {
+        "id": "11791",
+        "title": "On your mark (104期 Ver.)",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.7,
+            9.5,
+            12.9
+        ],
+        "level": [
+            "3",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            9177,
+            9178,
+            9179,
+            9180
+        ],
+        "charts": [
+            {
+                "notes": [
+                    131,
+                    17,
+                    4,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    268,
+                    16,
+                    10,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    350,
+                    54,
+                    27,
+                    27,
+                    20
+                ],
+                "charter": "まぐランド"
+            },
+            {
+                "notes": [
+                    433,
+                    64,
+                    75,
+                    36,
+                    34
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "On your mark (104期 Ver.)",
+            "artist": "蓮ノ空女学院スクールアイドルクラブ",
+            "genre": "流行&动漫",
+            "bpm": 154,
             "release_date": "",
             "from": "maimai でらっくす PRiSM",
             "is_new": true
@@ -90814,6 +91776,376 @@
             "is_new": true
         }
     },
+    "11793": {
+        "id": "11793",
+        "title": "エイプリルスター",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            10.2,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            9181,
+            9182,
+            9183,
+            9184
+        ],
+        "charts": [
+            {
+                "notes": [
+                    213,
+                    13,
+                    3,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    310,
+                    25,
+                    12,
+                    13,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    433,
+                    44,
+                    48,
+                    4,
+                    45
+                ],
+                "charter": "みそかつ侍"
+            },
+            {
+                "notes": [
+                    649,
+                    64,
+                    98,
+                    9,
+                    32
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "エイプリルスター",
+            "artist": "OSTER project",
+            "genre": "niconico & VOCALOID",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11794": {
+        "id": "11794",
+        "title": "オーバーライド",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            13.4
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [
+            9185,
+            9186,
+            9187,
+            9188
+        ],
+        "charts": [
+            {
+                "notes": [
+                    219,
+                    9,
+                    4,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    344,
+                    17,
+                    8,
+                    26,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    385,
+                    94,
+                    30,
+                    9,
+                    53
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    638,
+                    39,
+                    155,
+                    9,
+                    38
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "オーバーライド",
+            "artist": "吉田夜世",
+            "genre": "niconico & VOCALOID",
+            "bpm": 204,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11795": {
+        "id": "11795",
+        "title": "右に曲ガール",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            9189,
+            9190,
+            9191,
+            9192
+        ],
+        "charts": [
+            {
+                "notes": [
+                    142,
+                    11,
+                    4,
+                    6,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    11,
+                    6,
+                    28,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    461,
+                    47,
+                    15,
+                    16,
+                    12
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    438,
+                    62,
+                    110,
+                    29,
+                    28
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "右に曲ガール",
+            "artist": "はるふり",
+            "genre": "niconico & VOCALOID",
+            "bpm": 175,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11796": {
+        "id": "11796",
+        "title": "ウルトラトレーラー",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            11.0,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            9193,
+            9194,
+            9195,
+            9196
+        ],
+        "charts": [
+            {
+                "notes": [
+                    212,
+                    13,
+                    4,
+                    7,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    368,
+                    14,
+                    8,
+                    15,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    387,
+                    65,
+                    42,
+                    56,
+                    86
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    676,
+                    18,
+                    140,
+                    113,
+                    80
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ウルトラトレーラー",
+            "artist": "マサラダ",
+            "genre": "niconico & VOCALOID",
+            "bpm": 155,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11797": {
+        "id": "11797",
+        "title": "バベル",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            10.5,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            9197,
+            9198,
+            9199,
+            9200
+        ],
+        "charts": [
+            {
+                "notes": [
+                    174,
+                    14,
+                    8,
+                    16,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    302,
+                    20,
+                    4,
+                    24,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    351,
+                    62,
+                    43,
+                    18,
+                    14
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    511,
+                    68,
+                    127,
+                    39,
+                    37
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "バベル",
+            "artist": "いよわ feat.重音テト",
+            "genre": "niconico & VOCALOID",
+            "bpm": 225,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "11805": {
         "id": "11805",
         "title": "リアライズ",
@@ -90883,6 +92215,154 @@
             "artist": "柊マグネタイト",
             "genre": "niconico & VOCALOID",
             "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11919": {
+        "id": "11919",
+        "title": "エンジェル ドリーム",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.8,
+            10.0,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            9201,
+            9202,
+            9203,
+            9204
+        ],
+        "charts": [
+            {
+                "notes": [
+                    174,
+                    18,
+                    4,
+                    18,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    309,
+                    19,
+                    12,
+                    7,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    407,
+                    44,
+                    48,
+                    21,
+                    19
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    592,
+                    56,
+                    101,
+                    24,
+                    61
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "エンジェル ドリーム",
+            "artist": "「太鼓の達人」より",
+            "genre": "其他游戏",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    "11920": {
+        "id": "11920",
+        "title": "Hurtling Boys",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            12.8,
+            14.5
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            9205,
+            9206,
+            9207,
+            9208
+        ],
+        "charts": [
+            {
+                "notes": [
+                    201,
+                    9,
+                    4,
+                    10,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    314,
+                    12,
+                    6,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    376,
+                    92,
+                    79,
+                    3,
+                    59
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    694,
+                    76,
+                    92,
+                    38,
+                    31
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "Hurtling Boys",
+            "artist": "さだきち「太鼓の達人」より",
+            "genre": "其他游戏",
+            "bpm": 195,
             "release_date": "",
             "from": "maimai でらっくす PRiSM",
             "is_new": true
@@ -92404,6 +93884,41 @@
             "is_new": true
         }
     },
+    "111429": {
+        "id": "111429",
+        "title": "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
+        "type": "DX",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [
+            9209
+        ],
+        "charts": [
+            {
+                "notes": [
+                    337,
+                    115,
+                    8,
+                    391,
+                    491
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
+            "artist": "Hommarju",
+            "genre": "宴会場",
+            "bpm": 202,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
     "111433": {
         "id": "111433",
         "title": "[奏]ヒトガタ",
@@ -92603,6 +94118,41 @@
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false
+        }
+    },
+    "111557": {
+        "id": "111557",
+        "title": "[蛸]不機嫌なスリーカード",
+        "type": "DX",
+        "ds": [
+            13.0
+        ],
+        "level": [
+            "13?"
+        ],
+        "cids": [
+            9210
+        ],
+        "charts": [
+            {
+                "notes": [
+                    467,
+                    130,
+                    16,
+                    18,
+                    62
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[蛸]不機嫌なスリーカード",
+            "artist": "HIMEHINA",
+            "genre": "宴会場",
+            "bpm": 195,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
         }
     },
     "111577": {
