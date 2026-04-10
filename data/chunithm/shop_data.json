@@ -23,14 +23,6 @@
         "mall": "哆啦星球",
         "address": "陕西省西安市碑林区骡马市60号文商大厦一层"
     },
-    "1006": {
-        "machineCount": 2,
-        "id": "1006",
-        "province": "上海",
-        "arcadeName": "风云再起上海人民广场店",
-        "mall": "风云再起上海店",
-        "address": "上海市黄浦区人民大道221号迪美广场负一楼227-229#"
-    },
     "1008": {
         "machineCount": 4,
         "id": "1008",
@@ -62,14 +54,6 @@
         "arcadeName": "大玩家北京通州万达店",
         "mall": "大玩家北京通州万达店",
         "address": "北京市通州区新华西街58号万达广场3楼大玩家"
-    },
-    "1027": {
-        "machineCount": 2,
-        "id": "1027",
-        "province": "安徽",
-        "arcadeName": "风云再起合肥淮河路店",
-        "mall": "风云再起电玩城",
-        "address": "安徽省合肥市庐阳区淮河路步行街99号风云再起电玩城"
     },
     "1028": {
         "machineCount": 2,
@@ -182,14 +166,6 @@
         "arcadeName": "吾技动漫北京龙德广场店",
         "mall": "吾技动漫",
         "address": "北京市昌平区立汤路186号院龙德广场四层吾技动漫"
-    },
-    "1135": {
-        "machineCount": 2,
-        "id": "1135",
-        "province": "云南",
-        "arcadeName": "风云再起昆明金鹰店",
-        "mall": "风云再起昆明金鹰店",
-        "address": "云南省昆明市威远街168号金鹰B座7楼风云再起"
     },
     "1146": {
         "machineCount": 2,
@@ -520,7 +496,7 @@
         "address": "湖南省长沙市望城区金星北路砂之船奥莱3楼子洋联盟动漫体验中心"
     },
     "1525": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1525",
         "province": "北京",
         "arcadeName": "风云再起北京北投爱琴海店",
@@ -856,7 +832,7 @@
         "address": "天津市和平区劝业场街道光明电影院一层大游汇CGS"
     },
     "1983": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1983",
         "province": "北京",
         "arcadeName": "风云再起北京西西友谊店",
@@ -3928,7 +3904,7 @@
         "address": "山东省烟台市芝罘区大悦城3楼探奇爱玩荟"
     },
     "4358": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "4358",
         "province": "上海",
         "arcadeName": "CPCM龙之梦长宁城市生活中心店",
