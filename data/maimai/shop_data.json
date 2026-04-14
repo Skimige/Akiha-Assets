@@ -336,7 +336,7 @@
         "address": "山东省日照市烟台路176号华润万象汇三楼"
     },
     "1107": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1107",
         "province": "江苏",
         "arcadeName": "南京风云再起常发广场店",
@@ -408,7 +408,7 @@
         "address": "咸阳市秦都区正兴广场三楼风云再起"
     },
     "1128": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1128",
         "province": "浙江",
         "arcadeName": "风云再起杭州店",
@@ -448,7 +448,7 @@
         "address": "东莞市万江区华南摩尔D区三楼冰河世纪动漫城"
     },
     "1150": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1150",
         "province": "江苏",
         "arcadeName": "风云再起镇江苏宁广场店",
@@ -488,7 +488,7 @@
         "address": "宁夏回族自治区银川市金凤区正源北街金凤万达广场三号门二楼大玩家"
     },
     "1164": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1164",
         "province": "江苏",
         "arcadeName": "风云再起苏州观前街店",
@@ -712,7 +712,7 @@
         "address": "上海市浦东新区华夏东路2255号金汇广场3楼星乐荟欢乐世界"
     },
     "1211": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1211",
         "province": "四川",
         "arcadeName": "风云再起四川成都天府广场店",
@@ -728,7 +728,7 @@
         "address": "广东省广州市番禺区亚运大道1号永旺梦乐城3楼3001铺环游嘉年华"
     },
     "1214": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1214",
         "province": "河南",
         "arcadeName": "风云再起郑州大卫城店",
@@ -774,14 +774,6 @@
         "arcadeName": "大玩家牡丹江万达店",
         "mall": "大玩家哈尔滨新城吾悦店",
         "address": "黑龙江省牡丹江市西安区西七条路万达广场三楼大玩家"
-    },
-    "1227": {
-        "machineCount": 1,
-        "id": "1227",
-        "province": "山东",
-        "arcadeName": "风云再起青岛金狮广场店",
-        "mall": "风云再起青岛金狮广场店",
-        "address": "山东省青岛市崂山区香港东路195号天狮广场乙L2-01B风云再起"
     },
     "1228": {
         "machineCount": 2,
@@ -3128,7 +3120,7 @@
         "address": "上海市浦东新区龙阳路2000号2楼201室风云再起"
     },
     "1705": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1705",
         "province": "云南",
         "arcadeName": "风云再起昆明瑞鼎城店",
@@ -3168,7 +3160,7 @@
         "address": "浙江省金华市义乌市廿三里街道爱琴海购物公园三楼奕部落科技动漫城"
     },
     "1713": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1713",
         "province": "湖北",
         "arcadeName": "风云再起武汉江汉路站店",
@@ -4744,7 +4736,7 @@
         "address": "江苏省丹阳市新民东路金鹰国际广场二楼快乐佳游站"
     },
     "1998": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1998",
         "province": "江苏",
         "arcadeName": "风云再起南京大观天地店",
