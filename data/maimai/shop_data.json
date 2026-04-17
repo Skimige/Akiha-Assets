@@ -287,6 +287,14 @@
         "mall": "城市英雄步步高店",
         "address": "湖南省岳阳市步步高店"
     },
+    "1085": {
+        "machineCount": 1,
+        "id": "1085",
+        "province": "江苏",
+        "arcadeName": "风云再起无锡苏宁广场店",
+        "mall": "风云再起无锡苏宁广场店",
+        "address": "无锡市梁溪区人民中路111号无锡苏宁广场三层309E号商铺"
+    },
     "1086": {
         "machineCount": 2,
         "id": "1086",
@@ -352,7 +360,7 @@
         "address": "山东省日照市烟台路176号华润万象汇三楼"
     },
     "1107": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1107",
         "province": "江苏",
         "arcadeName": "南京风云再起常发广场店",

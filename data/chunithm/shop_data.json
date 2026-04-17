@@ -512,7 +512,7 @@
         "address": "湖南省长沙市望城区金星北路砂之船奥莱3楼子洋联盟动漫体验中心"
     },
     "1525": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1525",
         "province": "北京",
         "arcadeName": "风云再起北京北投爱琴海店",
@@ -846,6 +846,14 @@
         "arcadeName": "大游汇CGS天津和平店",
         "mall": "51区超级乐园天津和平店",
         "address": "天津市和平区劝业场街道光明电影院一层大游汇CGS"
+    },
+    "1983": {
+        "machineCount": 1,
+        "id": "1983",
+        "province": "北京",
+        "arcadeName": "风云再起北京西西友谊店",
+        "mall": "风云再起北京西西友谊店",
+        "address": "北京市西城区金融街西西友谊商城二层风云再起"
     },
     "1990": {
         "machineCount": 2,
@@ -4590,5 +4598,13 @@
         "arcadeName": "印象邯郸道",
         "mall": "印象邯郸道",
         "address": "河北省邯郸市丛台区邯郸道G309号"
+    },
+    "4892": {
+        "machineCount": 2,
+        "id": "4892",
+        "province": "江苏",
+        "arcadeName": "趣玩汇南京新街口店",
+        "mall": "趣玩汇南京新街口店",
+        "address": "南京市秦淮区洪武路38号正洪大厦"
     }
 }
