@@ -95,8 +95,16 @@
         "mall": "大玩家白云万达店",
         "address": "广东省广州市白云区云城东路503号万达广场三楼358号环游嘉年华"
     },
-    "1019": {
+    "1018": {
         "machineCount": 1,
+        "id": "1018",
+        "province": "北京",
+        "arcadeName": "风云再起北京西单店",
+        "mall": "风云再起北京店",
+        "address": "北京市西城区堂子胡同9号新一代商城六层"
+    },
+    "1019": {
+        "machineCount": 2,
         "id": "1019",
         "province": "天津",
         "arcadeName": "风云再起天津和平路店",
@@ -112,7 +120,7 @@
         "address": "北京市通州区新华西街58号万达广场3楼大玩家"
     },
     "1027": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1027",
         "province": "安徽",
         "arcadeName": "风云再起合肥淮河路店",
@@ -239,6 +247,14 @@
         "mall": "环游嘉年华东莞民盈国贸店",
         "address": "广东省东莞市东城街道东泰社区鸿福东路1号民盈国贸城5号楼L3001-3003"
     },
+    "1074": {
+        "machineCount": 1,
+        "id": "1074",
+        "province": "山西",
+        "arcadeName": "风云再起太原老鼠街店",
+        "mall": "风云再起太原老鼠街店",
+        "address": "山西省太原市迎泽区铜锣湾老鼠街尚品购物中心三层风云再起"
+    },
     "1075": {
         "machineCount": 3,
         "id": "1075",
@@ -264,7 +280,7 @@
         "address": "湖南省长沙市岳麓区梅溪湖步步高负一层城市英雄"
     },
     "1079": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "1079",
         "province": "河南",
         "arcadeName": "风云再起郑州大上海城店",
@@ -272,7 +288,7 @@
         "address": "河南省郑州市管城回族区东太康路大上海城1楼风云再起"
     },
     "1080": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1080",
         "province": "江苏",
         "arcadeName": "风云再起正洪大厦店",
@@ -432,7 +448,7 @@
         "address": "咸阳市秦都区正兴广场三楼风云再起"
     },
     "1128": {
-        "machineCount": 1,
+        "machineCount": 3,
         "id": "1128",
         "province": "浙江",
         "arcadeName": "风云再起杭州店",
@@ -455,6 +471,14 @@
         "mall": "大玩家武汉经开万达店",
         "address": "湖北省武汉市蔡甸区东风大道111号万达大玩家"
     },
+    "1135": {
+        "machineCount": 2,
+        "id": "1135",
+        "province": "云南",
+        "arcadeName": "风云再起昆明金鹰店",
+        "mall": "风云再起昆明金鹰店",
+        "address": "云南省昆明市威远街168号金鹰B座7楼风云再起"
+    },
     "1146": {
         "machineCount": 4,
         "id": "1146",
@@ -472,12 +496,20 @@
         "address": "东莞市万江区华南摩尔D区三楼冰河世纪动漫城"
     },
     "1150": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1150",
         "province": "江苏",
         "arcadeName": "风云再起镇江苏宁广场店",
         "mall": "风云再起镇江苏宁广场店",
         "address": "江苏省镇江市京口区解放路111号苏宁广场三楼风云再起"
+    },
+    "1151": {
+        "machineCount": 2,
+        "id": "1151",
+        "province": "天津",
+        "arcadeName": "风云再起天津爱琴海店",
+        "mall": "风云再起天津爱琴海店",
+        "address": "天津市河东区津滨大道160号爱琴海购物公园F446风云再起"
     },
     "1154": {
         "machineCount": 2,
@@ -512,7 +544,7 @@
         "address": "宁夏回族自治区银川市金凤区正源北街金凤万达广场三号门二楼大玩家"
     },
     "1164": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1164",
         "province": "江苏",
         "arcadeName": "风云再起苏州观前街店",
@@ -648,7 +680,7 @@
         "address": "天津市西青区中北镇阜盛道永旺梦乐城2楼51区动漫游乐场"
     },
     "1193": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1193",
         "province": "湖南",
         "arcadeName": "风云再起长沙黄兴南路店",
@@ -727,6 +759,14 @@
         "mall": "城市英雄江西南昌店",
         "address": "江西省南昌市新建区长棱大道新城吾悦广场2楼"
     },
+    "1209": {
+        "machineCount": 1,
+        "id": "1209",
+        "province": "安徽",
+        "arcadeName": "风云再起安徽滁州苏宁广场店",
+        "mall": "风云再起安徽滁州苏宁广场店",
+        "address": "安徽省滁州市琅琊区南瞧北路810号苏宁广场负一楼"
+    },
     "1210": {
         "machineCount": 1,
         "id": "1210",
@@ -736,7 +776,7 @@
         "address": "上海市浦东新区华夏东路2255号金汇广场3楼星乐荟欢乐世界"
     },
     "1211": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1211",
         "province": "四川",
         "arcadeName": "风云再起四川成都天府广场店",
@@ -752,7 +792,7 @@
         "address": "广东省广州市番禺区亚运大道1号永旺梦乐城3楼3001铺环游嘉年华"
     },
     "1214": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1214",
         "province": "河南",
         "arcadeName": "风云再起郑州大卫城店",
@@ -798,6 +838,14 @@
         "arcadeName": "大玩家牡丹江万达店",
         "mall": "大玩家哈尔滨新城吾悦店",
         "address": "黑龙江省牡丹江市西安区西七条路万达广场三楼大玩家"
+    },
+    "1227": {
+        "machineCount": 2,
+        "id": "1227",
+        "province": "山东",
+        "arcadeName": "风云再起青岛金狮广场店",
+        "mall": "风云再起青岛金狮广场店",
+        "address": "山东省青岛市崂山区香港东路195号天狮广场乙L2-01B风云再起"
     },
     "1228": {
         "machineCount": 2,
@@ -960,7 +1008,7 @@
         "address": "北京市海淀区复兴路69号嗨翻竞技主题乐园"
     },
     "1266": {
-        "machineCount": 3,
+        "machineCount": 4,
         "id": "1266",
         "province": "天津",
         "arcadeName": "风云再起天津南京路店",
@@ -1648,7 +1696,7 @@
         "address": "山西省太原市万柏林区世纪联华来福购物中心三楼"
     },
     "1397": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "1397",
         "province": "江苏",
         "arcadeName": "风云再起无锡清扬茂业天地店",
@@ -3144,7 +3192,7 @@
         "address": "上海市浦东新区龙阳路2000号2楼201室风云再起"
     },
     "1705": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1705",
         "province": "云南",
         "arcadeName": "风云再起昆明瑞鼎城店",
@@ -3184,7 +3232,7 @@
         "address": "浙江省金华市义乌市廿三里街道爱琴海购物公园三楼奕部落科技动漫城"
     },
     "1713": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1713",
         "province": "湖北",
         "arcadeName": "风云再起武汉江汉路站店",
@@ -4760,7 +4808,7 @@
         "address": "江苏省丹阳市新民东路金鹰国际广场二楼快乐佳游站"
     },
     "1998": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1998",
         "province": "江苏",
         "arcadeName": "风云再起南京大观天地店",
@@ -4998,6 +5046,14 @@
         "arcadeName": "梦想之城周口沈丘店",
         "mall": "梦想之城周口沈丘店",
         "address": "河南省周口市沈丘县快乐小镇三楼梦想之城家庭游乐中心"
+    },
+    "2036": {
+        "machineCount": 2,
+        "id": "2036",
+        "province": "北京",
+        "arcadeName": "风云再起北京西单明珠店",
+        "mall": "风云再起北京西单明珠店",
+        "address": "北京市西城区横二条59号楼7层1－263号7025风云再起"
     },
     "2037": {
         "machineCount": 1,
@@ -5943,6 +5999,14 @@
         "mall": "疯狂牛仔城江门蓬江店",
         "address": "广东省江门市蓬江区万达广场二楼疯狂牛仔城"
     },
+    "2193": {
+        "machineCount": 1,
+        "id": "2193",
+        "province": "贵州",
+        "arcadeName": "风云再起贵阳云岩店",
+        "mall": "风云再起贵阳云岩店",
+        "address": "贵州省贵阳市云岩区中山东路2号智城百货大楼负一楼"
+    },
     "2194": {
         "machineCount": 1,
         "id": "2194",
@@ -6072,7 +6136,7 @@
         "address": "广东省广州市花都区狮岭镇合成村合成北三街1号楼3楼3-08、3-09之一合成电玩城"
     },
     "2218": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2218",
         "province": "北京",
         "arcadeName": "风云再起北京西长安中骏世界城店",

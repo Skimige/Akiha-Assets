@@ -447,6 +447,14 @@
         "mall": "天津宝坻区金满家购物广场店",
         "address": "天津市宝坻区天赋源A座三楼金满家电玩城"
     },
+    "1397": {
+        "machineCount": 2,
+        "id": "1397",
+        "province": "江苏",
+        "arcadeName": "风云再起无锡清扬茂业天地店",
+        "mall": "风云再起无锡清扬茂业天地店",
+        "address": "江苏省无锡市梁溪区清扬路128号茂业天地3楼风云再起"
+    },
     "1405": {
         "machineCount": 2,
         "id": "1405",
@@ -848,7 +856,7 @@
         "address": "天津市和平区劝业场街道光明电影院一层大游汇CGS"
     },
     "1983": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1983",
         "province": "北京",
         "arcadeName": "风云再起北京西西友谊店",
@@ -912,7 +920,7 @@
         "address": "山西省大同市平城区绿地缤纷汇6号楼二层"
     },
     "2036": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2036",
         "province": "北京",
         "arcadeName": "风云再起北京西单明珠店",
