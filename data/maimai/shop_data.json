@@ -24470,5 +24470,29 @@
         "arcadeName": "潮可爱随州曾都万达店",
         "mall": "潮可爱随州曾都万达店",
         "address": "湖北省随州市曾都区经济开发区万达广场"
+    },
+    "4910": {
+        "machineCount": 1,
+        "id": "4910",
+        "province": "辽宁",
+        "arcadeName": "星际传奇沈阳铁西万象汇店",
+        "mall": "星际传奇沈阳铁西万象汇店",
+        "address": "辽宁省沈阳市铁西万象汇3楼星际传奇"
+    },
+    "4911": {
+        "machineCount": 4,
+        "id": "4911",
+        "province": "上海",
+        "arcadeName": "cowplaycowmoo上海徐汇新六百店",
+        "mall": "cowplaycowmoo上海徐汇新六百店",
+        "address": "上海市徐汇区新六百407室cowplaycowmoo"
+    },
+    "4912": {
+        "machineCount": 1,
+        "id": "4912",
+        "province": "安徽",
+        "arcadeName": "e+潮玩淮南爱琴海购物中心店",
+        "mall": "e+潮玩淮南爱琴海购物中心店",
+        "address": "安徽省淮南市爱琴海购物中心二楼e+潮玩"
     }
 }
