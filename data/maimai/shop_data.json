@@ -4847,14 +4847,6 @@
         "mall": "欢乐嘉时光绵阳茂业店",
         "address": "四川省绵阳市涪城区茂业百货三楼欢乐嘉时光电玩城"
     },
-    "2017": {
-        "machineCount": 1,
-        "id": "2017",
-        "province": "广东",
-        "arcadeName": "GoPlay潮玩中山石岐店",
-        "mall": "华立暂未开业-GoPlay潮玩",
-        "address": "广东省中山市石岐区大信南路3号7卡GoPlay潮玩"
-    },
     "2018": {
         "machineCount": 2,
         "id": "2018",
@@ -24630,5 +24622,45 @@
         "arcadeName": "一同潮玩鹰潭天虹店",
         "mall": "一同潮玩鹰潭天虹店",
         "address": "江西省鹰潭市月湖区天虹购物中心3楼3030铺"
+    },
+    "4918": {
+        "machineCount": 2,
+        "id": "4918",
+        "province": "广东",
+        "arcadeName": "猫窝东圃店",
+        "mall": "猫窝东圃店",
+        "address": "广州市天河区车陂第十三社东湖创意园c座"
+    },
+    "4919": {
+        "machineCount": 1,
+        "id": "4919",
+        "province": "广东",
+        "arcadeName": "热带雨林主题乐园清远清城壹悦城店",
+        "mall": "热带雨林主题乐园清远清城壹悦城店",
+        "address": "清远市清城区壹悦城三楼热带雨林"
+    },
+    "4920": {
+        "machineCount": 2,
+        "id": "4920",
+        "province": "陕西",
+        "arcadeName": "潮玩社西安华阳城店",
+        "mall": "潮玩社西安华阳城店",
+        "address": "陕西省西安市华阳城三楼潮玩社"
+    },
+    "4921": {
+        "machineCount": 1,
+        "id": "4921",
+        "province": "山西",
+        "arcadeName": "宝贝王晋中榆次无限城店",
+        "mall": "宝贝王晋中榆次无限城店",
+        "address": "晋中市榆次区龙湖大街无限城c栋宝贝王"
+    },
+    "4922": {
+        "machineCount": 1,
+        "id": "4922",
+        "province": "广东",
+        "arcadeName": "星趣时光佛山禅城南庄吉利沃达百货店",
+        "mall": "星趣时光佛山禅城南庄吉利沃达百货店",
+        "address": "佛山市禅城区南庄镇吉利沃达百货3楼星趣时光"
     }
 }
