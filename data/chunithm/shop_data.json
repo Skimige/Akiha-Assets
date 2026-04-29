@@ -159,14 +159,6 @@
         "mall": "上海JOYPOLIS世嘉都市乐园",
         "address": "上海市普陀区中山北路3300号月星环球港3楼L3163"
     },
-    "1118": {
-        "machineCount": 1,
-        "id": "1118",
-        "province": "广东",
-        "arcadeName": "大玩家东莞东城万达店",
-        "mall": "大玩家青浦万达店",
-        "address": "广东省东莞市东城区万达广场二楼大玩家"
-    },
     "1121": {
         "machineCount": 2,
         "id": "1121",
@@ -2872,7 +2864,7 @@
         "address": "广东省惠州市惠城区港惠新天地负一楼极限主场"
     },
     "3471": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "3471",
         "province": "上海",
         "arcadeName": "悠乐乐园上海宝山经纬汇店",
@@ -4648,11 +4640,19 @@
         "address": "广州市白云区京溪街道圣地大厦L203-2"
     },
     "4912": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "4912",
         "province": "安徽",
         "arcadeName": "e+潮玩淮南爱琴海购物中心店",
         "mall": "e+潮玩淮南爱琴海购物中心店",
         "address": "安徽省淮南市爱琴海购物中心二楼e+潮玩"
+    },
+    "4925": {
+        "machineCount": 1,
+        "id": "4925",
+        "province": "上海",
+        "arcadeName": "悠乐哒上海新业坊店",
+        "mall": "悠乐哒上海新业坊店",
+        "address": "上海市高境镇殷高西路新业坊科创园9号楼"
     }
 }
