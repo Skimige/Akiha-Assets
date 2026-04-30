@@ -24592,7 +24592,7 @@
         "address": "上海市徐汇区新六百407室cowplaycowmoo"
     },
     "4912": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "4912",
         "province": "安徽",
         "arcadeName": "e+潮玩淮南爱琴海购物中心店",
@@ -24710,5 +24710,21 @@
         "arcadeName": "库玩窝宝安店",
         "mall": "库玩窝宝安店",
         "address": "广东省深圳市宝安区大宝路友谊大厦二栋6楼"
+    },
+    "4928": {
+        "machineCount": 1,
+        "id": "4928",
+        "province": "贵州",
+        "arcadeName": "动感电玩中心宾隆店",
+        "mall": "动感电玩中心宾隆店",
+        "address": "贵州毕节市威宁县会展中心宾隆购物“动感"
+    },
+    "4929": {
+        "machineCount": 1,
+        "id": "4929",
+        "province": "山东",
+        "arcadeName": "壹城潮玩电玩城聊城店",
+        "mall": "壹城潮玩电玩城聊城店",
+        "address": "山东省聊城市高新技术开发区东昌东路177号当代购物中心四楼"
     }
 }
