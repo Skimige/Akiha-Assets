@@ -22936,7 +22936,7 @@
         "address": "河南省开封市郑开大道万达广场二楼喜漫游潮玩中心"
     },
     "4685": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "4685",
         "province": "辽宁",
         "arcadeName": "小猪泰德大连中央大道店",
@@ -24734,5 +24734,13 @@
         "arcadeName": "KT竞技现场（五棵松华熙LIVE店）",
         "mall": "KT竞技现场（五棵松华熙LIVE店）",
         "address": "北京市海淀区万寿路街道复兴路69号华熙live KT竞技现场"
+    },
+    "4932": {
+        "machineCount": 1,
+        "id": "4932",
+        "province": "辽宁",
+        "arcadeName": "宝贝王营口万达店",
+        "mall": "宝贝王营口万达店",
+        "address": "营口市市府路1号万达广场2楼"
     }
 }

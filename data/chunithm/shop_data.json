@@ -4654,5 +4654,21 @@
         "arcadeName": "悠乐哒上海新业坊店",
         "mall": "悠乐哒上海新业坊店",
         "address": "上海市高境镇殷高西路新业坊科创园9号楼"
+    },
+    "4930": {
+        "machineCount": 2,
+        "id": "4930",
+        "province": "北京",
+        "arcadeName": "KT竞技现场（五棵松华熙LIVE店）",
+        "mall": "KT竞技现场（五棵松华熙LIVE店）",
+        "address": "北京市海淀区万寿路街道复兴路69号华熙live KT竞技现场"
+    },
+    "4931": {
+        "machineCount": 2,
+        "id": "4931",
+        "province": "陕西",
+        "arcadeName": "顽樂引擎西安店",
+        "mall": "顽樂引擎西安店",
+        "address": "陕西省西安市未央区大明宫万达广场娱乐楼Z-2F-AA号顽楽引擎"
     }
 }
