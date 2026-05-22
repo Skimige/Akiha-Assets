@@ -224,7 +224,7 @@
         "address": "湖南省长沙市芙蓉区东沌渡街道万家丽中路一段99－101号B1楼B42&B43－1号商铺"
     },
     "1187": {
-        "machineCount": 4,
+        "machineCount": 5,
         "id": "1187",
         "province": "上海",
         "arcadeName": "上海烈火游戏机娱乐有限公司",
@@ -640,7 +640,7 @@
         "address": "广东省惠州市惠城区云山东路28号6层013号"
     },
     "1719": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1719",
         "province": "四川",
         "arcadeName": "元气总动员成都仁和新城店",
@@ -1126,14 +1126,6 @@
         "arcadeName": "真快活武汉光谷世界城店",
         "mall": "真快活武汉光谷世界城店",
         "address": "湖北省武汉市洪山区珞瑜路726号光谷世界城4楼"
-    },
-    "2198": {
-        "machineCount": 1,
-        "id": "2198",
-        "province": "山东",
-        "arcadeName": "青春飞扬潍坊谷德广场店",
-        "mall": "青春飞扬家庭娱乐中心潍坊谷德广场店",
-        "address": "山东省潍坊市高新区谷德广场负一楼"
     },
     "2203": {
         "machineCount": 2,
@@ -2432,20 +2424,12 @@
         "address": "四川省南充市顺庆文法路164号北湖广场1幢3层2号3号"
     },
     "3151": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "3151",
         "province": "新疆",
         "arcadeName": "环游嘉年华超乐场新疆哈密伊州店",
         "mall": "环游嘉年华超乐场新疆哈密伊州店",
         "address": "新疆哈密市伊州区中山北路与广场南路交汇处汇嘉时代一期5楼L5011"
-    },
-    "3155": {
-        "machineCount": 1,
-        "id": "3155",
-        "province": "江苏",
-        "arcadeName": "天空之城常州天宁店",
-        "mall": "天空之城常州天宁店",
-        "address": "江苏省常州市天宁区天宁吾悦广场3楼天空之城"
     },
     "3165": {
         "machineCount": 2,
@@ -2648,7 +2632,7 @@
         "address": "北京市海淀区学清路8号三层吉睿游艺"
     },
     "3347": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "3347",
         "province": "黑龙江",
         "arcadeName": "环游电玩城哈尔滨松北店",
@@ -2822,6 +2806,14 @@
         "arcadeName": "悠乐乐园上海宝山经纬汇店",
         "mall": "悠乐数字潮玩宝山经纬汇店",
         "address": "上海市宝山区大场镇经地路99号经纬汇6座悠乐数字潮玩"
+    },
+    "3474": {
+        "machineCount": 1,
+        "id": "3474",
+        "province": "四川",
+        "arcadeName": "元气总动员成都郫都时代店",
+        "mall": "元气总动员成都郫都时代店",
+        "address": "四川省成都市郫都区时代天街三楼元气总动员"
     },
     "3479": {
         "machineCount": 1,
@@ -3960,7 +3952,7 @@
         "address": "江苏省宿迁市宿城区河滨街道宿支路远洋未来广场3F星世纪"
     },
     "4384": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "4384",
         "province": "宁夏",
         "arcadeName": "探奇爱玩荟银川建发店",
