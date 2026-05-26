@@ -16872,7 +16872,7 @@
         "address": "湖南省岳阳市平江县天岳大道与长冲路交叉口奇趣超乐园"
     },
     "3856": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "3856",
         "province": "广西",
         "arcadeName": "酷漫潮玩勇士南宁青秀店",
@@ -24862,5 +24862,37 @@
         "arcadeName": "头号玩家郑州正弘城店",
         "mall": "头号玩家郑州正弘城店",
         "address": "河南省郑州市金水区文化路街道正弘城四楼头号玩家"
+    },
+    "4950": {
+        "machineCount": 1,
+        "id": "4950",
+        "province": "湖北",
+        "arcadeName": "嗨玩星际乐园点",
+        "mall": "嗨玩星际乐园点",
+        "address": "湖北省洪湖市天远时代D区二楼"
+    },
+    "4951": {
+        "machineCount": 1,
+        "id": "4951",
+        "province": "北京",
+        "arcadeName": "宝贝计划姚家园万象汇店",
+        "mall": "宝贝计划姚家园万象汇店",
+        "address": "北京市朝阳区姚家园万象汇4楼宝贝计划"
+    },
+    "4952": {
+        "machineCount": 1,
+        "id": "4952",
+        "province": "广东",
+        "arcadeName": "嘻哈乐电玩城东莞大岭山店",
+        "mall": "嘻哈乐电玩城东莞大岭山店",
+        "address": "广东省东莞市大岭山镇玉屏路沃尔玛二楼嘻哈乐"
+    },
+    "4953": {
+        "machineCount": 1,
+        "id": "4953",
+        "province": "安徽",
+        "arcadeName": "酷玩 e 族淮北相山万达店",
+        "mall": "酷玩 e 族淮北相山万达店",
+        "address": "淮北市相山区万达广场二楼酷玩 e 族"
     }
 }
