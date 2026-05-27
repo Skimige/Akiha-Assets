@@ -101,7 +101,7 @@
         "province": "天津",
         "arcadeName": "风云再起天津和平路店",
         "mall": "风云再起天津和平路店",
-        "address": "天津市和平区和平路万达广场A座"
+        "address": "天津市和平区和平路印象城A座一层风云再起游乐汇"
     },
     "1022": {
         "machineCount": 6,
@@ -24894,5 +24894,29 @@
         "arcadeName": "酷玩 e 族淮北相山万达店",
         "mall": "酷玩 e 族淮北相山万达店",
         "address": "淮北市相山区万达广场二楼酷玩 e 族"
+    },
+    "4954": {
+        "machineCount": 1,
+        "id": "4954",
+        "province": "湖南",
+        "arcadeName": "潮玩世纪家庭娱乐中心",
+        "mall": "潮玩世纪家庭娱乐中心",
+        "address": "湖南省娄底市涟钢袄尔玛店"
+    },
+    "4955": {
+        "machineCount": 2,
+        "id": "4955",
+        "province": "北京",
+        "arcadeName": "京北智玩空间",
+        "mall": "京北智玩空间",
+        "address": "北京市怀柔区府前街14号"
+    },
+    "4956": {
+        "machineCount": 1,
+        "id": "4956",
+        "province": "北京",
+        "arcadeName": "宝贝计划通州万达店",
+        "mall": "宝贝计划通州万达店",
+        "address": "北京市通州区北苑街道万达广场3层宝贝计划"
     }
 }
