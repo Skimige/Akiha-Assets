@@ -16,7 +16,7 @@
         "address": "广东省广州市番禺区市桥街易发商业街新大新百货5楼"
     },
     "1005": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "1005",
         "province": "陕西",
         "arcadeName": "哆啦乐图西安钟楼店",
@@ -136,7 +136,7 @@
         "address": "河南省郑州市管城回族区东太康路大上海城1楼风云再起"
     },
     "1086": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1086",
         "province": "陕西",
         "arcadeName": "哆啦星球西安雁塔小寨店",
