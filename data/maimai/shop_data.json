@@ -4587,9 +4587,9 @@
         "machineCount": 1,
         "id": "1975",
         "province": "天津",
-        "arcadeName": "大游汇CGS天津和平店",
+        "arcadeName": "51区超级乐园天津红桥水游城店",
         "mall": "51区超级乐园天津和平店",
-        "address": "天津市和平区劝业场街道光明电影院一层大游汇CGS"
+        "address": "天津市红桥区水游城A座2楼51区超级乐园"
     },
     "1976": {
         "machineCount": 1,
@@ -6203,9 +6203,9 @@
         "machineCount": 1,
         "id": "2256",
         "province": "内蒙古",
-        "arcadeName": "头号玩家通辽维多利店",
+        "arcadeName": "超级玩家通辽维多利店",
         "mall": "头号玩家通辽维多利店",
-        "address": "内蒙古通辽市和平路永清大街交汇处维多利商场4楼头号玩家电玩城"
+        "address": "内蒙古通辽市和平路永清大街交汇处维多利商场4楼超级玩家超乐场"
     },
     "2257": {
         "machineCount": 1,
@@ -13158,14 +13158,6 @@
         "arcadeName": "玩者归来上海闵行爱琴海店",
         "mall": "玩者归来上海闵行店",
         "address": "上海闵行区吴中路1588号爱琴海四楼F428-F435玩者归来(爱琴海店)"
-    },
-    "3382": {
-        "machineCount": 1,
-        "id": "3382",
-        "province": "浙江",
-        "arcadeName": "麦酷潮玩杭州拱墅银泰店",
-        "mall": "麦酷潮玩杭州拱墅银泰店",
-        "address": "浙江省杭州市拱墅区祥符街道丰潭路380号城西银泰城2L麦酷潮玩空间"
     },
     "3383": {
         "machineCount": 1,
@@ -23496,7 +23488,7 @@
         "address": "湖南省郴州市永兴县友阿天街3楼3001-3005号铺"
     },
     "4823": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "4823",
         "province": "广东",
         "arcadeName": "WIN窝|赢窝广州天河陶庄店",
@@ -24168,7 +24160,7 @@
         "address": "泸州市龙马潭区公园九街2层童趣玩国"
     },
     "4916": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "4916",
         "province": "上海",
         "arcadeName": "菲游乐上海奉贤新城龙湖店",
@@ -24435,7 +24427,7 @@
         "machineCount": 2,
         "id": "4955",
         "province": "北京",
-        "arcadeName": "京北智玩空间",
+        "arcadeName": "智玩空间北京怀柔店",
         "mall": "京北智玩空间",
         "address": "北京市怀柔区府前街14号"
     },

@@ -843,9 +843,9 @@
         "machineCount": 2,
         "id": "1975",
         "province": "天津",
-        "arcadeName": "大游汇CGS天津和平店",
+        "arcadeName": "51区超级乐园天津红桥水游城店",
         "mall": "51区超级乐园天津和平店",
-        "address": "天津市和平区劝业场街道光明电影院一层大游汇CGS"
+        "address": "天津市红桥区水游城A座2楼51区超级乐园"
     },
     "1984": {
         "machineCount": 2,
@@ -2600,7 +2600,7 @@
         "address": "河北省涿州市范阳路君悦广场3层"
     },
     "3325": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "3325",
         "province": "山东",
         "arcadeName": "馨之梦平原新世店",
@@ -4495,6 +4495,14 @@
         "mall": "欢心谷合肥巢湖万达店",
         "address": "安徽省合肥市巢湖市太湖山路与东塘路交叉口万达二楼欢心谷"
     },
+    "4823": {
+        "machineCount": 1,
+        "id": "4823",
+        "province": "广东",
+        "arcadeName": "WIN窝|赢窝广州天河陶庄店",
+        "mall": "WIN窝|赢窝广州天河陶庄店",
+        "address": "广州市天河区陶庄路5号2011C"
+    },
     "4825": {
         "machineCount": 1,
         "id": "4825",
@@ -4675,7 +4683,7 @@
         "machineCount": 2,
         "id": "4955",
         "province": "北京",
-        "arcadeName": "京北智玩空间",
+        "arcadeName": "智玩空间北京怀柔店",
         "mall": "京北智玩空间",
         "address": "北京市怀柔区府前街14号"
     },
