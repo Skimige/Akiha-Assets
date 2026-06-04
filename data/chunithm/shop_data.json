@@ -16,7 +16,7 @@
         "address": "广东省广州市番禺区市桥街易发商业街新大新百货5楼"
     },
     "1005": {
-        "machineCount": 3,
+        "machineCount": 4,
         "id": "1005",
         "province": "陕西",
         "arcadeName": "哆啦乐图西安钟楼店",
@@ -135,14 +135,6 @@
         "mall": "风云再起郑州大上海城店",
         "address": "河南省郑州市管城回族区东太康路大上海城1楼风云再起"
     },
-    "1086": {
-        "machineCount": 1,
-        "id": "1086",
-        "province": "陕西",
-        "arcadeName": "哆啦星球西安雁塔小寨店",
-        "mall": "哆啦星球小寨店",
-        "address": "陕西省西安市雁塔区长安中路215号西旅国际一楼"
-    },
     "1088": {
         "machineCount": 4,
         "id": "1088",
@@ -190,6 +182,14 @@
         "arcadeName": "城市英雄司门口店",
         "mall": "城市英雄司门口店",
         "address": "湖南省长沙市解放西路147号"
+    },
+    "1164": {
+        "machineCount": 2,
+        "id": "1164",
+        "province": "江苏",
+        "arcadeName": "风云再起苏州观前街店",
+        "mall": "风云再起苏州美京广场店",
+        "address": "江苏省苏州市姑苏区观前街粤海广场1号楼2层风云再起"
     },
     "1168": {
         "machineCount": 2,
@@ -536,7 +536,7 @@
         "address": "湖南省长沙市望城区金星北路砂之船奥莱3楼子洋联盟动漫体验中心"
     },
     "1525": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1525",
         "province": "北京",
         "arcadeName": "风云再起北京北投爱琴海店",
@@ -848,7 +848,7 @@
         "address": "天津市红桥区水游城A座2楼51区超级乐园"
     },
     "1984": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1984",
         "province": "北京",
         "arcadeName": "风云再起北京西西友谊店",
