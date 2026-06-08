@@ -639,14 +639,6 @@
         "mall": "环游嘉年华广州中华广场店",
         "address": "广东省广州市越秀区中山三路33号中华广场3楼"
     },
-    "1714": {
-        "machineCount": 1,
-        "id": "1714",
-        "province": "广东",
-        "arcadeName": "鹅窝KATTYUU惠州惠城店",
-        "mall": "惠州鹅窝KATTYUU",
-        "address": "广东省惠州市惠城区云山东路28号6层013号"
-    },
     "1719": {
         "machineCount": 1,
         "id": "1719",
@@ -2815,14 +2807,6 @@
         "mall": "叮当次元长春宽城万达店",
         "address": "吉林省长春市宽城区上海路宽城广场3楼3023A"
     },
-    "3484": {
-        "machineCount": 1,
-        "id": "3484",
-        "province": "广东",
-        "arcadeName": "宴窝Banquet广州天河燕岭店",
-        "mall": "宴窝Banquet广州天河燕岭店",
-        "address": "广东省广州市天河区燕岭路133号之十105"
-    },
     "3488": {
         "machineCount": 2,
         "id": "3488",
@@ -2854,14 +2838,6 @@
         "arcadeName": "SUPERBUDDY常州天宁华润店",
         "mall": "SUPERBUDDY常州天宁华润店",
         "address": "江苏省常州市天宁区离宫路329号华润国际花园100栋常州万象城四楼L459"
-    },
-    "3504": {
-        "machineCount": 4,
-        "id": "3504",
-        "province": "广东",
-        "arcadeName": "猫窝大石店",
-        "mall": "猫窝大石店",
-        "address": "广东省广州市番禺区豪汇青创园"
     },
     "3506": {
         "machineCount": 1,
@@ -3823,14 +3799,6 @@
         "mall": "-",
         "address": "贵州省贵阳市南明区市南路42号国贸逸天城4楼梦时代电玩城"
     },
-    "4314": {
-        "machineCount": 1,
-        "id": "4314",
-        "province": "广东",
-        "arcadeName": "雁窝广州海珠店",
-        "mall": "雁窝广州海珠店",
-        "address": "广州市海珠区江南大道广东现代广告创意中心506"
-    },
     "4316": {
         "machineCount": 2,
         "id": "4316",
@@ -3846,14 +3814,6 @@
         "arcadeName": "潮可爱安阳文峰万达店",
         "mall": "-",
         "address": "河南省安阳市文峰区万达三楼潮可爱店"
-    },
-    "4342": {
-        "machineCount": 1,
-        "id": "4342",
-        "province": "江苏",
-        "arcadeName": "苏州火窝音游窝电玩游艺店",
-        "mall": "苏州火窝音游窝电玩游艺店",
-        "address": "江苏省苏州市工业园区文化博览中心地铁一号口沃享空间长廊B17"
     },
     "4345": {
         "machineCount": 3,
@@ -4126,14 +4086,6 @@
         "arcadeName": "索拉星球绵阳上马百盛店",
         "mall": "索拉星球绵阳上马百盛店",
         "address": "四川省绵阳市涪城区科技城新区创业大道中段上马百盛3楼"
-    },
-    "4534": {
-        "machineCount": 2,
-        "id": "4534",
-        "province": "广东",
-        "arcadeName": "宴窝SECLUSION广州从化江埔店",
-        "mall": "宴窝SECLUSION广州从化江埔店",
-        "address": "广州市从化区江埔街道从城大道107号远达汇聚12层1209房"
     },
     "4536": {
         "machineCount": 1,
@@ -4463,14 +4415,6 @@
         "mall": "欢心谷合肥巢湖万达店",
         "address": "安徽省合肥市巢湖市太湖山路与东塘路交叉口万达二楼欢心谷"
     },
-    "4823": {
-        "machineCount": 1,
-        "id": "4823",
-        "province": "广东",
-        "arcadeName": "WIN窝|赢窝广州天河陶庄店",
-        "mall": "WIN窝|赢窝广州天河陶庄店",
-        "address": "广州市天河区陶庄路5号2011C"
-    },
     "4825": {
         "machineCount": 1,
         "id": "4825",
@@ -4590,14 +4534,6 @@
         "arcadeName": "丁丁家庭娱乐中心德阳旌阳区万达店",
         "mall": "丁丁家庭娱乐中心德阳旌阳区万达店",
         "address": "四川省德阳市旌阳区东湖街道庐山北路一段8号德阳万达广场13号楼商业广场3F-A-A"
-    },
-    "4898": {
-        "machineCount": 2,
-        "id": "4898",
-        "province": "广东",
-        "arcadeName": "猫窝京溪店",
-        "mall": "猫窝京溪店",
-        "address": "广州市白云区京溪街道圣地大厦L203-2"
     },
     "4912": {
         "machineCount": 2,
