@@ -10133,7 +10133,7 @@
         "province": "内蒙古",
         "arcadeName": "疯狂巴比特通辽壹方城店",
         "mall": "疯狂巴比特通辽壹方城店",
-        "address": "内蒙古通辽市科尔沁区壹方城商业广场疯狂巴比特"
+        "address": "内蒙古通辽市万达2号门星际玩家"
     },
     "3124": {
         "machineCount": 1,
@@ -15531,7 +15531,7 @@
         "machineCount": 1,
         "id": "3964",
         "province": "云南",
-        "arcadeName": "super101临沧凤翔店",
+        "arcadeName": "潮漫娱乐场临沧临翔强力店",
         "mall": "super101临沧凤翔店",
         "address": "云南省临沧市临翔区凤翔街道办事处章嘎社区汀旗路市公安局对面强力广场S1号楼3层"
     },
@@ -17814,6 +17814,14 @@
         "arcadeName": "头号玩家阳江江城店",
         "mall": "-",
         "address": "广东省阳江市江城区新江东路299号广之恒繁华里头号玩家"
+    },
+    "4303": {
+        "machineCount": 1,
+        "id": "4303",
+        "province": "广东",
+        "arcadeName": "宝贝王深圳福田cocopark店",
+        "mall": "宝贝王深圳福田cocopark店",
+        "address": "广东省深圳市福田区福田星河Cocopark二期1F宝贝王家庭欢乐中心"
     },
     "4304": {
         "machineCount": 1,
