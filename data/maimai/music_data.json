@@ -95760,41 +95760,6 @@
             "is_new": false
         }
     },
-    "100259": {
-        "id": "100259",
-        "title": "[協]ぽっぴっぽー",
-        "type": "DX",
-        "ds": [
-            13.7
-        ],
-        "level": [
-            "13+?"
-        ],
-        "cids": [
-            8080
-        ],
-        "charts": [
-            {
-                "notes": [
-                    659,
-                    141,
-                    56,
-                    0,
-                    12
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[協]ぽっぴっぽー",
-            "artist": " ",
-            "genre": "宴会場",
-            "bpm": 150,
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false
-        }
-    },
     "100327": {
         "id": "100327",
         "title": "[狂]タカハせ！名人マン",
@@ -96394,41 +96359,6 @@
             "is_new": false
         }
     },
-    "110579": {
-        "id": "110579",
-        "title": "[協]ポップミュージックは僕のもの",
-        "type": "DX",
-        "ds": [
-            12.7
-        ],
-        "level": [
-            "12+?"
-        ],
-        "cids": [
-            8084
-        ],
-        "charts": [
-            {
-                "notes": [
-                    241,
-                    47,
-                    101,
-                    8,
-                    12
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[協]ポップミュージックは僕のもの",
-            "artist": "ONIGAWARA",
-            "genre": "宴会場",
-            "bpm": 135,
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false
-        }
-    },
     "110606": {
         "id": "110606",
         "title": "[右]The wheel to the right",
@@ -96650,41 +96580,6 @@
             "release_date": "",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
-        }
-    },
-    "111222": {
-        "id": "111222",
-        "title": "[光]BREaK! BREaK! BREaK!",
-        "type": "DX",
-        "ds": [
-            14.7
-        ],
-        "level": [
-            "14+?"
-        ],
-        "cids": [
-            8260
-        ],
-        "charts": [
-            {
-                "notes": [
-                    0,
-                    5,
-                    0,
-                    60,
-                    1039
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[光]BREaK! BREaK! BREaK!",
-            "artist": "HiTECH NINJA vs Cranky",
-            "genre": "宴会場",
-            "bpm": 165,
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false
         }
     },
     "111234": {
@@ -97180,41 +97075,6 @@
             "artist": "Orangestar",
             "genre": "宴会場",
             "bpm": 120,
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false
-        }
-    },
-    "111516": {
-        "id": "111516",
-        "title": "[蔵]Aegleseeker",
-        "type": "DX",
-        "ds": [
-            14.7
-        ],
-        "level": [
-            "14+?"
-        ],
-        "cids": [
-            8261
-        ],
-        "charts": [
-            {
-                "notes": [
-                    987,
-                    106,
-                    42,
-                    61,
-                    73
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[蔵]Aegleseeker",
-            "artist": "Silentroom vs Frums",
-            "genre": "宴会場",
-            "bpm": 234,
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false
