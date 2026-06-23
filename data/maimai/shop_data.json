@@ -1159,6 +1159,14 @@
         "mall": "酷乐大玩家鄂尔多斯店",
         "address": "内蒙古鄂尔多斯市东胜区星河COCO City二期二楼"
     },
+    "1330": {
+        "machineCount": 1,
+        "id": "1330",
+        "province": "上海",
+        "arcadeName": "大玩家上海江桥万达店",
+        "mall": "大玩家上海江桥万达店",
+        "address": "上海市嘉定区金沙江西路1051号万达广场一楼大玩家"
+    },
     "1337": {
         "machineCount": 1,
         "id": "1337",
@@ -23848,7 +23856,7 @@
         "address": "湖南省邵阳市双清区大汉悦中心二楼快乐街区"
     },
     "5147": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "5147",
         "province": "宁夏",
         "arcadeName": "极客森银川市金凤区阅彩城店",
