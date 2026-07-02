@@ -408,7 +408,7 @@
         "address": "江苏省无锡市锡山区锡东八佰伴3楼星悦潮玩"
     },
     "1361": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1361",
         "province": "广东",
         "arcadeName": "疯狂牛仔城清远清城世纪荟店",
@@ -534,14 +534,6 @@
         "arcadeName": "子洋联盟长沙望城奥莱店",
         "mall": "子洋联盟长沙望城奥莱店",
         "address": "湖南省长沙市望城区金星北路砂之船奥莱3楼子洋联盟动漫体验中心"
-    },
-    "1525": {
-        "machineCount": 1,
-        "id": "1525",
-        "province": "北京",
-        "arcadeName": "风云再起北京北投爱琴海店",
-        "mall": "风云再起北京北投爱琴海店",
-        "address": "北京市通州区新华东街289号院1号楼北京北投爱琴海购物公园M层"
     },
     "1550": {
         "machineCount": 2,
@@ -846,6 +838,14 @@
         "arcadeName": "51区超级乐园天津红桥水游城店",
         "mall": "51区超级乐园天津和平店",
         "address": "天津市红桥区水游城A座2楼51区超级乐园"
+    },
+    "1984": {
+        "machineCount": 1,
+        "id": "1984",
+        "province": "北京",
+        "arcadeName": "风云再起北京西西友谊店",
+        "mall": "风云再起北京西西友谊店",
+        "address": "北京市西城区二环西单北大街109号西西友谊商城2层"
     },
     "1990": {
         "machineCount": 2,
@@ -1680,7 +1680,7 @@
         "address": "江苏省南京市栖霞区万象汇B馆三楼星际传奇"
     },
     "2612": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "2612",
         "province": "广东",
         "arcadeName": "疯狂牛仔城佛山南海保利店",
@@ -1840,7 +1840,7 @@
         "address": "江苏省常州市武进区湖塘镇吾悦广场4幢301铺"
     },
     "2722": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2722",
         "province": "广东",
         "arcadeName": "天堡欢乐城阳江江城店",
