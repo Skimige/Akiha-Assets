@@ -136,7 +136,7 @@
         "address": "湖北省武汉市江汉区唐家墩菱角湖万达广场2层playone"
     },
     "1032": {
-        "machineCount": 4,
+        "machineCount": 2,
         "id": "1032",
         "province": "江西",
         "arcadeName": "大玩家南昌红谷滩万达店",
@@ -24846,5 +24846,21 @@
         "arcadeName": "五十一区天津市河西区环宇城店",
         "mall": "五十一区天津市河西区环宇城店",
         "address": "天津市河西区解放南路环宇城3楼51区超级乐园"
+    },
+    "5276": {
+        "machineCount": 1,
+        "id": "5276",
+        "province": "广东",
+        "arcadeName": "RNPPIE PARK 运动潮玩馆（惠州高谷仓店）",
+        "mall": "RNPPIE PARK 运动潮玩馆（惠州高谷仓店）",
+        "address": "惠州市惠城区鑫月金中环广场鑫月高谷仓4F"
+    },
+    "5277": {
+        "machineCount": 2,
+        "id": "5277",
+        "province": "江西",
+        "arcadeName": "宝贝计划南昌红谷滩万达店",
+        "mall": "宝贝计划南昌红谷滩万达店",
+        "address": "南昌市红谷滩区万达广场一号门对面宝贝计划电玩城"
     }
 }
