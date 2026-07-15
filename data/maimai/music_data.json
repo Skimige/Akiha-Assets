@@ -40997,6 +40997,80 @@
             "is_new": false
         }
     },
+    "10367": {
+        "id": "10367",
+        "title": "Dragoon",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.0,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            9379,
+            9380,
+            9381,
+            9382
+        ],
+        "charts": [
+            {
+                "notes": [
+                    129,
+                    9,
+                    4,
+                    17,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    252,
+                    16,
+                    10,
+                    28,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    340,
+                    40,
+                    54,
+                    39,
+                    29
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    482,
+                    40,
+                    108,
+                    51,
+                    26
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Dragoon",
+            "artist": "Shandy kubota",
+            "genre": "舞萌",
+            "bpm": 175,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "10375": {
         "id": "10375",
         "title": "One Step Ahead",
@@ -94070,6 +94144,80 @@
             "is_new": true
         }
     },
+    "11830": {
+        "id": "11830",
+        "title": "Tidal Wave",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            12.3,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            9383,
+            9384,
+            9385,
+            9386
+        ],
+        "charts": [
+            {
+                "notes": [
+                    173,
+                    8,
+                    4,
+                    22,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    263,
+                    12,
+                    13,
+                    21,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    342,
+                    44,
+                    34,
+                    17,
+                    16
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    426,
+                    30,
+                    111,
+                    25,
+                    16
+                ],
+                "charter": "あまくちジンジャー"
+            }
+        ],
+        "basic_info": {
+            "title": "Tidal Wave",
+            "artist": "D-Cee",
+            "genre": "音击&中二节奏",
+            "bpm": 175,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "11831": {
         "id": "11831",
         "title": "きゅびずむ",
@@ -95145,6 +95293,598 @@
             "is_new": true
         }
     },
+    "11847": {
+        "id": "11847",
+        "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.2,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            9387,
+            9388,
+            9389,
+            9390
+        ],
+        "charts": [
+            {
+                "notes": [
+                    186,
+                    14,
+                    4,
+                    15,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    343,
+                    18,
+                    11,
+                    28,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    453,
+                    48,
+                    44,
+                    43,
+                    35
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    666,
+                    62,
+                    139,
+                    50,
+                    30
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+            "artist": "SAWTOWNE",
+            "genre": "niconico & VOCALOID",
+            "bpm": 192,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11848": {
+        "id": "11848",
+        "title": "Overjoy ★ OVERDOSE!!",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            14.1
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "14"
+        ],
+        "cids": [
+            9391,
+            9392,
+            9393,
+            9394
+        ],
+        "charts": [
+            {
+                "notes": [
+                    166,
+                    12,
+                    4,
+                    7,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    313,
+                    14,
+                    6,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    372,
+                    72,
+                    51,
+                    20,
+                    54
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    827,
+                    50,
+                    98,
+                    40,
+                    59
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Overjoy ★ OVERDOSE!!",
+            "artist": "Luna Fozer (BilliumMoto, 黒皇帝, Sobrem feat. vally.exe)",
+            "genre": "其他游戏",
+            "bpm": 143,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11849": {
+        "id": "11849",
+        "title": "DATAERR0R",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            11.7,
+            14.0
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "14"
+        ],
+        "cids": [
+            9395,
+            9396,
+            9397,
+            9398
+        ],
+        "charts": [
+            {
+                "notes": [
+                    160,
+                    12,
+                    4,
+                    15,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    289,
+                    18,
+                    10,
+                    26,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    216,
+                    59,
+                    28,
+                    28,
+                    62
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    518,
+                    56,
+                    74,
+                    11,
+                    46
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "DATAERR0R",
+            "artist": "Cosmograph",
+            "genre": "其他游戏",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11850": {
+        "id": "11850",
+        "title": "あいたい星人",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.2,
+            9.7,
+            13.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            9399,
+            9400,
+            9401,
+            9402
+        ],
+        "charts": [
+            {
+                "notes": [
+                    175,
+                    10,
+                    4,
+                    9,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    284,
+                    18,
+                    13,
+                    11,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    379,
+                    75,
+                    50,
+                    18,
+                    7
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    519,
+                    61,
+                    103,
+                    12,
+                    57
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "あいたい星人",
+            "artist": "DECO*27",
+            "genre": "niconico & VOCALOID",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11851": {
+        "id": "11851",
+        "title": "ハオ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            10.0,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            9403,
+            9404,
+            9405,
+            9406
+        ],
+        "charts": [
+            {
+                "notes": [
+                    155,
+                    10,
+                    4,
+                    8,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    288,
+                    14,
+                    7,
+                    27,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    27,
+                    21,
+                    24,
+                    38
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    442,
+                    27,
+                    136,
+                    77,
+                    70
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "ハオ",
+            "artist": "DECO*27",
+            "genre": "niconico & VOCALOID",
+            "bpm": 176,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11853": {
+        "id": "11853",
+        "title": "Help me, ERINNNNNN!!",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.7,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            9407,
+            9408,
+            9409,
+            9410
+        ],
+        "charts": [
+            {
+                "notes": [
+                    190,
+                    10,
+                    6,
+                    7,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    297,
+                    12,
+                    8,
+                    42,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    471,
+                    48,
+                    41,
+                    8,
+                    13
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    619,
+                    47,
+                    62,
+                    101,
+                    85
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "Help me, ERINNNNNN!!",
+            "artist": "ビートまりお",
+            "genre": "东方Project",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11854": {
+        "id": "11854",
+        "title": "超最終鬼畜妹フランドール・S",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.2,
+            12.6,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "13+"
+        ],
+        "cids": [
+            9411,
+            9412,
+            9413,
+            9414
+        ],
+        "charts": [
+            {
+                "notes": [
+                    197,
+                    10,
+                    4,
+                    13,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    331,
+                    14,
+                    11,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    394,
+                    74,
+                    60,
+                    58,
+                    46
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    584,
+                    52,
+                    88,
+                    52,
+                    64
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "超最終鬼畜妹フランドール・S",
+            "artist": "ビートまりお×まろん",
+            "genre": "东方Project",
+            "bpm": 210,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11855": {
+        "id": "11855",
+        "title": "Destined Marionette",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.2,
+            12.5,
+            14.2
+        ],
+        "level": [
+            "4",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            9415,
+            9416,
+            9417,
+            9418
+        ],
+        "charts": [
+            {
+                "notes": [
+                    190,
+                    18,
+                    3,
+                    8,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    379,
+                    20,
+                    5,
+                    28,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    473,
+                    39,
+                    51,
+                    19,
+                    40
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    660,
+                    81,
+                    111,
+                    50,
+                    121
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "Destined Marionette",
+            "artist": "ビートまりお",
+            "genre": "其他游戏",
+            "bpm": 186,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "11919": {
         "id": "11919",
         "title": "エンジェル ドリーム",
@@ -96038,6 +96778,41 @@
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false
+        }
+    },
+    "100851": {
+        "id": "100851",
+        "title": "[幸]犬日和。(はっぴー歌唱Ver)",
+        "type": "DX",
+        "ds": [
+            13.0
+        ],
+        "level": [
+            "13?"
+        ],
+        "cids": [
+            9419
+        ],
+        "charts": [
+            {
+                "notes": [
+                    1,
+                    402,
+                    1,
+                    0,
+                    8
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[幸]犬日和。(はっぴー歌唱Ver)",
+            "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
+            "genre": "宴会場",
+            "bpm": 138,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
         }
     },
     "100998": {
@@ -97314,6 +98089,54 @@
             "release_date": "",
             "from": "maimai でらっくす PRiSM",
             "is_new": false
+        }
+    },
+    "111770": {
+        "id": "111770",
+        "title": "[協]Ultimate taste",
+        "type": "DX",
+        "ds": [
+            13.7,
+            13.7
+        ],
+        "level": [
+            "13+?",
+            "13+?"
+        ],
+        "cids": [
+            9420,
+            9421
+        ],
+        "charts": [
+            {
+                "notes": [
+                    537,
+                    166,
+                    71,
+                    164,
+                    26
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    640,
+                    161,
+                    98,
+                    39,
+                    41
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[協]Ultimate taste",
+            "artist": "ぱらどっと",
+            "genre": "宴会場",
+            "bpm": 200,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
         }
     },
     "111772": {
