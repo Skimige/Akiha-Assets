@@ -4143,14 +4143,6 @@
         "mall": "真快活武汉经开永旺店",
         "address": "湖北省武汉市经济开发区江城大道388号B馆3楼真快活动漫体验中心"
     },
-    "2014": {
-        "machineCount": 1,
-        "id": "2014",
-        "province": "江西",
-        "arcadeName": "ABAM电玩城赣州南康爱琴海店",
-        "mall": "爱巴爱麻江津爱琴海店",
-        "address": "江西省赣州市南康区爱琴海购物公园三楼ABAM电玩城"
-    },
     "2015": {
         "machineCount": 1,
         "id": "2015",
@@ -7174,14 +7166,6 @@
         "arcadeName": "51区天津西青风雅印象城店",
         "mall": "51区天津西青风雅印象城店",
         "address": "天津市西青区张家窝镇风雅印象城二楼51区超级乐园"
-    },
-    "2616": {
-        "machineCount": 1,
-        "id": "2616",
-        "province": "福建",
-        "arcadeName": "爱巴爱麻三明爱琴海店",
-        "mall": "爱巴爱麻三明爱琴海店",
-        "address": "福建省三明市三元区爱琴海购物公园A区负一楼ABAM潮流电玩城"
     },
     "2617": {
         "machineCount": 1,
@@ -15918,14 +15902,6 @@
         "arcadeName": "SaturneyMusicHouse重庆大学城店",
         "mall": "SaturneyMusicHouse重庆大学城店",
         "address": "重庆市沙坪坝区大学城熙街3期2栋2012SaturneyMusicHouse"
-    },
-    "4020": {
-        "machineCount": 1,
-        "id": "4020",
-        "province": "河北",
-        "arcadeName": "奈斯潮玩石家庄西美花街店",
-        "mall": "1-7play石家庄生活工场店",
-        "address": "河北省石家庄市桥西区西美花街四楼"
     },
     "4021": {
         "machineCount": 2,
