@@ -25094,5 +25094,21 @@
         "arcadeName": "汤姆熊武汉硚口恒隆店",
         "mall": "汤姆熊武汉硚口恒隆店",
         "address": "硚口区京汉大道668号恒隆广场3楼l302"
+    },
+    "5329": {
+        "machineCount": 1,
+        "id": "5329",
+        "province": "山东",
+        "arcadeName": "N7青岛北CBD万达店",
+        "mall": "N7青岛北CBD万达店",
+        "address": "青岛市市北区延吉路CBD万达广场二楼116号"
+    },
+    "5330": {
+        "machineCount": 1,
+        "id": "5330",
+        "province": "山西",
+        "arcadeName": "亿家亲太原坞城南路店",
+        "mall": "亿家亲太原坞城南路店",
+        "address": "山西省太原市小店区坞城南路188号"
     }
 }
