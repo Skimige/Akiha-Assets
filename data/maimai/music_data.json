@@ -93996,6 +93996,302 @@
             "is_new": true
         }
     },
+    "11811": {
+        "id": "11811",
+        "title": "概して過誤",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.8,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            9422,
+            9423,
+            9424,
+            9425
+        ],
+        "charts": [
+            {
+                "notes": [
+                    181,
+                    13,
+                    5,
+                    17,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    306,
+                    16,
+                    14,
+                    29,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    318,
+                    69,
+                    43,
+                    18,
+                    53
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    608,
+                    52,
+                    78,
+                    19,
+                    43
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "概して過誤",
+            "artist": "isonosuke feat.知声",
+            "genre": "舞萌",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11812": {
+        "id": "11812",
+        "title": "Unfinished Epic",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.7,
+            11.5,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            9426,
+            9427,
+            9428,
+            9429
+        ],
+        "charts": [
+            {
+                "notes": [
+                    247,
+                    11,
+                    4,
+                    8,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    405,
+                    14,
+                    12,
+                    20,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    427,
+                    63,
+                    77,
+                    38,
+                    50
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    584,
+                    46,
+                    126,
+                    71,
+                    76
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Unfinished Epic",
+            "artist": "SLAVE.V-V-R feat.Sor△",
+            "genre": "舞萌",
+            "bpm": 185,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11813": {
+        "id": "11813",
+        "title": "忙シー日",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.9,
+            11.8,
+            14.2
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [
+            9430,
+            9431,
+            9432,
+            9433
+        ],
+        "charts": [
+            {
+                "notes": [
+                    139,
+                    12,
+                    7,
+                    8,
+                    28
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    298,
+                    16,
+                    14,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    280,
+                    112,
+                    47,
+                    13,
+                    77
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    683,
+                    36,
+                    140,
+                    49,
+                    54
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "忙シー日",
+            "artist": "原口沙輔, 式部めぐり",
+            "genre": "舞萌",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11814": {
+        "id": "11814",
+        "title": "FLΛME/FRΦST",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            12.9,
+            14.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14+"
+        ],
+        "cids": [
+            9434,
+            9435,
+            9436,
+            9437
+        ],
+        "charts": [
+            {
+                "notes": [
+                    203,
+                    12,
+                    6,
+                    8,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    297,
+                    20,
+                    10,
+                    28,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    424,
+                    31,
+                    63,
+                    19,
+                    62
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    687,
+                    46,
+                    73,
+                    118,
+                    122
+                ],
+                "charter": "SΛFΛRI/RΦCHER"
+            }
+        ],
+        "basic_info": {
+            "title": "FLΛME/FRΦST",
+            "artist": "FANTAGIRAFF",
+            "genre": "舞萌",
+            "bpm": 174,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "11822": {
         "id": "11822",
         "title": "Supersonic Generation",
@@ -94139,6 +94435,80 @@
             "artist": "Reku Mochizuki",
             "genre": "音击&中二节奏",
             "bpm": 222,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11824": {
+        "id": "11824",
+        "title": "なんかノイズにきこえる",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.5,
+            9.7,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13+"
+        ],
+        "cids": [
+            9438,
+            9439,
+            9440,
+            9441
+        ],
+        "charts": [
+            {
+                "notes": [
+                    210,
+                    9,
+                    4,
+                    6,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    316,
+                    16,
+                    10,
+                    26,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    416,
+                    39,
+                    47,
+                    6,
+                    36
+                ],
+                "charter": "じゃこレモン"
+            },
+            {
+                "notes": [
+                    661,
+                    37,
+                    135,
+                    11,
+                    49
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "なんかノイズにきこえる",
+            "artist": "HaNaMiNa feat.Hana",
+            "genre": "音击&中二节奏",
+            "bpm": 160,
             "release_date": "",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
@@ -95293,6 +95663,154 @@
             "is_new": true
         }
     },
+    "11845": {
+        "id": "11845",
+        "title": "マヌルネコのうた",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.0,
+            9.8,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            9442,
+            9443,
+            9444,
+            9445
+        ],
+        "charts": [
+            {
+                "notes": [
+                    116,
+                    8,
+                    6,
+                    9,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    190,
+                    14,
+                    7,
+                    28,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    258,
+                    54,
+                    33,
+                    32,
+                    21
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    322,
+                    8,
+                    153,
+                    5,
+                    15
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "マヌルネコのうた",
+            "artist": "小田朋美",
+            "genre": "流行&动漫",
+            "bpm": 137,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11846": {
+        "id": "11846",
+        "title": "スナネコのうた",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            9.7,
+            13.4
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            9446,
+            9447,
+            9448,
+            9449
+        ],
+        "charts": [
+            {
+                "notes": [
+                    98,
+                    2,
+                    4,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    159,
+                    12,
+                    4,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    176,
+                    38,
+                    16,
+                    17,
+                    14
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    280,
+                    34,
+                    58,
+                    118,
+                    76
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "スナネコのうた",
+            "artist": "ぷにぷに電機",
+            "genre": "流行&动漫",
+            "bpm": 92,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "11847": {
         "id": "11847",
         "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
@@ -95663,6 +96181,80 @@
             "is_new": true
         }
     },
+    "11852": {
+        "id": "11852",
+        "title": "好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            9.5,
+            12.5
+        ],
+        "level": [
+            "3",
+            "6",
+            "9",
+            "12"
+        ],
+        "cids": [
+            9450,
+            9451,
+            9452,
+            9453
+        ],
+        "charts": [
+            {
+                "notes": [
+                    131,
+                    11,
+                    6,
+                    6,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    247,
+                    12,
+                    9,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    250,
+                    39,
+                    22,
+                    0,
+                    43
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    294,
+                    63,
+                    55,
+                    28,
+                    50
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "niconico & VOCALOID",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "11853": {
         "id": "11853",
         "title": "Help me, ERINNNNNN!!",
@@ -95880,6 +96472,228 @@
             "artist": "ビートまりお",
             "genre": "其他游戏",
             "bpm": 186,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11871": {
+        "id": "11871",
+        "title": "クーネル・エンゲイザー",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            9.7,
+            12.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            9454,
+            9455,
+            9456,
+            9457
+        ],
+        "charts": [
+            {
+                "notes": [
+                    183,
+                    10,
+                    4,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    310,
+                    14,
+                    8,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    303,
+                    75,
+                    33,
+                    18,
+                    52
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    390,
+                    49,
+                    130,
+                    32,
+                    43
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "クーネル・エンゲイザー",
+            "artist": "電ǂ鯨",
+            "genre": "niconico & VOCALOID",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11872": {
+        "id": "11872",
+        "title": "ゼロトーキング",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            9.8,
+            13.2
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            9458,
+            9459,
+            9460,
+            9461
+        ],
+        "charts": [
+            {
+                "notes": [
+                    138,
+                    10,
+                    4,
+                    14,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    209,
+                    14,
+                    11,
+                    28,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    264,
+                    53,
+                    27,
+                    29,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    461,
+                    69,
+                    69,
+                    57,
+                    22
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ゼロトーキング",
+            "artist": "はるまきごはん",
+            "genre": "niconico & VOCALOID",
+            "bpm": 133,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11873": {
+        "id": "11873",
+        "title": "抜錨",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.7,
+            10.7,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            9462,
+            9463,
+            9464,
+            9465
+        ],
+        "charts": [
+            {
+                "notes": [
+                    158,
+                    10,
+                    5,
+                    14,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    14,
+                    7,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    425,
+                    60,
+                    43,
+                    2,
+                    34
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    554,
+                    42,
+                    106,
+                    23,
+                    40
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "抜錨",
+            "artist": "ナナホシ管弦楽団",
+            "genre": "niconico & VOCALOID",
+            "bpm": 140,
             "release_date": "",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
@@ -98222,6 +99036,41 @@
             "is_new": true
         }
     },
+    "111852": {
+        "id": "111852",
+        "title": "[好]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [
+            9466
+        ],
+        "charts": [
+            {
+                "notes": [
+                    689,
+                    61,
+                    123,
+                    28,
+                    25
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[好]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "120227": {
         "id": "120227",
         "title": "[r]Garakuta Doll Play",
@@ -98255,6 +99104,41 @@
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false
+        }
+    },
+    "121852": {
+        "id": "121852",
+        "title": "[譜]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [
+            9467
+        ],
+        "charts": [
+            {
+                "notes": [
+                    574,
+                    51,
+                    119,
+                    0,
+                    55
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[譜]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
         }
     },
     "130227": {
@@ -98292,6 +99176,41 @@
             "is_new": false
         }
     },
+    "131852": {
+        "id": "131852",
+        "title": "[面]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [
+            9468
+        ],
+        "charts": [
+            {
+                "notes": [
+                    533,
+                    70,
+                    115,
+                    0,
+                    69
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[面]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "140227": {
         "id": "140227",
         "title": "[某]Garakuta Doll Play",
@@ -98325,6 +99244,111 @@
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false
+        }
+    },
+    "141852": {
+        "id": "141852",
+        "title": "[発]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "ds": [
+            13.7
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [
+            9469
+        ],
+        "charts": [
+            {
+                "notes": [
+                    487,
+                    52,
+                    153,
+                    0,
+                    32
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[発]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "151852": {
+        "id": "151852",
+        "title": "[表]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "ds": [
+            13.7
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [
+            9470
+        ],
+        "charts": [
+            {
+                "notes": [
+                    399,
+                    75,
+                    102,
+                    0,
+                    30
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[表]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "161852": {
+        "id": "161852",
+        "title": "[龍]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "ds": [
+            13.7
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [
+            9471
+        ],
+        "charts": [
+            {
+                "notes": [
+                    545,
+                    62,
+                    80,
+                    0,
+                    15
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[龍]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
         }
     }
 }
