@@ -4678,5 +4678,13 @@
         "arcadeName": "super101烟台芝罘万达店",
         "mall": "super101烟台芝罘万达店",
         "address": "烟台芝罘区万达广场二楼super101"
+    },
+    "5366": {
+        "machineCount": 2,
+        "id": "5366",
+        "province": "辽宁",
+        "arcadeName": "神兽街虎爪爪电玩城",
+        "mall": "神兽街虎爪爪电玩城",
+        "address": "沈阳市大东区虎啸街3层"
     }
 }
