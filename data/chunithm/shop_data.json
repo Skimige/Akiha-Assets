@@ -1696,7 +1696,7 @@
         "address": "海南省海口市龙华区友谊阳光城3楼炫动四方"
     },
     "2652": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "2652",
         "province": "山东",
         "arcadeName": "潮玩社济南槐荫和谐广场店",
@@ -2646,14 +2646,6 @@
         "arcadeName": "元气总动员成都郫都时代店",
         "mall": "元气总动员成都郫都时代店",
         "address": "四川省成都市郫都区时代天街三楼元气总动员"
-    },
-    "3479": {
-        "machineCount": 1,
-        "id": "3479",
-        "province": "河南",
-        "arcadeName": "翡尔堡郑州二七万象城店",
-        "mall": "翡尔堡郑州二七万象城店",
-        "address": "河南省郑州市二七区万象城3楼翡尔堡"
     },
     "3481": {
         "machineCount": 2,
