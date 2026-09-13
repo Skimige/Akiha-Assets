@@ -120,7 +120,7 @@
         "address": "河南省郑州市管城回族区东太康路大上海城1楼风云再起"
     },
     "1088": {
-        "machineCount": 4,
+        "machineCount": 2,
         "id": "1088",
         "province": "湖南",
         "arcadeName": "城市英雄春天百货店",
@@ -3750,6 +3750,14 @@
         "arcadeName": "酷迪炫乌海海勃湾万达店",
         "mall": "酷迪炫乌海海勃湾万达店",
         "address": "内蒙古自治区乌海市海勃湾区万达3F-C-A-B"
+    },
+    "4395": {
+        "machineCount": 2,
+        "id": "4395",
+        "province": "湖北",
+        "arcadeName": "城市英雄武汉滨江天街店",
+        "mall": "城市英雄武汉滨江天街店",
+        "address": "湖北省武汉市武昌区徐家棚街道滨江天街4楼城市英雄"
     },
     "4398": {
         "machineCount": 3,
