@@ -24,7 +24,7 @@
         "address": "陕西省西安市碑林区骡马市60号文商大厦一层"
     },
     "1006": {
-        "machineCount": 2,
+        "machineCount": 3,
         "id": "1006",
         "province": "上海",
         "arcadeName": "风云再起上海人民广场店",
@@ -591,6 +591,14 @@
         "mall": "51区动漫游乐天津西青店",
         "address": "天津市西青区中北镇阜盛道永旺梦乐城2楼51区动漫游乐场"
     },
+    "1193": {
+        "machineCount": 1,
+        "id": "1193",
+        "province": "湖南",
+        "arcadeName": "风云再起长沙黄兴南路店",
+        "mall": "风云再起长沙黄兴南路店",
+        "address": "湖南省长沙市天心区黄兴广场E区四楼"
+    },
     "1196": {
         "machineCount": 2,
         "id": "1196",
@@ -672,7 +680,7 @@
         "address": "广东省广州市番禺区亚运大道1号永旺梦乐城3楼3001铺环游嘉年华"
     },
     "1214": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "1214",
         "province": "河南",
         "arcadeName": "风云再起郑州大卫城店",
@@ -1502,6 +1510,14 @@
         "arcadeName": "奇奇乐园随州曾都店",
         "mall": "奇奇乐园随州曾都店",
         "address": "湖北省随州市曾都区区大润发3楼奇奇乐园娱乐电玩"
+    },
+    "1422": {
+        "machineCount": 1,
+        "id": "1422",
+        "province": "福建",
+        "arcadeName": "大玩家厦门集美万达店",
+        "mall": "大玩家厦门集美万达店",
+        "address": "福建省厦门市集美区银江路137号万达广场二楼大玩家"
     },
     "1425": {
         "machineCount": 1,
@@ -19448,7 +19464,7 @@
         "address": "江苏省南京市浦口区泰山街道弘阳广场C馆3楼风云再起"
     },
     "4583": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "4583",
         "province": "河南",
         "arcadeName": "风云再起郑州七天地店",
