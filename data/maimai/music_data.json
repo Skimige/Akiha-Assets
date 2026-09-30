@@ -38925,6 +38925,146 @@
             "is_new": false
         }
     },
+    "1736": {
+        "id": "1736",
+        "title": "プリズム△▽リズム",
+        "type": "SD",
+        "ds": [
+            4.0,
+            6.5,
+            9.5,
+            13.2
+        ],
+        "level": [
+            "4",
+            "6",
+            "9",
+            "13"
+        ],
+        "cids": [
+            9527,
+            9528,
+            9529,
+            9530
+        ],
+        "charts": [
+            {
+                "notes": [
+                    187,
+                    18,
+                    7,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    249,
+                    16,
+                    15,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    349,
+                    30,
+                    30,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    498,
+                    57,
+                    117,
+                    13
+                ],
+                "charter": "譜面-100号"
+            }
+        ],
+        "basic_info": {
+            "title": "プリズム△▽リズム",
+            "artist": "Shoichiro Hirata feat.Sana",
+            "genre": "舞萌",
+            "bpm": 155,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "1819": {
+        "id": "1819",
+        "title": "AFTER PANDORA",
+        "type": "SD",
+        "ds": [
+            3.0,
+            7.7,
+            12.5,
+            14.2
+        ],
+        "level": [
+            "3",
+            "7+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            9531,
+            9532,
+            9533,
+            9534
+        ],
+        "charts": [
+            {
+                "notes": [
+                    165,
+                    6,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    275,
+                    11,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    255,
+                    44,
+                    29,
+                    5
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    428,
+                    21,
+                    102,
+                    25
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "AFTER PANDORA",
+            "artist": "削除",
+            "genre": "舞萌",
+            "bpm": 85,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "10030": {
         "id": "10030",
         "title": "ネコ日和。",
@@ -42697,6 +42837,80 @@
             "release_date": "",
             "from": "maimai でらっくす",
             "is_new": false
+        }
+    },
+    "10835": {
+        "id": "10835",
+        "title": "Believe the Rainbow",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.2,
+            9.9,
+            13.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            9535,
+            9536,
+            9537,
+            9538
+        ],
+        "charts": [
+            {
+                "notes": [
+                    144,
+                    11,
+                    4,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    198,
+                    17,
+                    9,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    214,
+                    48,
+                    39,
+                    64,
+                    21
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    259,
+                    25,
+                    116,
+                    96,
+                    35
+                ],
+                "charter": "チャン@DP皆伝"
+            }
+        ],
+        "basic_info": {
+            "title": "Believe the Rainbow",
+            "artist": "Shoichiro Hirata feat.Sana",
+            "genre": "舞萌",
+            "bpm": 133,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
         }
     },
     "11001": {
@@ -94366,6 +94580,463 @@
             "is_new": true
         }
     },
+    "11815": {
+        "id": "11815",
+        "title": "IMBRUED:FLUX",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            11.0,
+            14.1
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "14"
+        ],
+        "cids": [
+            9539,
+            9540,
+            9541,
+            9542
+        ],
+        "charts": [
+            {
+                "notes": [
+                    177,
+                    8,
+                    10,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    302,
+                    10,
+                    11,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    377,
+                    66,
+                    39,
+                    53,
+                    43
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    661,
+                    60,
+                    101,
+                    82,
+                    39
+                ],
+                "charter": "きょむりん vs Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "IMBRUED:FLUX",
+            "artist": "qfeileadh feat.のあ",
+            "genre": "舞萌",
+            "bpm": 176,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11816": {
+        "id": "11816",
+        "title": "砂の函",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.2,
+            11.2,
+            14.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "14"
+        ],
+        "cids": [
+            9543,
+            9544,
+            9545,
+            9546
+        ],
+        "charts": [
+            {
+                "notes": [
+                    171,
+                    10,
+                    4,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    237,
+                    30,
+                    8,
+                    6,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    276,
+                    106,
+                    63,
+                    20,
+                    40
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    512,
+                    56,
+                    75,
+                    60,
+                    78
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "砂の函",
+            "artist": "Nego_tiator",
+            "genre": "舞萌",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11817": {
+        "id": "11817",
+        "title": "Amereistr",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            12.5,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            9547,
+            9548,
+            9549,
+            9550
+        ],
+        "charts": [
+            {
+                "notes": [
+                    231,
+                    13,
+                    4,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    18,
+                    10,
+                    34,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    122,
+                    53,
+                    12,
+                    31,
+                    45
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    466,
+                    102,
+                    31,
+                    67,
+                    72
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Amereistr",
+            "artist": "rN",
+            "genre": "舞萌",
+            "bpm": 147,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11818": {
+        "id": "11818",
+        "title": "World's end BLACKBOX",
+        "type": "DX",
+        "ds": [
+            7.8,
+            10.5,
+            13.1,
+            14.9
+        ],
+        "level": [
+            "7+",
+            "10",
+            "13",
+            "14+"
+        ],
+        "cids": [
+            9551,
+            9552,
+            9553,
+            9554
+        ],
+        "charts": [
+            {
+                "notes": [
+                    340,
+                    27,
+                    8,
+                    25,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    576,
+                    20,
+                    14,
+                    22,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    671,
+                    34,
+                    54,
+                    70,
+                    50
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    831,
+                    137,
+                    116,
+                    115,
+                    123
+                ],
+                "charter": "7sRef -DOVE-"
+            }
+        ],
+        "basic_info": {
+            "title": "World's end BLACKBOX",
+            "artist": "打打だいず",
+            "genre": "舞萌",
+            "bpm": 205,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11820": {
+        "id": "11820",
+        "title": "Xaleid◆scopiX",
+        "type": "DX",
+        "ds": [
+            7.9,
+            11.0,
+            13.7,
+            14.9,
+            15.0
+        ],
+        "level": [
+            "7+",
+            "11",
+            "13+",
+            "14+",
+            "15"
+        ],
+        "cids": [
+            9555,
+            9556,
+            9557,
+            9558,
+            9559
+        ],
+        "charts": [
+            {
+                "notes": [
+                    517,
+                    26,
+                    12,
+                    36,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    865,
+                    51,
+                    20,
+                    60,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    1017,
+                    103,
+                    90,
+                    75,
+                    72
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    1556,
+                    143,
+                    168,
+                    93,
+                    221
+                ],
+                "charter": "KALEIDXSCOPE"
+            },
+            {
+                "notes": [
+                    1590,
+                    173,
+                    103,
+                    134,
+                    222
+                ],
+                "charter": "Xaleid◆scopiX"
+            }
+        ],
+        "basic_info": {
+            "title": "Xaleid◆scopiX",
+            "artist": "xi",
+            "genre": "舞萌",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11821": {
+        "id": "11821",
+        "title": "Ref:rain (for 7th Heaven)",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.0,
+            12.5,
+            14.0
+        ],
+        "level": [
+            "4",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [
+            9560,
+            9561,
+            9562,
+            9563
+        ],
+        "charts": [
+            {
+                "notes": [
+                    279,
+                    28,
+                    14,
+                    32,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    523,
+                    20,
+                    19,
+                    31,
+                    28
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    762,
+                    58,
+                    69,
+                    96,
+                    56
+                ],
+                "charter": "きょむりん ＆ Luxizhel"
+            },
+            {
+                "notes": [
+                    777,
+                    107,
+                    147,
+                    147,
+                    47
+                ],
+                "charter": "Jack + Soma"
+            }
+        ],
+        "basic_info": {
+            "title": "Ref:rain (for 7th Heaven)",
+            "artist": "カモメサノエレクトリックオーケストラ include Limonène",
+            "genre": "舞萌",
+            "bpm": 188,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "11822": {
         "id": "11822",
         "title": "Supersonic Generation",
@@ -94657,6 +95328,80 @@
             "artist": "鬱P feat.000",
             "genre": "音击&中二节奏",
             "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11827": {
+        "id": "11827",
+        "title": "サウンドプレイヤー",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            10.0,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            9564,
+            9565,
+            9566,
+            9567
+        ],
+        "charts": [
+            {
+                "notes": [
+                    170,
+                    11,
+                    4,
+                    7,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    261,
+                    13,
+                    9,
+                    27,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    380,
+                    65,
+                    44,
+                    8,
+                    22
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    551,
+                    73,
+                    73,
+                    107,
+                    33
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "サウンドプレイヤー",
+            "artist": "tilt-six feat.バル",
+            "genre": "音击&中二节奏",
+            "bpm": 143,
             "release_date": "",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
@@ -97669,6 +98414,80 @@
             "artist": "Snail's House",
             "genre": "其他游戏",
             "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11879": {
+        "id": "11879",
+        "title": "Xaleid◆scopiX (2)",
+        "type": "DX",
+        "ds": [
+            7.9,
+            11.0,
+            13.7,
+            14.9
+        ],
+        "level": [
+            "7+",
+            "11",
+            "13+",
+            "14+"
+        ],
+        "cids": [
+            9568,
+            9569,
+            9570,
+            9571
+        ],
+        "charts": [
+            {
+                "notes": [
+                    248,
+                    15,
+                    6,
+                    20,
+                    85
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    420,
+                    43,
+                    9,
+                    28,
+                    92
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    515,
+                    93,
+                    45,
+                    28,
+                    138
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    917,
+                    89,
+                    105,
+                    47,
+                    250
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "Xaleid◆scopiX (2)",
+            "artist": "xi",
+            "genre": "舞萌",
+            "bpm": 180,
             "release_date": "",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
