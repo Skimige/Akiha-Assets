@@ -1336,7 +1336,7 @@
         "address": "湖北省武汉市江汉区解放大道686号世贸广场7楼"
     },
     "2451": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "2451",
         "province": "山东",
         "arcadeName": "酷玩空间烟台吾悦广场店",
@@ -2040,7 +2040,7 @@
         "address": "广东省东莞市常平镇翔龙天地购物中心二楼"
     },
     "3031": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "3031",
         "province": "上海",
         "arcadeName": "萌多啦上海嘉定店",
@@ -4744,7 +4744,7 @@
         "address": "江苏省太仓香塘宝龙广场2楼萌多拉都市幻想"
     },
     "5403": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "5403",
         "province": "江苏",
         "arcadeName": "趣玩汇南京鼓楼天狮店",
@@ -4782,5 +4782,21 @@
         "arcadeName": "超级伙伴潮玩街区南通CBD大有境店",
         "mall": "超级伙伴潮玩街区南通CBD大有境店",
         "address": "南通市崇川区桃园路12号南通CBD大有境A座3楼"
+    },
+    "5427": {
+        "machineCount": 1,
+        "id": "5427",
+        "province": "上海",
+        "arcadeName": "酷玩空间上海缤纷里店",
+        "mall": "酷玩空间上海缤纷里店",
+        "address": "上海市金山区枫泾镇乐纷路268号爱琴海·缤纷里项目南区二层V8-202/V8-203号商铺酷玩空间"
+    },
+    "5428": {
+        "machineCount": 1,
+        "id": "5428",
+        "province": "上海",
+        "arcadeName": "萌多拉上海奉发宝龙店",
+        "mall": "萌多拉上海奉发宝龙店",
+        "address": "上海市奉贤区四团镇港佳路奉发宝龙广场"
     }
 }
