@@ -120,7 +120,7 @@
         "address": "上海市宝山区128纪念路万达广场3楼大玩家"
     },
     "1027": {
-        "machineCount": 3,
+        "machineCount": 2,
         "id": "1027",
         "province": "安徽",
         "arcadeName": "风云再起合肥淮河路店",
@@ -878,14 +878,6 @@
         "arcadeName": "风云再起天津南京路店",
         "mall": "风云再起天津南京路店",
         "address": "天津市和平区南京路209号吉利大厦四楼"
-    },
-    "1267": {
-        "machineCount": 1,
-        "id": "1267",
-        "province": "上海",
-        "arcadeName": "汤姆熊上海正大广场店",
-        "mall": "汤姆熊上海正大广场店",
-        "address": "上海市浦东新区陆家嘴西路168号正大广场2楼汤姆熊"
     },
     "1268": {
         "machineCount": 2,
@@ -1720,7 +1712,7 @@
         "address": "山东省济南市天桥区济泺路缤纷五洲一楼小勇士家庭娱乐中心"
     },
     "1483": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "1483",
         "province": "四川",
         "arcadeName": "汤姆熊成都温江珠江广场店",
@@ -4192,7 +4184,7 @@
         "address": "河南省周口市沈丘县快乐小镇三楼梦想之城家庭游乐中心"
     },
     "2036": {
-        "machineCount": 3,
+        "machineCount": 1,
         "id": "2036",
         "province": "北京",
         "arcadeName": "风云再起北京西单明珠店",
@@ -6304,7 +6296,7 @@
         "address": "新疆维吾尔自治区乌鲁木齐市水磨沟区会展吾悦广场三楼星际传奇"
     },
     "2460": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "2460",
         "province": "山西",
         "arcadeName": "风云再起太原东方商夏店",
@@ -10632,7 +10624,7 @@
         "address": "山东省济南市历下区奥体西路3699号龙湖天街A馆三F01A吾爱玩潮玩体验中心"
     },
     "3227": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "3227",
         "province": "上海",
         "arcadeName": "汤姆熊上海虹口店",
@@ -15838,14 +15830,6 @@
         "arcadeName": "环游艺派南宁五象航洋城店",
         "mall": "环游艺派南宁五象航洋城店",
         "address": "广西壮族自治区南宁市良庆区五象大道401号南宁五象航洋城2号楼3楼环游艺派娱乐馆"
-    },
-    "4049": {
-        "machineCount": 1,
-        "id": "4049",
-        "province": "上海",
-        "arcadeName": "汤姆熊上海静安久光中心店",
-        "mall": "汤姆熊上海静安久光中心店",
-        "address": "上海市静安区共和新路2188号久光中心m317-3汤姆熊"
     },
     "4050": {
         "machineCount": 1,
@@ -22199,22 +22183,6 @@
         "mall": "天空之城泰安新泰吾悦广场店",
         "address": "山东省泰安市新泰市青云街道吾悦广场二楼Z03"
     },
-    "4984": {
-        "machineCount": 1,
-        "id": "4984",
-        "province": "天津",
-        "arcadeName": "天津可爱抓仁恒店",
-        "mall": "天津可爱抓仁恒店",
-        "address": "天津市南开区仁恒置地广场A馆B1可爱抓"
-    },
-    "4985": {
-        "machineCount": 1,
-        "id": "4985",
-        "province": "上海",
-        "arcadeName": "上海汤姆熊正大乐城店",
-        "mall": "上海汤姆熊正大乐城店",
-        "address": "上海市徐汇区龙华中路7幢2层7-201至7-203室"
-    },
     "4986": {
         "machineCount": 2,
         "id": "4986",
@@ -22582,14 +22550,6 @@
         "arcadeName": "super101乐清南虹店",
         "mall": "super101乐清南虹店",
         "address": "浙江省温州市乐清市南虹广场二楼super101"
-    },
-    "5035": {
-        "machineCount": 1,
-        "id": "5035",
-        "province": "四川",
-        "arcadeName": "IQ潮玩成都成华天府国际店",
-        "mall": "IQ潮玩成都成华天府国际店",
-        "address": "四川省成都市成华区青龙街道天府国际IQ潮玩"
     },
     "5037": {
         "machineCount": 2,
@@ -23686,14 +23646,6 @@
         "arcadeName": "蜜思迪天津大悦城店",
         "mall": "蜜思迪天津大悦城店",
         "address": "天津市南开区大悦城南区3楼蜜思迪尔家庭娱乐中心"
-    },
-    "5189": {
-        "machineCount": 1,
-        "id": "5189",
-        "province": "上海",
-        "arcadeName": "汤姆熊上海黄浦新世界城店",
-        "mall": "汤姆熊上海黄浦新世界城店",
-        "address": "上海市黄浦区南京西路新世界城 8 楼汤姆熊"
     },
     "5190": {
         "machineCount": 1,
