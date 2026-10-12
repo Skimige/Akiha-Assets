@@ -18216,7 +18216,7 @@
         "address": "河南省原阳县香港城四楼星际小镇"
     },
     "4408": {
-        "machineCount": 2,
+        "machineCount": 1,
         "id": "4408",
         "province": "辽宁",
         "arcadeName": "福熊电玩城大连沙河口店",
@@ -22582,6 +22582,14 @@
         "arcadeName": "super101乐清南虹店",
         "mall": "super101乐清南虹店",
         "address": "浙江省温州市乐清市南虹广场二楼super101"
+    },
+    "5035": {
+        "machineCount": 1,
+        "id": "5035",
+        "province": "四川",
+        "arcadeName": "IQ潮玩成都成华天府国际店",
+        "mall": "IQ潮玩成都成华天府国际店",
+        "address": "四川省成都市成华区青龙街道天府国际IQ潮玩"
     },
     "5037": {
         "machineCount": 2,
