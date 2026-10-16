@@ -240,7 +240,7 @@
         "address": "广东省广州市黄埔区亿创大街3号绿地缤纷城3楼301铺"
     },
     "1220": {
-        "machineCount": 4,
+        "machineCount": 3,
         "id": "1220",
         "province": "上海",
         "arcadeName": "天天玩上海徐汇汇银广场店",
@@ -4287,6 +4287,14 @@
         "mall": "AKIBAGO深圳罗湖新白马·次元店",
         "address": "广东省深圳市罗湖区东门街道新白马·次元9号"
     },
+    "4874": {
+        "machineCount": 2,
+        "id": "4874",
+        "province": "北京",
+        "arcadeName": "町豆部落槐房万达店",
+        "mall": "町豆部落槐房万达店",
+        "address": "北京市丰台区槐房南路6号院二层2F-B町豆部落"
+    },
     "4877": {
         "machineCount": 2,
         "id": "4877",
@@ -4782,5 +4790,13 @@
         "arcadeName": "超爱顽永城金博店",
         "mall": "超爱顽永城金博店",
         "address": "永城金博大广场3楼超爱顽"
+    },
+    "5436": {
+        "machineCount": 1,
+        "id": "5436",
+        "province": "福建",
+        "arcadeName": "Azisai-DoraGame-立直麻将 厦门吕厝店",
+        "mall": "Azisai-DoraGame-立直麻将 厦门吕厝店",
+        "address": "福建省厦门市思明区嘉禾路305号宝龙中心二期405-3室"
     }
 }
