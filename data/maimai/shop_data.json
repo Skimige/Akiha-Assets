@@ -1008,7 +1008,7 @@
         "address": "浙江省宁波市北仑区富邦世纪D区3楼3031号壹家庭游乐园"
     },
     "1302": {
-        "machineCount": 8,
+        "machineCount": 9,
         "id": "1302",
         "province": "上海",
         "arcadeName": "街机 烈火",
@@ -18120,7 +18120,7 @@
         "address": "河南省原阳县香港城四楼星际小镇"
     },
     "4408": {
-        "machineCount": 1,
+        "machineCount": 2,
         "id": "4408",
         "province": "辽宁",
         "arcadeName": "福熊电玩城大连沙河口店",
@@ -18822,14 +18822,6 @@
         "arcadeName": "城市英雄武汉新荣天街店",
         "mall": "城市英雄武汉新荣天街店",
         "address": "湖北省武汉市江岸区后湖大道355号武汉新荣天街4F"
-    },
-    "4509": {
-        "machineCount": 1,
-        "id": "4509",
-        "province": "重庆",
-        "arcadeName": "欢喜莲莲重庆九龙坡润璟广场店",
-        "mall": "欢喜莲莲重庆九龙坡润璟广场店",
-        "address": "重庆市九龙坡区九龙镇彩云大道10号聚源润璟广场裙楼2层欢喜莲莲"
     },
     "4510": {
         "machineCount": 1,
@@ -25334,5 +25326,13 @@
         "arcadeName": "Azisai-DoraGame-立直麻将 厦门吕厝店",
         "mall": "Azisai-DoraGame-立直麻将 厦门吕厝店",
         "address": "福建省厦门市思明区嘉禾路305号宝龙中心二期405-3室"
+    },
+    "5437": {
+        "machineCount": 1,
+        "id": "5437",
+        "province": "安徽",
+        "arcadeName": "动漫前线安庆大观方圆荟店",
+        "mall": "动漫前线安庆大观方圆荟店",
+        "address": "安庆市大观区方圆荟 3 楼"
     }
 }
