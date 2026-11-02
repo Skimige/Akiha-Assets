@@ -4559,14 +4559,6 @@
         "mall": "极速时代上海江桥万达店",
         "address": "上海市嘉定区金沙江西路江桥万达广场2楼极速时代"
     },
-    "5287": {
-        "machineCount": 2,
-        "id": "5287",
-        "province": "安徽",
-        "arcadeName": "萌宝熊合肥包河悦方店",
-        "mall": "萌宝熊合肥包河悦方店",
-        "address": "安徽省合肥市包河区悦方店3楼"
-    },
     "5290": {
         "machineCount": 2,
         "id": "5290",
@@ -4766,5 +4758,13 @@
         "arcadeName": "Azisai-DoraGame-立直麻将 厦门吕厝店",
         "mall": "Azisai-DoraGame-立直麻将 厦门吕厝店",
         "address": "福建省厦门市思明区嘉禾路305号宝龙中心二期405-3室"
+    },
+    "5449": {
+        "machineCount": 2,
+        "id": "5449",
+        "province": "湖南",
+        "arcadeName": "卡希尔长沙乐享汇开福天街店",
+        "mall": "卡希尔长沙乐享汇开福天街店",
+        "address": "湖南长沙开福区龙湖开福天街3楼卡希尔"
     }
 }
