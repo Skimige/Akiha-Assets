@@ -39731,6 +39731,80 @@
             "is_new": false
         }
     },
+    "10187": {
+        "id": "10187",
+        "title": "ローリンガール",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.9,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            9576,
+            9577,
+            9578,
+            9579
+        ],
+        "charts": [
+            {
+                "notes": [
+                    176,
+                    9,
+                    4,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    274,
+                    12,
+                    6,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    388,
+                    65,
+                    44,
+                    0,
+                    23
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    463,
+                    49,
+                    109,
+                    32,
+                    35
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "ローリンガール",
+            "artist": "wowaka",
+            "genre": "niconico & VOCALOID",
+            "bpm": 195,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "10188": {
         "id": "10188",
         "title": "天ノ弱",
@@ -95333,6 +95407,80 @@
             "is_new": true
         }
     },
+    "11826": {
+        "id": "11826",
+        "title": "Lover's Trick",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.0,
+            10.8,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            9580,
+            9581,
+            9582,
+            9583
+        ],
+        "charts": [
+            {
+                "notes": [
+                    138,
+                    12,
+                    6,
+                    13,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    212,
+                    16,
+                    5,
+                    21,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    245,
+                    82,
+                    46,
+                    35,
+                    34
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    520,
+                    88,
+                    37,
+                    85,
+                    18
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Lover's Trick",
+            "artist": "litmus*",
+            "genre": "音击&中二节奏",
+            "bpm": 130,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "11827": {
         "id": "11827",
         "title": "サウンドプレイヤー",
@@ -97518,6 +97666,302 @@
             "is_new": true
         }
     },
+    "11856": {
+        "id": "11856",
+        "title": "MIRA",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            9.5,
+            12.9
+        ],
+        "level": [
+            "2",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [
+            9584,
+            9585,
+            9586,
+            9587
+        ],
+        "charts": [
+            {
+                "notes": [
+                    118,
+                    10,
+                    4,
+                    18,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    248,
+                    12,
+                    8,
+                    11,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    236,
+                    43,
+                    39,
+                    8,
+                    8
+                ],
+                "charter": "カマボコ君"
+            },
+            {
+                "notes": [
+                    311,
+                    40,
+                    49,
+                    87,
+                    53
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "MIRA",
+            "artist": "Kanaria",
+            "genre": "niconico & VOCALOID",
+            "bpm": 148,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11857": {
+        "id": "11857",
+        "title": "空回りライブラリ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            9.7,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            9588,
+            9589,
+            9590,
+            9591
+        ],
+        "charts": [
+            {
+                "notes": [
+                    152,
+                    9,
+                    4,
+                    9,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    16,
+                    4,
+                    11,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    297,
+                    32,
+                    37,
+                    13,
+                    39
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    484,
+                    55,
+                    87,
+                    17,
+                    24
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "空回りライブラリ",
+            "artist": "雪乃イト",
+            "genre": "niconico & VOCALOID",
+            "bpm": 130,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11858": {
+        "id": "11858",
+        "title": "お呪い",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.2,
+            10.2,
+            13.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            9592,
+            9593,
+            9594,
+            9595
+        ],
+        "charts": [
+            {
+                "notes": [
+                    92,
+                    7,
+                    6,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    205,
+                    8,
+                    6,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    210,
+                    78,
+                    10,
+                    18,
+                    21
+                ],
+                "charter": "きょむりん"
+            },
+            {
+                "notes": [
+                    382,
+                    16,
+                    73,
+                    39,
+                    39
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "お呪い",
+            "artist": "なきそ",
+            "genre": "niconico & VOCALOID",
+            "bpm": 115,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11859": {
+        "id": "11859",
+        "title": "ありきたりな恋の歌",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            10.5,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            9596,
+            9597,
+            9598,
+            9599
+        ],
+        "charts": [
+            {
+                "notes": [
+                    208,
+                    8,
+                    4,
+                    18,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    343,
+                    19,
+                    9,
+                    12,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    411,
+                    89,
+                    25,
+                    28,
+                    24
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    503,
+                    53,
+                    122,
+                    136,
+                    117
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "ありきたりな恋の歌",
+            "artist": "GYARI",
+            "genre": "niconico & VOCALOID",
+            "bpm": 180,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "11860": {
         "id": "11860",
         "title": "MYTH Re：LEASE",
@@ -97809,6 +98253,228 @@
             "artist": "r-906",
             "genre": "niconico & VOCALOID",
             "bpm": 167,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11864": {
+        "id": "11864",
+        "title": "少女レイ",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.5,
+            9.9,
+            12.9
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            9600,
+            9601,
+            9602,
+            9603
+        ],
+        "charts": [
+            {
+                "notes": [
+                    163,
+                    11,
+                    4,
+                    15,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    296,
+                    12,
+                    7,
+                    27,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    324,
+                    33,
+                    62,
+                    13,
+                    11
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    417,
+                    47,
+                    104,
+                    23,
+                    31
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "少女レイ",
+            "artist": "みきとP",
+            "genre": "niconico & VOCALOID",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11865": {
+        "id": "11865",
+        "title": "少女A",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.2,
+            9.9,
+            13.3
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [
+            9604,
+            9605,
+            9606,
+            9607
+        ],
+        "charts": [
+            {
+                "notes": [
+                    126,
+                    9,
+                    4,
+                    14,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    238,
+                    12,
+                    12,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    287,
+                    120,
+                    39,
+                    8,
+                    12
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    686,
+                    29,
+                    91,
+                    15,
+                    21
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "少女A",
+            "artist": "椎名もた",
+            "genre": "niconico & VOCALOID",
+            "bpm": 130,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11866": {
+        "id": "11866",
+        "title": "帝国少女",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.0,
+            9.2,
+            13.3
+        ],
+        "level": [
+            "2",
+            "6",
+            "9",
+            "13"
+        ],
+        "cids": [
+            9608,
+            9609,
+            9610,
+            9611
+        ],
+        "charts": [
+            {
+                "notes": [
+                    114,
+                    10,
+                    4,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    195,
+                    15,
+                    8,
+                    27,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    283,
+                    63,
+                    26,
+                    14,
+                    3
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    506,
+                    28,
+                    93,
+                    49,
+                    21
+                ],
+                "charter": "カマボコホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "帝国少女",
+            "artist": "R Sound Design",
+            "genre": "niconico & VOCALOID",
+            "bpm": 118,
             "release_date": "",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
@@ -98340,6 +99006,302 @@
             "artist": "ナナホシ管弦楽団",
             "genre": "niconico & VOCALOID",
             "bpm": 140,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11874": {
+        "id": "11874",
+        "title": "NO ONE YES MAN",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.7,
+            12.0,
+            13.9
+        ],
+        "level": [
+            "3",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            9612,
+            9613,
+            9614,
+            9615
+        ],
+        "charts": [
+            {
+                "notes": [
+                    150,
+                    11,
+                    8,
+                    6,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    260,
+                    14,
+                    7,
+                    28,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    365,
+                    45,
+                    60,
+                    11,
+                    40
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    515,
+                    73,
+                    81,
+                    92,
+                    66
+                ],
+                "charter": "鳩ホルダー & Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "NO ONE YES MAN",
+            "artist": "MYUKKE.",
+            "genre": "其他游戏",
+            "bpm": 170,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11875": {
+        "id": "11875",
+        "title": "Leave All Behind",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.8,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            9616,
+            9617,
+            9618,
+            9619
+        ],
+        "charts": [
+            {
+                "notes": [
+                    127,
+                    11,
+                    4,
+                    13,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    214,
+                    15,
+                    8,
+                    28,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    46,
+                    38,
+                    26,
+                    38
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    501,
+                    39,
+                    48,
+                    60,
+                    36
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Leave All Behind",
+            "artist": "rider",
+            "genre": "其他游戏",
+            "bpm": 150,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11876": {
+        "id": "11876",
+        "title": "Retribution ～ Cycle of Redemption ～",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.0,
+            13.0,
+            14.4
+        ],
+        "level": [
+            "6",
+            "8",
+            "13",
+            "14"
+        ],
+        "cids": [
+            9620,
+            9621,
+            9622,
+            9623
+        ],
+        "charts": [
+            {
+                "notes": [
+                    336,
+                    6,
+                    8,
+                    17,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    341,
+                    28,
+                    6,
+                    49,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    640,
+                    57,
+                    36,
+                    40,
+                    29
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    726,
+                    100,
+                    93,
+                    64,
+                    105
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Retribution ～ Cycle of Redemption ～",
+            "artist": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+            "genre": "其他游戏",
+            "bpm": 112,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "11877": {
+        "id": "11877",
+        "title": "Luminescence",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.6,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            9624,
+            9625,
+            9626,
+            9627
+        ],
+        "charts": [
+            {
+                "notes": [
+                    203,
+                    22,
+                    4,
+                    7,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    316,
+                    20,
+                    16,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    78,
+                    61,
+                    46,
+                    61
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    599,
+                    40,
+                    72,
+                    129,
+                    42
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Luminescence",
+            "artist": "米虾Fomiki & 初云CLoudie",
+            "genre": "其他游戏",
+            "bpm": 184,
             "release_date": "",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
@@ -99860,6 +100822,54 @@
             "is_new": false
         }
     },
+    "110781": {
+        "id": "110781",
+        "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+        "type": "DX",
+        "ds": [
+            13.0,
+            13.0
+        ],
+        "level": [
+            "13?",
+            "13?"
+        ],
+        "cids": [
+            9628,
+            9629
+        ],
+        "charts": [
+            {
+                "notes": [
+                    642,
+                    44,
+                    41,
+                    7,
+                    49
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    112,
+                    58,
+                    0,
+                    184,
+                    142
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+            "artist": "GYARI",
+            "genre": "宴会場",
+            "bpm": 144,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "110793": {
         "id": "110793",
         "title": "[疑]ロキ",
@@ -100686,6 +101696,41 @@
             "is_new": false
         }
     },
+    "111638": {
+        "id": "111638",
+        "title": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
+        "type": "DX",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [
+            9630
+        ],
+        "charts": [
+            {
+                "notes": [
+                    866,
+                    21,
+                    277,
+                    84,
+                    49
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
+            "artist": "南ノ南",
+            "genre": "宴会場",
+            "bpm": 220,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
     "111714": {
         "id": "111714",
         "title": "[匿]匿名M",
@@ -100930,6 +101975,54 @@
             "artist": "ンバヂ",
             "genre": "宴会場",
             "bpm": 160,
+            "release_date": "",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    "111859": {
+        "id": "111859",
+        "title": "[騒]ありきたりな恋の歌",
+        "type": "DX",
+        "ds": [
+            13.7,
+            13.7
+        ],
+        "level": [
+            "13+?",
+            "13+?"
+        ],
+        "cids": [
+            9631,
+            9632
+        ],
+        "charts": [
+            {
+                "notes": [
+                    544,
+                    89,
+                    77,
+                    14,
+                    24
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    239,
+                    40,
+                    67,
+                    235,
+                    263
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[騒]ありきたりな恋の歌",
+            "artist": "GYARI",
+            "genre": "宴会場",
+            "bpm": 180,
             "release_date": "",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
